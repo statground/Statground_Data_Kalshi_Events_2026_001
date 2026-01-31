@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Health",
+  "collateral_return_type": "",
+  "event_ticker": "VAXXKID",
+  "mutually_exclusive": false,
+  "series_ticker": "KXVAXXKID",
+  "strike_period": "",
+  "sub_title": "By Nov 4, 2021",
+  "title": "COVID vaccine approval for kids by Nov 4, 2021?"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "World",
+  "collateral_return_type": "",
+  "event_ticker": "SCHLNYC-21OCT15",
+  "mutually_exclusive": false,
+  "series_ticker": "KXSCHLNYC",
+  "strike_period": "",
+  "sub_title": "On Oct 15, 2021",
+  "title": "NYC school closed on Oct 15, 2021?"
+}

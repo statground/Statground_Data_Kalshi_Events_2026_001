@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "",
+  "event_ticker": "HURCMAJ-21",
+  "mutually_exclusive": false,
+  "series_ticker": "KXHURCMAJ",
+  "strike_period": "",
+  "sub_title": "By Dec 1, 2021",
+  "title": "Number of major hurricanes by Dec 1, 2021?"
+}

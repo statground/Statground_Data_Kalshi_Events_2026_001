@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "",
+  "event_ticker": "JOBLESS-21JUL31",
+  "mutually_exclusive": false,
+  "series_ticker": "KXJOBLESS",
+  "strike_period": "",
+  "sub_title": "From Jul 25-31, 2021",
+  "title": "Initial jobless claims from Jul 25-31, 2021?"
+}

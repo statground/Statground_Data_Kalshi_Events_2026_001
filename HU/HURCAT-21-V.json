@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "",
+  "event_ticker": "HURCAT-21-V",
+  "mutually_exclusive": false,
+  "series_ticker": "KXHURCAT",
+  "strike_period": "",
+  "sub_title": "Victor",
+  "title": "Hurricane category, Victor?"
+}

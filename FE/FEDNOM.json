@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "",
+  "event_ticker": "FEDNOM",
+  "mutually_exclusive": false,
+  "series_ticker": "KXFEDNOM",
+  "strike_period": "",
+  "sub_title": "By Dec 1, 2021",
+  "title": "Federal Reserve chairman replacement announcement by Dec 1, 2021?"
+}

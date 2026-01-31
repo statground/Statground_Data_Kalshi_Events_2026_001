@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Health",
+  "collateral_return_type": "",
+  "event_ticker": "CASELOW-21DEC01",
+  "mutually_exclusive": false,
+  "series_ticker": "KXCASELOW",
+  "strike_period": "",
+  "sub_title": "By Dec 1, 2021",
+  "title": "COVID case trough by Dec 1, 2021?"
+}

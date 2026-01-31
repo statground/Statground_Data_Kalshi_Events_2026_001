@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "World",
+  "collateral_return_type": "",
+  "event_ticker": "TAPER-22SEP14",
+  "mutually_exclusive": false,
+  "series_ticker": "KXTAPER",
+  "strike_period": "",
+  "sub_title": "After Sep 14, 2021",
+  "title": "Fed tapering after Sep 14, 2021?"
+}

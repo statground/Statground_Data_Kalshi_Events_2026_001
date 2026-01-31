@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "World",
+  "collateral_return_type": "",
+  "event_ticker": "HIGHNY0-21AUG01",
+  "mutually_exclusive": false,
+  "series_ticker": "KXHIGHNY0",
+  "strike_period": "",
+  "sub_title": "On Aug 1, 2021",
+  "title": "NYC high temperature on Aug 1, 2021?"
+}

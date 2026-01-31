@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "World",
+  "collateral_return_type": "",
+  "event_ticker": "EVICT-21NOV",
+  "mutually_exclusive": false,
+  "series_ticker": "KXEVICT",
+  "strike_period": "",
+  "sub_title": "Before Nov 1, 2021",
+  "title": "Eviction moratorium before Nov 1, 2021?"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "World",
+  "collateral_return_type": "",
+  "event_ticker": "INFRA",
+  "mutually_exclusive": false,
+  "series_ticker": "KXINFRA",
+  "strike_period": "",
+  "sub_title": "",
+  "title": "Senate pass infrastructure bill?"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "",
+  "event_ticker": "FED-21JUL",
+  "mutually_exclusive": false,
+  "series_ticker": "KXFED",
+  "strike_period": "",
+  "sub_title": "July 2021 meeting",
+  "title": "Fed funds rate, July 2021 meeting?"
+}

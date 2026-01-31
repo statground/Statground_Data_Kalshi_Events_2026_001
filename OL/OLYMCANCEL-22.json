@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "World",
+  "collateral_return_type": "",
+  "event_ticker": "OLYMCANCEL-22",
+  "mutually_exclusive": false,
+  "series_ticker": "KXOLYMCANCEL",
+  "strike_period": "",
+  "sub_title": "",
+  "title": "Summer Olympics 2021 cancellation?"
+}

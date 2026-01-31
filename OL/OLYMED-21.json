@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "World",
+  "collateral_return_type": "",
+  "event_ticker": "OLYMED-21",
+  "mutually_exclusive": false,
+  "series_ticker": "KXOLYMED",
+  "strike_period": "",
+  "sub_title": "",
+  "title": "Summer Olympic medal count 2021?"
+}

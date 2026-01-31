@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "",
+  "event_ticker": "JOBLESS-21SEP04",
+  "mutually_exclusive": false,
+  "series_ticker": "KXJOBLESS",
+  "strike_period": "",
+  "sub_title": "From Aug 29-Sep 4, 2021",
+  "title": "Initial jobless claims from Aug 29-Sep 4, 2021?"
+}

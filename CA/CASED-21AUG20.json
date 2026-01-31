@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Health",
+  "collateral_return_type": "",
+  "event_ticker": "CASED-21AUG20",
+  "mutually_exclusive": false,
+  "series_ticker": "KXCASED",
+  "strike_period": "",
+  "sub_title": "On Aug 19, 2021",
+  "title": "COVID daily cases on Aug 19, 2021?"
+}

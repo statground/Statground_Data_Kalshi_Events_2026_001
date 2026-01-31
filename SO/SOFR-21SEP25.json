@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "World",
+  "collateral_return_type": "",
+  "event_ticker": "SOFR-21SEP25",
+  "mutually_exclusive": false,
+  "series_ticker": "KXSOFR",
+  "strike_period": "",
+  "sub_title": "On Sep 25, 2021",
+  "title": "SOFR on Sep 25, 2021?"
+}

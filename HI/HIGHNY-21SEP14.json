@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "",
+  "event_ticker": "HIGHNY-21SEP14",
+  "mutually_exclusive": false,
+  "series_ticker": "KXHIGHNY",
+  "strike_period": "",
+  "sub_title": "On Sep 14, 2021",
+  "title": "Highest temperature in NYC on Sep 14, 2021?"
+}
