@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "",
+  "event_ticker": "AAAGASM-24JUN30-US",
+  "mutually_exclusive": false,
+  "series_ticker": "KXAAAGASM",
+  "strike_date": "2024-06-30T14:00:00Z",
+  "strike_period": "",
+  "sub_title": "Jun 2024",
+  "title": "Gas prices in the US in Jun 2024?"
+}

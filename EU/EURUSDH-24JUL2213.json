@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "",
+  "event_ticker": "EURUSDH-24JUL2213",
+  "mutually_exclusive": false,
+  "series_ticker": "KXEURUSDH",
+  "strike_date": "2024-07-22T17:00:00Z",
+  "strike_period": "",
+  "sub_title": "Jul 22, 2024 at 1pm EDT",
+  "title": "EUR/USD price on Jul 22, 2024 at 1pm EDT?"
+}

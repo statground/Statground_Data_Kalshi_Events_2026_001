@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "HIGHMIA-24MAY17",
+  "mutually_exclusive": true,
+  "series_ticker": "KXHIGHMIA",
+  "strike_date": "2024-05-18T03:59:00Z",
+  "strike_period": "",
+  "sub_title": "On May 17, 2024",
+  "title": "Highest temperature in Miami on May 17, 2024?"
+}

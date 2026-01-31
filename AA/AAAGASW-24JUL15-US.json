@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "",
+  "event_ticker": "AAAGASW-24JUL15-US",
+  "mutually_exclusive": false,
+  "series_ticker": "KXAAAGASW",
+  "strike_date": "2024-07-15T14:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Jul 15, 2024",
+  "title": "Gas prices in the US up this week?"
+}

@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "",
+  "event_ticker": "EURUSDH-24MAY0709",
+  "mutually_exclusive": false,
+  "series_ticker": "KXEURUSDH",
+  "strike_date": "2024-05-07T13:00:00Z",
+  "strike_period": "",
+  "sub_title": "May 7, 2024 at 9am EDT",
+  "title": "EUR/USD price on May 7, 2024 at 9am EDT?"
+}

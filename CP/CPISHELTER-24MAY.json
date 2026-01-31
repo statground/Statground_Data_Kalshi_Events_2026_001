@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "",
+  "event_ticker": "CPISHELTER-24MAY",
+  "mutually_exclusive": false,
+  "series_ticker": "KXCPISHELTER",
+  "strike_period": "",
+  "sub_title": "In May 2024",
+  "title": "CPI on shelter in May 2024?"
+}

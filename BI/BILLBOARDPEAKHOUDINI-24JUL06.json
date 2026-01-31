@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "BILLBOARDPEAKHOUDINI-24JUL06",
+  "mutually_exclusive": true,
+  "series_ticker": "KXBILLBOARDPEAKHOUDINI",
+  "strike_period": "",
+  "sub_title": "By July 6, 2024",
+  "title": "“Houdini” peak on Billboard Hot 100 by July 6?"
+}

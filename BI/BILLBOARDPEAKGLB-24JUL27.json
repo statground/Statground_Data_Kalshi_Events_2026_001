@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "BILLBOARDPEAKGLB-24JUL27",
+  "mutually_exclusive": true,
+  "series_ticker": "KXBILLBOARDPEAKGLB",
+  "strike_period": "",
+  "sub_title": "By Jul 27, 2024 chart",
+  "title": "\"Good Luck, Babe!\" peak on Billboard Hot 100 by Jul 27?"
+}

@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "HIGHCHI-24JUL03",
+  "mutually_exclusive": true,
+  "series_ticker": "KXHIGHCHI",
+  "strike_date": "2024-07-04T03:59:00Z",
+  "strike_period": "",
+  "sub_title": "On Jul 3, 2024",
+  "title": "Highest temperature in Chicago on Jul 3, 2024?"
+}

@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "",
+  "event_ticker": "INXU-24MAY21",
+  "mutually_exclusive": false,
+  "series_ticker": "KXINXU",
+  "strike_date": "2024-05-21T20:00:00Z",
+  "strike_period": "",
+  "sub_title": "On May 21, 2024",
+  "title": "S&P close price on May 21, 2024?"
+}

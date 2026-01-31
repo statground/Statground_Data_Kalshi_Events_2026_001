@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "",
+  "event_ticker": "BOE-24MAY09",
+  "mutually_exclusive": false,
+  "series_ticker": "KXBOE",
+  "strike_date": "2024-05-09T14:00:00Z",
+  "strike_period": "",
+  "sub_title": "May meeting",
+  "title": "Bank of England interest rate in May?"
+}

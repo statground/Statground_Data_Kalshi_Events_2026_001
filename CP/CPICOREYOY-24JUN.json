@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "",
+  "event_ticker": "CPICOREYOY-24JUN",
+  "mutually_exclusive": false,
+  "series_ticker": "KXCPICOREYOY",
+  "strike_period": "June 2024",
+  "sub_title": "Jun 2024",
+  "title": "Core inflation in Jun 2024? (Core CPI YoY)"
+}

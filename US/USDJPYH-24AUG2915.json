@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "",
+  "event_ticker": "USDJPYH-24AUG2915",
+  "mutually_exclusive": false,
+  "series_ticker": "KXUSDJPYH",
+  "strike_date": "2024-08-29T19:00:00Z",
+  "strike_period": "",
+  "sub_title": "Aug 29, 2024 at 3pm EDT",
+  "title": "USD/JPY price on Aug 29, 2024 at 3pm EDT?"
+}

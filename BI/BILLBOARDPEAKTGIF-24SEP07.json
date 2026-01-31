@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "BILLBOARDPEAKTGIF-24SEP07",
+  "mutually_exclusive": true,
+  "series_ticker": "KXBILLBOARDPEAKTGIF",
+  "strike_period": "",
+  "sub_title": "By Sep 7, 2024 chart",
+  "title": "\"TGIF\" peak on Billboard Hot 100 by Sep 7?"
+}

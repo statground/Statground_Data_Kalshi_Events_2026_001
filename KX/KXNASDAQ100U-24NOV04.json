@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "",
+  "event_ticker": "KXNASDAQ100U-24NOV04",
+  "mutually_exclusive": false,
+  "series_ticker": "KXNASDAQ100U",
+  "strike_date": "2024-11-04T21:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Nov 4, 2024",
+  "title": "Nasdaq close price on Nov 4, 2024?"
+}

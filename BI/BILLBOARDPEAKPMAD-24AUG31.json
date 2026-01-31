@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "BILLBOARDPEAKPMAD-24AUG31",
+  "mutually_exclusive": true,
+  "series_ticker": "KXBILLBOARDPEAKPMAD",
+  "strike_period": "",
+  "sub_title": "By Aug 31, 2024 Chart",
+  "title": "\"Pour Me a Drink\" peak on Billboard Hot 100 by Aug 31?"
+}

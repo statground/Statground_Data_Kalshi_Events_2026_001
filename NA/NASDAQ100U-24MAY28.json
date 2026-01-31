@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "",
+  "event_ticker": "NASDAQ100U-24MAY28",
+  "mutually_exclusive": false,
+  "series_ticker": "KXNASDAQ100U",
+  "strike_date": "2024-05-28T20:00:00Z",
+  "strike_period": "",
+  "sub_title": "On May 28, 2024",
+  "title": "Nasdaq close price on May 28, 2024?"
+}

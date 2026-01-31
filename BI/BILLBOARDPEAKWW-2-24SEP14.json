@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "BILLBOARDPEAKWW-2-24SEP14",
+  "mutually_exclusive": true,
+  "series_ticker": "KXBILLBOARDPEAKWW",
+  "strike_period": "",
+  "sub_title": "By Sep 14, 2024 chart",
+  "title": "\"Woman's World\" peak on Billboard Hot 100 by Sep 14?"
+}

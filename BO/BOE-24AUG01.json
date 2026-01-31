@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "",
+  "event_ticker": "BOE-24AUG01",
+  "mutually_exclusive": false,
+  "series_ticker": "KXBOE",
+  "strike_date": "2024-08-01T14:00:00Z",
+  "strike_period": "",
+  "sub_title": "August meeting",
+  "title": "Bank of England interest rate in August?"
+}

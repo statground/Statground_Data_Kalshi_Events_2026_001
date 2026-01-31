@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Transportation",
+  "collateral_return_type": "",
+  "event_ticker": "TSAW-24JUL07",
+  "mutually_exclusive": false,
+  "series_ticker": "KXTSAW",
+  "strike_period": "Jul 1 to 7, 2024",
+  "sub_title": "Jul 1 to 7, 2024",
+  "title": "TSA check-ins from Jul 1 to 7, 2024?"
+}

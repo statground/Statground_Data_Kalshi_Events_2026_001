@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Transportation",
+  "collateral_return_type": "",
+  "event_ticker": "TSAW-24JUN16",
+  "mutually_exclusive": false,
+  "series_ticker": "KXTSAW",
+  "strike_period": "Jun 10 to 16, 2024",
+  "sub_title": "Jun 10 to 16, 2024",
+  "title": "TSA check-ins from Jun 10 to 16, 2024?"
+}

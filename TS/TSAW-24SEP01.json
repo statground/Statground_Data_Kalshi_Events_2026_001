@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Transportation",
+  "collateral_return_type": "",
+  "event_ticker": "TSAW-24SEP01",
+  "mutually_exclusive": false,
+  "series_ticker": "KXTSAW",
+  "strike_period": "Aug 26 to Sep 1, 2024",
+  "sub_title": "Aug 26 to Sep 1, 2024",
+  "title": "TSA avg check-ins from Aug 26 to Sep 1, 2024?"
+}

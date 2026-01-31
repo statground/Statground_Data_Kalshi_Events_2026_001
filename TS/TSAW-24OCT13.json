@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Transportation",
+  "collateral_return_type": "",
+  "event_ticker": "TSAW-24OCT13",
+  "mutually_exclusive": false,
+  "series_ticker": "KXTSAW",
+  "strike_period": "Oct 7 to 13, 2024",
+  "sub_title": "Oct 7 to 13, 2024",
+  "title": "TSA avg check-ins from Oct 7 to 13, 2024?"
+}

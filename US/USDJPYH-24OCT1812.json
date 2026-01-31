@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "",
+  "event_ticker": "USDJPYH-24OCT1812",
+  "mutually_exclusive": false,
+  "series_ticker": "KXUSDJPYH",
+  "strike_date": "2024-10-18T16:00:00Z",
+  "strike_period": "",
+  "sub_title": "Oct 18, 2024 at 12pm EDT",
+  "title": "USD/JPY price on Oct 18, 2024 at 12pm EDT?"
+}

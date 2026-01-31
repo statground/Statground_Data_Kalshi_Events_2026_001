@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "",
+  "event_ticker": "EURUSDH-24AUG0909",
+  "mutually_exclusive": false,
+  "series_ticker": "KXEURUSDH",
+  "strike_date": "2024-08-09T13:00:00Z",
+  "strike_period": "",
+  "sub_title": "Aug 9, 2024 at 9am EDT",
+  "title": "EUR/USD price on Aug 9, 2024 at 9am EDT?"
+}

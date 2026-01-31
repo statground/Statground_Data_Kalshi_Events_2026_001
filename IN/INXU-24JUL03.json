@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "",
+  "event_ticker": "INXU-24JUL03",
+  "mutually_exclusive": false,
+  "series_ticker": "KXINXU",
+  "strike_date": "2024-07-03T17:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Jul 3, 2024",
+  "title": "S&P close price on Jul 3, 2024?"
+}

@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "",
+  "event_ticker": "USDJPYH-24JUN2810",
+  "mutually_exclusive": false,
+  "series_ticker": "KXUSDJPYH",
+  "strike_date": "2024-06-28T14:00:00Z",
+  "strike_period": "",
+  "sub_title": "Jun 28, 2024 at 10am EDT",
+  "title": "USD/JPY price on Jun 28, 2024 at 10am EDT?"
+}

@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "",
+  "event_ticker": "KXUSDJPYE-24NOV0616",
+  "mutually_exclusive": false,
+  "series_ticker": "KXUSDJPYE",
+  "strike_date": "2024-11-06T21:00:00Z",
+  "strike_period": "",
+  "sub_title": "Nov 6, 2024 at 4pm EST",
+  "title": "USD/JPY price range day after election?"
+}

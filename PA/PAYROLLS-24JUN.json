@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "",
+  "event_ticker": "PAYROLLS-24JUN",
+  "mutually_exclusive": false,
+  "series_ticker": "KXPAYROLLS",
+  "strike_period": "June 2024",
+  "sub_title": "In Jun 2024",
+  "title": "Jobs numbers in Jun 2024?"
+}

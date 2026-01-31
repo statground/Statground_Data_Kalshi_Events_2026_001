@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "",
+  "event_ticker": "RATECUT-24NOV07",
+  "mutually_exclusive": false,
+  "series_ticker": "KXRATECUT",
+  "strike_period": "",
+  "sub_title": "Before Nov 8, 2024",
+  "title": "Fed rate cut before Nov 8th?"
+}

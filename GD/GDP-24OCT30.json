@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "",
+  "event_ticker": "GDP-24OCT30",
+  "mutually_exclusive": false,
+  "series_ticker": "KXGDP",
+  "strike_period": "Q3",
+  "sub_title": "In Q3 2024",
+  "title": "US GDP growth in Q3 2024?"
+}

@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "538APPROVE-24MAY08",
+  "mutually_exclusive": true,
+  "series_ticker": "KX538APPROVE",
+  "strike_date": "2024-05-09T03:59:00Z",
+  "strike_period": "",
+  "sub_title": "On May 8, 2024",
+  "title": "Biden 538 approval rating on May 8, 2024?"
+}

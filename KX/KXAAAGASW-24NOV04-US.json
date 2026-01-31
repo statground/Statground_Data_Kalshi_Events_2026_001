@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "",
+  "event_ticker": "KXAAAGASW-24NOV04-US",
+  "mutually_exclusive": false,
+  "series_ticker": "KXAAAGASW",
+  "strike_date": "2024-11-04T15:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Nov 4, 2024",
+  "title": "Gas prices in the US up this week?"
+}

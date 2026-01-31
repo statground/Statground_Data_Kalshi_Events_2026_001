@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "EURUSD-24SEP0910",
+  "mutually_exclusive": true,
+  "series_ticker": "KXEURUSD",
+  "strike_date": "2024-09-09T14:00:00Z",
+  "strike_period": "",
+  "sub_title": "Sep 9, 2024 at 10am EDT",
+  "title": "EUR/USD price range on Sep 9, 2024 at 10am EDT?"
+}

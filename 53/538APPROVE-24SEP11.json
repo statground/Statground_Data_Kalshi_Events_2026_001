@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "538APPROVE-24SEP11",
+  "mutually_exclusive": true,
+  "series_ticker": "KX538APPROVE",
+  "strike_date": "2024-09-12T03:59:00Z",
+  "strike_period": "",
+  "sub_title": "On Sep 11, 2024",
+  "title": "The President's 538 approval rating on Sep 11, 2024?"
+}

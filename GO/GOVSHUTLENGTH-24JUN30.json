@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "",
+  "event_ticker": "GOVSHUTLENGTH-24JUN30",
+  "mutually_exclusive": false,
+  "series_ticker": "KXGOVSHUTLENGTH",
+  "strike_period": "Dec 1, 2023 to Jun 30, 2024",
+  "sub_title": "Before Jul 2024",
+  "title": "How many days will the government be shut down before July?"
+}

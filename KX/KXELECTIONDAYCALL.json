@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "",
+  "event_ticker": "KXELECTIONDAYCALL",
+  "mutually_exclusive": false,
+  "series_ticker": "KXELECTIONDAYCALL",
+  "strike_period": "",
+  "sub_title": "In 2024",
+  "title": "Will the Election be called on Election Day?"
+}

@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "",
+  "event_ticker": "AAAGASM-24MAY31-US",
+  "mutually_exclusive": false,
+  "series_ticker": "KXAAAGASM",
+  "strike_date": "2024-05-31T14:00:00Z",
+  "strike_period": "",
+  "sub_title": "In May 2024",
+  "title": "Gas prices in the US in May 2024?"
+}

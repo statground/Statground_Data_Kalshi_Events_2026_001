@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "INX-24JUN17",
+  "mutually_exclusive": true,
+  "series_ticker": "KXINX",
+  "strike_date": "2024-06-17T20:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Jun 17, 2024",
+  "title": "S&P close price range on Jun 17, 2024?"
+}

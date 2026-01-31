@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "BILLBOARDPEAKUS-24AUG24",
+  "mutually_exclusive": true,
+  "series_ticker": "KXBILLBOARDPEAKUS",
+  "strike_period": "",
+  "sub_title": "By Aug 24, 2024 chart",
+  "title": "\"us.\" peak on Billboard Hot 100 by Aug 24?"
+}

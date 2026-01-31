@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "",
+  "event_ticker": "PAYROLLS-24OCT",
+  "mutually_exclusive": false,
+  "series_ticker": "KXPAYROLLS",
+  "strike_period": "October 2024",
+  "sub_title": "In Oct 2024",
+  "title": "Jobs numbers in Oct 2024?"
+}

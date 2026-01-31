@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Elections",
+  "collateral_return_type": "",
+  "event_ticker": "KXELECTION24RCP",
+  "mutually_exclusive": false,
+  "series_ticker": "KXELECTION24RCP",
+  "strike_period": "",
+  "sub_title": "On election day",
+  "title": "What will RCP's polling average be on election day?"
+}

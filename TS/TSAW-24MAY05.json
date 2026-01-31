@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Transportation",
+  "collateral_return_type": "",
+  "event_ticker": "TSAW-24MAY05",
+  "mutually_exclusive": false,
+  "series_ticker": "KXTSAW",
+  "strike_period": "Apr 29 to May 5, 2024",
+  "sub_title": "Apr 29 to May 5, 2024",
+  "title": "TSA check-ins from Apr 29 to May 5, 2024?"
+}

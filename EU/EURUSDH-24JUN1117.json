@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "",
+  "event_ticker": "EURUSDH-24JUN1117",
+  "mutually_exclusive": false,
+  "series_ticker": "KXEURUSDH",
+  "strike_date": "2024-06-11T21:00:00Z",
+  "strike_period": "",
+  "sub_title": "Jun 11, 2024 at 5pm EDT",
+  "title": "EUR/USD price on Jun 11, 2024 at 5pm EDT?"
+}

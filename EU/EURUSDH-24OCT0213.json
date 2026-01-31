@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "",
+  "event_ticker": "EURUSDH-24OCT0213",
+  "mutually_exclusive": false,
+  "series_ticker": "KXEURUSDH",
+  "strike_date": "2024-10-02T17:00:00Z",
+  "strike_period": "",
+  "sub_title": "Oct 2, 2024 at 1pm EDT",
+  "title": "EUR/USD price on Oct 2, 2024 at 1pm EDT?"
+}

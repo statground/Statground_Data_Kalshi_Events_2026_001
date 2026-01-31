@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "",
+  "event_ticker": "DOTPLOT-24SEP",
+  "mutually_exclusive": false,
+  "series_ticker": "KXDOTPLOT",
+  "strike_period": "",
+  "sub_title": "At Sep 2024 meeting",
+  "title": "FED dot plot median up next meeting?"
+}

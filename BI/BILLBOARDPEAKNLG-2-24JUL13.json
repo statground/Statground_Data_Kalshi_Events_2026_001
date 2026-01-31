@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "BILLBOARDPEAKNLG-2-24JUL13",
+  "mutually_exclusive": true,
+  "series_ticker": "KXBILLBOARDPEAKNLG",
+  "strike_period": "",
+  "sub_title": "By July 13, 2024",
+  "title": "\"Never Let Go\" peak on Billboard Hot 100 by July 13?"
+}

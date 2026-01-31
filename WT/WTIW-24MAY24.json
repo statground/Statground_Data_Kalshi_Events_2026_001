@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "WTIW-24MAY24",
+  "mutually_exclusive": true,
+  "series_ticker": "KXWTIW",
+  "strike_date": "2024-05-24T18:30:00Z",
+  "strike_period": "",
+  "sub_title": "On May 24, 2024",
+  "title": "WTI oil price on May 24, 2024?"
+}

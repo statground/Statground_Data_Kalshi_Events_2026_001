@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "",
+  "event_ticker": "BORDER",
+  "mutually_exclusive": false,
+  "series_ticker": "KXBORDER",
+  "strike_period": "",
+  "sub_title": "Before election day",
+  "title": "Border bill passes Senate before election day?"
+}

@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "USDJPY-24OCT0310",
+  "mutually_exclusive": true,
+  "series_ticker": "KXUSDJPY",
+  "strike_date": "2024-10-03T14:00:00Z",
+  "strike_period": "",
+  "sub_title": "Oct 3, 2024 at 10am EDT",
+  "title": "USD/JPY price range on Oct 3, 2024 at 10am EDT?"
+}

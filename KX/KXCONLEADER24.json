@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCONLEADER24",
+  "mutually_exclusive": true,
+  "series_ticker": "KXCONLEADER24",
+  "strike_period": "",
+  "sub_title": "In 2024",
+  "title": "Who will be the leader of the UK Conservative Party?"
+}

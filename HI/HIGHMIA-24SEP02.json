@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "HIGHMIA-24SEP02",
+  "mutually_exclusive": true,
+  "series_ticker": "KXHIGHMIA",
+  "strike_date": "2024-09-03T03:59:00Z",
+  "strike_period": "",
+  "sub_title": "On Sep 2, 2024",
+  "title": "Highest temperature in Miami on Sep 2, 2024?"
+}

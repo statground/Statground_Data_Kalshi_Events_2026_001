@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "BILLBOARDPEAKTASTE-24OCT05",
+  "mutually_exclusive": true,
+  "series_ticker": "KXBILLBOARDPEAKTASTE",
+  "strike_period": "",
+  "sub_title": "By Oct 5, 2024 chart",
+  "title": "\"Taste\" peak on Billboard Hot 100 by Oct 5?"
+}

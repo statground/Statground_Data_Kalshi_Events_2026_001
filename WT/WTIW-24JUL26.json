@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "WTIW-24JUL26",
+  "mutually_exclusive": true,
+  "series_ticker": "KXWTIW",
+  "strike_date": "2024-07-26T18:30:00Z",
+  "strike_period": "",
+  "sub_title": "On Jul 26, 2024",
+  "title": "WTI oil price on Jul 26, 2024?"
+}

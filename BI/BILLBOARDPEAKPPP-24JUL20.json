@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "BILLBOARDPEAKPPP-24JUL20",
+  "mutually_exclusive": true,
+  "series_ticker": "KXBILLBOARDPEAKPPP",
+  "strike_period": "",
+  "sub_title": "By July 20, 2024",
+  "title": "\"Please Please Please\" peak on Billboard Hot 100 by July 20?"
+}

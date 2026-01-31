@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "HIGHCHI-24AUG12",
+  "mutually_exclusive": true,
+  "series_ticker": "KXHIGHCHI",
+  "strike_date": "2024-08-13T03:59:00Z",
+  "strike_period": "",
+  "sub_title": "On Aug 12, 2024",
+  "title": "Highest temperature in Chicago on Aug 12, 2024?"
+}

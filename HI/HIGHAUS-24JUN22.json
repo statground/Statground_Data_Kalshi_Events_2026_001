@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "HIGHAUS-24JUN22",
+  "mutually_exclusive": true,
+  "series_ticker": "KXHIGHAUS",
+  "strike_date": "2024-06-23T04:59:00Z",
+  "strike_period": "",
+  "sub_title": "On Jun 22, 2024",
+  "title": "Highest temperature in Austin on Jun 22, 2024?"
+}

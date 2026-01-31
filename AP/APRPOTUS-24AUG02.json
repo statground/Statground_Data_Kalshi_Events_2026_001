@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "APRPOTUS-24AUG02",
+  "mutually_exclusive": true,
+  "series_ticker": "KXAPRPOTUS",
+  "strike_date": "2024-08-02T15:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Aug 2, 2024",
+  "title": "The President's RCP approval rating on Aug 2, 2024?"
+}

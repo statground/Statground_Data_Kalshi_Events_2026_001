@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "",
+  "event_ticker": "KXRATECUTE-24NOV07",
+  "mutually_exclusive": false,
+  "series_ticker": "KXRATECUTE",
+  "strike_period": "",
+  "sub_title": "November 2024 meeting",
+  "title": "Will the Fed cut rates at their November 2024 meeting?"
+}

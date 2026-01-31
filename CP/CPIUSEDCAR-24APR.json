@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "",
+  "event_ticker": "CPIUSEDCAR-24APR",
+  "mutually_exclusive": false,
+  "series_ticker": "KXCPIUSEDCAR",
+  "strike_period": "",
+  "sub_title": "In Apr 2024",
+  "title": "CPI on used cars in Apr 2024?"
+}
