@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXLOLMAP-26JAN16DKDNF-1",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "League of Legends",
+    "competition_scope": "Map 1 Winner"
+  },
+  "series_ticker": "KXLOLMAP",
+  "strike_period": "",
+  "sub_title": "Map 1: DK vs. DNF (Jan 16)",
+  "title": "LCK Cup 2026: Dplus KIA vs. DN SOOPers Map 1"
+}

@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXEPLSPREAD-26JAN17CFCBRE",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "EPL",
+    "competition_scope": "Spread"
+  },
+  "series_ticker": "KXEPLSPREAD",
+  "strike_period": "",
+  "sub_title": "BRE at CFC (Jan 17)",
+  "title": "Brentford at Chelsea: Spreads"
+}

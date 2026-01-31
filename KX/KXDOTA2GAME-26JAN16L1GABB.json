@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXDOTA2GAME-26JAN16L1GABB",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Dota 2",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXDOTA2GAME",
+  "strike_period": "",
+  "sub_title": "L1ga Team vs. BetBoom Team (Jan 16)",
+  "title": "ESL One Birmingham: Eastern Europe Closed Qualifier 2026: L1ga Team vs. BetBoom Team"
+}

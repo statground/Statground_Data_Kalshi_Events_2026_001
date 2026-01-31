@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXCS2TOTALMAPS-26JAN16PAINBB",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "CS2",
+    "competition_scope": "Total Maps"
+  },
+  "series_ticker": "KXCS2TOTALMAPS",
+  "strike_period": "",
+  "sub_title": "Total Maps: PAIN vs. BB (Jan 16)",
+  "title": "BLAST Bounty 2026: paiN vs. BetBoom Team Total Maps"
+}

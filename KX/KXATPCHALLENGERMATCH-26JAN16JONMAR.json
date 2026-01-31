@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXATPCHALLENGERMATCH-26JAN16JONMAR",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "ATP Challenger Nonthaburi 2",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXATPCHALLENGERMATCH",
+  "strike_period": "",
+  "sub_title": "Jones vs Martin Tiffon (Jan 16)",
+  "title": "Jones vs Martin Tiffon"
+}

@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXSHLGAME-26JAN15VAXDJU",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "SHL",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXSHLGAME",
+  "strike_period": "",
+  "sub_title": "VAX at DJU (Jan 15)",
+  "title": "Växjö Lakers at Djurgardens IF"
+}

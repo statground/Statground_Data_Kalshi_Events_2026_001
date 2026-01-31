@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXATPCHALLENGERMATCH-26JAN18ZORHUE",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "ATP Challenger Itajai",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXATPCHALLENGERMATCH",
+  "strike_period": "",
+  "sub_title": "Zormann vs Huertas Del Pino Cordova (Jan 18)",
+  "title": "Zormann vs Huertas Del Pino Cordova"
+}

@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXLNBELITEGAME-26JAN18LEPASV",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "LNB Elite",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXLNBELITEGAME",
+  "strike_period": "",
+  "sub_title": "LEP at ASV (Jan 18)",
+  "title": "Le Portel at ASVEL Lyon-Villeurbanne"
+}

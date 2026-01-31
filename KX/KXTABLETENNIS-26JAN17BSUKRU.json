@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXTABLETENNIS-26JAN17BSUKRU",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "TT Elite Series Men",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXTABLETENNIS",
+  "strike_period": "",
+  "sub_title": "Bartek Sulkowski vs Kamil Rudomina (Jan 17)",
+  "title": "Bartek Sulkowski vs Kamil Rudomina"
+}

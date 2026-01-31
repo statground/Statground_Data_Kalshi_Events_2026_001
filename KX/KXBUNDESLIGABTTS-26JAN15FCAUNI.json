@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXBUNDESLIGABTTS-26JAN15FCAUNI",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Bundesliga",
+    "competition_scope": "BTTS"
+  },
+  "series_ticker": "KXBUNDESLIGABTTS",
+  "strike_period": "",
+  "sub_title": "UNI at FCA (Jan 15)",
+  "title": "Union Berlin at Augsburg: Both Teams to Score"
+}

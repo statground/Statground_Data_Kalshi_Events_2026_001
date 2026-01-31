@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNBA3PT-26JAN15NYKGSW",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Basketball (M)",
+    "competition_scope": "Player Threes"
+  },
+  "series_ticker": "KXNBA3PT",
+  "strike_period": "",
+  "sub_title": "NYK at GSW (Jan 15)",
+  "title": "New York at Golden State: Three Pointers"
+}

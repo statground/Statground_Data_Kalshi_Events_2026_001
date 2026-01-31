@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNFLPREPACKSGP-26JAN18HOUNE",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Pro Football",
+    "competition_scope": "Combo"
+  },
+  "series_ticker": "KXNFLPREPACKSGP",
+  "strike_period": "",
+  "sub_title": "Houston at New England",
+  "title": "Pro Football Combo: Houston at New England"
+}

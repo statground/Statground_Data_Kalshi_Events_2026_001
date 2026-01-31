@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXATPMATCH-26JAN15BAEGIR",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "ATP Auckland",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXATPMATCH",
+  "strike_period": "",
+  "sub_title": "Baez vs Giron (Jan 15)",
+  "title": "Baez vs Giron"
+}

@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNFLPREPACK3ML-26JAN17SEASFCHILANEHOU",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Pro Football",
+    "competition_scope": "Combo"
+  },
+  "series_ticker": "KXNFLPREPACK3ML",
+  "strike_period": "",
+  "sub_title": "San Francisco at Seattle, Los Angeles R at Chicago, Houston at New England",
+  "title": "Pro Football 3-leg Combo: San Francisco at Seattle, Los Angeles R at Chicago, Houston at New England"
+}

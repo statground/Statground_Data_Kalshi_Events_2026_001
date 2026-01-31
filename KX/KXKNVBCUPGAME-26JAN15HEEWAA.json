@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXKNVBCUPGAME-26JAN15HEEWAA",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "KNVB",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXKNVBCUPGAME",
+  "strike_period": "",
+  "sub_title": "HEE vs WAA (Jan 15)",
+  "title": "Heerenveen vs Waalwijk"
+}

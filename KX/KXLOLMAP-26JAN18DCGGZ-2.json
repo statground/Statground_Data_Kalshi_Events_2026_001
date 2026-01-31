@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXLOLMAP-26JAN18DCGGZ-2",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "League of Legends",
+    "competition_scope": "Map 2 Winner"
+  },
+  "series_ticker": "KXLOLMAP",
+  "strike_period": "",
+  "sub_title": "Map 2: DCG vs. GZ (Jan 18)",
+  "title": "LCP 2026: Deep Cross Gaming vs. Ground Zero Gaming Map 2"
+}

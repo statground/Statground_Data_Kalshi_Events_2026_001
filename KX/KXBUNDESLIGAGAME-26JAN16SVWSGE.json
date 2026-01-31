@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXBUNDESLIGAGAME-26JAN16SVWSGE",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Bundesliga",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXBUNDESLIGAGAME",
+  "strike_period": "",
+  "sub_title": "SVW vs SGE (Jan 16)",
+  "title": "Bremen vs Frankfurt"
+}

@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXEPLGOAL-26JAN18AVLEVE",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "EPL",
+    "competition_scope": "Goalscorer"
+  },
+  "series_ticker": "KXEPLGOAL",
+  "strike_period": "",
+  "sub_title": "EVE at AVL (Jan 18)",
+  "title": "Everton at Aston Villa: Anytime Goalscorer"
+}

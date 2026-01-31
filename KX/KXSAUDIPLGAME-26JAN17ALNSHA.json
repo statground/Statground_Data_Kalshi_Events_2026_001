@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXSAUDIPLGAME-26JAN17ALNSHA",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Saudi Pro League",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXSAUDIPLGAME",
+  "strike_period": "",
+  "sub_title": "ALN vs SHA (Jan 17)",
+  "title": "Al Nassr vs Al-Shabab"
+}

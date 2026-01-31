@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXARGLNBGAME-26JAN15FCOSLA",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Liga Nacional de Basquetbol",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXARGLNBGAME",
+  "strike_period": "",
+  "sub_title": "FCO at SLA (Jan 15)",
+  "title": "Ferro Carril Oeste at CA San Lorenzo de Almagro"
+}

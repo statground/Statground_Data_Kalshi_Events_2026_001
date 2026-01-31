@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": true,
+  "category": "Climate and Weather",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXHIGHTLV-26JAN16",
+  "mutually_exclusive": true,
+  "series_ticker": "KXHIGHTLV",
+  "strike_date": "2026-01-17T08:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Jan 16, 2026",
+  "title": "Highest temperature in Las Vegas on Jan 16, 2026?"
+}

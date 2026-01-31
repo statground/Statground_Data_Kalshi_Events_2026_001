@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXLIGUE1GAME-26JAN16ASMFCL",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Ligue 1",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXLIGUE1GAME",
+  "strike_period": "",
+  "sub_title": "ASM vs FCL (Jan 16)",
+  "title": "Monaco vs Lorient"
+}

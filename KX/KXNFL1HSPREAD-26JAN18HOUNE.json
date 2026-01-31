@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNFL1HSPREAD-26JAN18HOUNE",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Football",
+    "competition_scope": "1st Half Spread"
+  },
+  "series_ticker": "KXNFL1HSPREAD",
+  "strike_period": "",
+  "sub_title": "HOU at NE (Jan 18)",
+  "title": "Houston at New England: First Half Spread"
+}

@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXSHLGAME-26JAN15FARHV7",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "SHL",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXSHLGAME",
+  "strike_period": "",
+  "sub_title": "FAR at HV7 (Jan 15)",
+  "title": "Färjestad at HV71"
+}

@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNFLEXACTWINSDEN-25",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Pro Football",
+    "competition_scope": "Exact wins"
+  },
+  "series_ticker": "KXNFLEXACTWINSDEN",
+  "strike_period": "",
+  "sub_title": "2025-26 season",
+  "title": "Denver exact win total this season?"
+}

@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Mentions",
+  "collateral_return_type": "",
+  "event_ticker": "KXNBAMENTION-26JAN15NYKGSW",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "the governing league",
+    "competition_scope": "Mentions"
+  },
+  "series_ticker": "KXNBAMENTION",
+  "strike_period": "",
+  "sub_title": "New York at Golden State",
+  "title": "What will the announcers say during the New York at Golden State professional basketball game?"
+}

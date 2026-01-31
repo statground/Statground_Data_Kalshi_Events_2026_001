@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXKHLGAME-26JAN17CSKHCB",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "KHL",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXKHLGAME",
+  "strike_period": "",
+  "sub_title": "CSK at HCB (Jan 17)",
+  "title": "CSKA Moscow at HC Barys"
+}

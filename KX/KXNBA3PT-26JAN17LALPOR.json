@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNBA3PT-26JAN17LALPOR",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Basketball (M)",
+    "competition_scope": "Player Threes"
+  },
+  "series_ticker": "KXNBA3PT",
+  "strike_period": "",
+  "sub_title": "LAL at POR (Jan 17)",
+  "title": "Los Angeles L at Portland: Three Pointers"
+}

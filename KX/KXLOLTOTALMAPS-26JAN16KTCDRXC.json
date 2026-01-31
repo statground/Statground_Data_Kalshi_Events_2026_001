@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXLOLTOTALMAPS-26JAN16KTCDRXC",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "League of Legends",
+    "competition_scope": "Total Maps"
+  },
+  "series_ticker": "KXLOLTOTALMAPS",
+  "strike_period": "",
+  "sub_title": "Total Maps: KTC vs. DRXC (Jan 16)",
+  "title": "LCK Challengers League Kickoff 2026: KT Rolster Challengers vs. DRX Challengers Total Maps"
+}

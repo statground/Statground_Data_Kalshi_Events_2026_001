@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNFL1HWINNER-26JAN18LACHI",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Pro Football",
+    "competition_scope": "1st Half Winner"
+  },
+  "series_ticker": "KXNFL1HWINNER",
+  "strike_period": "",
+  "sub_title": "LA at CHI (Jan 18)",
+  "title": "Los Angeles R at Chicago: First Half"
+}

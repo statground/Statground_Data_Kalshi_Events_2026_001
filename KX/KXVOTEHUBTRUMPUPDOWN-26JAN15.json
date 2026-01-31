@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "",
+  "event_ticker": "KXVOTEHUBTRUMPUPDOWN-26JAN15",
+  "mutually_exclusive": false,
+  "series_ticker": "KXVOTEHUBTRUMPUPDOWN",
+  "strike_period": "",
+  "sub_title": "For Jan 15, 2026",
+  "title": "Will Trump's approval rating increase this week?"
+}

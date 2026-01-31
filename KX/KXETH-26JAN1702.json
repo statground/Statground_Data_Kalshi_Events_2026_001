@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Crypto",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXETH-26JAN1702",
+  "mutually_exclusive": true,
+  "series_ticker": "KXETH",
+  "strike_date": "2026-01-17T07:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Jan 17, 2026 at 2am EST",
+  "title": "Ethereum price range on Jan 17, 2026 at 2am EST?"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Climate and Weather",
+  "collateral_return_type": "",
+  "event_ticker": "KXRAINNYC-26JAN16",
+  "mutually_exclusive": false,
+  "series_ticker": "KXRAINNYC",
+  "strike_period": "",
+  "sub_title": "On Jan 16, 2026",
+  "title": "Will it rain in NYC on Jan 16, 2026?"
+}

@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXLOLTOTALMAPS-26JAN15DRXGEN",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "League of Legends",
+    "competition_scope": "Total Maps"
+  },
+  "series_ticker": "KXLOLTOTALMAPS",
+  "strike_period": "",
+  "sub_title": "Total Maps: DRX vs. GEN (Jan 15)",
+  "title": "LCK Cup 2026: DRX vs. Gen.G Total Maps"
+}

@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXR6GAME-26JAN18LIQUIDBD",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "R6",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXR6GAME",
+  "strike_period": "",
+  "sub_title": "Team Liquid vs. Black Dragons e-Sports (Jan 18)",
+  "title": "Six Invitational South America LCQ 2026: Team Liquid vs. Black Dragons e-Sports"
+}

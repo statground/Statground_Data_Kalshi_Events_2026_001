@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Science and Technology",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXTOPMODEL-26JAN17",
+  "mutually_exclusive": true,
+  "series_ticker": "KXTOPMODEL",
+  "strike_period": "",
+  "sub_title": "On Jan 17, 2026",
+  "title": "Top AI model on January 17th?"
+}

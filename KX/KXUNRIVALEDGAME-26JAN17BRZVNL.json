@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXUNRIVALEDGAME-26JAN17BRZVNL",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Unrivaled",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXUNRIVALEDGAME",
+  "strike_period": "",
+  "sub_title": "BRZ at VNL (Jan 17)",
+  "title": "Breeze at Vinyl"
+}

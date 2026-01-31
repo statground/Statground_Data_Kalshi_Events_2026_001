@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXR6GAME-26JAN17SHEALL",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "R6",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXR6GAME",
+  "strike_period": "",
+  "sub_title": "Soul's Heart Esport vs. All Gamers (Jan 17)",
+  "title": "Six Invitational Asia Pacific LCQ 2026: Soul's Heart Esport vs. All Gamers"
+}

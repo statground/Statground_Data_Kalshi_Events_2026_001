@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXCS2TOTALMAPS-26JAN17AURGL",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "CS2",
+    "competition_scope": "Total Maps"
+  },
+  "series_ticker": "KXCS2TOTALMAPS",
+  "strike_period": "",
+  "sub_title": "Total Maps: AUR vs. GL (Jan 17)",
+  "title": "BLAST Bounty 2026: Aurora Gaming vs. GamerLegion Total Maps"
+}

@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNHLTOTAL-26JAN18STLEDM",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "NHL",
+    "competition_scope": "Point Total"
+  },
+  "series_ticker": "KXNHLTOTAL",
+  "strike_period": "",
+  "sub_title": "STL at EDM (Jan 18)",
+  "title": "St. Louis at Edmonton: Total Points"
+}

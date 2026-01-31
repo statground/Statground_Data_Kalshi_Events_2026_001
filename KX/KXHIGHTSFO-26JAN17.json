@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": true,
+  "category": "Climate and Weather",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXHIGHTSFO-26JAN17",
+  "mutually_exclusive": true,
+  "series_ticker": "KXHIGHTSFO",
+  "strike_date": "2026-01-18T08:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Jan 17, 2026",
+  "title": "Highest temperature in San Francisco on Jan 17, 2026?"
+}

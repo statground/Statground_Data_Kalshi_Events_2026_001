@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCOPADELREYADVANCE-26JAN15SANBAR",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Copa del Rey",
+    "competition_scope": "To Advance"
+  },
+  "series_ticker": "KXCOPADELREYADVANCE",
+  "strike_period": "",
+  "sub_title": "SAN vs BAR (Jan 15)",
+  "title": "Santander vs Barcelona: To Advance"
+}

@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXAFCON-26",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Africa Cup of Nations",
+    "competition_scope": "Future"
+  },
+  "series_ticker": "KXAFCON",
+  "strike_period": "",
+  "sub_title": "2026",
+  "title": "Africa Cup of Nations Champion"
+}

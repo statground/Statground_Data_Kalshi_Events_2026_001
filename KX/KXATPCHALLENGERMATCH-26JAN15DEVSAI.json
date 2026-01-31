@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXATPCHALLENGERMATCH-26JAN15DEVSAI",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "ATP Challenger Buenos Aires",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXATPCHALLENGERMATCH",
+  "strike_period": "",
+  "sub_title": "Dellien vs Sanchez Izquierdo",
+  "title": "Dellien vs Sanchez Izquierdo"
+}

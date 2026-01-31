@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXSTEAMOVS-26",
+  "mutually_exclusive": true,
+  "series_ticker": "KXSTEAMOVS",
+  "strike_period": "",
+  "sub_title": "The 2025 Steam Awards",
+  "title": "Who will win the Outstanding Visual Style Award at the 2025 Steam Awards?"
+}

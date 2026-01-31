@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNBATOTAL-26JAN18ORLMEM",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Basketball (M)",
+    "competition_scope": "Point Total"
+  },
+  "series_ticker": "KXNBATOTAL",
+  "strike_period": "",
+  "sub_title": "ORL at MEM (Jan 18)",
+  "title": "Orlando at Memphis: Total Points"
+}

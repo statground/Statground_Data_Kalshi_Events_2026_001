@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Elections",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXPORTGUAL1R2ND-26",
+  "mutually_exclusive": true,
+  "series_ticker": "KXPORTGUAL1R2ND",
+  "strike_period": "",
+  "sub_title": "In 2026",
+  "title": "Who will finish 2nd in the first round of the 2026 Portuguese presidential election?"
+}

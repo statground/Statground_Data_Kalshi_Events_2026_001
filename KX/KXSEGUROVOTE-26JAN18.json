@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Elections",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXSEGUROVOTE-26JAN18",
+  "mutually_exclusive": true,
+  "series_ticker": "KXSEGUROVOTE",
+  "strike_period": "",
+  "sub_title": "On Jan 18, 2026",
+  "title": "What % of the vote will António José Seguro receive in the first round?"
+}

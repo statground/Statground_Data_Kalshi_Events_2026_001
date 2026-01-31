@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNBA3D-26JAN17LALPOR",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Basketball (M)",
+    "competition_scope": "Triple Double"
+  },
+  "series_ticker": "KXNBA3D",
+  "strike_period": "",
+  "sub_title": "LAL at POR (Jan 17)",
+  "title": "Los Angeles L at Portland: Triple Doubles"
+}

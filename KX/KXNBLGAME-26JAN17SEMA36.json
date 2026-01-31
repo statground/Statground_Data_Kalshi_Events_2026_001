@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNBLGAME-26JAN17SEMA36",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "NBL Australia",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXNBLGAME",
+  "strike_period": "",
+  "sub_title": "SEM at A36 (Jan 17)",
+  "title": "SE Melbourne Phoenix at Adelaide 36ers"
+}

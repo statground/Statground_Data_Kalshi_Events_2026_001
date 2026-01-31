@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXPGATOUR-SOOIH26",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Sony Open in Hawaii",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXPGATOUR",
+  "strike_period": "",
+  "sub_title": "2026 Sony Open in Hawaii",
+  "title": "Sony Open in Hawaii Winner?"
+}

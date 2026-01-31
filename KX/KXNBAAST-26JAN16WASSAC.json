@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNBAAST-26JAN16WASSAC",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Basketball (M)",
+    "competition_scope": "Player Assists"
+  },
+  "series_ticker": "KXNBAAST",
+  "strike_period": "",
+  "sub_title": "WAS at SAC (Jan 16)",
+  "title": "Washington at Sacramento: Assists"
+}

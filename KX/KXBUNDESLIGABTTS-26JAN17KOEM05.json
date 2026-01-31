@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXBUNDESLIGABTTS-26JAN17KOEM05",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Bundesliga",
+    "competition_scope": "BTTS"
+  },
+  "series_ticker": "KXBUNDESLIGABTTS",
+  "strike_period": "",
+  "sub_title": "M05 at KOE (Jan 17)",
+  "title": "Mainz at 1. FC Cologne: Both Teams to Score"
+}

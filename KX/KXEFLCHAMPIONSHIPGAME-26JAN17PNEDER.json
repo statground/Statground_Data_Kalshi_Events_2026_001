@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXEFLCHAMPIONSHIPGAME-26JAN17PNEDER",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "EFL Championship",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXEFLCHAMPIONSHIPGAME",
+  "strike_period": "",
+  "sub_title": "PNE vs DER (Jan 17)",
+  "title": "Preston vs Derby"
+}

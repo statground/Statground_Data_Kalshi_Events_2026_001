@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXLOLMAP-26JAN16SHGDCG-1",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "League of Legends",
+    "competition_scope": "Map 1 Winner"
+  },
+  "series_ticker": "KXLOLMAP",
+  "strike_period": "",
+  "sub_title": "Map 1: SHG vs. DCG (Jan 16)",
+  "title": "LCP 2026: Fukuoka SoftBank Hawks Gaming vs. Deep Cross Gaming Map 1"
+}

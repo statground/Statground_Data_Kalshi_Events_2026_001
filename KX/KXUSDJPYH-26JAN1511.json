@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXUSDJPYH-26JAN1511",
+  "mutually_exclusive": false,
+  "series_ticker": "KXUSDJPYH",
+  "strike_date": "2026-01-15T16:00:00Z",
+  "strike_period": "",
+  "sub_title": "Jan 15, 2026 at 11am EST",
+  "title": "USD/JPY price on Jan 15, 2026 at 11am EST?"
+}

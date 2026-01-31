@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXEPLGAME-26JAN18AVLEVE",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "EPL",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXEPLGAME",
+  "strike_period": "",
+  "sub_title": "AVL vs EVE (Jan 18)",
+  "title": "Aston Villa vs Everton"
+}

@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXATPCHALLENGERMATCH-26JAN18KOZSTR",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "ATP Challenger Oeiras 1",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXATPCHALLENGERMATCH",
+  "strike_period": "",
+  "sub_title": "Kozlov vs Strombachs (Jan 18)",
+  "title": "Kozlov vs Strombachs"
+}

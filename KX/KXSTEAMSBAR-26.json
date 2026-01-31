@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXSTEAMSBAR-26",
+  "mutually_exclusive": true,
+  "series_ticker": "KXSTEAMSBAR",
+  "strike_period": "",
+  "sub_title": "The 2025 Steam Awards",
+  "title": "Who will win the Sit Back and Relax Award at the 2025 Steam Awards?"
+}

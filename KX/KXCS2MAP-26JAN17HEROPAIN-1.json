@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCS2MAP-26JAN17HEROPAIN-1",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "CS2",
+    "competition_scope": "Map 1 Winner"
+  },
+  "series_ticker": "KXCS2MAP",
+  "strike_period": "",
+  "sub_title": "Map 1: HERO vs. PAIN (Jan 17)",
+  "title": "BLAST Bounty 2026: Heroic vs. paiN Map 1"
+}

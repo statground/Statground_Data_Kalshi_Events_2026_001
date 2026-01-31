@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCS2MAP-26JAN15M8M80-2",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "CS2",
+    "competition_scope": "Map 2 Winner"
+  },
+  "series_ticker": "KXCS2MAP",
+  "strike_period": "",
+  "sub_title": "Map 2: M8 vs. M80 (Jan 15)",
+  "title": "BLAST Bounty 2026: Gentle Mates vs. M80 Map 2"
+}
