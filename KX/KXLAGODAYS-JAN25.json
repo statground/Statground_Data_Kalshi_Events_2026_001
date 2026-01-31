@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXLAGODAYS-JAN25",
+  "mutually_exclusive": true,
+  "series_ticker": "KXLAGODAYS",
+  "strike_period": "",
+  "sub_title": "In Jan 2025",
+  "title": "How many trips to Mar-a-Lago will Trump make as President in Jan 2025?"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCITIESWEATHER-25JAN10(CHI)(HOU)(MIA)",
+  "mutually_exclusive": true,
+  "series_ticker": "KXCITIESWEATHER",
+  "strike_period": "",
+  "sub_title": "Chicago, Houston and Miami on Jan 10, 2025",
+  "title": "Highest temperature in Chicago, Houston and Miami on Jan 10, 2025?"
+}

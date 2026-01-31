@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Elections",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "PRESPARTYKY-24",
+  "mutually_exclusive": true,
+  "series_ticker": "PRESPARTYKY",
+  "strike_period": "",
+  "sub_title": "In 2024",
+  "title": "Who will win Kentucky in the presidential election?"
+}

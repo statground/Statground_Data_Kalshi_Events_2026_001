@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "",
+  "event_ticker": "KXOBJECTION-24",
+  "mutually_exclusive": false,
+  "series_ticker": "KXOBJECTION",
+  "strike_period": "",
+  "sub_title": "For the 2024 election",
+  "title": "Will an objection be successfully filed in Congress against any state's election results?"
+}

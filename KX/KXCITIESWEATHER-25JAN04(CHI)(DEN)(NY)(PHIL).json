@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCITIESWEATHER-25JAN04(CHI)(DEN)(NY)(PHIL)",
+  "mutually_exclusive": true,
+  "series_ticker": "KXCITIESWEATHER",
+  "strike_period": "",
+  "sub_title": "Chicago, Denver, New York and Philadelphia on Jan 4, 2025",
+  "title": "Highest temperature in Chicago, Denver, New York and Philadelphia on Jan 4, 2025?"
+}

@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KX538APPROVE-25JAN22",
+  "mutually_exclusive": true,
+  "series_ticker": "KX538APPROVE",
+  "strike_date": "2025-01-23T04:59:00Z",
+  "strike_period": "",
+  "sub_title": "On Jan 22, 2025",
+  "title": "The President's 538 approval rating on Jan 22, 2025?"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXSPEAKER",
+  "mutually_exclusive": true,
+  "series_ticker": "KXSPEAKER",
+  "strike_period": "",
+  "sub_title": "After the 2024 Election",
+  "title": "Who will be the Speaker of the House?"
+}

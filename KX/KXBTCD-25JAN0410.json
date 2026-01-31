@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Crypto",
+  "collateral_return_type": "",
+  "event_ticker": "KXBTCD-25JAN0410",
+  "mutually_exclusive": false,
+  "series_ticker": "KXBTCD",
+  "strike_date": "2025-01-04T15:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Jan 4, 2025 at 10am EST",
+  "title": "Bitcoin price on Jan 4, 2025 at 10am EST?"
+}

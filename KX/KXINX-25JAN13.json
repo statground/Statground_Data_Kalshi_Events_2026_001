@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXINX-25JAN13",
+  "mutually_exclusive": true,
+  "series_ticker": "KXINX",
+  "strike_date": "2025-01-13T21:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Jan 13, 2025",
+  "title": "S&P close price range on Jan 13, 2025?"
+}

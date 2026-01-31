@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXUSDJPYH-25JAN1412",
+  "mutually_exclusive": false,
+  "series_ticker": "KXUSDJPYH",
+  "strike_date": "2025-01-14T17:00:00Z",
+  "strike_period": "",
+  "sub_title": "Jan 14, 2025 at 12pm EST",
+  "title": "USD/JPY price range on Jan 14, 2025 at 12pm EST?"
+}

@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXWTI-25JAN03",
+  "mutually_exclusive": true,
+  "series_ticker": "KXWTI",
+  "strike_date": "2025-01-03T19:30:00Z",
+  "strike_period": "",
+  "sub_title": "On Jan 3, 2025",
+  "title": "WTI oil price on Jan 3, 2025?"
+}

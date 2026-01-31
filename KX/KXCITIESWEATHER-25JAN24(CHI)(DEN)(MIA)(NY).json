@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCITIESWEATHER-25JAN24(CHI)(DEN)(MIA)(NY)",
+  "mutually_exclusive": true,
+  "series_ticker": "KXCITIESWEATHER",
+  "strike_period": "",
+  "sub_title": "Chicago, Denver, Miami and New York on Jan 24, 2025",
+  "title": "Highest temperature in Chicago, Denver, Miami and New York on Jan 24, 2025?"
+}

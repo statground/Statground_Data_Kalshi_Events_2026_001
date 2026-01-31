@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Elections",
+  "collateral_return_type": "",
+  "event_ticker": "KXLIBERALPOLL-25",
+  "mutually_exclusive": false,
+  "series_ticker": "KXLIBERALPOLL",
+  "strike_period": "",
+  "sub_title": "Before 2025",
+  "title": "Will the Liberals fall below the NDP in Canadian election polling?"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXTOPSELLERS-25JAN17",
+  "mutually_exclusive": true,
+  "series_ticker": "KXTOPSELLERS",
+  "strike_period": "",
+  "sub_title": "On Jan 17, 2025 at 10 AM ET",
+  "title": "Top Selling US Steam game on Jan 17, 2025?"
+}

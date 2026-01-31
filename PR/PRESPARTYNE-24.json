@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Elections",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "PRESPARTYNE-24",
+  "mutually_exclusive": true,
+  "series_ticker": "PRESPARTYNE",
+  "strike_period": "",
+  "sub_title": "In 2024",
+  "title": "Who will win Nebraska in the presidential election?"
+}

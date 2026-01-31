@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Transportation",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXTSAW-25JAN26",
+  "mutually_exclusive": false,
+  "series_ticker": "KXTSAW",
+  "strike_period": "Jan 20 to 26, 2025",
+  "sub_title": "Jan 20 to 26, 2025",
+  "title": "TSA avg check-ins from Jan 20 to 26, 2025?"
+}

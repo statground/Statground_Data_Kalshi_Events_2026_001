@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Elections",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "PRESPARTYMO-24",
+  "mutually_exclusive": true,
+  "series_ticker": "PRESPARTYMO",
+  "strike_period": "",
+  "sub_title": "In 2024",
+  "title": "Who will win Missouri in the presidential election?"
+}

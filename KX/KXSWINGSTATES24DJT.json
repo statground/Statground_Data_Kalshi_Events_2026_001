@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXSWINGSTATES24DJT",
+  "mutually_exclusive": true,
+  "series_ticker": "KXSWINGSTATES24DJT",
+  "strike_period": "",
+  "sub_title": "In 2024",
+  "title": "How many swing states will Trump win?"
+}

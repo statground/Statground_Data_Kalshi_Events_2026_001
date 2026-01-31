@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXTRUMPFAV-25JAN16",
+  "mutually_exclusive": true,
+  "series_ticker": "KXTRUMPFAV",
+  "strike_date": "2025-01-17T04:59:00Z",
+  "strike_period": "",
+  "sub_title": "On Jan 16, 2025",
+  "title": "Trump's 538 favorability on Jan 16, 2025?"
+}

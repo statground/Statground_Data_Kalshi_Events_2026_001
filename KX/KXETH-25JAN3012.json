@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Crypto",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXETH-25JAN3012",
+  "mutually_exclusive": true,
+  "series_ticker": "KXETH",
+  "strike_date": "2025-01-30T17:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Jan 30, 2025 at 12pm EST",
+  "title": "Ethereum price range on Jan 30, 2025 at 12pm EST?"
+}

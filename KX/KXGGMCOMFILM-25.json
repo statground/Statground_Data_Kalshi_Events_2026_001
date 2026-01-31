@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXGGMCOMFILM-25",
+  "mutually_exclusive": true,
+  "series_ticker": "KXGGMCOMFILM",
+  "strike_period": "",
+  "sub_title": "In 2025",
+  "title": "Golden Globe for Best Motion Picture - Musical or Comedy?"
+}

@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXEURUSDH-25JAN1714",
+  "mutually_exclusive": false,
+  "series_ticker": "KXEURUSDH",
+  "strike_date": "2025-01-17T19:00:00Z",
+  "strike_period": "",
+  "sub_title": "Jan 17, 2025 at 2pm EST",
+  "title": "EUR/USD price range on Jan 17, 2025 at 2pm EST?"
+}

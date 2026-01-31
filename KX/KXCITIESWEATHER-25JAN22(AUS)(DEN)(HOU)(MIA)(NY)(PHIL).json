@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCITIESWEATHER-25JAN22(AUS)(DEN)(HOU)(MIA)(NY)(PHIL)",
+  "mutually_exclusive": true,
+  "series_ticker": "KXCITIESWEATHER",
+  "strike_period": "",
+  "sub_title": "Austin, Denver, Houston, Miami, New York and Philadelphia on Jan 22, 2025",
+  "title": "Highest temperature in Austin, Denver, Houston, Miami, New York and Philadelphia on Jan 22, 2025?"
+}

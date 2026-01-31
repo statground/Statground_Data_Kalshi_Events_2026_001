@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Elections",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXMAYORSF-24",
+  "mutually_exclusive": true,
+  "series_ticker": "KXMAYORSF",
+  "strike_period": "",
+  "sub_title": "In 2024",
+  "title": "Who will win the election for Mayor of San Francisco?"
+}

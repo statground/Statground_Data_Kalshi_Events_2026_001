@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "SENATEAZ-24",
+  "mutually_exclusive": true,
+  "series_ticker": "SENATEAZ",
+  "strike_period": "",
+  "sub_title": "In 2024",
+  "title": "Who will win the Senate race in Arizona?"
+}

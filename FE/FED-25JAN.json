@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "",
+  "event_ticker": "FED-25JAN",
+  "mutually_exclusive": false,
+  "series_ticker": "KXFED",
+  "strike_date": "2025-01-29T19:00:00Z",
+  "strike_period": "",
+  "sub_title": "In Jan 29, 2025",
+  "title": "Fed funds rate in Jan 2025?"
+}

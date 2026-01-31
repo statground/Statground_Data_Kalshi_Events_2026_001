@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXEOCOUNTDAY1-25JAN20",
+  "mutually_exclusive": true,
+  "series_ticker": "KXEOCOUNTDAY1",
+  "strike_period": "",
+  "sub_title": "On day 1",
+  "title": "How many Executive Orders will Trump issue on Day 1?"
+}

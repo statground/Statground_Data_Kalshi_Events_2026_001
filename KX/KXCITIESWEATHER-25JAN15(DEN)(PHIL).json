@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCITIESWEATHER-25JAN15(DEN)(PHIL)",
+  "mutually_exclusive": true,
+  "series_ticker": "KXCITIESWEATHER",
+  "strike_period": "",
+  "sub_title": "Denver and Philadelphia on Jan 15, 2025",
+  "title": "Highest temperature in Denver and Philadelphia on Jan 15, 2025?"
+}

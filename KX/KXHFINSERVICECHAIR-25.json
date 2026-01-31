@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXHFINSERVICECHAIR-25",
+  "mutually_exclusive": true,
+  "series_ticker": "KXHFINSERVICECHAIR",
+  "strike_period": "",
+  "sub_title": "For the 119th Congress",
+  "title": "Who will be Chair of House Financial Services?"
+}

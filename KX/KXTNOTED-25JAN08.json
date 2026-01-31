@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXTNOTED-25JAN08",
+  "mutually_exclusive": true,
+  "series_ticker": "KXTNOTED",
+  "strike_date": "2025-01-08T20:25:00Z",
+  "strike_period": "",
+  "sub_title": "On Jan 8, 2025",
+  "title": "Treasury 10-year yield on Jan 8, 2025?"
+}

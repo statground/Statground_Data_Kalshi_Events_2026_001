@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXHIGHHOU-25JAN12",
+  "mutually_exclusive": true,
+  "series_ticker": "KXHIGHHOU",
+  "strike_date": "2025-01-13T05:59:00Z",
+  "strike_period": "",
+  "sub_title": "On Jan 12, 2025",
+  "title": "Highest temperature in Houston on Jan 12, 2025?"
+}

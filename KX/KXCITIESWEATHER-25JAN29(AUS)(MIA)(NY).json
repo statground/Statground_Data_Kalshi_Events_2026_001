@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCITIESWEATHER-25JAN29(AUS)(MIA)(NY)",
+  "mutually_exclusive": true,
+  "series_ticker": "KXCITIESWEATHER",
+  "strike_period": "",
+  "sub_title": "Austin, Miami and New York on Jan 29, 2025",
+  "title": "Highest temperature in Austin, Miami and New York on Jan 29, 2025?"
+}

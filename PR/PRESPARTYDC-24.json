@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "PRESPARTYDC-24",
+  "mutually_exclusive": true,
+  "series_ticker": "PRESPARTYDC",
+  "strike_period": "",
+  "sub_title": "In 2024",
+  "title": "Who will win Washington, District of Columbia in the presidential election?"
+}

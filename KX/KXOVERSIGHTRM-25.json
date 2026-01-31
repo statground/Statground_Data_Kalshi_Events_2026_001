@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXOVERSIGHTRM-25",
+  "mutually_exclusive": true,
+  "series_ticker": "KXOVERSIGHTRM",
+  "strike_period": "",
+  "sub_title": "For the 119th Congress",
+  "title": "Who will be ranking member of House Oversight Committee?"
+}

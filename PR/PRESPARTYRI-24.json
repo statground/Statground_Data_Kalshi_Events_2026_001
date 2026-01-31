@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Elections",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "PRESPARTYRI-24",
+  "mutually_exclusive": true,
+  "series_ticker": "PRESPARTYRI",
+  "strike_period": "",
+  "sub_title": "In 2024",
+  "title": "Who will win Rhode Island in the presidential election?"
+}

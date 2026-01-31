@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCABDATE",
+  "mutually_exclusive": true,
+  "series_ticker": "KXCABDATE",
+  "strike_period": "",
+  "sub_title": "In 2025",
+  "title": "What day will the first Trump Cabinet member be confirmed on?"
+}

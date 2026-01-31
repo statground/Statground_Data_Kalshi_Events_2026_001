@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXPRESCROATIA",
+  "mutually_exclusive": true,
+  "series_ticker": "KXPRESCROATIA",
+  "strike_period": "",
+  "sub_title": "In The 2024/5 election",
+  "title": "Who will win the Croatian presidential election?"
+}

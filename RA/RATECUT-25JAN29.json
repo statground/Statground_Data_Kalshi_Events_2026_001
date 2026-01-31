@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "",
+  "event_ticker": "RATECUT-25JAN29",
+  "mutually_exclusive": false,
+  "series_ticker": "KXRATECUT",
+  "strike_period": "",
+  "sub_title": "Before Jan 30, 2025",
+  "title": "Fed rate cut before Jan 30th?"
+}

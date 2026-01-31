@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXUSDJPYH-25JAN1709",
+  "mutually_exclusive": false,
+  "series_ticker": "KXUSDJPYH",
+  "strike_date": "2025-01-17T14:00:00Z",
+  "strike_period": "",
+  "sub_title": "Jan 17, 2025 at 9am EST",
+  "title": "USD/JPY price range on Jan 17, 2025 at 9am EST?"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCITIESWEATHER-25JAN28(DEN)(NY)(PHIL)",
+  "mutually_exclusive": true,
+  "series_ticker": "KXCITIESWEATHER",
+  "strike_period": "",
+  "sub_title": "Denver, New York and Philadelphia on Jan 28, 2025",
+  "title": "Highest temperature in Denver, New York and Philadelphia on Jan 28, 2025?"
+}

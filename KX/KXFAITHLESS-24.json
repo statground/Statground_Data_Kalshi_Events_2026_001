@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXFAITHLESS-24",
+  "mutually_exclusive": true,
+  "series_ticker": "KXFAITHLESS",
+  "strike_period": "",
+  "sub_title": "For the 2024 election",
+  "title": "How many faithless electors will there be?"
+}

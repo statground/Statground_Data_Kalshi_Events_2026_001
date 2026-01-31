@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Elections",
+  "collateral_return_type": "",
+  "event_ticker": "POPVOTEDJTMO-2024",
+  "mutually_exclusive": false,
+  "series_ticker": "POPVOTEDJTMO",
+  "strike_period": "",
+  "sub_title": "In 2024",
+  "title": "Will Trump win Missouri by more than 20 points?"
+}

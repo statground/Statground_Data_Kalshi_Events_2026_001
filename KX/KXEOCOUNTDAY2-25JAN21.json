@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXEOCOUNTDAY2-25JAN21",
+  "mutually_exclusive": true,
+  "series_ticker": "KXEOCOUNTDAY2",
+  "strike_period": "",
+  "sub_title": "On Day 2 (January 21, 2025)",
+  "title": "How many Executive Orders will Trump issue on Day 2?"
+}

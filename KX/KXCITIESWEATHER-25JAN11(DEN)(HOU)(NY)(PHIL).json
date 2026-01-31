@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCITIESWEATHER-25JAN11(DEN)(HOU)(NY)(PHIL)",
+  "mutually_exclusive": true,
+  "series_ticker": "KXCITIESWEATHER",
+  "strike_period": "",
+  "sub_title": "Denver, Houston, New York and Philadelphia on Jan 11, 2025",
+  "title": "Highest temperature in Denver, Houston, New York and Philadelphia on Jan 11, 2025?"
+}

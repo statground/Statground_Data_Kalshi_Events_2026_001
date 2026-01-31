@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "",
+  "event_ticker": "KXAAAGASW-25JAN06-US",
+  "mutually_exclusive": false,
+  "series_ticker": "KXAAAGASW",
+  "strike_date": "2025-01-06T15:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Jan 6, 2025",
+  "title": "Gas prices in the US up this week?"
+}

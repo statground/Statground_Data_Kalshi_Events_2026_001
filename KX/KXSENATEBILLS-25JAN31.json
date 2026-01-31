@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXSENATEBILLS-25JAN31",
+  "mutually_exclusive": true,
+  "series_ticker": "KXSENATEBILLS",
+  "strike_period": "",
+  "sub_title": "In Jan 2025",
+  "title": "How many bills will pass the Senate in Jan 2025?"
+}

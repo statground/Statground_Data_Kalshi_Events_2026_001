@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXHIGHCHI-25JAN27",
+  "mutually_exclusive": true,
+  "series_ticker": "KXHIGHCHI",
+  "strike_date": "2025-01-28T04:59:00Z",
+  "strike_period": "",
+  "sub_title": "On Jan 27, 2025",
+  "title": "Highest temperature in Chicago on Jan 27, 2025?"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "RHOUSESEATSSMALL-25",
+  "mutually_exclusive": true,
+  "series_ticker": "RHOUSESEATSSMALL",
+  "strike_period": "",
+  "sub_title": "On Feb 1, 2025",
+  "title": "How many seats will Republicans have in House? (break down)"
+}

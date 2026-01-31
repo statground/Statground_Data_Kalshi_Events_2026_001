@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "",
+  "event_ticker": "KXTRUMPNETFAVINAUG",
+  "mutually_exclusive": false,
+  "series_ticker": "KXTRUMPNETFAVINAUG",
+  "strike_period": "",
+  "sub_title": "On Inauguration Day",
+  "title": "Will Trump have a positive favorability rating on Inauguration Day?"
+}

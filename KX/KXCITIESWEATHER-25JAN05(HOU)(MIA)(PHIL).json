@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCITIESWEATHER-25JAN05(HOU)(MIA)(PHIL)",
+  "mutually_exclusive": true,
+  "series_ticker": "KXCITIESWEATHER",
+  "strike_period": "",
+  "sub_title": "Houston, Miami and Philadelphia on Jan 5, 2025",
+  "title": "Highest temperature in Houston, Miami and Philadelphia on Jan 5, 2025?"
+}

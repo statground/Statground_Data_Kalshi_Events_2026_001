@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Elections",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "PRESPARTYMA-24",
+  "mutually_exclusive": true,
+  "series_ticker": "PRESPARTYMA",
+  "strike_period": "",
+  "sub_title": "In 2024",
+  "title": "Who will win Massachusetts in the presidential election?"
+}

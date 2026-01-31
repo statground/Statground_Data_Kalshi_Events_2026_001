@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCITIESWEATHER-25JAN19(AUS)(DEN)(HOU)(MIA)(NY)",
+  "mutually_exclusive": true,
+  "series_ticker": "KXCITIESWEATHER",
+  "strike_period": "",
+  "sub_title": "Austin, Denver, Houston, Miami and New York on Jan 19, 2025",
+  "title": "Highest temperature in Austin, Denver, Houston, Miami and New York on Jan 19, 2025?"
+}

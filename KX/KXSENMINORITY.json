@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXSENMINORITY",
+  "mutually_exclusive": true,
+  "series_ticker": "KXSENMINORITY",
+  "strike_period": "",
+  "sub_title": "After the 2024 Election",
+  "title": "Who will be the Senate Minority Leader?"
+}

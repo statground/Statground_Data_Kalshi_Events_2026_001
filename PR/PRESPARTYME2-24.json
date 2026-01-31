@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "PRESPARTYME2-24",
+  "mutually_exclusive": true,
+  "series_ticker": "PRESPARTYME2",
+  "strike_period": "",
+  "sub_title": "In 2024",
+  "title": "Who will win ME-2 (Maine's second Congressional district) in the presidential election?"
+}

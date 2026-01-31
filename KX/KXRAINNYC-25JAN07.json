@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "",
+  "event_ticker": "KXRAINNYC-25JAN07",
+  "mutually_exclusive": false,
+  "series_ticker": "KXRAINNYC",
+  "strike_period": "",
+  "sub_title": "On January 07, 2025",
+  "title": "How much will it rain in New York City?"
+}

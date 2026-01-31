@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNFLPREPACK2ML-26JAN25LASEANEDEN",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Pro Football",
+    "competition_scope": "Combo"
+  },
+  "series_ticker": "KXNFLPREPACK2ML",
+  "strike_period": "",
+  "sub_title": "Los Angeles R at Seattle, New England at Denver",
+  "title": "Pro Football Combo: Los Angeles R at Seattle, New England at Denver"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXTOPALBUM-25JAN25",
+  "mutually_exclusive": true,
+  "series_ticker": "KXTOPALBUM",
+  "strike_period": "",
+  "sub_title": "On Jan 25, 2025",
+  "title": "Billboard Top 200 #1 on Jan 25, 2025 chart?"
+}

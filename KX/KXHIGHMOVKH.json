@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Elections",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXHIGHMOVKH",
+  "mutually_exclusive": true,
+  "series_ticker": "KXHIGHMOVKH",
+  "strike_period": "",
+  "sub_title": "In 2024",
+  "title": "Which state will Harris win by the highest margin?"
+}

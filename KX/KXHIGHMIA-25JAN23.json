@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXHIGHMIA-25JAN23",
+  "mutually_exclusive": true,
+  "series_ticker": "KXHIGHMIA",
+  "strike_date": "2025-01-24T04:59:00Z",
+  "strike_period": "",
+  "sub_title": "On Jan 23, 2025",
+  "title": "Highest temperature in Miami on Jan 23, 2025?"
+}

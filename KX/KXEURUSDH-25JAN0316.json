@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "",
+  "event_ticker": "KXEURUSDH-25JAN0316",
+  "mutually_exclusive": false,
+  "series_ticker": "KXEURUSDH",
+  "strike_date": "2025-01-03T21:00:00Z",
+  "strike_period": "",
+  "sub_title": "Jan 3, 2025 at 4pm EST",
+  "title": "EUR/USD price range on Jan 3, 2025 at 4pm EST?"
+}

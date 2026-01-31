@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXINXU-25JAN23",
+  "mutually_exclusive": false,
+  "series_ticker": "KXINXU",
+  "strike_date": "2025-01-23T21:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Jan 23, 2025",
+  "title": "S&P close price on Jan 23, 2025?"
+}

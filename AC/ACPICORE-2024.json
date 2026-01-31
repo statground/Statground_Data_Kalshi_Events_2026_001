@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "ACPICORE-2024",
+  "mutually_exclusive": true,
+  "series_ticker": "KXACPICORE-",
+  "strike_period": "",
+  "sub_title": "In 2024",
+  "title": "Core inflation in 2024?"
+}
