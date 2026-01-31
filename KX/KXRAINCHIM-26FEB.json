@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXRAINCHIM-26FEB",
+  "mutually_exclusive": false,
+  "series_ticker": "KXRAINCHIM",
+  "strike_period": "",
+  "sub_title": "In Feb 2026",
+  "title": "Rain in Chicago in Feb 2026?"
+}

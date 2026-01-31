@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Elections",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCALIEUTENANTGOV-26NOV03",
+  "mutually_exclusive": true,
+  "series_ticker": "KXCALIEUTENANTGOV",
+  "strike_period": "",
+  "sub_title": "in 2026",
+  "title": "Who will win the Lieutenant Governor race in California?"
+}

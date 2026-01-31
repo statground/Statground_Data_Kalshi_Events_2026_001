@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Science and Technology",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXTOPMODEL-26FEB28",
+  "mutually_exclusive": true,
+  "series_ticker": "KXTOPMODEL",
+  "strike_period": "",
+  "sub_title": "On Feb 28, 2026",
+  "title": "What will be the top AI model this month?"
+}

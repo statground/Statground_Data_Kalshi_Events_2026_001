@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXRAINDALM-26FEB",
+  "mutually_exclusive": false,
+  "series_ticker": "KXRAINDALM",
+  "strike_period": "",
+  "sub_title": "In Feb 2026",
+  "title": "Rain in Dallas in Feb 2026?"
+}

@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXATPCHALLENGERMATCH-26JAN31PEANAK",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "ATP Challenger Brisbane",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXATPCHALLENGERMATCH",
+  "strike_period": "",
+  "sub_title": "Pearson vs Nakagawa (Jan 31)",
+  "title": "Pearson vs Nakagawa"
+}

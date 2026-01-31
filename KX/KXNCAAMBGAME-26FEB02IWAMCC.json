@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNCAAMBGAME-26FEB02IWAMCC",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "College Basketball (M)",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXNCAAMBGAME",
+  "strike_period": "",
+  "sub_title": "IW at AMCC (Feb 2)",
+  "title": "Incarnate Word at Texas A&M-Corpus Christi"
+}

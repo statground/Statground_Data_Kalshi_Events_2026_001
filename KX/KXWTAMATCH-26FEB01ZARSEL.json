@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXWTAMATCH-26FEB01ZARSEL",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "WTA Abu Dhabi",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXWTAMATCH",
+  "strike_period": "",
+  "sub_title": "Zarazua vs Selekhmeteva (Feb 1)",
+  "title": "Zarazua vs Selekhmeteva"
+}

@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXDOTA2GAME-26FEB01YBVG",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Dota 2",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXDOTA2GAME",
+  "strike_period": "",
+  "sub_title": "Yakult's Brothers vs. Vici Gaming (Feb 1)",
+  "title": "ESL Challenger China 2026: Yakult's Brothers vs. Vici Gaming"
+}

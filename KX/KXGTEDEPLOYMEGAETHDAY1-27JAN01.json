@@ -1,5 +1,5 @@
 {
-  "available_on_brokers": false,
+  "available_on_brokers": true,
   "category": "Crypto",
   "collateral_return_type": "",
   "event_ticker": "KXGTEDEPLOYMEGAETHDAY1-27JAN01",

@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXVALORANTGAME-26FEB03DRGTYLOO",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Valorant",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXVALORANTGAME",
+  "strike_period": "",
+  "sub_title": "Dragon Ranger Gaming vs. TYLOO (Feb 3)",
+  "title": "VCT China Kickoff 2026: Dragon Ranger Gaming vs. TYLOO"
+}
