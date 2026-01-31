@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Science and Technology",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNEXTLAUNCHSMALL-26",
+  "mutually_exclusive": true,
+  "series_ticker": "KXNEXTLAUNCHSMALL",
+  "strike_period": "",
+  "sub_title": "Before 2026",
+  "title": "Which of these smaller space companies will launch next?"
+}

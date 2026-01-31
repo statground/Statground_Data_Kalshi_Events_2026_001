@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Entertainment",
+  "collateral_return_type": "",
+  "event_ticker": "KXSPOTIFYSONG-25",
+  "mutually_exclusive": false,
+  "series_ticker": "KXSPOTIFYSONG",
+  "strike_period": "",
+  "sub_title": "In 2025",
+  "title": "Who will release a new song this year?"
+}

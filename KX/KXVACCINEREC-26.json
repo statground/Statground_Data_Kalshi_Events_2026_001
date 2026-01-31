@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Politics",
+  "collateral_return_type": "",
+  "event_ticker": "KXVACCINEREC-26",
+  "mutually_exclusive": false,
+  "series_ticker": "KXVACCINEREC",
+  "strike_period": "",
+  "sub_title": "Before Jan 1, 2026",
+  "title": "Will the CDC end its recommendation for any vaccine in 2025?"
+}

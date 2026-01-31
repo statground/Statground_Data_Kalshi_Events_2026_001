@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Climate and Weather",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXRAINMIAM-25DEC",
+  "mutually_exclusive": false,
+  "series_ticker": "KXRAINMIAM",
+  "strike_period": "",
+  "sub_title": "In Dec 2025",
+  "title": "Rain in Miami in Dec 2025?"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXVPBREAKS-25DEC31",
+  "mutually_exclusive": true,
+  "series_ticker": "KXVPBREAKS",
+  "strike_period": "",
+  "sub_title": "In 2025",
+  "title": "How many Senate ties will J.D. Vance break in 2025?"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "",
+  "event_ticker": "KXPARLIAMENTARIAN-26",
+  "mutually_exclusive": false,
+  "series_ticker": "KXPARLIAMENTARIAN",
+  "strike_period": "",
+  "sub_title": "Before 2026",
+  "title": "Will the Senate overrule the parliamentarian on budget reconciliation?"
+}

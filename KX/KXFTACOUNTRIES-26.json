@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Politics",
+  "collateral_return_type": "",
+  "event_ticker": "KXFTACOUNTRIES-26",
+  "mutually_exclusive": false,
+  "series_ticker": "KXFTACOUNTRIES",
+  "strike_period": "",
+  "sub_title": "Before 2026",
+  "title": "Which countries will the US enact a trade deal with this year?"
+}

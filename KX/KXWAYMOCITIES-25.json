@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Science and Technology",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXWAYMOCITIES-25",
+  "mutually_exclusive": true,
+  "series_ticker": "KXWAYMOCITIES",
+  "strike_period": "",
+  "sub_title": "On Dec 31, 2025",
+  "title": "How many cities will Waymo be operating in at the end of 2025?"
+}

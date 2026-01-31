@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCABCHANGE-26",
+  "mutually_exclusive": true,
+  "series_ticker": "KXCABCHANGE",
+  "strike_period": "",
+  "sub_title": "2025",
+  "title": "How many Trump Cabinet members will leave in 2025?"
+}

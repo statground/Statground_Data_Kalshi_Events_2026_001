@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXPERFORMANCEORDERDR-26JAN01",
+  "mutually_exclusive": true,
+  "series_ticker": "KXPERFORMANCEORDERDR",
+  "strike_period": "",
+  "sub_title": "Diana Ross setlist",
+  "title": "Will “I’m Coming Out” be the first song Diana Ross performs during her headlining performance at Dick Clark’s New Year’s Rockin’ Eve 2026?"
+}

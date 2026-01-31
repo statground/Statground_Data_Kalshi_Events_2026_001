@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "",
+  "event_ticker": "KXVOTESHUTDOWNH-25",
+  "mutually_exclusive": false,
+  "series_ticker": "KXVOTESHUTDOWNH",
+  "strike_period": "",
+  "sub_title": "Before 2025",
+  "title": "Who will vote for the next government funding bill in the House?"
+}

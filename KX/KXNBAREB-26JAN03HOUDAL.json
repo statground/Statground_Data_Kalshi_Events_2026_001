@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNBAREB-26JAN03HOUDAL",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Basketball (M)",
+    "competition_scope": "Player Rebounds"
+  },
+  "series_ticker": "KXNBAREB",
+  "strike_period": "",
+  "sub_title": "HOU at DAL (Jan 3)",
+  "title": "Houston at Dallas: Rebounds"
+}

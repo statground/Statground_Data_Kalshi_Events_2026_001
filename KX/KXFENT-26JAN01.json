@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXFENT-26JAN01",
+  "mutually_exclusive": true,
+  "series_ticker": "KXFENT",
+  "strike_period": "",
+  "sub_title": "Before Jan 1, 2026",
+  "title": "How many votes will the \"HALT Fentanyl Act\" receive in the House?"
+}

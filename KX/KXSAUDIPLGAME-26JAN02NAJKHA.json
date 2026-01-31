@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXSAUDIPLGAME-26JAN02NAJKHA",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Saudi Pro League",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXSAUDIPLGAME",
+  "strike_period": "",
+  "sub_title": "NAJ vs KHA (Jan 2)",
+  "title": "Al-Najma vs Al-Khaleej"
+}

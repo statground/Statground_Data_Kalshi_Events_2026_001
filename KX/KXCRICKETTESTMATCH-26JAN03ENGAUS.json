@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCRICKETTESTMATCH-26JAN03ENGAUS",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Test International",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXCRICKETTESTMATCH",
+  "strike_period": "",
+  "sub_title": "AUS vs ENG (Jan 3)",
+  "title": "Australia vs England"
+}

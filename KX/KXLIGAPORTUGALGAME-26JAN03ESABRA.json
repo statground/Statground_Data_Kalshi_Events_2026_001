@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXLIGAPORTUGALGAME-26JAN03ESABRA",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Liga Portugal",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXLIGAPORTUGALGAME",
+  "strike_period": "",
+  "sub_title": "ESA vs BRA (Jan 3)",
+  "title": "Estrela Amadora vs Braga"
+}

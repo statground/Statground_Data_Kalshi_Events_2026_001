@@ -1,0 +1,14 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXWNBARAISE-25",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Basketball (W)"
+  },
+  "series_ticker": "KXWNBARAISE",
+  "strike_period": "",
+  "sub_title": "Before 2026",
+  "title": "Pro women's basketball players get a raise in 2025?"
+}

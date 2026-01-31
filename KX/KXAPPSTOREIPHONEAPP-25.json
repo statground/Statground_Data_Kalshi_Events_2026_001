@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXAPPSTOREIPHONEAPP-25",
+  "mutually_exclusive": true,
+  "series_ticker": "KXAPPSTOREIPHONEAPP",
+  "strike_period": "",
+  "sub_title": "2025",
+  "title": "iPhone App of the Year?"
+}

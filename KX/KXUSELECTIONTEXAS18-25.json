@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Elections",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXUSELECTIONTEXAS18-25",
+  "mutually_exclusive": true,
+  "series_ticker": "KXUSELECTIONTEXAS18",
+  "strike_period": "",
+  "sub_title": "In 2025",
+  "title": "Which party will win the Special Election for TX-18?"
+}

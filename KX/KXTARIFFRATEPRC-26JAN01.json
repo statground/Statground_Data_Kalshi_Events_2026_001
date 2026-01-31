@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXTARIFFRATEPRC-26JAN01",
+  "mutually_exclusive": true,
+  "series_ticker": "KXTARIFFRATEPRC",
+  "strike_period": "",
+  "sub_title": "On Jan 1, 2026",
+  "title": "What will the U.S. tariff rate on China be on January 1, 2026?"
+}

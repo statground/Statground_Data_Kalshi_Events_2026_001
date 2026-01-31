@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXAFCONADVANCE-26JAN03SENSDN",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Africa Cup of Nations",
+    "competition_scope": "To Advance"
+  },
+  "series_ticker": "KXAFCONADVANCE",
+  "strike_period": "",
+  "sub_title": "SEN vs SDN (Jan 3)",
+  "title": "Senegal vs Sudan: To Advance"
+}

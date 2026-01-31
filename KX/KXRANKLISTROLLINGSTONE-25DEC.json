@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXRANKLISTROLLINGSTONE-25DEC",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Pro Football",
+    "competition_scope": "Fantasy"
+  },
+  "series_ticker": "KXRANKLISTROLLINGSTONE",
+  "strike_period": "",
+  "sub_title": "Before Dec 2025",
+  "title": "#1  Album on Rolling Stone's 100 Best Albums of 2025 list?"
+}

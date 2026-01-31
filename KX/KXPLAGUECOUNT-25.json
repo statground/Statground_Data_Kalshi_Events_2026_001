@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Health",
+  "collateral_return_type": "",
+  "event_ticker": "KXPLAGUECOUNT-25",
+  "mutually_exclusive": false,
+  "series_ticker": "KXPLAGUECOUNT",
+  "strike_period": "",
+  "sub_title": "2025",
+  "title": "How many cases of the plague will there be in the USA in 2025?"
+}

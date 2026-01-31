@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXSENATEEPSTEIN-26JAN01",
+  "mutually_exclusive": true,
+  "series_ticker": "KXSENATEEPSTEIN",
+  "strike_period": "",
+  "sub_title": "Before Jan 1, 2026",
+  "title": "How many Senate votes will the bill to unseal Epstein records receive?"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXSPEAKERVOTE-25",
+  "mutually_exclusive": true,
+  "series_ticker": "KXSPEAKERVOTE",
+  "strike_period": "",
+  "sub_title": "In 2025",
+  "title": "How many votes will it take to elect a Speaker of the House?"
+}

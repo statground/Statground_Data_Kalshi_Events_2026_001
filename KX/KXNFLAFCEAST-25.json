@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNFLAFCEAST-25",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Pro Football",
+    "competition_scope": "Divisions"
+  },
+  "series_ticker": "KXNFLAFCEAST",
+  "strike_period": "",
+  "sub_title": "2025/26 AFC East Division",
+  "title": "AFC East Division Winner?"
+}

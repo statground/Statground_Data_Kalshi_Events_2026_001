@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXIIHFGAME-25DEC31SWEUSA",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "IIHF - Junior World Championship",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXIIHFGAME",
+  "strike_period": "",
+  "sub_title": "SWE at USA (Dec 31)",
+  "title": "Sweden U20 vs USA U20"
+}

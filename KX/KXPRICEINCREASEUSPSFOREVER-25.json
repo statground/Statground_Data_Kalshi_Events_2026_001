@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "",
+  "event_ticker": "KXPRICEINCREASEUSPSFOREVER-25",
+  "mutually_exclusive": false,
+  "series_ticker": "KXPRICEINCREASEUSPSFOREVER",
+  "strike_period": "",
+  "sub_title": "Before 2026",
+  "title": "USPS forever stamps price increase in 2025?"
+}

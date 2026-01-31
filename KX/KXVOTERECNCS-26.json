@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "",
+  "event_ticker": "KXVOTERECNCS-26",
+  "mutually_exclusive": false,
+  "series_ticker": "KXVOTERECNCS",
+  "strike_period": "",
+  "sub_title": "Before 2026",
+  "title": "Who will vote for the next budget reconciliation bill in the Senate?"
+}

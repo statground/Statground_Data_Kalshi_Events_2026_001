@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Companies",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXROBINHOODCHAIN-25DEC31",
+  "mutually_exclusive": true,
+  "series_ticker": "KXROBINHOODCHAIN",
+  "strike_period": "",
+  "sub_title": "Before 2026",
+  "title": "Will Robinhood Chain announce they will build on a tech stack other than Arbitrum's in 2025?"
+}

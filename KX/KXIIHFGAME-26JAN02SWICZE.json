@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXIIHFGAME-26JAN02SWICZE",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "IIHF - Junior World Championship",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXIIHFGAME",
+  "strike_period": "",
+  "sub_title": "SWI at CZE (Jan 2)",
+  "title": "Switzerland U20 vs Czechia U20"
+}

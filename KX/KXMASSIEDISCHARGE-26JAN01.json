@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXMASSIEDISCHARGE-26JAN01",
+  "mutually_exclusive": true,
+  "series_ticker": "KXMASSIEDISCHARGE",
+  "strike_period": "",
+  "sub_title": "Before Jan 1, 2026",
+  "title": "Which party will be the 218th signature for Massie’s Epstein discharge petition?"
+}

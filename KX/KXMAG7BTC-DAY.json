@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Crypto",
+  "collateral_return_type": "",
+  "event_ticker": "KXMAG7BTC-DAY",
+  "mutually_exclusive": false,
+  "series_ticker": "KXMAG7BTC",
+  "strike_period": "",
+  "sub_title": "Before 2026",
+  "title": "Will one of the Magnificent 7 announce a BTC purchase in 2025?"
+}

@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXUNITEDCUP-26",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "United Cup",
+    "competition_scope": "Future"
+  },
+  "series_ticker": "KXUNITEDCUP",
+  "strike_period": "",
+  "sub_title": "2026 United Cup",
+  "title": "United Cup Winner?"
+}

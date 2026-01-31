@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXAPPSTOREIPADGAME-25",
+  "mutually_exclusive": true,
+  "series_ticker": "KXAPPSTOREIPADGAME",
+  "strike_period": "",
+  "sub_title": "2025",
+  "title": "iPad Game of the Year?"
+}

@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNFLNFCSOUTH-25",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Pro Football",
+    "competition_scope": "Divisions"
+  },
+  "series_ticker": "KXNFLNFCSOUTH",
+  "strike_period": "",
+  "sub_title": "2025/26 NFC South Division",
+  "title": "NFC South Division Winner?"
+}

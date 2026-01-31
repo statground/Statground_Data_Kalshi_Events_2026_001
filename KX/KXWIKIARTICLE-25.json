@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Social",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXWIKIARTICLE-25",
+  "mutually_exclusive": true,
+  "series_ticker": "KXWIKIARTICLE",
+  "strike_period": "",
+  "sub_title": "In 2025",
+  "title": "What will be the most popular Wikipedia article in 2025?"
+}

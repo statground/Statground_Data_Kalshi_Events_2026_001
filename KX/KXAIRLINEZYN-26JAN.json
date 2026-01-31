@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXAIRLINEZYN-26JAN",
+  "mutually_exclusive": true,
+  "series_ticker": "KXAIRLINEZYN",
+  "strike_period": "",
+  "sub_title": "Before Jan 2026",
+  "title": "What U.S. airline will be the first to sell Zyn on their flights?"
+}

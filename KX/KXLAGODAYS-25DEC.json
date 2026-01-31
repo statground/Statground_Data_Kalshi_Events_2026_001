@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXLAGODAYS-25DEC",
+  "mutually_exclusive": true,
+  "series_ticker": "KXLAGODAYS",
+  "strike_period": "",
+  "sub_title": "In Dec 2025",
+  "title": "How many times will Trump visit Mar-a-Lago in December?"
+}

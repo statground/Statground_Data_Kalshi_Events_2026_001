@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "",
+  "event_ticker": "KXBALANCESHEET-26",
+  "mutually_exclusive": false,
+  "series_ticker": "KXBALANCESHEET",
+  "strike_period": "",
+  "sub_title": "Before 2026",
+  "title": "How much will the Fed’s balance sheet shrink before 2026?"
+}

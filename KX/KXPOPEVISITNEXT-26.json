@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "World",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXPOPEVISITNEXT-26",
+  "mutually_exclusive": true,
+  "series_ticker": "KXPOPEVISITNEXT",
+  "strike_period": "",
+  "sub_title": "Before 2026",
+  "title": "Which country will the Pope visit next?"
+}

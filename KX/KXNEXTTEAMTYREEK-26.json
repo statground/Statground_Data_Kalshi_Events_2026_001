@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNEXTTEAMTYREEK-26",
+  "mutually_exclusive": true,
+  "series_ticker": "KXNEXTTEAMTYREEK",
+  "strike_period": "",
+  "sub_title": "Before 2026",
+  "title": "What will be Tyreek Hill's next team?"
+}

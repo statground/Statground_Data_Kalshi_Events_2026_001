@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXVIOLENCEW-26JAN01",
+  "mutually_exclusive": true,
+  "series_ticker": "KXVIOLENCEW",
+  "strike_period": "",
+  "sub_title": "Before Jan 1, 2026",
+  "title": "How many votes will the \"Violence Against Women by Illegal Aliens Act\" receive in the House?"
+}

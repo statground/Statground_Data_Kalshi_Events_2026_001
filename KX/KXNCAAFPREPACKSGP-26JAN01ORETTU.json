@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNCAAFPREPACKSGP-26JAN01ORETTU",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "College Football Playoffs",
+    "competition_scope": "Combo"
+  },
+  "series_ticker": "KXNCAAFPREPACKSGP",
+  "strike_period": "",
+  "sub_title": "Oregon at Texas Tech",
+  "title": "College Football Combo: Oregon at Texas Tech"
+}

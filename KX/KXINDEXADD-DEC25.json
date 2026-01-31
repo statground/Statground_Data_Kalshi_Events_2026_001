@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "World",
+  "collateral_return_type": "",
+  "event_ticker": "KXINDEXADD-DEC25",
+  "mutually_exclusive": false,
+  "series_ticker": "KXINDEXADD",
+  "strike_period": "",
+  "sub_title": "Before 2026",
+  "title": "What companies will be added to the S&P 500 in 2025?"
+}

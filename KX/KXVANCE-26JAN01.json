@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXVANCE-26JAN01",
+  "mutually_exclusive": true,
+  "series_ticker": "KXVANCE",
+  "strike_period": "",
+  "sub_title": "Before 2026",
+  "title": "Who will replace JD Vance as Ohio Senator?"
+}

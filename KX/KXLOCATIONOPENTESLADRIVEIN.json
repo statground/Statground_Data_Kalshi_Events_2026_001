@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "World",
+  "collateral_return_type": "",
+  "event_ticker": "KXLOCATIONOPENTESLADRIVEIN",
+  "mutually_exclusive": false,
+  "series_ticker": "KXLOCATIONOPENTESLADRIVEIN",
+  "strike_period": "",
+  "sub_title": "Before 2026",
+  "title": "Where will Tesla diner's open this year?"
+}

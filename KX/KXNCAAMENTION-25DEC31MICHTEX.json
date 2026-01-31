@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Mentions",
+  "collateral_return_type": "",
+  "event_ticker": "KXNCAAMENTION-25DEC31MICHTEX",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "the governing league",
+    "competition_scope": "Mentions"
+  },
+  "series_ticker": "KXNCAAMENTION",
+  "strike_period": "",
+  "sub_title": "Michigan at Texas",
+  "title": "What will the announcers say during the Michigan at Texas college football game?"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXTRUMPFIRE-25",
+  "mutually_exclusive": true,
+  "series_ticker": "KXTRUMPFIRE",
+  "strike_period": "",
+  "sub_title": "Before 2026",
+  "title": "How many Cabinet members will Trump fire in 2025?"
+}

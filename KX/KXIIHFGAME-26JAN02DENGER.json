@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXIIHFGAME-26JAN02DENGER",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "IIHF - Junior World Championship",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXIIHFGAME",
+  "strike_period": "",
+  "sub_title": "DEN at GER (Jan 2)",
+  "title": "Denmark U20 vs Germany U20"
+}

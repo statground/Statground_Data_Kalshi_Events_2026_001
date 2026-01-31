@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Transportation",
+  "collateral_return_type": "",
+  "event_ticker": "KXPIPELINECEASETURKBLUE-25",
+  "mutually_exclusive": false,
+  "series_ticker": "KXPIPELINECEASETURKBLUE",
+  "strike_period": "",
+  "sub_title": "Before 2026",
+  "title": "Will either the TurkStream or Blue Stream pipeline cease pumping gas at any point in 2025?"
+}

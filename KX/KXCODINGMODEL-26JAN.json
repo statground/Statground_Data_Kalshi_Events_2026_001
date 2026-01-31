@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Science and Technology",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCODINGMODEL-26JAN",
+  "mutually_exclusive": true,
+  "series_ticker": "KXCODINGMODEL",
+  "strike_period": "",
+  "sub_title": "On Jan 1, 2026",
+  "title": "Which AI company will have the best coding model on Jan 1, 2026?"
+}

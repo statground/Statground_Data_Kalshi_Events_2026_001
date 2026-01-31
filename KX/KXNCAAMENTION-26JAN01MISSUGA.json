@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Mentions",
+  "collateral_return_type": "",
+  "event_ticker": "KXNCAAMENTION-26JAN01MISSUGA",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "the governing league",
+    "competition_scope": "Mentions"
+  },
+  "series_ticker": "KXNCAAMENTION",
+  "strike_period": "",
+  "sub_title": "Ole Miss at Georgia",
+  "title": "What will the announcers say during the Ole Miss at Georgia college football game?"
+}

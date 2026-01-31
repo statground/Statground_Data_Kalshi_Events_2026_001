@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Elections",
+  "collateral_return_type": "",
+  "event_ticker": "KXRECALLNEWSOM-26",
+  "mutually_exclusive": false,
+  "series_ticker": "KXRECALLNEWSOM",
+  "strike_period": "",
+  "sub_title": "Before 2026",
+  "title": "Will there be a recall election for Gavin Newsom in 2025?"
+}

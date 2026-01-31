@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXWTIW-26JAN02",
+  "mutually_exclusive": true,
+  "series_ticker": "KXWTIW",
+  "strike_date": "2026-01-02T19:30:00Z",
+  "strike_period": "",
+  "sub_title": "On Jan 2, 2026",
+  "title": "WTI oil price on Jan 2, 2026?"
+}

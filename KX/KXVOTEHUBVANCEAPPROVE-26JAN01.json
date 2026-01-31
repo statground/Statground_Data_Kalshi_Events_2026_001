@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXVOTEHUBVANCEAPPROVE-26JAN01",
+  "mutually_exclusive": true,
+  "series_ticker": "KXVOTEHUBVANCEAPPROVE",
+  "strike_period": "",
+  "sub_title": "For Jan 1, 2026",
+  "title": "What will J.D. Vance's favorability rating be for Jan 1, 2026?"
+}

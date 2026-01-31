@@ -1,0 +1,14 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNEXTTEAMVERSTAPPEN-26",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "F1"
+  },
+  "series_ticker": "KXNEXTTEAMVERSTAPPEN",
+  "strike_period": "",
+  "sub_title": "Before 2026",
+  "title": "Will Max Verstappen join Mercedes in 2025?"
+}

@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNBAREB-26JAN02MEMLAL",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Basketball (M)",
+    "competition_scope": "Player Rebounds"
+  },
+  "series_ticker": "KXNBAREB",
+  "strike_period": "",
+  "sub_title": "MEM at LAL (Jan 2)",
+  "title": "Memphis at Los Angeles L: Rebounds"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "",
+  "event_ticker": "KXUSDCUSDTRATIO-25",
+  "mutually_exclusive": false,
+  "series_ticker": "KXUSDCUSDTRATIO",
+  "strike_period": "",
+  "sub_title": "On Dec 31, 2025",
+  "title": "Will USDC market cap exceed 50% of USDT market cap at year end 2025?"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "",
+  "event_ticker": "KXCONGESTIONEND-25",
+  "mutually_exclusive": false,
+  "series_ticker": "KXCONGESTIONEND",
+  "strike_period": "",
+  "sub_title": "In 2025",
+  "title": "Will congestion pricing in NYC end in 2025?"
+}

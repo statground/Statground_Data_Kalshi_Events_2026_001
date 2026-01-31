@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": true,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXAPRPOTUSEOY-26JAN01",
+  "mutually_exclusive": true,
+  "series_ticker": "KXAPRPOTUSEOY",
+  "strike_date": "2026-01-01T16:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Jan 1, 2026",
+  "title": "The President's RCP approval rating on Jan 1, 2026?"
+}

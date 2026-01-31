@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Companies",
+  "collateral_return_type": "",
+  "event_ticker": "KXUSCOMPANYSTAKE-26JAN01",
+  "mutually_exclusive": false,
+  "series_ticker": "KXUSCOMPANYSTAKE",
+  "strike_period": "",
+  "sub_title": "Before Jan 1, 2026",
+  "title": "Will the US take a stake in TikTok US?"
+}

@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNCAAFPREPACK2ML-26JAN01TTUOREINDALAUGAMISS",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "College Football Playoffs",
+    "competition_scope": "Combo"
+  },
+  "series_ticker": "KXNCAAFPREPACK2ML",
+  "strike_period": "",
+  "sub_title": "Oregon at Texas Tech, Alabama at Indiana, Ole Miss at Georgia",
+  "title": "College Football 2-leg Combo: Oregon at Texas Tech, Alabama at Indiana, Ole Miss at Georgia"
+}

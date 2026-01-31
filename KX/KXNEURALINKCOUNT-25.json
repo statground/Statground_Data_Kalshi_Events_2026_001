@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Health",
+  "collateral_return_type": "",
+  "event_ticker": "KXNEURALINKCOUNT-25",
+  "mutually_exclusive": false,
+  "series_ticker": "KXNEURALINKCOUNT",
+  "strike_period": "",
+  "sub_title": "Before 2026",
+  "title": "How many people will Neuralink have implanted in 2025?"
+}

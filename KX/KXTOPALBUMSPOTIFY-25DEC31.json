@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXTOPALBUMSPOTIFY-25DEC31",
+  "mutually_exclusive": true,
+  "series_ticker": "KXTOPALBUMSPOTIFY",
+  "strike_period": "",
+  "sub_title": "In 2025",
+  "title": "Top album on Spotify this year?"
+}

@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXOSCARWINNERS-2566C08",
+  "mutually_exclusive": true,
+  "series_ticker": "KXOSCARWINNERS",
+  "strike_date": "2025-12-31T15:00:00Z",
+  "strike_period": "",
+  "sub_title": "In 2025, Best Picture, Best Actor, Best Actress, Best Supporting Actress, Best Director, Best Animated Feature and Best Original Screenplay",
+  "title": "2025 Oscars for Best Picture, Best Actor, Best Actress, Best Supporting Actress, Best Director, Best Animated Feature and Best Original Screenplay?"
+}

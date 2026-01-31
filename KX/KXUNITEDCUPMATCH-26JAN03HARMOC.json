@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXUNITEDCUPMATCH-26JAN03HARMOC",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "United Cup",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXUNITEDCUPMATCH",
+  "strike_period": "",
+  "sub_title": "Harris vs Mochizuki",
+  "title": "Harris vs Mochizuki: Group E"
+}

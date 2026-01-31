@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Companies",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXOPENDOORCEO-26JAN",
+  "mutually_exclusive": true,
+  "series_ticker": "KXOPENDOORCEO",
+  "strike_period": "",
+  "sub_title": "In 2026",
+  "title": "Who will be the next CEO of Opendoor?"
+}

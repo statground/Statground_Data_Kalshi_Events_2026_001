@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Politics",
+  "collateral_return_type": "",
+  "event_ticker": "KXACASUBSIDYBILL-26JAN01",
+  "mutually_exclusive": false,
+  "series_ticker": "KXACASUBSIDYBILL",
+  "strike_period": "",
+  "sub_title": "Before Jan 1, 2026",
+  "title": "House passes bill to extend ACA premium tax credits?"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "World",
+  "collateral_return_type": "",
+  "event_ticker": "KXCALCOLLEGEFUNDPULL-26",
+  "mutually_exclusive": false,
+  "series_ticker": "KXCALCOLLEGEFUNDPULL",
+  "strike_period": "",
+  "sub_title": "Before 2026",
+  "title": "Will the President pull any federal funding from California universities this year?"
+}

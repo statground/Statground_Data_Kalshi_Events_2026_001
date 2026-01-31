@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Politics",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXGOVSHUTLENGTH-26JAN01",
+  "mutually_exclusive": false,
+  "series_ticker": "KXGOVSHUTLENGTH",
+  "strike_period": "",
+  "sub_title": "Sep 5, 2025 to Jan 1, 2026",
+  "title": "How long will the government shutdown last?"
+}

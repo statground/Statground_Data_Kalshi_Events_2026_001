@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Health",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXPERTUSSIS-25",
+  "mutually_exclusive": false,
+  "series_ticker": "KXPERTUSSIS",
+  "strike_period": "",
+  "sub_title": "In 2025",
+  "title": "How many whooping cough cases this year?"
+}

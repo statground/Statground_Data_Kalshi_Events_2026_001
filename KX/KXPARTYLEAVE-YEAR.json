@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "",
+  "event_ticker": "KXPARTYLEAVE-YEAR",
+  "mutually_exclusive": false,
+  "series_ticker": "KXPARTYLEAVE",
+  "strike_period": "",
+  "sub_title": "Before 2026",
+  "title": "Will anyone in Congress change parties in 2026?"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXAWARDSCOUNTSTU-26",
+  "mutually_exclusive": true,
+  "series_ticker": "KXAWARDSCOUNTSTU",
+  "strike_period": "",
+  "sub_title": "At the 2025 Emmy Awards",
+  "title": "How many awards will The Studio win at the 2025 Emmy Awards?"
+}

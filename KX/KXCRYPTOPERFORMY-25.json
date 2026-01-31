@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Crypto",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCRYPTOPERFORMY-25",
+  "mutually_exclusive": true,
+  "series_ticker": "KXCRYPTOPERFORMY",
+  "strike_period": "",
+  "sub_title": "In 2025",
+  "title": "Which of these cryptocurrencies will perform best in 2025?"
+}

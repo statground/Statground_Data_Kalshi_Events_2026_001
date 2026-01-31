@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": true,
+  "category": "Climate and Weather",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXLOWTAUS-25DEC31",
+  "mutually_exclusive": true,
+  "series_ticker": "KXLOWTAUS",
+  "strike_date": "2026-01-01T06:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Dec 31, 2025",
+  "title": "Lowest temperature in Austin on Dec 31, 2025?"
+}

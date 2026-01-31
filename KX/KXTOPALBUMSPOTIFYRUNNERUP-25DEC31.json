@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXTOPALBUMSPOTIFYRUNNERUP-25DEC31",
+  "mutually_exclusive": true,
+  "series_ticker": "KXTOPALBUMSPOTIFYRUNNERUP",
+  "strike_period": "",
+  "sub_title": "On Dec 31, 2025 at 10:00 AM ET",
+  "title": "Runner Up Top Album on Spotify this year?"
+}

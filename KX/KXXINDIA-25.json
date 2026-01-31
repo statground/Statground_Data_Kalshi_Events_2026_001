@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "",
+  "event_ticker": "KXXINDIA-25",
+  "mutually_exclusive": false,
+  "series_ticker": "KXXINDIA",
+  "strike_period": "",
+  "sub_title": "In 2025",
+  "title": "Will a story be published that at least 70% of X accounts are from India?"
+}

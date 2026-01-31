@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNCAAFPREPACK4ML-25DEC31OSUMIATTUOREINDALAUGAMISS",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "College Football Playoffs",
+    "competition_scope": "Combo"
+  },
+  "series_ticker": "KXNCAAFPREPACK4ML",
+  "strike_period": "",
+  "sub_title": "Miami (FL) at Ohio St., Oregon at Texas Tech, Alabama at Indiana, Ole Miss at Georgia",
+  "title": "College Football 4-leg Combo: Miami (FL) at Ohio St., Oregon at Texas Tech, Alabama at Indiana, Ole Miss at Georgia"
+}

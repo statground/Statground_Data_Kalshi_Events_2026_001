@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXSKVOTE-26",
+  "mutually_exclusive": true,
+  "series_ticker": "KXSKVOTE",
+  "strike_period": "",
+  "sub_title": "Before 2026",
+  "title": "How many Constitutional Court justices will vote to remove the South Korean President from office?"
+}

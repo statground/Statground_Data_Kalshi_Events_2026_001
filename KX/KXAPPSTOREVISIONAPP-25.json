@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXAPPSTOREVISIONAPP-25",
+  "mutually_exclusive": true,
+  "series_ticker": "KXAPPSTOREVISIONAPP",
+  "strike_period": "",
+  "sub_title": "2025",
+  "title": "Apple Vision Pro App of the Year?"
+}

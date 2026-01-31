@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXASPSNOWM-25DEC",
+  "mutually_exclusive": false,
+  "series_ticker": "KXASPSNOWM",
+  "strike_period": "",
+  "sub_title": "In Dec 2025",
+  "title": "Snow in Aspen in Dec 2025?"
+}

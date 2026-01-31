@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXTRUMPOSC-26JAN01",
+  "mutually_exclusive": true,
+  "series_ticker": "KXTRUMPOSC",
+  "strike_period": "",
+  "sub_title": "Before Jan 1, 2026",
+  "title": "Will Paul Ingrassia be confirmed as Special Counsel in 2025?"
+}

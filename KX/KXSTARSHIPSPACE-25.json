@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Science and Technology",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXSTARSHIPSPACE-25",
+  "mutually_exclusive": true,
+  "series_ticker": "KXSTARSHIPSPACE",
+  "strike_period": "",
+  "sub_title": "In 2025",
+  "title": "How many Starship launches will reach space in 2025?"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Health",
+  "collateral_return_type": "",
+  "event_ticker": "KXVACCINEW-25",
+  "mutually_exclusive": false,
+  "series_ticker": "KXVACCINEW",
+  "strike_period": "",
+  "sub_title": "Before 2026",
+  "title": "Will any Covid vaccine lose its FDA approval in 2025?"
+}

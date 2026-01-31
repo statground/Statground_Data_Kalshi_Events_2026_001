@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXMRBEASTVIDEOLENGTH-25DEC31",
+  "mutually_exclusive": true,
+  "series_ticker": "KXMRBEASTVIDEOLENGTH",
+  "strike_period": "",
+  "sub_title": "In 2025",
+  "title": "How long will Mr. Beast's next YouTube video be?"
+}

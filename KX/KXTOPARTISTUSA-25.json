@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXTOPARTISTUSA-25",
+  "mutually_exclusive": true,
+  "series_ticker": "KXTOPARTISTUSA",
+  "strike_period": "",
+  "sub_title": "In 2025",
+  "title": "Top Artist on Spotify U.S. this year?"
+}

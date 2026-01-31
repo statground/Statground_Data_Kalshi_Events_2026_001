@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXTARIFFRATECAN-26JAN01",
+  "mutually_exclusive": true,
+  "series_ticker": "KXTARIFFRATECAN",
+  "strike_period": "",
+  "sub_title": "On Jan 1, 2026",
+  "title": "What will the U.S. tariff rate on Canada be on January 1, 2026?"
+}

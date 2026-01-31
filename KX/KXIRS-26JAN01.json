@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXIRS-26JAN01",
+  "mutually_exclusive": true,
+  "series_ticker": "KXIRS",
+  "strike_period": "",
+  "sub_title": "Before 2026",
+  "title": "Will Billy Long be confirmed as IRS Commissioner?"
+}

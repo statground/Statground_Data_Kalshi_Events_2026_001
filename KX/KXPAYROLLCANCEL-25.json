@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "",
+  "event_ticker": "KXPAYROLLCANCEL-25",
+  "mutually_exclusive": false,
+  "series_ticker": "KXPAYROLLCANCEL",
+  "strike_period": "",
+  "sub_title": "In 2025",
+  "title": "Will BLS payrolls data end in 2025?"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "",
+  "event_ticker": "KXCREDITC-25DEC31",
+  "mutually_exclusive": false,
+  "series_ticker": "KXCREDITC",
+  "strike_period": "",
+  "sub_title": "By Dec 31, 2025",
+  "title": "Will SOFR spike in 2025?"
+}

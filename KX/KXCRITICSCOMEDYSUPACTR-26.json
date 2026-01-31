@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCRITICSCOMEDYSUPACTR-26",
+  "mutually_exclusive": true,
+  "series_ticker": "KXCRITICSCOMEDYSUPACTR",
+  "strike_period": "",
+  "sub_title": "In 2026",
+  "title": "Critics Choice Award for Best Supporting Actress in a Comedy Series?"
+}

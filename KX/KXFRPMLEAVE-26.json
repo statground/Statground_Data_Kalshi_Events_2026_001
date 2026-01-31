@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "",
+  "event_ticker": "KXFRPMLEAVE-26",
+  "mutually_exclusive": false,
+  "series_ticker": "KXFRPMLEAVE",
+  "strike_period": "",
+  "sub_title": "Before 2026",
+  "title": "Will the French Prime Minister leave office before 2026?"
+}

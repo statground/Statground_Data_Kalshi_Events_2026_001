@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCRITICSLSERIESSUPACTR-26B",
+  "mutually_exclusive": true,
+  "series_ticker": "KXCRITICSLSERIESSUPACTR",
+  "strike_period": "",
+  "sub_title": "In 2026",
+  "title": "Critics Choice Award for Best Supporting Actress in a Limited Series or Movie made for Television?"
+}

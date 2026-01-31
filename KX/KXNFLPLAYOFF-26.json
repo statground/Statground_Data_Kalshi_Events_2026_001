@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNFLPLAYOFF-26",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Football",
+    "competition_scope": "Future"
+  },
+  "series_ticker": "KXNFLPLAYOFF",
+  "strike_period": "",
+  "sub_title": "2026/26 Pro Football Playoff Qualifiers",
+  "title": "Pro Football Playoff Qualifiers?"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "",
+  "event_ticker": "KXPRICEINCREASESWITCH2-25",
+  "mutually_exclusive": false,
+  "series_ticker": "KXPRICEINCREASESWITCH2",
+  "strike_period": "",
+  "sub_title": "Before 2026",
+  "title": "Nintendo Switch 2 price increase in 2025?"
+}

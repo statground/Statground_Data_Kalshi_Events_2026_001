@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Climate and Weather",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXBOSSNOWM-25DEC",
+  "mutually_exclusive": false,
+  "series_ticker": "KXBOSSNOWM",
+  "strike_period": "",
+  "sub_title": "In Dec 2025",
+  "title": "Snow in Boston in Dec 2025?"
+}

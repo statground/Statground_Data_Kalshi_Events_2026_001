@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Health",
+  "collateral_return_type": "",
+  "event_ticker": "KXDRUGPRICEINSULIN-26",
+  "mutually_exclusive": false,
+  "series_ticker": "KXDRUGPRICEINSULIN",
+  "strike_period": "",
+  "sub_title": "Before 2026",
+  "title": "How much will the price of insulin fall this year?"
+}

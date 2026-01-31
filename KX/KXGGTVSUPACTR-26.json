@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXGGTVSUPACTR-26",
+  "mutually_exclusive": true,
+  "series_ticker": "KXGGTVSUPACTR",
+  "strike_period": "",
+  "sub_title": "In 2026",
+  "title": "Golden Globe Award for Best Supporting Actress on TV?"
+}

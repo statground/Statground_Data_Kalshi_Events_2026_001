@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXRANKLISTSTOCKXBFRIDAY-25DEC",
+  "mutually_exclusive": true,
+  "series_ticker": "KXRANKLISTSTOCKXBFRIDAY",
+  "strike_period": "",
+  "sub_title": "Before Dec 31, 2025",
+  "title": "Excluding Nike, Jordan, and adidas, who will be the top brand on StockX based on trades on Black Friday?"
+}

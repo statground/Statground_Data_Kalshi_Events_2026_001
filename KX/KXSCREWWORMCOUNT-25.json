@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Health",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXSCREWWORMCOUNT-25",
+  "mutually_exclusive": false,
+  "series_ticker": "KXSCREWWORMCOUNT",
+  "strike_period": "",
+  "sub_title": "2025",
+  "title": "How many cases of Screwworm will there be in the USA in 2025?"
+}

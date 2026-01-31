@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXDENSNOWM-25DEC",
+  "mutually_exclusive": false,
+  "series_ticker": "KXDENSNOWM",
+  "strike_period": "",
+  "sub_title": "In Dec 2025",
+  "title": "Snow in Denver in Dec 2025?"
+}

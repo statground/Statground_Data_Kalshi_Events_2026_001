@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "",
+  "event_ticker": "KXSTABLETOTAL-25",
+  "mutually_exclusive": false,
+  "series_ticker": "KXSTABLETOTAL",
+  "strike_period": "",
+  "sub_title": "On Dec 31, 2025",
+  "title": "USDC + USDT market cap at year end 2025?"
+}

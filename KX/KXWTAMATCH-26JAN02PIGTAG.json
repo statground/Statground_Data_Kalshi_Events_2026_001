@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXWTAMATCH-26JAN02PIGTAG",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "WTA Auckland",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXWTAMATCH",
+  "strike_period": "",
+  "sub_title": "Pigossi vs Tagger",
+  "title": "Pigossi vs Tagger"
+}

@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXLALIGABTTS-26JAN02RVCGET",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "La Liga",
+    "competition_scope": "BTTS"
+  },
+  "series_ticker": "KXLALIGABTTS",
+  "strike_period": "",
+  "sub_title": "GET at RVC (Jan 2)",
+  "title": "Getafe at Vallecano: Both Teams to Score"
+}

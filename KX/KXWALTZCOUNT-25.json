@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXWALTZCOUNT-25",
+  "mutually_exclusive": true,
+  "series_ticker": "KXWALTZCOUNT",
+  "strike_period": "",
+  "sub_title": "Before Dec 2025",
+  "title": "How many Senators vote to confirm Mike Waltz as U.N. Ambassador?"
+}

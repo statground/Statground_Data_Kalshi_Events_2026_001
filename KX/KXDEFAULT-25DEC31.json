@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "",
+  "event_ticker": "KXDEFAULT-25DEC31",
+  "mutually_exclusive": false,
+  "series_ticker": "KXDEFAULT",
+  "strike_date": "2026-01-01T04:59:00Z",
+  "strike_period": "",
+  "sub_title": "Before 2026",
+  "title": "US defaults in 2025?"
+}

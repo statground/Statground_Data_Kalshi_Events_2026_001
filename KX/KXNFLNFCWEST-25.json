@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNFLNFCWEST-25",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Pro Football",
+    "competition_scope": "Divisions"
+  },
+  "series_ticker": "KXNFLNFCWEST",
+  "strike_period": "",
+  "sub_title": "2025/26 NFC West Division",
+  "title": "NFC West Division Winner?"
+}
