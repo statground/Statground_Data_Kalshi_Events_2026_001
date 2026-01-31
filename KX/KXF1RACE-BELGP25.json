@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXF1RACE-BELGP25",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "F1",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXF1RACE",
+  "strike_period": "",
+  "sub_title": "2025 Belgian Grand Prix 2025",
+  "title": "Belgian Grand Prix 2025 Winner?"
+}

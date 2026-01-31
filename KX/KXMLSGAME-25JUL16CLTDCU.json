@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXMLSGAME-25JUL16CLTDCU",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "MLS",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXMLSGAME",
+  "strike_period": "",
+  "sub_title": "CLT vs DCU (Jul 16)",
+  "title": "Charlotte vs DC United"
+}

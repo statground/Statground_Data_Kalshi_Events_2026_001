@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXINX-25JUL22H1600",
+  "mutually_exclusive": true,
+  "series_ticker": "KXINX",
+  "strike_date": "2025-07-22T20:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Jul 22, 2025 at 4pm EDT",
+  "title": "S&P price range on Jul 22, 2025 at 4pm EDT?"
+}

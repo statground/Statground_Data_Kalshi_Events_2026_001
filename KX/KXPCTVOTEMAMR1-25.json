@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Elections",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXPCTVOTEMAMR1-25",
+  "mutually_exclusive": false,
+  "series_ticker": "KXPCTVOTEMAMR1",
+  "strike_period": "",
+  "sub_title": "In 2025",
+  "title": "Zohran Mamdani NYC Primary First Round Percent of Vote"
+}

@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Crypto",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXBTC-25JUL2000",
+  "mutually_exclusive": true,
+  "series_ticker": "KXBTC",
+  "strike_date": "2025-07-20T04:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Jul 20, 2025 at 12am EDT",
+  "title": "Bitcoin price range on Jul 20, 2025 at 12am EDT?"
+}

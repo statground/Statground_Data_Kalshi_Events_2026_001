@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Transportation",
+  "collateral_return_type": "",
+  "event_ticker": "KXMTA-25JUL27",
+  "mutually_exclusive": false,
+  "series_ticker": "KXMTA",
+  "strike_period": "",
+  "sub_title": "From Jul 21-27, 2025",
+  "title": "How many people on average will ride the NYC subway per day this week?"
+}

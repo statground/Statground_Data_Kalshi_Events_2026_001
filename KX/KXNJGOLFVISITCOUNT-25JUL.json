@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Transportation",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNJGOLFVISITCOUNT-25JUL",
+  "mutually_exclusive": true,
+  "series_ticker": "KXNJGOLFVISITCOUNT",
+  "strike_period": "",
+  "sub_title": "In Jul 2025",
+  "title": "How many times will Donald Trump visit Trump National Golf Club Bedminster in Jul 2025?"
+}

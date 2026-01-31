@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXTOURDEFRANCE-25",
+  "mutually_exclusive": true,
+  "series_ticker": "KXTOURDEFRANCE",
+  "strike_period": "",
+  "sub_title": "On Jul 27, 2025",
+  "title": "Tour de France Winner?"
+}

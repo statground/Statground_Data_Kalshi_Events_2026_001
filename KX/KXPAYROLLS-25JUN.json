@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "",
+  "event_ticker": "KXPAYROLLS-25JUN",
+  "mutually_exclusive": false,
+  "series_ticker": "KXPAYROLLS",
+  "strike_period": "June 2025",
+  "sub_title": "In Jun 2025",
+  "title": "Jobs numbers in Jun 2025?"
+}

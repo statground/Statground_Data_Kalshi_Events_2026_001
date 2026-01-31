@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXWWOMENSINGLES-25",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Wimbledon Women's Tennis",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXWWOMENSINGLES",
+  "strike_period": "",
+  "sub_title": "On Jul 13, 2025",
+  "title": "Wimbledon Women's Tennis Winner?"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXTOPSONG-25JUL05",
+  "mutually_exclusive": true,
+  "series_ticker": "KXTOPSONG",
+  "strike_period": "",
+  "sub_title": "On Jul 5, 2025",
+  "title": "Billboard Hot 100 #1 on Jul 5, 2025 chart?"
+}

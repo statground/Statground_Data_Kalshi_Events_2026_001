@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXWTI-25JUL21",
+  "mutually_exclusive": true,
+  "series_ticker": "KXWTI",
+  "strike_date": "2025-07-21T18:30:00Z",
+  "strike_period": "",
+  "sub_title": "On Jul 21, 2025",
+  "title": "WTI oil price on Jul 21, 2025?"
+}

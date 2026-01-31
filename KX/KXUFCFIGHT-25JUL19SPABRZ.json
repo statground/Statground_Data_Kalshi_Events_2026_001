@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXUFCFIGHT-25JUL19SPABRZ",
+  "mutually_exclusive": true,
+  "series_ticker": "KXUFCFIGHT",
+  "strike_period": "",
+  "sub_title": "Spann vs Brzeski",
+  "title": "UFC 318: Spann vs Brzeski"
+}

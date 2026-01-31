@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXMLBGAME-25JUL23SFATL",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Pro Baseball",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXMLBGAME",
+  "strike_period": "",
+  "sub_title": "SF at ATL (Jul 23)",
+  "title": "San Francisco at Atlanta"
+}

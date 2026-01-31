@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXUFCFIGHT-25JUL19PRAVER",
+  "mutually_exclusive": true,
+  "series_ticker": "KXUFCFIGHT",
+  "strike_period": "",
+  "sub_title": "Prado vs Veretennikov",
+  "title": "UFC 318: Prado vs Veretennikov"
+}

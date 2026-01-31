@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXWTAMATCH-25JUL30GUOSWI",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "WTA Montreal",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXWTAMATCH",
+  "strike_period": "",
+  "sub_title": "Guo vs Swiatek",
+  "title": "Guo or Swiatek advances?"
+}

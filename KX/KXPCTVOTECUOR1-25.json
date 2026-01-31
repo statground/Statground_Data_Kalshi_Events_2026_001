@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Elections",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXPCTVOTECUOR1-25",
+  "mutually_exclusive": false,
+  "series_ticker": "KXPCTVOTECUOR1",
+  "strike_period": "",
+  "sub_title": "In 2025",
+  "title": "Andrew Cuomo NYC Primary First Round Percent of Vote"
+}

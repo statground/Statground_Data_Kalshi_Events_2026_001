@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXATPMATCH-25JUL18UGOMIS",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "ATP Bastad",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXATPMATCH",
+  "strike_period": "",
+  "sub_title": "Ugo Carabelli vs Misolic",
+  "title": "ATP Bastad: Ugo Carabelli or Misolic advances?"
+}

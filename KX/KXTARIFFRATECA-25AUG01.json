@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "",
+  "event_ticker": "KXTARIFFRATECA-25AUG01",
+  "mutually_exclusive": false,
+  "series_ticker": "KXTARIFFRATECA",
+  "strike_period": "",
+  "sub_title": "On Aug 1, 2025",
+  "title": "Will the U.S. tariff rate on Canada be at least 35% on Aug 1, 2025?"
+}

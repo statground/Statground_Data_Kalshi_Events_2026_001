@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXSPOTIFYSONGSALLNIGHT-25JUL04",
+  "mutually_exclusive": false,
+  "series_ticker": "KXSPOTIFYSONGSALLNIGHT",
+  "strike_period": "",
+  "sub_title": "On Jul 4, 2025 at 10:00 AM ET",
+  "title": "Total Spotify streams for Maroon 5's 'All Night' by Jul 4, 2025?"
+}

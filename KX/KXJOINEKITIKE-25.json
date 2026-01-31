@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXJOINEKITIKE-25",
+  "mutually_exclusive": true,
+  "series_ticker": "KXJOINEKITIKE",
+  "strike_period": "",
+  "sub_title": "Before Jul 18, 2025",
+  "title": "Where will Hugo Ekitike go next?"
+}

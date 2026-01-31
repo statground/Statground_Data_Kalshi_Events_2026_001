@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXUSDJPYH-25JUL2417",
+  "mutually_exclusive": false,
+  "series_ticker": "KXUSDJPYH",
+  "strike_date": "2025-07-24T21:00:00Z",
+  "strike_period": "",
+  "sub_title": "Jul 24, 2025 at 5pm EDT",
+  "title": "USD/JPY price on Jul 24, 2025 at 5pm EDT?"
+}

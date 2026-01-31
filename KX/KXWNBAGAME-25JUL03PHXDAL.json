@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXWNBAGAME-25JUL03PHXDAL",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Pro Basketball (W)",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXWNBAGAME",
+  "strike_period": "",
+  "sub_title": "PHX at DAL (Jul 3)",
+  "title": "Phoenix vs Dallas"
+}

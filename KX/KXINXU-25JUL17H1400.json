@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXINXU-25JUL17H1400",
+  "mutually_exclusive": false,
+  "series_ticker": "KXINXU",
+  "strike_date": "2025-07-17T18:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Jul 17, 2025 at 2pm EDT",
+  "title": "S&P price on Jul 17, 2025 at 2pm EDT?"
+}

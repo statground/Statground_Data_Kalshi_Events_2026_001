@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXGAETZCOUNT-25",
+  "mutually_exclusive": true,
+  "series_ticker": "KXGAETZCOUNT",
+  "strike_period": "",
+  "sub_title": "Before Aug 2025",
+  "title": "How many Senators will vote for Matt Gaetz as Attorney General?"
+}

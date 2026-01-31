@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXZELDINCOUNT-25",
+  "mutually_exclusive": true,
+  "series_ticker": "KXZELDINCOUNT",
+  "strike_period": "",
+  "sub_title": "Before Aug 2025",
+  "title": "How many Senators vote to confirm Lee Zeldin as EPA Administrator?"
+}

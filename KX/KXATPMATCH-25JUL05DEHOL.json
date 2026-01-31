@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXATPMATCH-25JUL05DEHOL",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Wimbledon Men Singles",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXATPMATCH",
+  "strike_period": "",
+  "sub_title": "de Minaur vs Holmgren",
+  "title": "Wimbledon Men Singles: de Minaur or Holmgren advances?"
+}

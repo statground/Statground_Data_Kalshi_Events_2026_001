@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXATPMATCH-25JUL13BURSVR",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "ATP Gstaad",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXATPMATCH",
+  "strike_period": "",
+  "sub_title": "Burruchaga vs Svrcina",
+  "title": "ATP Gstaad: Burruchaga or Svrcina advances?"
+}

@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXHIGHMIA-25JUL15",
+  "mutually_exclusive": true,
+  "series_ticker": "KXHIGHMIA",
+  "strike_date": "2025-07-16T03:59:00Z",
+  "strike_period": "",
+  "sub_title": "On Jul 15, 2025",
+  "title": "Highest temperature in Miami on Jul 15, 2025?"
+}

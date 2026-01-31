@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Crypto",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXBTCD-25JUL0717",
+  "mutually_exclusive": false,
+  "series_ticker": "KXBTCD",
+  "strike_date": "2025-07-07T21:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Jul 7, 2025 at 5pm EDT",
+  "title": "Bitcoin price on Jul 7, 2025 at 5pm EDT?"
+}

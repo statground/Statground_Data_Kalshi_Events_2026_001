@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "",
+  "event_ticker": "KXLAUSDCLOSE-25JUL",
+  "mutually_exclusive": false,
+  "series_ticker": "KXLAUSDCLOSE",
+  "strike_period": "",
+  "sub_title": "Before Jul 2025",
+  "title": "Will LA schools close for a day before Jul 2025?"
+}

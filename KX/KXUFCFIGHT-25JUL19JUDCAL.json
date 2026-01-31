@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXUFCFIGHT-25JUL19JUDCAL",
+  "mutually_exclusive": true,
+  "series_ticker": "KXUFCFIGHT",
+  "strike_period": "",
+  "sub_title": "Judice vs Caliari",
+  "title": "UFC 318: Judice vs Caliari"
+}

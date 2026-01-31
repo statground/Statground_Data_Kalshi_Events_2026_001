@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXRUBIO-25JUL01",
+  "mutually_exclusive": true,
+  "series_ticker": "KXRUBIO",
+  "strike_period": "",
+  "sub_title": "Before Jul 2025",
+  "title": "Who will replace Marco Rubio as Florida Senator?"
+}

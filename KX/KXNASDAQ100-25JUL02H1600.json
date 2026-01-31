@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNASDAQ100-25JUL02H1600",
+  "mutually_exclusive": true,
+  "series_ticker": "KXNASDAQ100",
+  "strike_date": "2025-07-02T20:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Jul 2, 2025 at 4pm EDT",
+  "title": "Nasdaq price range on Jul 2, 2025 at 4pm EDT?"
+}

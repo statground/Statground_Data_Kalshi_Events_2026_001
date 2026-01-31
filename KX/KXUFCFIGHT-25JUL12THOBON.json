@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXUFCFIGHT-25JUL12THOBON",
+  "mutually_exclusive": true,
+  "series_ticker": "KXUFCFIGHT",
+  "strike_period": "",
+  "sub_title": "Thompson vs Bonfim",
+  "title": "UFC Fight Night: Thompson vs Bonfim"
+}

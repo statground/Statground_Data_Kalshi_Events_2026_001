@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Transportation",
+  "collateral_return_type": "",
+  "event_ticker": "KXWAYMOLEAVELA-25JUL",
+  "mutually_exclusive": false,
+  "series_ticker": "KXWAYMOLEAVELA",
+  "strike_period": "",
+  "sub_title": "Before Jul 2025",
+  "title": "Will Waymo leave Los Angeles before Jul 2025?"
+}

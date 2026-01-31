@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXGREERCOUNT-25",
+  "mutually_exclusive": true,
+  "series_ticker": "KXGREERCOUNT",
+  "strike_period": "",
+  "sub_title": "Before Aug 2025",
+  "title": "How many Senators vote to confirm Jamieson Greer as United States Trade Representative?"
+}

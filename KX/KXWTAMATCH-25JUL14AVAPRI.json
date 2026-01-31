@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXWTAMATCH-25JUL14AVAPRI",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "WTA Iasi",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXWTAMATCH",
+  "strike_period": "",
+  "sub_title": "Avanesyan vs Prisacariu",
+  "title": "WTA Iasi: Avanesyan or Prisacariu advances?"
+}

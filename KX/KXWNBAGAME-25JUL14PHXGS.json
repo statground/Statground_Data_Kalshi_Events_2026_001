@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXWNBAGAME-25JUL14PHXGS",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Pro Basketball (W)",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXWNBAGAME",
+  "strike_period": "",
+  "sub_title": "PHX at GS (Jul 14)",
+  "title": "Phoenix vs Golden State"
+}

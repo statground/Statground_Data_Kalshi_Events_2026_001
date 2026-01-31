@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXATPMATCH-25JUL13REJDEJ",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "ATP Bastad",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXATPMATCH",
+  "strike_period": "",
+  "sub_title": "Rejchtman Vinciguerra vs De Jong",
+  "title": "ATP Bastad: Rejchtman Vinciguerra or De Jong advances?"
+}

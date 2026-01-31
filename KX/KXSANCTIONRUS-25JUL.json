@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "",
+  "event_ticker": "KXSANCTIONRUS-25JUL",
+  "mutually_exclusive": false,
+  "series_ticker": "KXSANCTIONRUS",
+  "strike_period": "",
+  "sub_title": "Before Jul 2025",
+  "title": "Will the US sanction Russia before Jul 2025?"
+}

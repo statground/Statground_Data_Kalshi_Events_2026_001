@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXLUTNICKCOUNT-25",
+  "mutually_exclusive": true,
+  "series_ticker": "KXLUTNICKCOUNT",
+  "strike_period": "",
+  "sub_title": "Before Aug 2025",
+  "title": "How many Senators vote to confirm Howard Lutnick as Commerce Secretary?"
+}

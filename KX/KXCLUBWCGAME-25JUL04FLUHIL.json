@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCLUBWCGAME-25JUL04FLUHIL",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Club World Cup",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXCLUBWCGAME",
+  "strike_period": "",
+  "sub_title": "FLU vs HIL (Jul 4)",
+  "title": "Fluminense vs Al Hilal"
+}

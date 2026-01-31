@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXATPMATCH-25JUL15YIBSCH",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "ATP Los Cabos",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXATPMATCH",
+  "strike_period": "",
+  "sub_title": "Wu vs Schoolkate",
+  "title": "ATP Los Cabos: Wu or Schoolkate advances?"
+}

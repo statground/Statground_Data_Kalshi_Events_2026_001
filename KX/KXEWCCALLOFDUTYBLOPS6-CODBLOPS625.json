@@ -1,0 +1,14 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXEWCCALLOFDUTYBLOPS6-CODBLOPS625",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition_scope": "Future"
+  },
+  "series_ticker": "KXEWCCALLOFDUTYBLOPS6",
+  "strike_period": "",
+  "sub_title": "2025 Call of Duty: Black Ops 6 at 2025 Esports World Cup",
+  "title": "Call of Duty: Black Ops 6 at 2025 Esports World Cup Winner?"
+}

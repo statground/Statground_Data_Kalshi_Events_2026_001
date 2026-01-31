@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "",
+  "event_ticker": "KXEGGPRICEW-25JUL31-3.00",
+  "mutually_exclusive": false,
+  "series_ticker": "KXEGGPRICEW",
+  "strike_period": "",
+  "sub_title": "On Jul 31, 2025",
+  "title": "Dozen eggs less than $3.00 on Jul 31, 2025?"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "World",
+  "collateral_return_type": "",
+  "event_ticker": "KXTRUMPVISITCA-25",
+  "mutually_exclusive": false,
+  "series_ticker": "KXTRUMPVISITCA",
+  "strike_period": "",
+  "sub_title": "Before 2025",
+  "title": "Will Donald Trump visit California before Jul 1, 2025?"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCLUBWC-25",
+  "mutually_exclusive": true,
+  "series_ticker": "KXCLUBWC",
+  "strike_period": "",
+  "sub_title": "On Jul 13, 2025",
+  "title": "Club World Cup Winner?"
+}

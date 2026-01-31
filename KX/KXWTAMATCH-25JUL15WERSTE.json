@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXWTAMATCH-25JUL15WERSTE",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "WTA Hamburg",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXWTAMATCH",
+  "strike_period": "",
+  "sub_title": "Werner vs Steiner",
+  "title": "WTA Hamburg: Werner or Steiner advances?"
+}

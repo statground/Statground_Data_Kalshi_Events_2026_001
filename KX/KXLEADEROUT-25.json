@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "",
+  "event_ticker": "KXLEADEROUT-25",
+  "mutually_exclusive": false,
+  "series_ticker": "KXLEADEROUT",
+  "strike_period": "",
+  "sub_title": "Before Aug 2025",
+  "title": "World leader out before Aug 2025?"
+}

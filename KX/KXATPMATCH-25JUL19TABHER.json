@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXATPMATCH-25JUL19TABHER",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "ATP Umag",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXATPMATCH",
+  "strike_period": "",
+  "sub_title": "Taberner vs Herbert",
+  "title": "ATP Umag: Taberner or Herbert advances?"
+}

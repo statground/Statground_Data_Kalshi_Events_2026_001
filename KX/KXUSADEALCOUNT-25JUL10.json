@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "World",
+  "collateral_return_type": "",
+  "event_ticker": "KXUSADEALCOUNT-25JUL10",
+  "mutually_exclusive": false,
+  "series_ticker": "KXUSADEALCOUNT",
+  "strike_period": "",
+  "sub_title": "Before Jul 10, 2025",
+  "title": "How many trade deals will the USA make before Jul 10, 2025?"
+}

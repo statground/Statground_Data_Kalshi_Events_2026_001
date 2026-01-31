@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "",
+  "event_ticker": "KXGOVSHUTLENGTH-25JUL01",
+  "mutually_exclusive": false,
+  "series_ticker": "KXGOVSHUTLENGTH",
+  "strike_period": "Dec 21, 2024 to Jul 1, 2025",
+  "sub_title": "Before July 2, 2025",
+  "title": "How long will the next government shutdown be before July 2?"
+}

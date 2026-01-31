@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXWTAMATCH-25JUL19BOIYAS",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "WTA Hamburg",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXWTAMATCH",
+  "strike_period": "",
+  "sub_title": "Boisson vs Yastremska",
+  "title": "WTA Hamburg: Boisson or Yastremska advances?"
+}

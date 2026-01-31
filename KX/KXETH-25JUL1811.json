@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Crypto",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXETH-25JUL1811",
+  "mutually_exclusive": true,
+  "series_ticker": "KXETH",
+  "strike_date": "2025-07-18T15:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Jul 18, 2025 at 11am EDT",
+  "title": "Ethereum price range on Jul 18, 2025 at 11am EDT?"
+}

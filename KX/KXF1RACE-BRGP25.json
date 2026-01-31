@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXF1RACE-BRGP25",
+  "mutually_exclusive": true,
+  "series_ticker": "KXF1RACE",
+  "strike_period": "",
+  "sub_title": "2025 F1 British Grand Prix",
+  "title": "F1 British Grand Prix Winner?"
+}

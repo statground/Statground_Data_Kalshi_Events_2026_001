@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXATPMATCH-25JUL18SHAWAL",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "ATP Los Cabos",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXATPMATCH",
+  "strike_period": "",
+  "sub_title": "Shapovalov vs Walton",
+  "title": "ATP Los Cabos: Shapovalov or Walton advances?"
+}

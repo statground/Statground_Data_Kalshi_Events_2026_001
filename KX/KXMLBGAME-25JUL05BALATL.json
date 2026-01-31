@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXMLBGAME-25JUL05BALATL",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Pro Baseball",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXMLBGAME",
+  "strike_period": "",
+  "sub_title": "BAL at ATL (Jul 5)",
+  "title": "Baltimore at Atlanta"
+}

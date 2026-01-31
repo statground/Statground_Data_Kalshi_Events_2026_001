@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXRTSMURFS",
+  "mutually_exclusive": false,
+  "series_ticker": "KXRTSMURFS",
+  "strike_period": "",
+  "sub_title": "Jul 21, 2025",
+  "title": "\"Smurfs\" Rotten Tomatoes score?"
+}

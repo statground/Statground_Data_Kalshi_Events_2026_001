@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXMLBASGAME-25JUL15ALNL",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Pro Baseball",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXMLBASGAME",
+  "strike_period": "",
+  "sub_title": "AL at NL (Jul 15)",
+  "title": "Pro Baseball All-Star Game"
+}

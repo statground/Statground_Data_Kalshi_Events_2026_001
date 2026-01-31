@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXUFCFIGHT-25JUL19PHIDE",
+  "mutually_exclusive": true,
+  "series_ticker": "KXUFCFIGHT",
+  "strike_period": "",
+  "sub_title": "Phillips vs de Oliveira",
+  "title": "UFC 318: Phillips vs de Oliveira"
+}

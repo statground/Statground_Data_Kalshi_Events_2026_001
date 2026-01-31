@@ -1,0 +1,14 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXEWCCHESS2025-CHESS25",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition_scope": "Future"
+  },
+  "series_ticker": "KXEWCCHESS2025",
+  "strike_period": "",
+  "sub_title": "2025 Chess – Esports World Cup",
+  "title": "Chess – Esports World Cup Winner?"
+}

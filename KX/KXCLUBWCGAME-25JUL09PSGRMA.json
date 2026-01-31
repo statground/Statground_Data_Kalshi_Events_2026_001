@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCLUBWCGAME-25JUL09PSGRMA",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Club World Cup",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXCLUBWCGAME",
+  "strike_period": "",
+  "sub_title": "PSG vs RMA (Jul 9)",
+  "title": "PSG vs Real Madrid"
+}

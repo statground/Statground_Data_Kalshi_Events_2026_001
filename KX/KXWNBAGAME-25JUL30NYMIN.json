@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXWNBAGAME-25JUL30NYMIN",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Pro Basketball (W)",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXWNBAGAME",
+  "strike_period": "",
+  "sub_title": "NY at MIN (Jul 30)",
+  "title": "NY at MIN"
+}

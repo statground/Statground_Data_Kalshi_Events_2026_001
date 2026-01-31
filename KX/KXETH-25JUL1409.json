@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Crypto",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXETH-25JUL1409",
+  "mutually_exclusive": true,
+  "series_ticker": "KXETH",
+  "strike_date": "2025-07-14T13:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Jul 14, 2025 at 9am EDT",
+  "title": "Ethereum price range on Jul 14, 2025 at 9am EDT?"
+}

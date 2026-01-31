@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXPGATOUR-3O25",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "PGA",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXPGATOUR",
+  "strike_period": "",
+  "sub_title": "2025 3M Open",
+  "title": "3M Open Champion?"
+}

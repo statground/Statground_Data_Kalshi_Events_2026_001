@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXEWCSTARCRAFTII-STARCRAFTII25",
+  "mutually_exclusive": true,
+  "series_ticker": "KXEWCSTARCRAFTII",
+  "strike_period": "",
+  "sub_title": "2025 StarCraft II at 2025 Esports World Cup",
+  "title": "StarCraft II at 2025 Esports World Cup Winner?"
+}
