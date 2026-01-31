@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXFOMEN-25ROYCAR",
+  "mutually_exclusive": true,
+  "series_ticker": "KXFOMEN",
+  "strike_period": "",
+  "sub_title": "Royer vs Carballes Baena",
+  "title": "French Open Men Singles: Royer or Carballes Baena advances?"
+}

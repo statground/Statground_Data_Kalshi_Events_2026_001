@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXFOMEN-25NAVVAN",
+  "mutually_exclusive": true,
+  "series_ticker": "KXFOMEN",
+  "strike_period": "",
+  "sub_title": "Nava vs Van de Zandschulp",
+  "title": "French Open Men Singles: Nava or Van de Zandschulp advances?"
+}

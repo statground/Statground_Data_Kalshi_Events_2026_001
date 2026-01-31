@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXFOWOMEN-25AZAKEN",
+  "mutually_exclusive": true,
+  "series_ticker": "KXFOWOMEN",
+  "strike_period": "",
+  "sub_title": "Azarenka vs Kenin",
+  "title": "French Open Women Singles: Azarenka or Kenin advances?"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNBASERIES-25NYKBOS",
+  "mutually_exclusive": true,
+  "series_ticker": "KXNBASERIES",
+  "strike_period": "",
+  "sub_title": "NYK vs BOS",
+  "title": "New York vs Boston: Series Winner?"
+}

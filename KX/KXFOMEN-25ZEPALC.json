@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXFOMEN-25ZEPALC",
+  "mutually_exclusive": true,
+  "series_ticker": "KXFOMEN",
+  "strike_period": "",
+  "sub_title": "Zeppieri vs Alcaraz",
+  "title": "French Open Men Singles: Zeppieri or Alcaraz advances?"
+}

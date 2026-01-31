@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXATPIT-25MUSMED",
+  "mutually_exclusive": true,
+  "series_ticker": "KXATPIT",
+  "strike_period": "",
+  "sub_title": "Musetti vs Medvedev",
+  "title": "ATP Rome: Musetti or Medvedev advances?"
+}

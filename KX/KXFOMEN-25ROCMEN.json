@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXFOMEN-25ROCMEN",
+  "mutually_exclusive": true,
+  "series_ticker": "KXFOMEN",
+  "strike_period": "",
+  "sub_title": "Rocha vs Mensik",
+  "title": "French Open Men Singles: Rocha or Mensik advances?"
+}

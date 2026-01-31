@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXWTAIT-25RYBAND",
+  "mutually_exclusive": true,
+  "series_ticker": "KXWTAIT",
+  "strike_period": "",
+  "sub_title": "Rybakina vs Andreescu",
+  "title": "WTA Rome: Rybakina or Andreescu advances?"
+}

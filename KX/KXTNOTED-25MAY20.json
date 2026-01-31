@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXTNOTED-25MAY20",
+  "mutually_exclusive": true,
+  "series_ticker": "KXTNOTED",
+  "strike_date": "2025-05-20T19:25:00Z",
+  "strike_period": "",
+  "sub_title": "On May 20, 2025",
+  "title": "Treasury 10-year yield on May 20, 2025?"
+}

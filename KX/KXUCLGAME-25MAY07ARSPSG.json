@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXUCLGAME-25MAY07ARSPSG",
+  "mutually_exclusive": true,
+  "series_ticker": "KXUCLGAME",
+  "strike_period": "",
+  "sub_title": "ARS vs PSG (May 7)",
+  "title": "PSG vs Arsenal: Game 2 Winner?"
+}

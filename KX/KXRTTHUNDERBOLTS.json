@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXRTTHUNDERBOLTS",
+  "mutually_exclusive": false,
+  "series_ticker": "KXRTTHUNDERBOLTS",
+  "strike_period": "",
+  "sub_title": "May 5, 2025",
+  "title": "\"Thunderbolts\" Rotten Tomatoes score?"
+}

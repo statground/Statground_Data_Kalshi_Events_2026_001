@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXHIGHAUS-25APR26",
+  "mutually_exclusive": true,
+  "series_ticker": "KXHIGHAUS",
+  "strike_date": "2025-04-27T04:59:00Z",
+  "strike_period": "",
+  "sub_title": "On Apr 26, 2025",
+  "title": "Highest temperature in Austin on Apr 26, 2025?"
+}

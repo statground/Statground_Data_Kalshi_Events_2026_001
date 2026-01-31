@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXHIGHMIA-25MAY18",
+  "mutually_exclusive": true,
+  "series_ticker": "KXHIGHMIA",
+  "strike_date": "2025-05-19T03:59:00Z",
+  "strike_period": "",
+  "sub_title": "On May 18, 2025",
+  "title": "Highest temperature in Miami on May 18, 2025?"
+}

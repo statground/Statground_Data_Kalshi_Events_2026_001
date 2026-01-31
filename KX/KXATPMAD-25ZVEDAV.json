@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXATPMAD-25ZVEDAV",
+  "mutually_exclusive": true,
+  "series_ticker": "KXATPMAD",
+  "strike_period": "",
+  "sub_title": "Zverev vs Davidovich Fokina",
+  "title": "ATP Madrid: Zverev or Davidovich Fokina advances?"
+}

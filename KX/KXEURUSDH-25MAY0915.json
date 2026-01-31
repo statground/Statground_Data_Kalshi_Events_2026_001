@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXEURUSDH-25MAY0915",
+  "mutually_exclusive": false,
+  "series_ticker": "KXEURUSDH",
+  "strike_date": "2025-05-09T19:00:00Z",
+  "strike_period": "",
+  "sub_title": "May 9, 2025 at 3pm EDT",
+  "title": "EUR/USD price on May 9, 2025 at 3pm EDT?"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXHIGHDEN-25MAY12",
+  "mutually_exclusive": true,
+  "series_ticker": "KXHIGHDEN",
+  "strike_period": "",
+  "sub_title": "On May 12, 2025",
+  "title": "Highest temperature in Denver on May 12, 2025?"
+}

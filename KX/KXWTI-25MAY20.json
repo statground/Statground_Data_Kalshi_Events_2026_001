@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXWTI-25MAY20",
+  "mutually_exclusive": true,
+  "series_ticker": "KXWTI",
+  "strike_date": "2025-05-20T18:30:00Z",
+  "strike_period": "",
+  "sub_title": "On May 20, 2025",
+  "title": "WTI oil price on May 20, 2025?"
+}

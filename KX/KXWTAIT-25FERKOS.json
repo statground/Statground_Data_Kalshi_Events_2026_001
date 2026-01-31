@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXWTAIT-25FERKOS",
+  "mutually_exclusive": true,
+  "series_ticker": "KXWTAIT",
+  "strike_period": "",
+  "sub_title": "Fernandez vs Kostyuk",
+  "title": "WTA Rome: Fernandez or Kostyuk advances?"
+}

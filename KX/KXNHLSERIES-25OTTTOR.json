@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNHLSERIES-25OTTTOR",
+  "mutually_exclusive": true,
+  "series_ticker": "KXNHLSERIES",
+  "strike_period": "",
+  "sub_title": "OTT vs TOR",
+  "title": "Ottawa vs Toronto: Series Winner?"
+}

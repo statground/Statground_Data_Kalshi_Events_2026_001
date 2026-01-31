@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNHLSERIES-25CARWSH",
+  "mutually_exclusive": true,
+  "series_ticker": "KXNHLSERIES",
+  "strike_period": "",
+  "sub_title": "CAR vs WSH",
+  "title": "Carolina vs Washington: Series Winner?"
+}

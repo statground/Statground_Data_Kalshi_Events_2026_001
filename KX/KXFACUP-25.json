@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXFACUP-25",
+  "mutually_exclusive": true,
+  "series_ticker": "KXFACUP",
+  "strike_period": "",
+  "sub_title": "On May 17, 2025",
+  "title": "FA Cup Winner?"
+}

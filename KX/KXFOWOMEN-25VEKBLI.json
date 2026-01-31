@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXFOWOMEN-25VEKBLI",
+  "mutually_exclusive": true,
+  "series_ticker": "KXFOWOMEN",
+  "strike_period": "",
+  "sub_title": "Vekic vs Blinkova",
+  "title": "French Open Women Singles: Vekic or Blinkova advances?"
+}

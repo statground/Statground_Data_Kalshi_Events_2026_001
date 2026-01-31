@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXWTAIT-25SABKEN",
+  "mutually_exclusive": true,
+  "series_ticker": "KXWTAIT",
+  "strike_period": "",
+  "sub_title": "Sabalenka vs Kenin",
+  "title": "WTA Rome: Sabalenka or Kenin advances?"
+}

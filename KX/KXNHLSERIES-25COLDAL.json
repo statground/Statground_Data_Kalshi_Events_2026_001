@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNHLSERIES-25COLDAL",
+  "mutually_exclusive": true,
+  "series_ticker": "KXNHLSERIES",
+  "strike_period": "",
+  "sub_title": "COL vs DAL",
+  "title": "Colorado vs Dallas: Series Winner?"
+}

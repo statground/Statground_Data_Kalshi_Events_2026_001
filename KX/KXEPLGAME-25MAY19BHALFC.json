@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXEPLGAME-25MAY19BHALFC",
+  "mutually_exclusive": true,
+  "series_ticker": "KXEPLGAME",
+  "strike_period": "",
+  "sub_title": "BHA vs LFC (May 19)",
+  "title": "Brighton vs Liverpool: Game Winner?"
+}

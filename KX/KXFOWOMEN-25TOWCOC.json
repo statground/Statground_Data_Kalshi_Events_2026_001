@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXFOWOMEN-25TOWCOC",
+  "mutually_exclusive": true,
+  "series_ticker": "KXFOWOMEN",
+  "strike_period": "",
+  "sub_title": "Townsend vs Cocciaretto",
+  "title": "French Open Women Singles: Townsend or Cocciaretto advances?"
+}

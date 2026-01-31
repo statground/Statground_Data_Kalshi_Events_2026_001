@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXATPIT-25DEJDAV",
+  "mutually_exclusive": true,
+  "series_ticker": "KXATPIT",
+  "strike_period": "",
+  "sub_title": "De Jong vs Davidovich Fokina",
+  "title": "ATP Rome: De Jong or Davidovich Fokina advances?"
+}

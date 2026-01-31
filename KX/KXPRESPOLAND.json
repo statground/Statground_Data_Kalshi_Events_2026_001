@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXPRESPOLAND",
+  "mutually_exclusive": true,
+  "series_ticker": "KXPRESPOLAND",
+  "strike_date": "2025-05-18T14:00:00Z",
+  "strike_period": "",
+  "sub_title": "In the 2025 election",
+  "title": "Who will win the Polish presidential election?"
+}

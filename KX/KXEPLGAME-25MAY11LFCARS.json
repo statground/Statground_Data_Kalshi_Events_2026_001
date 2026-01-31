@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXEPLGAME-25MAY11LFCARS",
+  "mutually_exclusive": true,
+  "series_ticker": "KXEPLGAME",
+  "strike_period": "",
+  "sub_title": "LFC vs ARS (May 11)",
+  "title": "Liverpool vs Arsenal: Game Winner?"
+}

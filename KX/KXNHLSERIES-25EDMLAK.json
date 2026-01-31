@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNHLSERIES-25EDMLAK",
+  "mutually_exclusive": true,
+  "series_ticker": "KXNHLSERIES",
+  "strike_period": "",
+  "sub_title": "EDM vs LAK",
+  "title": "Edmonton vs Los Angeles: Series Winner?"
+}

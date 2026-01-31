@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXATPMAD-25NAKCOB",
+  "mutually_exclusive": true,
+  "series_ticker": "KXATPMAD",
+  "strike_period": "",
+  "sub_title": "Nakashima vs Cobolli",
+  "title": "ATP Madrid: Nakashima or Cobolli advances?"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXWTAMAD-25KUDKOS",
+  "mutually_exclusive": true,
+  "series_ticker": "KXWTAMAD",
+  "strike_period": "",
+  "sub_title": "Kudermetova vs Kostyuk",
+  "title": "WTA Madrid: Kudermetova or Kostyuk advances?"
+}

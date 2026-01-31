@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXIPLGAME-25APR29DCKKR",
+  "mutually_exclusive": true,
+  "series_ticker": "KXIPLGAME",
+  "strike_period": "",
+  "sub_title": "DC vs KKR (Apr 29)",
+  "title": "Delhi Capitals vs Kolkata Knight Riders"
+}

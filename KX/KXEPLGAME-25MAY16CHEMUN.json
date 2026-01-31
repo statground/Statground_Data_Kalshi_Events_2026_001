@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXEPLGAME-25MAY16CHEMUN",
+  "mutually_exclusive": true,
+  "series_ticker": "KXEPLGAME",
+  "strike_period": "",
+  "sub_title": "CHE vs MUN (May 16)",
+  "title": "Chelsea vs Manchester United: Game Winner?"
+}

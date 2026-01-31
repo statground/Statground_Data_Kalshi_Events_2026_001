@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXATPIT-25VUKKOR",
+  "mutually_exclusive": true,
+  "series_ticker": "KXATPIT",
+  "strike_period": "",
+  "sub_title": "Vukic vs Korda",
+  "title": "ATP Rome: Vukic or Korda advances?"
+}

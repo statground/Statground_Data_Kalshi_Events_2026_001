@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXSPOTIFYSONGSFRIENDOFMINE-25MAY23",
+  "mutually_exclusive": false,
+  "series_ticker": "KXSPOTIFYSONGSFRIENDOFMINE",
+  "strike_period": "",
+  "sub_title": "On May 23, 2025 at 10:00 AM ET",
+  "title": "Total Spotify streams for 'Friend Of Mine' by May 23, 2025?"
+}

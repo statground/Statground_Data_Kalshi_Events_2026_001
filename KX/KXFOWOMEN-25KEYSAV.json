@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXFOWOMEN-25KEYSAV",
+  "mutually_exclusive": true,
+  "series_ticker": "KXFOWOMEN",
+  "strike_period": "",
+  "sub_title": "Keys vs Saville",
+  "title": "French Open Women Singles: Keys or Saville advances?"
+}

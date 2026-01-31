@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "",
+  "event_ticker": "KXAAAGASW-25MAY19",
+  "mutually_exclusive": false,
+  "series_ticker": "KXAAAGASW",
+  "strike_date": "2025-05-19T14:00:00Z",
+  "strike_period": "",
+  "sub_title": "On May 19, 2025",
+  "title": "Gas prices in the US up this week?"
+}

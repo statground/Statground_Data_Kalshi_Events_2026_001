@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXEPLGAME-25MAY11MUNWHU",
+  "mutually_exclusive": true,
+  "series_ticker": "KXEPLGAME",
+  "strike_period": "",
+  "sub_title": "MUN vs WHU (May 11)",
+  "title": "Man Utd vs West Ham: Game Winner?"
+}

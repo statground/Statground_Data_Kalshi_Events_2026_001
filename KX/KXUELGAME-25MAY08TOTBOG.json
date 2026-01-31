@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXUELGAME-25MAY08TOTBOG",
+  "mutually_exclusive": true,
+  "series_ticker": "KXUELGAME",
+  "strike_period": "",
+  "sub_title": "TOT vs BOG (May 8)",
+  "title": "Bodoe/Glimt vs Tottenham: Game Winner?"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXUELGAME-25MAY08ATHMUN",
+  "mutually_exclusive": true,
+  "series_ticker": "KXUELGAME",
+  "strike_period": "",
+  "sub_title": "ATH vs MUN (May 8)",
+  "title": "Man Utd vs Bilbao: Game Winner?"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "",
+  "event_ticker": "KXUNDOTARIFFVOTE-25",
+  "mutually_exclusive": false,
+  "series_ticker": "KXUNDOTARIFFVOTE",
+  "strike_period": "",
+  "sub_title": "Before May 2025",
+  "title": "Which Senators will vote to roll back Canadian tariffs?"
+}

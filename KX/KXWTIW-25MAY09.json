@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXWTIW-25MAY09",
+  "mutually_exclusive": true,
+  "series_ticker": "KXWTIW",
+  "strike_date": "2025-05-09T18:30:00Z",
+  "strike_period": "",
+  "sub_title": "On May 9, 2025",
+  "title": "WTI oil price on May 9, 2025?"
+}

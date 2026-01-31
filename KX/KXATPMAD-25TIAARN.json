@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXATPMAD-25TIAARN",
+  "mutually_exclusive": true,
+  "series_ticker": "KXATPMAD",
+  "strike_period": "",
+  "sub_title": "Tiafoe vs Arnaldi",
+  "title": "ATP Madrid: Tiafoe or Arnaldi advances?"
+}

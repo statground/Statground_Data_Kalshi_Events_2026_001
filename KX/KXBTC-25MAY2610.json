@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Crypto",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXBTC-25MAY2610",
+  "mutually_exclusive": true,
+  "series_ticker": "KXBTC",
+  "strike_date": "2025-05-26T14:00:00Z",
+  "strike_period": "",
+  "sub_title": "On May 26, 2025 at 10am EDT",
+  "title": "Bitcoin price range on May 26, 2025 at 10am EDT?"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXWTAMAD-25KEYKAL",
+  "mutually_exclusive": true,
+  "series_ticker": "KXWTAMAD",
+  "strike_period": "",
+  "sub_title": "Keys vs Kalinskaya",
+  "title": "WTA Madrid: Keys or Kalinskaya advances?"
+}

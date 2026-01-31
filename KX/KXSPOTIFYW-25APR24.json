@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXSPOTIFYW-25APR24",
+  "mutually_exclusive": true,
+  "series_ticker": "KXSPOTIFYW",
+  "strike_period": "",
+  "sub_title": "On Apr 24, 2025 Chart",
+  "title": "Top Song on Weekly Top Songs USA on Apr 24, 2025?"
+}

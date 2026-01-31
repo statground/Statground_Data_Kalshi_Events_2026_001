@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Crypto",
+  "collateral_return_type": "",
+  "event_ticker": "KXSHIBAD-25MAY2217",
+  "mutually_exclusive": false,
+  "series_ticker": "KXSHIBAD",
+  "strike_date": "2025-05-22T21:00:00Z",
+  "strike_period": "",
+  "sub_title": "On May 22, 2025 at 5pm EDT",
+  "title": "Shiba Inu price on May 22, 2025 at 5pm EDT?"
+}

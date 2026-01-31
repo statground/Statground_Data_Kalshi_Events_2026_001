@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXWTAMAD-25KEYVEK",
+  "mutually_exclusive": true,
+  "series_ticker": "KXWTAMAD",
+  "strike_period": "",
+  "sub_title": "Keys vs Vekic",
+  "title": "WTA Madrid: Keys or Vekic advances?"
+}

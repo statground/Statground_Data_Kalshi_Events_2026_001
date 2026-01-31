@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXSTCROIX-25",
+  "mutually_exclusive": true,
+  "series_ticker": "KXSTCROIX",
+  "strike_period": "",
+  "sub_title": "In 2025",
+  "title": "Which party will win Saint John—St. Croix in the Canadian election?"
+}

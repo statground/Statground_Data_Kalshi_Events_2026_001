@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Crypto",
+  "collateral_return_type": "",
+  "event_ticker": "KXETHFORK-25MAY",
+  "mutually_exclusive": false,
+  "series_ticker": "KXETHFORK",
+  "strike_period": "",
+  "sub_title": "Before May 2025",
+  "title": "Will Ethereum have a hard fork before May 2025?"
+}

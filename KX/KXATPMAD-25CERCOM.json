@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXATPMAD-25CERCOM",
+  "mutually_exclusive": true,
+  "series_ticker": "KXATPMAD",
+  "strike_period": "",
+  "sub_title": "Cerundolo vs Comesana",
+  "title": "ATP Madrid: Cerundolo or Comesana advances?"
+}

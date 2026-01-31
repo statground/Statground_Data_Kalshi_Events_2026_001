@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCONGRESSTARIFFCOUNT-25MAY01",
+  "mutually_exclusive": true,
+  "series_ticker": "KXCONGRESSTARIFFCOUNT",
+  "strike_period": "",
+  "sub_title": "Before May 2025",
+  "title": "How many votes will the Cantwell-Grassley Trade Review Act get in the Senate?"
+}

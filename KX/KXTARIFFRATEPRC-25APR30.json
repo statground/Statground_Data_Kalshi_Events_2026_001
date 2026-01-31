@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXTARIFFRATEPRC-25APR30",
+  "mutually_exclusive": true,
+  "series_ticker": "KXTARIFFRATEPRC",
+  "strike_period": "",
+  "sub_title": "Apr 30, 2025",
+  "title": "What will the US tariff rate on China be on Apr 30, 2025?"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "",
+  "event_ticker": "CPIAR-24",
+  "mutually_exclusive": false,
+  "series_ticker": "KXCPIAR",
+  "strike_period": "2024",
+  "sub_title": "In 2024",
+  "title": "Argentina inflation in 2024?"
+}

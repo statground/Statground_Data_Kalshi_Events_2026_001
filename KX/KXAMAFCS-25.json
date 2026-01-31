@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXAMAFCS-25",
+  "mutually_exclusive": true,
+  "series_ticker": "KXAMAFCS",
+  "strike_period": "",
+  "sub_title": "In 2025",
+  "title": "Favorite Country Song winner at AMAs?"
+}

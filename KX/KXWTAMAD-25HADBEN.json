@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXWTAMAD-25HADBEN",
+  "mutually_exclusive": true,
+  "series_ticker": "KXWTAMAD",
+  "strike_period": "",
+  "sub_title": "Haddad Maia vs Bencic",
+  "title": "WTA Madrid: Haddad Maia or Bencic advances?"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXLALIGAGAME-25MAY11BARRMA",
+  "mutually_exclusive": true,
+  "series_ticker": "KXLALIGAGAME",
+  "strike_period": "",
+  "sub_title": "BAR vs RMA (May 11)",
+  "title": "Barcelona vs Real Madrid: Game Winner?"
+}

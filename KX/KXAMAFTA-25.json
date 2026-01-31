@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXAMAFTA-25",
+  "mutually_exclusive": true,
+  "series_ticker": "KXAMAFTA",
+  "strike_period": "",
+  "sub_title": "In 2025",
+  "title": "Favorite Touring Artist winner at AMAs?"
+}

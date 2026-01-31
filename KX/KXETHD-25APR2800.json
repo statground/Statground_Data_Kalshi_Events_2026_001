@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Crypto",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXETHD-25APR2800",
+  "mutually_exclusive": false,
+  "series_ticker": "KXETHD",
+  "strike_date": "2025-04-28T04:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Apr 28, 2025 at 12am EDT",
+  "title": "Ethereum price on Apr 28, 2025 at 12am EDT?"
+}

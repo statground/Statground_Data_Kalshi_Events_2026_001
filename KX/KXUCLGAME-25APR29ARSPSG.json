@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXUCLGAME-25APR29ARSPSG",
+  "mutually_exclusive": true,
+  "series_ticker": "KXUCLGAME",
+  "strike_period": "",
+  "sub_title": "ARS vs PSG (Apr 29)",
+  "title": "Arsenal vs PSG: Game Winner?"
+}

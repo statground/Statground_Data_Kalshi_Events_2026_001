@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Crypto",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXBTC-25MAY1715",
+  "mutually_exclusive": true,
+  "series_ticker": "KXBTC",
+  "strike_date": "2025-05-17T19:00:00Z",
+  "strike_period": "",
+  "sub_title": "On May 17, 2025 at 3pm EDT",
+  "title": "Bitcoin price range on May 17, 2025 at 3pm EDT?"
+}

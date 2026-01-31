@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXHIGHLAX-25MAY24",
+  "mutually_exclusive": true,
+  "series_ticker": "KXHIGHLAX",
+  "strike_period": "",
+  "sub_title": "On May 24, 2025",
+  "title": "Highest temperature in LA on May 24, 2025?"
+}

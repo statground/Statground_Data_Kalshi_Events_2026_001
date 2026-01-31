@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXUCLGAME-25MAY06BARINT",
+  "mutually_exclusive": true,
+  "series_ticker": "KXUCLGAME",
+  "strike_period": "",
+  "sub_title": "BAR vs INT (May 6)",
+  "title": "Inter vs Barcelona: Game 2 Winner?"
+}

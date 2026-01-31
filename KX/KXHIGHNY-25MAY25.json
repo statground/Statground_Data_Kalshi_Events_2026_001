@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXHIGHNY-25MAY25",
+  "mutually_exclusive": true,
+  "series_ticker": "KXHIGHNY",
+  "strike_date": "2025-05-26T03:59:00Z",
+  "strike_period": "",
+  "sub_title": "On May 25, 2025",
+  "title": "Highest temperature in NYC on May 25, 2025?"
+}

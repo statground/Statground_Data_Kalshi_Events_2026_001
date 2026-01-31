@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXTRUMPCEA-25",
+  "mutually_exclusive": true,
+  "series_ticker": "KXTRUMPCEA",
+  "strike_period": "",
+  "sub_title": "Before May 2025",
+  "title": "Who will be Trump's Chair of the Council of Economic Advisers?"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNBASERIES-25MEMOKC",
+  "mutually_exclusive": true,
+  "series_ticker": "KXNBASERIES",
+  "strike_period": "",
+  "sub_title": "MEM vs OKC",
+  "title": "Memphis vs Oklahoma City: Series Winner?"
+}

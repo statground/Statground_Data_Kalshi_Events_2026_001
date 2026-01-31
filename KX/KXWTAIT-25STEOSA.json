@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXWTAIT-25STEOSA",
+  "mutually_exclusive": true,
+  "series_ticker": "KXWTAIT",
+  "strike_period": "",
+  "sub_title": "Stearns vs Osaka",
+  "title": "WTA Rome: Stearns or Osaka advances?"
+}

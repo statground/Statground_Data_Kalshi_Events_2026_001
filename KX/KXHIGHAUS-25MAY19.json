@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXHIGHAUS-25MAY19",
+  "mutually_exclusive": true,
+  "series_ticker": "KXHIGHAUS",
+  "strike_date": "2025-05-20T04:59:00Z",
+  "strike_period": "",
+  "sub_title": "On May 19, 2025",
+  "title": "Highest temperature in Austin on May 19, 2025?"
+}

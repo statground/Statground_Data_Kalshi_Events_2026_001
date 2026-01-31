@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXHIGHMIA-25APR30",
+  "mutually_exclusive": true,
+  "series_ticker": "KXHIGHMIA",
+  "strike_date": "2025-05-01T03:59:00Z",
+  "strike_period": "",
+  "sub_title": "On Apr 30, 2025",
+  "title": "Highest temperature in Miami on Apr 30, 2025?"
+}

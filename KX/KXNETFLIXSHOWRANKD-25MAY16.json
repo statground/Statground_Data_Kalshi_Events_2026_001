@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNETFLIXSHOWRANKD-25MAY16",
+  "mutually_exclusive": true,
+  "series_ticker": "KXNETFLIXSHOWRANKD",
+  "strike_period": "",
+  "sub_title": "On May 16, 2025",
+  "title": "What will be the top show on Netflix on May 16, 2025?"
+}

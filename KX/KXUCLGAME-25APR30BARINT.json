@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXUCLGAME-25APR30BARINT",
+  "mutually_exclusive": true,
+  "series_ticker": "KXUCLGAME",
+  "strike_period": "",
+  "sub_title": "BAR vs INT (Apr 30)",
+  "title": "Barcelona vs Inter: Game Winner?"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXDEPSECCOUNT-25MAY",
+  "mutually_exclusive": true,
+  "series_ticker": "KXDEPSECCOUNT",
+  "strike_period": "",
+  "sub_title": "Before May 2025",
+  "title": "How many Deputy Secretaries of the Cabinet will be confirmed before May 2025?"
+}

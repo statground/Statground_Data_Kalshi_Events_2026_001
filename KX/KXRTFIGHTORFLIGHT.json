@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXRTFIGHTORFLIGHT",
+  "mutually_exclusive": false,
+  "series_ticker": "KXRTFIGHTORFLIGHT",
+  "strike_period": "",
+  "sub_title": "May 12, 2025",
+  "title": "\"Fight or Flight\" Rotten Tomatoes score?"
+}

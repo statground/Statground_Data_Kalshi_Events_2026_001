@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXATPIT-25AUGSEY",
+  "mutually_exclusive": true,
+  "series_ticker": "KXATPIT",
+  "strike_period": "",
+  "sub_title": "Auger-Aliassime vs Seyboth Wild",
+  "title": "ATP Rome: Auger-Aliassime or Seyboth Wild advances?"
+}
