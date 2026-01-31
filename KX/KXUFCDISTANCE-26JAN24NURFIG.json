@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXUFCDISTANCE-26JAN24NURFIG",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "UFC",
+    "competition_scope": "Go the Distance"
+  },
+  "series_ticker": "KXUFCDISTANCE",
+  "strike_period": "",
+  "sub_title": "Umar Nurmagomedov vs Deiveson Figueiredo (Jan 24)",
+  "title": "Umar Nurmagomedov vs. Deiveson Figueiredo: Go the Distance"
+}

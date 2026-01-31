@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCRICKETODIMATCH-26JAN27ENGSRI",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "ODI",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXCRICKETODIMATCH",
+  "strike_period": "",
+  "sub_title": "SRI vs ENG (Jan 27)",
+  "title": "Sri Lanka vs England"
+}

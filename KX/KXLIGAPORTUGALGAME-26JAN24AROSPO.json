@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXLIGAPORTUGALGAME-26JAN24AROSPO",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Liga Portugal",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXLIGAPORTUGALGAME",
+  "strike_period": "",
+  "sub_title": "ARO vs SPO (Jan 24)",
+  "title": "Arouca vs Sporting CP"
+}

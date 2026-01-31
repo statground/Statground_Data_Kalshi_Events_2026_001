@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "",
+  "event_ticker": "KXFEDCHAIRCONFIRMED",
+  "mutually_exclusive": false,
+  "series_ticker": "KXFEDCHAIRCONFIRMED",
+  "strike_period": "",
+  "sub_title": "Before 2027",
+  "title": "Will Kevin Warsh be confirmed as Fed Chair?"
+}

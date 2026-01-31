@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNETFLIXRANKSHOWGLOBAL-26JAN26",
+  "mutually_exclusive": true,
+  "series_ticker": "KXNETFLIXRANKSHOWGLOBAL",
+  "strike_period": "",
+  "sub_title": "The chart published on Jan 27, 2026",
+  "title": "Top Global Netflix Show this week?"
+}

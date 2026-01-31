@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNBA3D-26JAN24LALDAL",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Basketball (M)",
+    "competition_scope": "Triple Double"
+  },
+  "series_ticker": "KXNBA3D",
+  "strike_period": "",
+  "sub_title": "LAL at DAL (Jan 24)",
+  "title": "Los Angeles L at Dallas: Triple Doubles"
+}

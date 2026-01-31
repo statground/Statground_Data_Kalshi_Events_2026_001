@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNFL1QTOTAL-26JAN25LASEA",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Football",
+    "competition_scope": "1st Quarter Total"
+  },
+  "series_ticker": "KXNFL1QTOTAL",
+  "strike_period": "",
+  "sub_title": "LA at SEA (Jan 25)",
+  "title": "Los Angeles R at Seattle: First Quarter Total Points"
+}

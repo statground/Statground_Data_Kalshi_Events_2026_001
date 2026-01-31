@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXRUGBYGPREMMATCH-26JAN24BRIEXE",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Gallagher Premiership",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXRUGBYGPREMMATCH",
+  "strike_period": "",
+  "sub_title": "BRI at EXE (Jan 24)",
+  "title": "Exeter Chiefs vs Bristol Bears"
+}

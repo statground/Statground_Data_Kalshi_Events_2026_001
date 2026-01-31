@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXATPCHALLENGERMATCH-26JAN25DENCHU",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "ATP Challenger Phan Thiet 2",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXATPCHALLENGERMATCH",
+  "strike_period": "",
+  "sub_title": "Denolly vs Chung (Jan 25)",
+  "title": "Denolly vs Chung"
+}

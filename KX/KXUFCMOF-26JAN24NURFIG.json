@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXUFCMOF-26JAN24NURFIG",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "UFC",
+    "competition_scope": "Method of Finish"
+  },
+  "series_ticker": "KXUFCMOF",
+  "strike_period": "",
+  "sub_title": "Umar Nurmagomedov vs Deiveson Figueiredo (Jan 24)",
+  "title": "Umar Nurmagomedov vs. Deiveson Figueiredo: Method of Finish"
+}

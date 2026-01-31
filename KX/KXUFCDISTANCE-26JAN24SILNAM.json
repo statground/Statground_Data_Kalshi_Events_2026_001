@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXUFCDISTANCE-26JAN24SILNAM",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "UFC",
+    "competition_scope": "Go the Distance"
+  },
+  "series_ticker": "KXUFCDISTANCE",
+  "strike_period": "",
+  "sub_title": "Natalia Silva vs Rose Namajunas (Jan 24)",
+  "title": "Natalia Silva vs. Rose Namajunas: Go the Distance"
+}

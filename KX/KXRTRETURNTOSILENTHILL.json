@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Entertainment",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXRTRETURNTOSILENTHILL",
+  "mutually_exclusive": false,
+  "series_ticker": "KXRTRETURNTOSILENTHILL",
+  "strike_period": "",
+  "sub_title": "Jan 26, 2026",
+  "title": "\"Return to Silent Hill\" Rotten Tomatoes score?"
+}

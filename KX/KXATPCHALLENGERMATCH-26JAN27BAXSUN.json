@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXATPCHALLENGERMATCH-26JAN27BAXSUN",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "ATP Challenger Phan Thiet 2",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXATPCHALLENGERMATCH",
+  "strike_period": "",
+  "sub_title": "Bax vs Sun (Jan 27)",
+  "title": "Bax vs Sun"
+}

@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXKBLGAME-26JAN25GOYTHU",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "South Korea KBL",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXKBLGAME",
+  "strike_period": "",
+  "sub_title": "GOY at THU (Jan 25)",
+  "title": "Goyang Skygunners at Samsung Thunders"
+}

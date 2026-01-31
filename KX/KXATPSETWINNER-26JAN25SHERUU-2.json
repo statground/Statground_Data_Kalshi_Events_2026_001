@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXATPSETWINNER-26JAN25SHERUU-2",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Australian Open Men Singles",
+    "competition_scope": "Set 2 Winner"
+  },
+  "series_ticker": "KXATPSETWINNER",
+  "strike_period": "",
+  "sub_title": "Ben Shelton vs Casper Ruud Set 2 (Jan 25)",
+  "title": "Ben Shelton vs Casper Ruud: Set 2 Winner"
+}

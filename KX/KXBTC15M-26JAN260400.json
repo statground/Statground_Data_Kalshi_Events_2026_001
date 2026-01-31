@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Crypto",
+  "collateral_return_type": "",
+  "event_ticker": "KXBTC15M-26JAN260400",
+  "mutually_exclusive": false,
+  "series_ticker": "KXBTC15M",
+  "strike_date": "2026-01-26T09:00:00Z",
+  "strike_period": "",
+  "sub_title": "Jan 26 - 3:45AM EST to 4:00AM EST",
+  "title": "BTC Up or Down - 15 minutes"
+}

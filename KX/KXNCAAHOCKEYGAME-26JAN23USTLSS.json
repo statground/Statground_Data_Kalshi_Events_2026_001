@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNCAAHOCKEYGAME-26JAN23USTLSS",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "College Hockey",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXNCAAHOCKEYGAME",
+  "strike_period": "",
+  "sub_title": "UST vs LSS (Jan 23)",
+  "title": "St. Thomas at Lake Superior State"
+}

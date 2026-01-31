@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXATPCHALLENGERMATCH-26JAN25HARPIN",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "ATP Challenger Soma Bay",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXATPCHALLENGERMATCH",
+  "strike_period": "",
+  "sub_title": "Harris vs Pinnington Jones (Jan 25)",
+  "title": "Harris vs Pinnington Jones"
+}

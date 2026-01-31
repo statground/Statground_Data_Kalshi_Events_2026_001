@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXDPWORLDTOUR-HEDDC26",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Hero Dubai Desert Classic",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXDPWORLDTOUR",
+  "strike_period": "",
+  "sub_title": "2026 Hero Dubai Desert Classic",
+  "title": "Hero Dubai Desert Classic Winner"
+}

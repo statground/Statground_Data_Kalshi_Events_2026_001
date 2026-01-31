@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXATPSETWINNER-26JAN23WAWFRI-2",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Australian Open Men Singles",
+    "competition_scope": "Set 2 Winner"
+  },
+  "series_ticker": "KXATPSETWINNER",
+  "strike_period": "",
+  "sub_title": "Stan Wawrinka vs Taylor Fritz Set 2 (Jan 23)",
+  "title": "Stan Wawrinka vs Taylor Fritz: Set 2 Winner"
+}

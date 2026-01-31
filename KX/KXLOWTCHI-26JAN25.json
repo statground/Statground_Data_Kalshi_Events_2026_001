@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": true,
+  "category": "Climate and Weather",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXLOWTCHI-26JAN25",
+  "mutually_exclusive": true,
+  "series_ticker": "KXLOWTCHI",
+  "strike_date": "2026-01-26T06:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Jan 25, 2026",
+  "title": "Lowest temperature in Chicago on Jan 25, 2026?"
+}

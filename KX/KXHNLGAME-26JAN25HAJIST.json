@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXHNLGAME-26JAN25HAJIST",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Croatia HNL",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXHNLGAME",
+  "strike_period": "",
+  "sub_title": "HAJ vs IST (Jan 25)",
+  "title": "Hajduk vs Istra 1961"
+}

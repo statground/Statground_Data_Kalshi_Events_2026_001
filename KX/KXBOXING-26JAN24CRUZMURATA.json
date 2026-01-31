@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXBOXING-26JAN24CRUZMURATA",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Boxing",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXBOXING",
+  "strike_period": "",
+  "sub_title": "Andy Cruz vs Raymond Muratalla (Jan 24)",
+  "title": "Andy Cruz vs Raymond Muratalla"
+}

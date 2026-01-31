@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXUFCMOF-26JAN24GAEPIM",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "UFC",
+    "competition_scope": "Method of Finish"
+  },
+  "series_ticker": "KXUFCMOF",
+  "strike_period": "",
+  "sub_title": "Justin Gaethje vs Paddy Pimblett (Jan 24)",
+  "title": "Justin Gaethje vs. Paddy Pimblett: Method of Finish"
+}

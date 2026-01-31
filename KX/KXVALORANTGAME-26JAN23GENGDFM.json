@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXVALORANTGAME-26JAN23GENGDFM",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Valorant",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXVALORANTGAME",
+  "strike_period": "",
+  "sub_title": "Gen.G Esports vs. DetonatioN FocusMe (Jan 23)",
+  "title": "VCT Pacific Kickoff 2026: Gen.G Esports vs. DetonatioN FocusMe"
+}

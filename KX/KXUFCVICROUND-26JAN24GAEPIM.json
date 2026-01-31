@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXUFCVICROUND-26JAN24GAEPIM",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "UFC",
+    "competition_scope": "Round of Victory"
+  },
+  "series_ticker": "KXUFCVICROUND",
+  "strike_period": "",
+  "sub_title": "Justin Gaethje vs Paddy Pimblett (Jan 24)",
+  "title": "Justin Gaethje vs. Paddy Pimblett: Round of Victory"
+}

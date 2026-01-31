@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXLNBELITEGAME-26JAN25SNBJLB",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "LNB Elite",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXLNBELITEGAME",
+  "strike_period": "",
+  "sub_title": "SNB at JLB (Jan 25)",
+  "title": "Sluc Nancy Basket at JL Bourg Basket"
+}

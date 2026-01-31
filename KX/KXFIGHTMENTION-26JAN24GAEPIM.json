@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Mentions",
+  "collateral_return_type": "",
+  "event_ticker": "KXFIGHTMENTION-26JAN24GAEPIM",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "the governing league",
+    "competition_scope": "Mentions"
+  },
+  "series_ticker": "KXFIGHTMENTION",
+  "strike_period": "",
+  "sub_title": "Gaethje vs Pimblett",
+  "title": "What will the announcers say during the Gaethje vs Pimblett fight?"
+}

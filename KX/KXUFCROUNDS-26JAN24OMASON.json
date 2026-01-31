@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXUFCROUNDS-26JAN24OMASON",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "UFC",
+    "competition_scope": "Round of Finish"
+  },
+  "series_ticker": "KXUFCROUNDS",
+  "strike_period": "",
+  "sub_title": "Sean O'Malley vs Yadong Song (Jan 24)",
+  "title": "Sean O'Malley vs. Yadong Song: Round of Finish"
+}

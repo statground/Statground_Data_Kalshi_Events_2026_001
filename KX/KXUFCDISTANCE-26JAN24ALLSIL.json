@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXUFCDISTANCE-26JAN24ALLSIL",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "UFC",
+    "competition_scope": "Go the Distance"
+  },
+  "series_ticker": "KXUFCDISTANCE",
+  "strike_period": "",
+  "sub_title": "Arnold Allen vs Jean Silva (Jan 24)",
+  "title": "Arnold Allen vs. Jean Silva: Go the Distance"
+}

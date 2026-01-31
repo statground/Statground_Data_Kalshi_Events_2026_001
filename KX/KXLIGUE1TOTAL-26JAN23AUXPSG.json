@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXLIGUE1TOTAL-26JAN23AUXPSG",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Ligue 1",
+    "competition_scope": "Point Total"
+  },
+  "series_ticker": "KXLIGUE1TOTAL",
+  "strike_period": "",
+  "sub_title": "PSG at AUX (Jan 23)",
+  "title": "PSG at Auxerre: Totals"
+}

@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXHNLGAME-26JAN24RIJSLA",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Croatia HNL",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXHNLGAME",
+  "strike_period": "",
+  "sub_title": "RIJ vs SLA (Jan 24)",
+  "title": "Rijeka vs Slaven Belupo"
+}

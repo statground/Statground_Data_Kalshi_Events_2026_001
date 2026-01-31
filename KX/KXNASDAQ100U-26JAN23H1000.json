@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": true,
+  "category": "Financials",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXNASDAQ100U-26JAN23H1000",
+  "mutually_exclusive": false,
+  "series_ticker": "KXNASDAQ100U",
+  "strike_date": "2026-01-23T15:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Jan 23, 2026 at 10am EST",
+  "title": "Nasdaq-100 price on Jan 23, 2026 at 10am EST?"
+}

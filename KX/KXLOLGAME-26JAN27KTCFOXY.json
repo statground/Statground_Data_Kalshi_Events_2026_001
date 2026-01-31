@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXLOLGAME-26JAN27KTCFOXY",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "League of Legends",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXLOLGAME",
+  "strike_period": "",
+  "sub_title": "KT Rolster Challengers vs. BNK FearX Youth (Jan 27)",
+  "title": "LCK Challengers League Kickoff 2026: KT Rolster Challengers vs. BNK FearX Youth"
+}

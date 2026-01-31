@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Entertainment",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXALBUMSALES-DBD",
+  "mutually_exclusive": false,
+  "series_ticker": "KXALBUMSALES",
+  "strike_period": "",
+  "sub_title": "Don't Be Dumb",
+  "title": "How many album sales will A$AP Rocky's Don't Be Dumb have on the chart dated Jan 23rd?"
+}

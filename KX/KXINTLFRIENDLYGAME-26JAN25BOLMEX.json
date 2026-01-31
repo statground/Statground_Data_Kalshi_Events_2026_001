@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXINTLFRIENDLYGAME-26JAN25BOLMEX",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Intl Friendlies",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXINTLFRIENDLYGAME",
+  "strike_period": "",
+  "sub_title": "BOL vs MEX (Jan 25)",
+  "title": "Bolivia vs Mexico"
+}

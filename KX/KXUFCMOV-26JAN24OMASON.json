@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXUFCMOV-26JAN24OMASON",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "UFC",
+    "competition_scope": "Method of Victory"
+  },
+  "series_ticker": "KXUFCMOV",
+  "strike_period": "",
+  "sub_title": "Sean O'Malley vs Yadong Song (Jan 24)",
+  "title": "Sean O'Malley vs. Yadong Song: Method of Victory"
+}

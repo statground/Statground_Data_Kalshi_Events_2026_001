@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": true,
+  "category": "Climate and Weather",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXHIGHTSEA-26JAN22",
+  "mutually_exclusive": true,
+  "series_ticker": "KXHIGHTSEA",
+  "strike_date": "2026-01-23T08:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Jan 22, 2026",
+  "title": "Highest temperature in Seattle on Jan 22, 2026?"
+}

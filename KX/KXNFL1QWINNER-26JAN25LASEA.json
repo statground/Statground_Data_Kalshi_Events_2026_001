@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNFL1QWINNER-26JAN25LASEA",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Pro Football",
+    "competition_scope": "1st Quarter Winner"
+  },
+  "series_ticker": "KXNFL1QWINNER",
+  "strike_period": "",
+  "sub_title": "LA at SEA (Jan 25)",
+  "title": "Los Angeles R at Seattle: First Quarter Winner"
+}

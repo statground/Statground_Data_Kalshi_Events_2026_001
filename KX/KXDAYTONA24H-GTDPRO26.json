@@ -1,0 +1,14 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXDAYTONA24H-GTDPRO26",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Daytona 24 Hour"
+  },
+  "series_ticker": "KXDAYTONA24H",
+  "strike_period": "",
+  "sub_title": "GTD Pro Class at the Daytona 24 Hour Race",
+  "title": "GTD Pro Class at the Daytona 24 Hour Race Winner"
+}

@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXSCOTTISHPREMGAME-26JAN25HOMCEL",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Scottish Premiership",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXSCOTTISHPREMGAME",
+  "strike_period": "",
+  "sub_title": "HOM vs CEL (Jan 25)",
+  "title": "Heart of Midlothian vs Celtic"
+}

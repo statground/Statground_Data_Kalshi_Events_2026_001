@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXSERIEASPREAD-26JAN25ROMACM",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Serie A",
+    "competition_scope": "Spread"
+  },
+  "series_ticker": "KXSERIEASPREAD",
+  "strike_period": "",
+  "sub_title": "ACM at ROM (Jan 25)",
+  "title": "Milan at Roma: Spreads"
+}

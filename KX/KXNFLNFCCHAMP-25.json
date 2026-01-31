@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNFLNFCCHAMP-25",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Pro Football",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXNFLNFCCHAMP",
+  "strike_period": "",
+  "sub_title": "2025/26 NFC Championship",
+  "title": "NFC Championship Winner: Los Angeles vs Seattle"
+}

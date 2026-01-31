@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Entertainment",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXNETFLIXTOPVIEWSMOVIE-26JAN26",
+  "mutually_exclusive": false,
+  "series_ticker": "KXNETFLIXTOPVIEWSMOVIE",
+  "strike_period": "",
+  "sub_title": "The chart published on Jan 27, 2026",
+  "title": "How many views will the #1 Movie on Netflix have this week?"
+}

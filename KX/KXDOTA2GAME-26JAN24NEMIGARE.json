@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXDOTA2GAME-26JAN24NEMIGARE",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Dota 2",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXDOTA2GAME",
+  "strike_period": "",
+  "sub_title": "Nemiga Gaming vs. Rune Eaters (Jan 24)",
+  "title": "FISSURE Universe Episode 8 2026: Nemiga Gaming vs. Rune Eaters"
+}

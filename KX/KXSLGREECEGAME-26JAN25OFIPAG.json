@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXSLGREECEGAME-26JAN25OFIPAG",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Greece Super League",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXSLGREECEGAME",
+  "strike_period": "",
+  "sub_title": "OFI vs PAG (Jan 25)",
+  "title": "OFI Crete vs Panaitolikos"
+}

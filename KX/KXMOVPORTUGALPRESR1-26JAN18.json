@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Elections",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXMOVPORTUGALPRESR1-26JAN18",
+  "mutually_exclusive": true,
+  "series_ticker": "KXMOVPORTUGALPRESR1",
+  "strike_period": "",
+  "sub_title": "In 2026",
+  "title": "Margin of victory in the 1st round of the Portuguese presidential election?"
+}

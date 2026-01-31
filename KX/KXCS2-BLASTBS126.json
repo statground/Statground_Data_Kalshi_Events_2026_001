@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCS2-BLASTBS126",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "CS2",
+    "competition_scope": "Future"
+  },
+  "series_ticker": "KXCS2",
+  "strike_period": "",
+  "sub_title": "BLAST Bounty 2026 Season 1 Finals",
+  "title": "BLAST Bounty 2026 Season 1 Finals Winner"
+}

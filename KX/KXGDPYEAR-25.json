@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Economics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXGDPYEAR-25",
+  "mutually_exclusive": true,
+  "series_ticker": "KXGDPYEAR",
+  "strike_period": "",
+  "sub_title": "Before 2025",
+  "title": "GDP growth in 2025?"
+}

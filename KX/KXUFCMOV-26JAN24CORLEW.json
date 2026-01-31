@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXUFCMOV-26JAN24CORLEW",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "UFC",
+    "competition_scope": "Method of Victory"
+  },
+  "series_ticker": "KXUFCMOV",
+  "strike_period": "",
+  "sub_title": "Waldo Cortes-Acosta vs Derrick Lewis (Jan 24)",
+  "title": "Waldo Cortes-Acosta vs. Derrick Lewis: Method of Victory"
+}

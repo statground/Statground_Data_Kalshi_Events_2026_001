@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Elections",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXPORTUGALPRESR1-26JAN18",
+  "mutually_exclusive": true,
+  "series_ticker": "KXPORTUGALPRESR1",
+  "strike_period": "",
+  "sub_title": "in 2026",
+  "title": "Who will win the 1st round of the 2026 Portuguese presidential election?"
+}

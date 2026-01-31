@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXTNOTED-26JAN26",
+  "mutually_exclusive": true,
+  "series_ticker": "KXTNOTED",
+  "strike_date": "2026-01-26T20:25:00Z",
+  "strike_period": "",
+  "sub_title": "On Jan 26, 2026",
+  "title": "Treasury 10-year yield on Jan 26, 2026?"
+}
