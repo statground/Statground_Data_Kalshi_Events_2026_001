@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXVALORANTGAME-25-DRXG2",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Esports",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXVALORANTGAME",
+  "strike_period": "",
+  "sub_title": "On Sep 27, 2025",
+  "title": "DRX vs. G2 Esports Best of 3 Winner"
+}

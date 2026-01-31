@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXTOP10BILLBOARDSPOTJB-25",
+  "mutually_exclusive": true,
+  "series_ticker": "KXTOP10BILLBOARDSPOTJB",
+  "strike_period": "",
+  "sub_title": "Before Sep 20, 2025",
+  "title": "How many spots on the Billboard Hot 100's top 10 will Justin Bieber hold for the week of Sep 20th?"
+}

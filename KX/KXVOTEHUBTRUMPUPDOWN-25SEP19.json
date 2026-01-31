@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "",
+  "event_ticker": "KXVOTEHUBTRUMPUPDOWN-25SEP19",
+  "mutually_exclusive": false,
+  "series_ticker": "KXVOTEHUBTRUMPUPDOWN",
+  "strike_period": "",
+  "sub_title": "For Sep 19, 2025",
+  "title": "Will Trump's approval rating increase this week?"
+}

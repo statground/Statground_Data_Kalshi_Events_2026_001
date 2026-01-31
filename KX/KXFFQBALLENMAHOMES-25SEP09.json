@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXFFQBALLENMAHOMES-25SEP09",
+  "mutually_exclusive": true,
+  "series_ticker": "KXFFQBALLENMAHOMES",
+  "strike_period": "",
+  "sub_title": "In week 1",
+  "title": "Will Josh Allen or Patrick Mahomes have more fantasy points in Week 1?"
+}

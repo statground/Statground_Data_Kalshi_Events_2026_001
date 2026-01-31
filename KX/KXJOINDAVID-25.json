@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXJOINDAVID-25",
+  "mutually_exclusive": true,
+  "series_ticker": "KXJOINDAVID",
+  "strike_period": "",
+  "sub_title": "Before Sep 2, 2025",
+  "title": "Where will Jonathan David go next?"
+}

@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXPGARYDERMATCH-25SEP26RMTFCMHE",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Pro Golf",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXPGARYDERMATCH",
+  "strike_period": "",
+  "sub_title": "RMTF vs CMHE (Sep 26)",
+  "title": "Foursomes: R.McIlroy/T.Fleetwood vs C.Morikawa/H.English"
+}

@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNCAAFTOTAL-25SEP20PURND",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "College Football",
+    "competition_scope": "Point Total"
+  },
+  "series_ticker": "KXNCAAFTOTAL",
+  "strike_period": "",
+  "sub_title": "PUR at ND (Sep 20)",
+  "title": "Purdue at Notre Dame: Point Total"
+}

@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXMLSGAME-25SEP27NYRBNYC",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "MLS",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXMLSGAME",
+  "strike_period": "",
+  "sub_title": "NYRB vs NYC (Sep 27)",
+  "title": "New York vs New York City"
+}

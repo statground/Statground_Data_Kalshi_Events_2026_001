@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXMOSTSTREAMEDMBF-25SEP05",
+  "mutually_exclusive": true,
+  "series_ticker": "KXMOSTSTREAMEDMBF",
+  "strike_period": "",
+  "sub_title": "On Sep 5, 2025",
+  "title": "Most streamed song on 'Man's Best Friend' by Sep 5th?"
+}

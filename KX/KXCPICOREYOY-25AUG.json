@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXCPICOREYOY-25AUG",
+  "mutually_exclusive": false,
+  "series_ticker": "KXCPICOREYOY",
+  "strike_period": "August 2025",
+  "sub_title": "Aug 2025",
+  "title": "Core inflation in Aug 2025? (Core CPI YoY)"
+}

@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": true,
+  "category": "Financials",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXINXU-25SEP25H1600",
+  "mutually_exclusive": false,
+  "series_ticker": "KXINXU",
+  "strike_date": "2025-09-25T20:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Sep 25, 2025 at 4pm EDT",
+  "title": "S&P price on Sep 25, 2025 at 4pm EDT?"
+}

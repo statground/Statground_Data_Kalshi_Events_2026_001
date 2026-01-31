@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXECB-25SEP11",
+  "mutually_exclusive": false,
+  "series_ticker": "KXECB",
+  "strike_period": "",
+  "sub_title": "Sep 11, 2025",
+  "title": "European Central Bank interest rate at in Sep 2025 meeting?"
+}

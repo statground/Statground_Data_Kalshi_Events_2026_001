@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXLAVERCUP-25",
+  "mutually_exclusive": true,
+  "series_ticker": "KXLAVERCUP",
+  "strike_period": "",
+  "sub_title": "On Sep 22, 2025",
+  "title": "Laver Cup"
+}

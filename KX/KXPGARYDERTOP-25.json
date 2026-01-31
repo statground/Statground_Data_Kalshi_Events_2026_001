@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXPGARYDERTOP-25",
+  "mutually_exclusive": true,
+  "series_ticker": "KXPGARYDERTOP",
+  "strike_period": "",
+  "sub_title": "On Sep 19, 2025",
+  "title": "Ryder Cup Top Points Scorer"
+}

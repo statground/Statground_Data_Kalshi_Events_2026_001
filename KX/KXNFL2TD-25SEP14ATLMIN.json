@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNFL2TD-25SEP14ATLMIN",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Football",
+    "competition_scope": "2+ TDs"
+  },
+  "series_ticker": "KXNFL2TD",
+  "strike_period": "",
+  "sub_title": "ATL at MIN (Sep 14)",
+  "title": "Atlanta at Minnesota: 2 or More Touchdowns?"
+}

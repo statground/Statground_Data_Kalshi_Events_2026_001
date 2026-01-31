@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNFLFIRSTTD-25SEP21ATLCAR",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Football",
+    "competition_scope": "1st TD"
+  },
+  "series_ticker": "KXNFLFIRSTTD",
+  "strike_period": "",
+  "sub_title": "ATL at CAR (Sep 21)",
+  "title": "Atlanta at Carolina: First Touchdown Scorer"
+}

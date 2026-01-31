@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "",
+  "event_ticker": "KXCONFFEDGOV-25",
+  "mutually_exclusive": false,
+  "series_ticker": "KXCONFFEDGOV",
+  "strike_period": "",
+  "sub_title": "Before Sep 16, 2025",
+  "title": "Which Senators will vote to confirm Stephen Miran before Sept 15, 2025?"
+}

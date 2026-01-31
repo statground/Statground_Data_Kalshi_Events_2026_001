@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXTOPALBUM-25SEP13",
+  "mutually_exclusive": true,
+  "series_ticker": "KXTOPALBUM",
+  "strike_period": "",
+  "sub_title": "On Sep 13, 2025",
+  "title": "Billboard Top 200 #1 on Sep 13, 2025 chart?"
+}

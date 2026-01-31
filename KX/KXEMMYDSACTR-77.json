@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXEMMYDSACTR-77",
+  "mutually_exclusive": true,
+  "series_ticker": "KXEMMYDSACTR",
+  "strike_period": "",
+  "sub_title": "77th Emmy Awards",
+  "title": "Emmy Award for Drama Supporting Actress?"
+}

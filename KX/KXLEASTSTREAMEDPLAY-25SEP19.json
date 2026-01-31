@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXLEASTSTREAMEDPLAY-25SEP19",
+  "mutually_exclusive": true,
+  "series_ticker": "KXLEASTSTREAMEDPLAY",
+  "strike_period": "",
+  "sub_title": "On Sep 19, 2025",
+  "title": "Least streamed song on 'Play' on Sep 19, 2025?"
+}

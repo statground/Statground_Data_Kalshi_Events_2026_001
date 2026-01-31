@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNASCARRACE-BASPSN25",
+  "mutually_exclusive": true,
+  "series_ticker": "KXNASCARRACE",
+  "strike_period": "",
+  "sub_title": "On Sep 13, 2025",
+  "title": "Bass Pro Shops Night Race Winner?"
+}

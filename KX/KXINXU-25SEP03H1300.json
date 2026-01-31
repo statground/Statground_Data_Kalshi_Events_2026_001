@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXINXU-25SEP03H1300",
+  "mutually_exclusive": false,
+  "series_ticker": "KXINXU",
+  "strike_date": "2025-09-03T17:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Sep 3, 2025 at 1pm EDT",
+  "title": "S&P price on Sep 3, 2025 at 1pm EDT?"
+}

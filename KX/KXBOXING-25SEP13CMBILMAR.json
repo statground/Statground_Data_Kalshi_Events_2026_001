@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXBOXING-25SEP13CMBILMAR",
+  "mutually_exclusive": true,
+  "series_ticker": "KXBOXING",
+  "strike_period": "",
+  "sub_title": "Boxing: Christian Mbilli vs. Lester Martinez (Sep 13)",
+  "title": "Christian Mbilli vs. Lester Martinez"
+}

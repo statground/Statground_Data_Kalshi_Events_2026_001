@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "",
+  "event_ticker": "KXJOBREVISION-25JUL",
+  "mutually_exclusive": false,
+  "series_ticker": "KXJOBREVISION",
+  "strike_period": "",
+  "sub_title": "For Jul 2025",
+  "title": "How much will Jul 2025's jobs report be revised?"
+}

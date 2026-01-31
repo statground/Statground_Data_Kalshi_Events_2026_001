@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXWNBASERIES-25INDATL",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Pro Basketball (W)",
+    "competition_scope": "Series"
+  },
+  "series_ticker": "KXWNBASERIES",
+  "strike_period": "",
+  "sub_title": "Indiana vs Atlanta",
+  "title": "Indiana vs Atlanta: Series Winner?"
+}

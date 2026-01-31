@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXPICKLEBALL-MENSDOUBLES25",
+  "mutually_exclusive": true,
+  "series_ticker": "KXPICKLEBALL",
+  "strike_period": "",
+  "sub_title": "On Sep 15, 2025",
+  "title": "PPA Tour Cincinnati - Men's Doubles Winner?"
+}

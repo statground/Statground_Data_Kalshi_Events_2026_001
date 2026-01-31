@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXEURUSD-25SEP1110",
+  "mutually_exclusive": true,
+  "series_ticker": "KXEURUSD",
+  "strike_date": "2025-09-11T14:00:00Z",
+  "strike_period": "",
+  "sub_title": "Sep 11, 2025 at 10am EDT",
+  "title": "EUR/USD price range on Sep 11, 2025 at 10am EDT?"
+}

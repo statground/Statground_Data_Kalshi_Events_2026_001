@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXU3-25AUG",
+  "mutually_exclusive": false,
+  "series_ticker": "KXU3",
+  "strike_period": "",
+  "sub_title": "In Aug 2025",
+  "title": "Unemployment in Aug 2025?"
+}

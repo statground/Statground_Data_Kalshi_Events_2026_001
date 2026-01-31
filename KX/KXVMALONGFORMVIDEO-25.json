@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXVMALONGFORMVIDEO-25",
+  "mutually_exclusive": true,
+  "series_ticker": "KXVMALONGFORMVIDEO",
+  "strike_period": "",
+  "sub_title": "In 2025",
+  "title": "Best Long Form Video Winner at the VMAs?"
+}

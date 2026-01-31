@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXPGARYDERMATCH-25SEP27RMSLJTCY",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Pro Golf",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXPGARYDERMATCH",
+  "strike_period": "",
+  "sub_title": "RMSL vs JTCY (Sep 27)",
+  "title": "Fourball: R.McIlroy/S.Lowry vs J.Thomas/C.Young"
+}

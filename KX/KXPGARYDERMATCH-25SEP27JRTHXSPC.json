@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXPGARYDERMATCH-25SEP27JRTHXSPC",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Pro Golf",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXPGARYDERMATCH",
+  "strike_period": "",
+  "sub_title": "JRTH vs XSPC (Sep 27)",
+  "title": "Foursomes: J.Rahm/T.Hatton vs X.Schauffele/P.Cantlay"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXSPOTIFYALBUMW-25AUG28",
+  "mutually_exclusive": true,
+  "series_ticker": "KXSPOTIFYALBUMW",
+  "strike_period": "",
+  "sub_title": "On Aug 28, 2025 Chart",
+  "title": "Top Album on Weekly Top Albums USA on Aug 28, 2025?"
+}

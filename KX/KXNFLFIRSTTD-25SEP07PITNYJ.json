@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNFLFIRSTTD-25SEP07PITNYJ",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Football",
+    "competition_scope": "1st TD"
+  },
+  "series_ticker": "KXNFLFIRSTTD",
+  "strike_period": "",
+  "sub_title": "PIT at NYJ (Sep 7)",
+  "title": "Pittsburgh at New York J: First Touchdown Scorer"
+}

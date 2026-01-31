@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXMLBGAME-25SEP07ATHLAA",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Pro Baseball",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXMLBGAME",
+  "strike_period": "",
+  "sub_title": "ATH at LAA (Sep 7)",
+  "title": "A's at Los Angeles A"
+}

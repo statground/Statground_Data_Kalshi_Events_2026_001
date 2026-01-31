@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXSTARTNYG-25SEP15",
+  "mutually_exclusive": true,
+  "series_ticker": "KXSTARTNYG",
+  "strike_period": "",
+  "sub_title": "Before Sep 15, 2025",
+  "title": "Will Jaxson Dart start for New York G in Week 2?"
+}

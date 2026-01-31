@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNCAAFSPREAD-25SEP26HOUORST",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "College Football",
+    "competition_scope": "Spread"
+  },
+  "series_ticker": "KXNCAAFSPREAD",
+  "strike_period": "",
+  "sub_title": "HOU at ORST (Sep 26)",
+  "title": "Houston at Oregon St.: Spread"
+}

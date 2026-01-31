@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXPGARYDERMATCH-25SEP26LARHCYJT",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Pro Golf",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXPGARYDERMATCH",
+  "strike_period": "",
+  "sub_title": "LARH vs CYJT (Sep 26)",
+  "title": "Fourball: L.Aberg/R.Hojgaard vs C.Young/J.Thomas"
+}

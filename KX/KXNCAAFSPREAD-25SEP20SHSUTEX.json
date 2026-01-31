@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNCAAFSPREAD-25SEP20SHSUTEX",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "College Football",
+    "competition_scope": "Spread"
+  },
+  "series_ticker": "KXNCAAFSPREAD",
+  "strike_period": "",
+  "sub_title": "SHSU at TEX (Sep 20)",
+  "title": "Sam Houston at Texas: Spread"
+}

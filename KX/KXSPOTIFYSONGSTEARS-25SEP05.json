@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXSPOTIFYSONGSTEARS-25SEP05",
+  "mutually_exclusive": false,
+  "series_ticker": "KXSPOTIFYSONGSTEARS",
+  "strike_period": "",
+  "sub_title": "By Sep 5, 2025 at 10:00 AM ET",
+  "title": "Total Spotify streams for Sabrina Carpenter's 'Tears' by Sep 5, 2025?"
+}

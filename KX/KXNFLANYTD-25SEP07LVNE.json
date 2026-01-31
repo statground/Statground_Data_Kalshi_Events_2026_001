@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNFLANYTD-25SEP07LVNE",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Football",
+    "competition_scope": "Anytime TD"
+  },
+  "series_ticker": "KXNFLANYTD",
+  "strike_period": "",
+  "sub_title": "LV at NE (Sep 7)",
+  "title": "Las Vegas at New England: Anytime Touchdown Scorer"
+}

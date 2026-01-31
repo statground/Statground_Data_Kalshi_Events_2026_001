@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNFL2TD-25SEP15LACLV",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Football",
+    "competition_scope": "2+ TDs"
+  },
+  "series_ticker": "KXNFL2TD",
+  "strike_period": "",
+  "sub_title": "LAC at LV (Sep 15)",
+  "title": "Los Angeles C at Las Vegas: 2 or More Touchdowns?"
+}

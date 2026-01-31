@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Crypto",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXBTC-25SEP0716",
+  "mutually_exclusive": true,
+  "series_ticker": "KXBTC",
+  "strike_date": "2025-09-07T20:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Sep 7, 2025 at 4pm EDT",
+  "title": "Bitcoin price range on Sep 7, 2025 at 4pm EDT?"
+}

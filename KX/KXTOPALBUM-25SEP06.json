@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXTOPALBUM-25SEP06",
+  "mutually_exclusive": true,
+  "series_ticker": "KXTOPALBUM",
+  "strike_period": "",
+  "sub_title": "On Sep 6, 2025",
+  "title": "Billboard Top 200 #1 on Sep 6, 2025 chart?"
+}

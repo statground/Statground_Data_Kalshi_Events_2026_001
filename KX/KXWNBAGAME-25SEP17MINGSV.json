@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXWNBAGAME-25SEP17MINGSV",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Pro Basketball (W)",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXWNBAGAME",
+  "strike_period": "",
+  "sub_title": "Minnesota at Golden State (Sep 17)",
+  "title": "Minnesota at Golden State"
+}

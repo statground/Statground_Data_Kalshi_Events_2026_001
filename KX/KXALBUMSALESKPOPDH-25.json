@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXALBUMSALESKPOPDH-25",
+  "mutually_exclusive": true,
+  "series_ticker": "KXALBUMSALESKPOPDH",
+  "strike_period": "",
+  "sub_title": "On Sep 19, 2025",
+  "title": "How many album sales will 'KPop Demon Hunters | Soundtrack' have on the chart dated Sep 19th?"
+}

@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXWTAMATCH-25SEP08RODOKA",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "WTA Sao Paulo",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXWTAMATCH",
+  "strike_period": "",
+  "sub_title": "Rodionova vs Okalova",
+  "title": "Rodionova vs Okalova"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "",
+  "event_ticker": "KXTRADEDEALPRC-25",
+  "mutually_exclusive": false,
+  "series_ticker": "KXTRADEDEALPRC",
+  "strike_period": "",
+  "sub_title": "Before Sep 16, 2025",
+  "title": "Will Trump announce a trade deal with China before the 90 day deadline?"
+}

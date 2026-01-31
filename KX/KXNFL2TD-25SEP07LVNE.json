@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNFL2TD-25SEP07LVNE",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Football",
+    "competition_scope": "2+ TDs"
+  },
+  "series_ticker": "KXNFL2TD",
+  "strike_period": "",
+  "sub_title": "LV at NE (Sep 7)",
+  "title": "Las Vegas at New England: 2 or More Touchdowns?"
+}

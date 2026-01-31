@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXF1RACE-AZEGP25",
+  "mutually_exclusive": true,
+  "series_ticker": "KXF1RACE",
+  "strike_period": "",
+  "sub_title": "Azerbaijan Grand Prix 2025",
+  "title": "Azerbaijan Grand Prix 2025 Winner?"
+}

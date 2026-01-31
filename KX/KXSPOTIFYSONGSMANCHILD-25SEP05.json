@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXSPOTIFYSONGSMANCHILD-25SEP05",
+  "mutually_exclusive": false,
+  "series_ticker": "KXSPOTIFYSONGSMANCHILD",
+  "strike_period": "",
+  "sub_title": "On Sep 5, 2025 at 10:00 AM ET",
+  "title": "Total Spotify streams for 'Manchild' by Sep 5, 2025?"
+}

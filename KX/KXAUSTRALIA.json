@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXAUSTRALIA",
+  "mutually_exclusive": true,
+  "series_ticker": "KXAUSTRALIA",
+  "strike_period": "",
+  "sub_title": "In The 2025 Election",
+  "title": "Which party will win the most seats in the 2025 Australian House Election?"
+}

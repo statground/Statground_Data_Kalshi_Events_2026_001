@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNCAAFSPREAD-25SEP06TROYCLEM",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "College Football",
+    "competition_scope": "Spread"
+  },
+  "series_ticker": "KXNCAAFSPREAD",
+  "strike_period": "",
+  "sub_title": "TROY at CLEM (Sep 6)",
+  "title": "Troy at Clemson: Spread"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Elections",
+  "collateral_return_type": "",
+  "event_ticker": "KXVOTEPERCENTNOKRF-25SEP08",
+  "mutually_exclusive": false,
+  "series_ticker": "KXVOTEPERCENTNOKRF",
+  "strike_period": "",
+  "sub_title": "On Sep 8, 2025",
+  "title": "Will the Christian Democratic Party (KrF) win 4% or more of vote in the Norwegian election?"
+}

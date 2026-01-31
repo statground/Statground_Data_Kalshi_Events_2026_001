@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": true,
+  "category": "Crypto",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXETHD-25SEP2518",
+  "mutually_exclusive": false,
+  "series_ticker": "KXETHD",
+  "strike_date": "2025-09-25T22:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Sep 25, 2025 at 6pm EDT",
+  "title": "Ethereum price on Sep 25, 2025 at 6pm EDT?"
+}

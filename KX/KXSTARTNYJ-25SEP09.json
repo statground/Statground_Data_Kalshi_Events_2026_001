@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXSTARTNYJ-25SEP09",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Pro Football",
+    "competition_scope": "Player"
+  },
+  "series_ticker": "KXSTARTNYJ",
+  "strike_period": "",
+  "sub_title": "Before Sep 9, 2025",
+  "title": "New York J week one starting QB?"
+}

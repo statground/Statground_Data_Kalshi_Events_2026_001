@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXPGARYDERMATCH-25SEP26LAMFSSRH",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Pro Golf",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXPGARYDERMATCH",
+  "strike_period": "",
+  "sub_title": "LAMF vs SSRH (Sep 26)",
+  "title": "Foursomes: L.Aberg/M.Fitzpatrick vs S.Scheffler/R.Henley"
+}

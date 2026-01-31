@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXEURUSDH-25SEP1216",
+  "mutually_exclusive": false,
+  "series_ticker": "KXEURUSDH",
+  "strike_date": "2025-09-12T20:00:00Z",
+  "strike_period": "",
+  "sub_title": "Sep 12, 2025 at 4pm EDT",
+  "title": "EUR/USD price on Sep 12, 2025 at 4pm EDT?"
+}

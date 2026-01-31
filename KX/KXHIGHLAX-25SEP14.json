@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXHIGHLAX-25SEP14",
+  "mutually_exclusive": true,
+  "series_ticker": "KXHIGHLAX",
+  "strike_period": "",
+  "sub_title": "On Sep 14, 2025",
+  "title": "Highest temperature in LA on Sep 14, 2025?"
+}

@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNFLGAME-25SEP08MINCHI",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Pro Football",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXNFLGAME",
+  "strike_period": "",
+  "sub_title": "MIN at CHI (Sep 8)",
+  "title": "Minnesota at Chicago"
+}

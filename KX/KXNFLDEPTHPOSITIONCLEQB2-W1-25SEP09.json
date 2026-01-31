@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNFLDEPTHPOSITIONCLEQB2-W1-25SEP09",
+  "mutually_exclusive": true,
+  "series_ticker": "KXNFLDEPTHPOSITIONCLEQB2",
+  "strike_period": "",
+  "sub_title": "Week 1, 2025-26 NFL",
+  "title": "Who will be QB2 for Cleveland in Week 1?"
+}

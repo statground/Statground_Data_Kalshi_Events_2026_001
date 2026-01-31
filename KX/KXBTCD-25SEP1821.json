@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Crypto",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXBTCD-25SEP1821",
+  "mutually_exclusive": false,
+  "series_ticker": "KXBTCD",
+  "strike_date": "2025-09-19T01:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Sep 18, 2025 at 9pm EDT",
+  "title": "Bitcoin price on Sep 18, 2025 at 9pm EDT?"
+}

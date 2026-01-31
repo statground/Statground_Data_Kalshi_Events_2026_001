@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXSTARTCLEBROWNS-25SEP15",
+  "mutually_exclusive": true,
+  "series_ticker": "KXSTARTCLEBROWNS",
+  "strike_period": "",
+  "sub_title": "Before Sep 15, 2025",
+  "title": "Will Shedeur Sanders start for Cleveland in Week 2?"
+}

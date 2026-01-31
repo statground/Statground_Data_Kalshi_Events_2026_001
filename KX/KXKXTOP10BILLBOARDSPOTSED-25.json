@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXKXTOP10BILLBOARDSPOTSED-25",
+  "mutually_exclusive": true,
+  "series_ticker": "KXKXTOP10BILLBOARDSPOTSED",
+  "strike_period": "",
+  "sub_title": "Before Sep 27, 2025",
+  "title": "How many spots on the Billboard Hot 100's top 10 will Ed Sheeran hold for the week of Sep 27th?"
+}

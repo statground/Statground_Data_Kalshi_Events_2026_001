@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXPGARYDERCUPD1-25",
+  "mutually_exclusive": true,
+  "series_ticker": "KXPGARYDERCUPD1",
+  "strike_period": "",
+  "sub_title": "On Sep 27, 2025",
+  "title": "Ryder Cup Day 1 Winner"
+}

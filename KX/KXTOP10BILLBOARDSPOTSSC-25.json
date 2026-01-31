@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXTOP10BILLBOARDSPOTSSC-25",
+  "mutually_exclusive": true,
+  "series_ticker": "KXTOP10BILLBOARDSPOTSSC",
+  "strike_period": "",
+  "sub_title": "On Sep 13, 2025",
+  "title": "How many spots on the Billboard Hot 100's top 10 will Sabrina Carpenter hold for the week of Sep 13th?"
+}

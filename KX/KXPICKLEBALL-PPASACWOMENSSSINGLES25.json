@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXPICKLEBALL-PPASACWOMENSSSINGLES25",
+  "mutually_exclusive": true,
+  "series_ticker": "KXPICKLEBALL",
+  "strike_period": "",
+  "sub_title": "On Sep 25, 2025",
+  "title": "PPA Tour Sacramento Vintage Open - Women's Singles Winner?"
+}

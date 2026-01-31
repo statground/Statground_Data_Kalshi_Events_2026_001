@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Elections",
+  "collateral_return_type": "",
+  "event_ticker": "KXVOTEPERCENTNOLABOUR-25SEP08",
+  "mutually_exclusive": false,
+  "series_ticker": "KXVOTEPERCENTNOLABOUR",
+  "strike_period": "",
+  "sub_title": "The 2025 Norwegian parliamentary election",
+  "title": "What % of the vote will the Labour Party get in the Norwegian election?"
+}

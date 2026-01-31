@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXMLSGAME-25SEP13PORNYRB",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "MLS",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXMLSGAME",
+  "strike_period": "",
+  "sub_title": "POR vs NYRB (Sep 13)",
+  "title": "Portland vs New York"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXTRANSFERCOUNTRM-25",
+  "mutually_exclusive": true,
+  "series_ticker": "KXTRANSFERCOUNTRM",
+  "strike_period": "",
+  "sub_title": "During the summer transfer window",
+  "title": "How many players will Real Madrid sign this summer transfer window?"
+}

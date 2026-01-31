@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXF1RACE-ITAGP25",
+  "mutually_exclusive": true,
+  "series_ticker": "KXF1RACE",
+  "strike_period": "",
+  "sub_title": "Italian Grand Prix 2025",
+  "title": "Italian Grand Prix 2025 Winner?"
+}

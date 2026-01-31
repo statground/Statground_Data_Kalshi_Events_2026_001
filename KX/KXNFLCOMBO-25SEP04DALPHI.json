@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "",
+  "event_ticker": "KXNFLCOMBO-25SEP04DALPHI",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Football",
+    "competition_scope": "Combo"
+  },
+  "series_ticker": "KXNFLCOMBO",
+  "strike_period": "",
+  "sub_title": "DAL at PHI (Sep 4)",
+  "title": "Dallas at Philadelphia: Dallas Wins, Over 47.5 points scored, and CeeDee Lamb TD?"
+}

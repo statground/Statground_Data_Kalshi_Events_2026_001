@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "",
+  "event_ticker": "KXNFLCOMBO-25SEP05KCLAC2",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Football",
+    "competition_scope": "Combo"
+  },
+  "series_ticker": "KXNFLCOMBO",
+  "strike_period": "",
+  "sub_title": "KC at LAC (Sep 5)",
+  "title": "Kansas City at Los Angeles C: Travis Kelce First TD, Kansas City Wins, and Over 46.5 points scored"
+}

@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": true,
+  "category": "Economics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXFEDDECISION-25SEP",
+  "mutually_exclusive": true,
+  "series_ticker": "KXFEDDECISION",
+  "strike_date": "2025-09-17T18:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Sep 17, 2025",
+  "title": "Fed decision in Sep 2025?"
+}
