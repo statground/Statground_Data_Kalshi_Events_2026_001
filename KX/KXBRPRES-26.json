@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Elections",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXBRPRES-26",
+  "mutually_exclusive": true,
+  "series_ticker": "KXBRPRES",
+  "strike_period": "",
+  "sub_title": "In The next presidential election",
+  "title": "Who will win the Brazil presidential election?"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXHILLARYCONTEMPTVOTE-26MAR01",
+  "mutually_exclusive": true,
+  "series_ticker": "KXHILLARYCONTEMPTVOTE",
+  "strike_period": "",
+  "sub_title": "Before Mar 1, 2026",
+  "title": "How many House votes finding Hillary Clinton in contempt of Congress?"
+}

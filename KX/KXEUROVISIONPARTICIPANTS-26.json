@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "",
+  "event_ticker": "KXEUROVISIONPARTICIPANTS-26",
+  "mutually_exclusive": false,
+  "series_ticker": "KXEUROVISIONPARTICIPANTS",
+  "strike_period": "",
+  "sub_title": "Eurovision 2026",
+  "title": "Which countries will officially participate in Eurovision Song Contest 2026?"
+}

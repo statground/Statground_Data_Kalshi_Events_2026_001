@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "HOUSEFL13-26",
+  "mutually_exclusive": true,
+  "series_ticker": "HOUSEFL13",
+  "strike_period": "",
+  "sub_title": "In 2026",
+  "title": "Which party will win the House race for FL-13?"
+}

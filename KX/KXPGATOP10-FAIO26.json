@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXPGATOP10-FAIO26",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Farmers Insurance Open",
+    "competition_scope": "Top 10 Finisher"
+  },
+  "series_ticker": "KXPGATOP10",
+  "strike_period": "",
+  "sub_title": "2026 Farmers Insurance Open",
+  "title": "Farmers Insurance Open Top 10 Finisher"
+}

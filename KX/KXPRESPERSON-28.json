@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Elections",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXPRESPERSON-28",
+  "mutually_exclusive": true,
+  "series_ticker": "KXPRESPERSON",
+  "strike_period": "",
+  "sub_title": "In 2028",
+  "title": "Next U.S. Presidential Election Winner?"
+}

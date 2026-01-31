@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNCAAMBNAISMITH-26",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "College Basketball (M)",
+    "competition_scope": "Awards"
+  },
+  "series_ticker": "KXNCAAMBNAISMITH",
+  "strike_period": "",
+  "sub_title": "2025-26 Season",
+  "title": "College Basketball Naismith Player of the Year"
+}

@@ -1,0 +1,14 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXKELCERETIRE-26",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Football"
+  },
+  "series_ticker": "KXKELCERETIRE",
+  "strike_period": "",
+  "sub_title": "Before the start of the 2026-27 regular season",
+  "title": "Will Travis Kelce announce his retirement before next season?"
+}

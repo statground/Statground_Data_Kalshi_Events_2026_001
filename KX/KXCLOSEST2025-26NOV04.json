@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Elections",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCLOSEST2025-26NOV04",
+  "mutually_exclusive": true,
+  "series_ticker": "KXCLOSEST2025",
+  "strike_period": "",
+  "sub_title": "Before Nov 4, 2026",
+  "title": "Which US election will be the closest this year?"
+}

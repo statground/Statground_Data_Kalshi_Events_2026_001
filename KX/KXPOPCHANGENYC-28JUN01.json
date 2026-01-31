@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Social",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXPOPCHANGENYC-28JUN01",
+  "mutually_exclusive": true,
+  "series_ticker": "KXPOPCHANGENYC",
+  "strike_period": "",
+  "sub_title": "2025-2027",
+  "title": "NYC population change in Mamdani's first 18 months?"
+}

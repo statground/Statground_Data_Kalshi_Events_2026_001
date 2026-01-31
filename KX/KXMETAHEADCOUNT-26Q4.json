@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Companies",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXMETAHEADCOUNT-26Q4",
+  "mutually_exclusive": false,
+  "series_ticker": "KXMETAHEADCOUNT",
+  "strike_period": "",
+  "sub_title": "Q4 2025",
+  "title": "Meta headcount in Q4?"
+}

@@ -1,0 +1,14 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNBAALLSTARS-26",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Basketball (M)"
+  },
+  "series_ticker": "KXNBAALLSTARS",
+  "strike_period": "",
+  "sub_title": "2026",
+  "title": "Pro Basketball All Stars?"
+}

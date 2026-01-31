@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXTGLCHAMPION-26",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Tomorrow's Golf League (TGL)",
+    "competition_scope": "Future"
+  },
+  "series_ticker": "KXTGLCHAMPION",
+  "strike_period": "",
+  "sub_title": "2026",
+  "title": "Tomorrow's Golf League Champion?"
+}

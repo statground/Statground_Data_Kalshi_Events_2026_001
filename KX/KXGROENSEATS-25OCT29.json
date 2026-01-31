@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Elections",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXGROENSEATS-25OCT29",
+  "mutually_exclusive": true,
+  "series_ticker": "KXGROENSEATS",
+  "strike_period": "",
+  "sub_title": "On Oct 29, 2025",
+  "title": "How many seats will GroenLinks–PvdA win in the Dutch election?"
+}

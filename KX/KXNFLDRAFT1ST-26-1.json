@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNFLDRAFT1ST-26-1",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Pro Football",
+    "competition_scope": "Draft"
+  },
+  "series_ticker": "KXNFLDRAFT1ST",
+  "strike_period": "",
+  "sub_title": "2026 Pro Football Draft",
+  "title": "1st Overall Pick: 2026 Pro Football Draft"
+}

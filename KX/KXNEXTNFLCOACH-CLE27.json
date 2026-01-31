@@ -1,0 +1,14 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNEXTNFLCOACH-CLE27",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Pro Football"
+  },
+  "series_ticker": "KXNEXTNFLCOACH",
+  "strike_period": "",
+  "sub_title": "CLE",
+  "title": "Cleveland Pro Football - Next Head Coach?"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXTOPALBUM-26FEB14",
+  "mutually_exclusive": true,
+  "series_ticker": "KXTOPALBUM",
+  "strike_period": "",
+  "sub_title": "On Feb 14, 2026",
+  "title": "Billboard Top 200 #1 on Feb 14, 2026 chart?"
+}

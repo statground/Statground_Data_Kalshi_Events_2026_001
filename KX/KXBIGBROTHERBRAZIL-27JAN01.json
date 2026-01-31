@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXBIGBROTHERBRAZIL-27JAN01",
+  "mutually_exclusive": true,
+  "series_ticker": "KXBIGBROTHERBRAZIL",
+  "strike_period": "",
+  "sub_title": "Big Brother Brasil 26",
+  "title": "Who will win Big Brother Brasil 26?"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Elections",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXARGENTINAHOUSETHIRD-25OCT26-3",
+  "mutually_exclusive": true,
+  "series_ticker": "KXARGENTINAHOUSETHIRD",
+  "strike_period": "",
+  "sub_title": "On Oct 26, 2025",
+  "title": "Which party will finish third in the 2025 Argentine Chamber of Deputies election?"
+}

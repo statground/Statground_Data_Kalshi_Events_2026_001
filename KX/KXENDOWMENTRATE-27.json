@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXENDOWMENTRATE-27",
+  "mutually_exclusive": false,
+  "series_ticker": "KXENDOWMENTRATE",
+  "strike_period": "",
+  "sub_title": "Before 2027",
+  "title": "How much will Republicans increase the endowment tax?"
+}

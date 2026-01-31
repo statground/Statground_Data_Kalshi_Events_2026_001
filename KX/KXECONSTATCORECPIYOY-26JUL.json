@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXECONSTATCORECPIYOY-26JUL",
+  "mutually_exclusive": true,
+  "series_ticker": "KXECONSTATCORECPIYOY",
+  "strike_period": "",
+  "sub_title": "In Jul 2026",
+  "title": "CPI core year-over-year in Jul 2026?"
+}

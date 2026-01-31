@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXPREMIERLEAGUE-26",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "EPL",
+    "competition_scope": "Future"
+  },
+  "series_ticker": "KXPREMIERLEAGUE",
+  "strike_period": "",
+  "sub_title": "On May 24, 2026",
+  "title": "English Premier League Winner?"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Elections",
+  "collateral_return_type": "",
+  "event_ticker": "KXMOLDOVAMAJORITY-25SEP28",
+  "mutually_exclusive": false,
+  "series_ticker": "KXMOLDOVAMAJORITY",
+  "strike_period": "",
+  "sub_title": "On Sep 28, 2025",
+  "title": "Will PAS win a majority of seats in the Moldova Parliamentary election?"
+}

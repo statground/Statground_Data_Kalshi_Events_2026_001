@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXWOHOCKEY-WOMEN26MEDAL",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Ice Hockey",
+    "competition_scope": "Medal Winner"
+  },
+  "series_ticker": "KXWOHOCKEY",
+  "strike_period": "",
+  "sub_title": "Women's Ice Hockey Medal Winner",
+  "title": "Women's Ice Hockey: Medal Winner"
+}

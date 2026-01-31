@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "World",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCBDECISIONEU-26FEB05",
+  "mutually_exclusive": true,
+  "series_ticker": "KXCBDECISIONEU",
+  "strike_period": "",
+  "sub_title": "Feb 5, 2026 meeting",
+  "title": "What will the European Central Bank do at the February ECB meeting?"
+}

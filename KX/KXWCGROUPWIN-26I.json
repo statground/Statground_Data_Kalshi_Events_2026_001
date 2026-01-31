@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXWCGROUPWIN-26I",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "FIFA World Cup",
+    "competition_scope": "Group Winner"
+  },
+  "series_ticker": "KXWCGROUPWIN",
+  "strike_period": "",
+  "sub_title": "Group I",
+  "title": "World Cup Group I Winner"
+}

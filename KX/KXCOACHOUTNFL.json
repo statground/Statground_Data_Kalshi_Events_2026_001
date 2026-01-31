@@ -1,0 +1,14 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXCOACHOUTNFL",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Football"
+  },
+  "series_ticker": "KXCOACHOUTNFL",
+  "strike_period": "",
+  "sub_title": "Sep 1, 2026",
+  "title": "Which Pro Football coaches will be out before September?"
+}

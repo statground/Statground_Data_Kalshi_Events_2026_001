@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNHL-26",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "NHL",
+    "competition_scope": "Future"
+  },
+  "series_ticker": "KXNHL",
+  "strike_period": "",
+  "sub_title": "On Jul 1, 2026",
+  "title": "Stanley Cup® Champion?"
+}

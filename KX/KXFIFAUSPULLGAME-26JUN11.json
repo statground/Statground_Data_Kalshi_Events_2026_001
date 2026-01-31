@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXFIFAUSPULLGAME-26JUN11",
+  "mutually_exclusive": false,
+  "series_ticker": "KXFIFAUSPULLGAME",
+  "strike_period": "",
+  "sub_title": "Before Jun 11, 2026",
+  "title": "Will any 2026 FIFA World Cup game scheduled in the U.S. be relocated abroad before Jun 11, 2026?"
+}

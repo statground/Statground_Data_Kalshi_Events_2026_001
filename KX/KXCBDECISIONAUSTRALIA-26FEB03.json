@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "World",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCBDECISIONAUSTRALIA-26FEB03",
+  "mutually_exclusive": true,
+  "series_ticker": "KXCBDECISIONAUSTRALIA",
+  "strike_period": "",
+  "sub_title": "Feb 3, 2026 meeting",
+  "title": "What will the Reserve Bank of Australia do at the February  RBA meeting?"
+}

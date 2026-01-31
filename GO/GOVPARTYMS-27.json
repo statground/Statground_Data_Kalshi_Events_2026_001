@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "GOVPARTYMS-27",
+  "mutually_exclusive": true,
+  "series_ticker": "GOVPARTYMS",
+  "strike_period": "",
+  "sub_title": "In 2027",
+  "title": "Who will win the governorship in Mississippi?"
+}

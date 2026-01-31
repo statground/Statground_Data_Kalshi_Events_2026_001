@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Science and Technology",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXAAPLPRICEFOLD-27",
+  "mutually_exclusive": false,
+  "series_ticker": "KXAAPLPRICEFOLD",
+  "strike_period": "",
+  "sub_title": "Before 2027",
+  "title": "What will be the price of a foldable iPhone?"
+}

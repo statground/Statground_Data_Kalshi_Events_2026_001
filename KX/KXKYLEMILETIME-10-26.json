@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXKYLEMILETIME-10-26",
+  "mutually_exclusive": true,
+  "series_ticker": "KXKYLEMILETIME",
+  "strike_period": "",
+  "sub_title": "On Jan 21, 2026",
+  "title": "Will Kyle Forgeard run the first mile of his NELK challenge in less than 10 minutes?"
+}

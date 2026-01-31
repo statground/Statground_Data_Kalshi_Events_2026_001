@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXMLBWINS-ATH-26",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Baseball",
+    "competition_scope": "Win totals"
+  },
+  "series_ticker": "KXMLBWINS-ATH",
+  "strike_period": "",
+  "sub_title": "2026 season",
+  "title": "Oakland pro baseball wins this season?"
+}

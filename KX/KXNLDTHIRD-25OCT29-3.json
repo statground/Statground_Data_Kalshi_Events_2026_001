@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Elections",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNLDTHIRD-25OCT29-3",
+  "mutually_exclusive": true,
+  "series_ticker": "KXNLDTHIRD",
+  "strike_period": "",
+  "sub_title": "On October 29, 2025",
+  "title": "Who will finish 3rd in the Dutch election?"
+}

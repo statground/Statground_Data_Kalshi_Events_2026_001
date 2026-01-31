@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXUCLTOP8-26",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "UCL",
+    "competition_scope": "Future"
+  },
+  "series_ticker": "KXUCLTOP8",
+  "strike_period": "",
+  "sub_title": "Before 2026",
+  "title": "UCL League Phase Top 8 Finishers"
+}

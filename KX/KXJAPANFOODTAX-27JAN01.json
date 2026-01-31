@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "",
+  "event_ticker": "KXJAPANFOODTAX-27JAN01",
+  "mutually_exclusive": false,
+  "series_ticker": "KXJAPANFOODTAX",
+  "strike_period": "",
+  "sub_title": "Before Jan 1, 2027",
+  "title": "Will Japan lower its food consumption tax in 2026?"
+}

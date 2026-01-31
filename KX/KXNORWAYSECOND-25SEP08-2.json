@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Elections",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNORWAYSECOND-25SEP08-2",
+  "mutually_exclusive": true,
+  "series_ticker": "KXNORWAYSECOND",
+  "strike_period": "",
+  "sub_title": "The 2025 Norwegian parliamentary election",
+  "title": "Who will finish 2nd in the Norway election?"
+}

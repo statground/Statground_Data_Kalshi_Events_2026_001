@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXEOTRUMPTERM-29JAN20",
+  "mutually_exclusive": true,
+  "series_ticker": "KXEOTRUMPTERM",
+  "strike_period": "",
+  "sub_title": "Trump's second term",
+  "title": "How many executive orders will Trump sign in his second term?"
+}

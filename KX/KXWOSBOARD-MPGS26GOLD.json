@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXWOSBOARD-MPGS26GOLD",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Snowboarding",
+    "competition_scope": "Gold Medal Winner"
+  },
+  "series_ticker": "KXWOSBOARD",
+  "strike_period": "",
+  "sub_title": "Men's Parallel Giant Slalom Gold Medal Winner",
+  "title": "Snowboarding Men's Parallel Giant Slalom: Gold Medal Winner"
+}

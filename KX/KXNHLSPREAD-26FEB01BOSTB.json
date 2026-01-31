@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNHLSPREAD-26FEB01BOSTB",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "NHL",
+    "competition_scope": "Spread"
+  },
+  "series_ticker": "KXNHLSPREAD",
+  "strike_period": "",
+  "sub_title": "BOS at TB (Feb 1)",
+  "title": "Boston at Tampa Bay: Spread"
+}

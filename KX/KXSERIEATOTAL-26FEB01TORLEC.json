@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXSERIEATOTAL-26FEB01TORLEC",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Serie A",
+    "competition_scope": "Point Total"
+  },
+  "series_ticker": "KXSERIEATOTAL",
+  "strike_period": "",
+  "sub_title": "LEC at TOR (Feb 1)",
+  "title": "Lecce at Torino: Totals"
+}

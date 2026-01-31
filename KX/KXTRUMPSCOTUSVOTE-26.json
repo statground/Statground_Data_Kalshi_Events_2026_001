@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXTRUMPSCOTUSVOTE-26",
+  "mutually_exclusive": true,
+  "series_ticker": "KXTRUMPSCOTUSVOTE",
+  "strike_period": "",
+  "sub_title": "Before August 2026",
+  "title": "How many Supreme Court justices will vote for Trump's tariffs?"
+}

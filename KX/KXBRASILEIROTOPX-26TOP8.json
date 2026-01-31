@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXBRASILEIROTOPX-26TOP8",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Brasileiro Serie A",
+    "competition_scope": "Future"
+  },
+  "series_ticker": "KXBRASILEIROTOPX",
+  "strike_period": "",
+  "sub_title": "Top 8 2026",
+  "title": "Brasileiro Serie A Top 8 Finishers"
+}

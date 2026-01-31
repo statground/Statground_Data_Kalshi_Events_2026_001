@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXMLBWORLD-26",
+  "mutually_exclusive": true,
+  "series_ticker": "KXMLBWORLD",
+  "strike_period": "",
+  "sub_title": "2026 World Baseball Classic",
+  "title": "World Baseball Classic Winner?"
+}

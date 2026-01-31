@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Elections",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXATTYGENRI-26",
+  "mutually_exclusive": true,
+  "series_ticker": "KXATTYGENRI",
+  "strike_period": "",
+  "sub_title": "In 2026",
+  "title": "Who will win the Attorney General race in Rhode Island?"
+}

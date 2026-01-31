@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Elections",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNJ11SPECIAL2ND-26FEB05-2ND",
+  "mutually_exclusive": true,
+  "series_ticker": "KXNJ11SPECIAL2ND",
+  "strike_period": "",
+  "sub_title": "In 2026",
+  "title": "2nd place in the NJ-11 special election Democratic primary?"
+}

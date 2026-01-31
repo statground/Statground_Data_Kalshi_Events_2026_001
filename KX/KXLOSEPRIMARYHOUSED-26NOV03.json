@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXLOSEPRIMARYHOUSED-26NOV03",
+  "mutually_exclusive": true,
+  "series_ticker": "KXLOSEPRIMARYHOUSED",
+  "strike_period": "",
+  "sub_title": "Before Nov 3, 2026",
+  "title": "How many House Democrats will lose their primary in 2026?"
+}

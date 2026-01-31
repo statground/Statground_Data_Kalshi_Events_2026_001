@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXLIGAMXGAME-26JAN31AMENCX",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Liga MX",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXLIGAMXGAME",
+  "strike_period": "",
+  "sub_title": "AME vs NCX (Jan 31)",
+  "title": "America vs Necaxa"
+}

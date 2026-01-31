@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Entertainment",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXALBUMSALES-OCT",
+  "mutually_exclusive": false,
+  "series_ticker": "KXALBUMSALES",
+  "strike_period": "",
+  "sub_title": "OCTANE",
+  "title": "How many album sales will Don Toliver's 'OCTANE' have on the chart dated Feb 6, 2026?"
+}

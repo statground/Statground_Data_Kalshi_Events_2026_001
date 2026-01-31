@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Elections",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXMOLDOVAPAS-25SEP28",
+  "mutually_exclusive": true,
+  "series_ticker": "KXMOLDOVAPAS",
+  "strike_period": "",
+  "sub_title": "On Sep 28, 2025",
+  "title": "How many seats will PAS win in the Moldovan parliamentary election?"
+}

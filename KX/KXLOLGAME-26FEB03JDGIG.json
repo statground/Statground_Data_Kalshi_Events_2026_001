@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXLOLGAME-26FEB03JDGIG",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "League of Legends",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXLOLGAME",
+  "strike_period": "",
+  "sub_title": "JD Gaming vs. Invictus Gaming (Feb 3)",
+  "title": "LPL 2026: JD Gaming vs. Invictus Gaming"
+}

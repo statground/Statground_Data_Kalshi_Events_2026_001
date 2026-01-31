@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Elections",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXSENATEDEMLEAD-28JAN01",
+  "mutually_exclusive": true,
+  "series_ticker": "KXSENATEDEMLEAD",
+  "strike_period": "",
+  "sub_title": "in 2028",
+  "title": "Who will win the next Senate Democratic Leader election?"
+}

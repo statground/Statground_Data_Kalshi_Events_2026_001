@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXLOLMAP-26FEB02FOXYDRXC-1",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "League of Legends",
+    "competition_scope": "Map 1 Winner"
+  },
+  "series_ticker": "KXLOLMAP",
+  "strike_period": "",
+  "sub_title": "Map 1: FOXY vs. DRXC (Feb 2)",
+  "title": "LCK Challengers League Kickoff 2026: BNK FearX Youth vs. DRX Challengers Map 1"
+}

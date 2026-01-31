@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Elections",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXARGENTINAPRES-27",
+  "mutually_exclusive": true,
+  "series_ticker": "KXARGENTINAPRES",
+  "strike_period": "",
+  "sub_title": "In 2027",
+  "title": "Who will win the next Argentine presidential election?"
+}

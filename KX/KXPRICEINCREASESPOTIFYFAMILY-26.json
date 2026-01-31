@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "",
+  "event_ticker": "KXPRICEINCREASESPOTIFYFAMILY-26",
+  "mutually_exclusive": false,
+  "series_ticker": "KXPRICEINCREASESPOTIFYFAMILY",
+  "strike_period": "",
+  "sub_title": "Before 2027",
+  "title": "Spotify Premium Family Plan price increase before 2027?"
+}

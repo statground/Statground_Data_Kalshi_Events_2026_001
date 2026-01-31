@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXMAKEMARMAD-26",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "College Basketball (M)",
+    "competition_scope": "Future"
+  },
+  "series_ticker": "KXMAKEMARMAD",
+  "strike_period": "",
+  "sub_title": "2026",
+  "title": "Men's March Madness Round of 64 Qualifiers"
+}

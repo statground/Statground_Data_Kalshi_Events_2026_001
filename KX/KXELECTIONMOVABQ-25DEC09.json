@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Elections",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXELECTIONMOVABQ-25DEC09",
+  "mutually_exclusive": true,
+  "series_ticker": "KXELECTIONMOVABQ",
+  "strike_period": "",
+  "sub_title": "On Dec 9, 2025",
+  "title": "Margin of victory for Tim Keller in the Albuquerque Mayoral Runoff?"
+}

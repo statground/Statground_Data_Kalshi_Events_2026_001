@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXUCLTOP-26",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "UCL",
+    "competition_scope": "Future"
+  },
+  "series_ticker": "KXUCLTOP",
+  "strike_period": "",
+  "sub_title": "2025-2026 UCL",
+  "title": "UCL League Phase Winner"
+}

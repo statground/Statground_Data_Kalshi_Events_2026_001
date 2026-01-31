@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Elections",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXMOVNJ11SPECIALD-26FEB05",
+  "mutually_exclusive": true,
+  "series_ticker": "KXMOVNJ11SPECIALD",
+  "strike_period": "",
+  "sub_title": "On Feb 5, 2026",
+  "title": "Margin of victory in the NJ-11 special Democratic primary?"
+}

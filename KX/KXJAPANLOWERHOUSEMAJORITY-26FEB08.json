@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Elections",
+  "collateral_return_type": "",
+  "event_ticker": "KXJAPANLOWERHOUSEMAJORITY-26FEB08",
+  "mutually_exclusive": false,
+  "series_ticker": "KXJAPANLOWERHOUSEMAJORITY",
+  "strike_period": "",
+  "sub_title": "On Feb 8, 2026",
+  "title": "Will any party win a majority in the 2026 Japanese snap election?"
+}

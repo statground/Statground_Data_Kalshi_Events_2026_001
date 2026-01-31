@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXPGATOUR-FAIO26",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Farmers Insurance Open",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXPGATOUR",
+  "strike_period": "",
+  "sub_title": "2026 Farmers Insurance Open",
+  "title": "Farmers Insurance Open Winner?"
+}

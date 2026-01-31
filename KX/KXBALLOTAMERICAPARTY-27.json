@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Elections",
+  "collateral_return_type": "",
+  "event_ticker": "KXBALLOTAMERICAPARTY-27",
+  "mutually_exclusive": false,
+  "series_ticker": "KXBALLOTAMERICAPARTY",
+  "strike_period": "",
+  "sub_title": "Before 2027",
+  "title": "Will any America Party candidate be on a federal or gubernatorial ballot before 2027?"
+}

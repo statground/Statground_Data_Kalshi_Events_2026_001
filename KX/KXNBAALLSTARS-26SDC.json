@@ -1,0 +1,14 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNBAALLSTARS-26SDC",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Basketball (M)"
+  },
+  "series_ticker": "KXNBAALLSTARS",
+  "strike_period": "",
+  "sub_title": "2026 Dunk Contest",
+  "title": "Pro Basketball Slam Dunk Contest Participants?"
+}

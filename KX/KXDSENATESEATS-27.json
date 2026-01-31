@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXDSENATESEATS-27",
+  "mutually_exclusive": true,
+  "series_ticker": "KXDSENATESEATS",
+  "strike_period": "",
+  "sub_title": "On Feb 1, 2027",
+  "title": "How many Senate seats will Democrats hold after the Midterms?"
+}

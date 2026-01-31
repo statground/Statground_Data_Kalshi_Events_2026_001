@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXG7LEADEROUT-35",
+  "mutually_exclusive": true,
+  "series_ticker": "KXG7LEADEROUT",
+  "strike_period": "",
+  "sub_title": "Before 2035",
+  "title": "Which of these G7 leaders will leave office next?"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "World",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCBDECISIONMEXICO-26FEB05",
+  "mutually_exclusive": true,
+  "series_ticker": "KXCBDECISIONMEXICO",
+  "strike_period": "",
+  "sub_title": "Feb 5, 2026 meeting",
+  "title": "What will the Bank of Mexico do at the February meeting?"
+}

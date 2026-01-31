@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNHLEAST-26",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "NHL",
+    "competition_scope": "Future"
+  },
+  "series_ticker": "KXNHLEAST",
+  "strike_period": "",
+  "sub_title": "2025-2026 Eastern Conference Finals",
+  "title": "Eastern Conference Finals Winner?"
+}

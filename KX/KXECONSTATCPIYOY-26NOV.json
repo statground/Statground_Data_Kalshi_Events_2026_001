@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXECONSTATCPIYOY-26NOV",
+  "mutually_exclusive": true,
+  "series_ticker": "KXECONSTATCPIYOY",
+  "strike_period": "",
+  "sub_title": "In Nov 2026",
+  "title": "CPI year-over-year in Nov 2026?"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Elections",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXHOUSERACE-MN07-26",
+  "mutually_exclusive": true,
+  "series_ticker": "KXHOUSERACE",
+  "strike_period": "",
+  "sub_title": "MN-07",
+  "title": "Which party will win the House race for MN-07?"
+}

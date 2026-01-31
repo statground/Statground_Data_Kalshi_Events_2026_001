@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Entertainment",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXRT-HOW",
+  "mutually_exclusive": false,
+  "series_ticker": "KXRT",
+  "strike_period": "",
+  "sub_title": "How to Make a Killing",
+  "title": "\"How to Make a Killing\" Rotten Tomatoes score?"
+}

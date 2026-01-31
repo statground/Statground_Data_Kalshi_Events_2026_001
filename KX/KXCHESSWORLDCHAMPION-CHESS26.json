@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCHESSWORLDCHAMPION-CHESS26",
+  "mutually_exclusive": true,
+  "series_ticker": "KXCHESSWORLDCHAMPION",
+  "strike_period": "",
+  "sub_title": "On Dec 31, 2026",
+  "title": "Who will win the World Chess Championship?"
+}

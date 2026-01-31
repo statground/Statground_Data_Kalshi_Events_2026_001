@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXNFLGAMETD-26FEB08SEANE",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Football",
+    "competition_scope": "Number of Touchdowns"
+  },
+  "series_ticker": "KXNFLGAMETD",
+  "strike_period": "",
+  "sub_title": "SEA at NE (Feb 8)",
+  "title": "Seattle vs New England: Number of Touchdowns"
+}

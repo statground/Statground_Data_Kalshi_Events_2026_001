@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Elections",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXARGENTINAMOSTGAIN-25OCT26",
+  "mutually_exclusive": true,
+  "series_ticker": "KXARGENTINAMOSTGAIN",
+  "strike_period": "",
+  "sub_title": "On Oct 26, 2025",
+  "title": "Which party gains the most seats in the 2025 Argentina Chamber of Deputies election?"
+}

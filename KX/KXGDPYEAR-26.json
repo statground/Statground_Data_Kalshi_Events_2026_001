@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXGDPYEAR-26",
+  "mutually_exclusive": true,
+  "series_ticker": "KXGDPYEAR",
+  "strike_period": "",
+  "sub_title": "2026",
+  "title": "GDP growth in 2026?"
+}

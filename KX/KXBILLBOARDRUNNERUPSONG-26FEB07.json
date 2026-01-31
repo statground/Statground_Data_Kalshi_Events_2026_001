@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXBILLBOARDRUNNERUPSONG-26FEB07",
+  "mutually_exclusive": true,
+  "series_ticker": "KXBILLBOARDRUNNERUPSONG",
+  "strike_period": "",
+  "sub_title": "On Feb 7, 2026",
+  "title": "Billboard Hot 100 #2 on Feb 7, 2026 chart?"
+}

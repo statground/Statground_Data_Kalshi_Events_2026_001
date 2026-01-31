@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXHOWMANYSPEAKERHOUSE-27JAN",
+  "mutually_exclusive": true,
+  "series_ticker": "KXHOWMANYSPEAKERHOUSE",
+  "strike_period": "",
+  "sub_title": "2026",
+  "title": "How many people will serve as Speaker of the House in 2026?"
+}

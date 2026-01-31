@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNFLDPOTY-26",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Pro Football",
+    "competition_scope": "Awards"
+  },
+  "series_ticker": "KXNFLDPOTY",
+  "strike_period": "",
+  "sub_title": "2025-26 season",
+  "title": "Defensive Player of the Year Winner?"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "",
+  "event_ticker": "KXPRICEINCREASESPOTIFY-26",
+  "mutually_exclusive": false,
+  "series_ticker": "KXPRICEINCREASESPOTIFY",
+  "strike_period": "",
+  "sub_title": "Before 2027",
+  "title": "Will Spotify’s Premium Individual Plan increase before 2027?"
+}

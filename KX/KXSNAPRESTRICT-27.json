@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "",
+  "event_ticker": "KXSNAPRESTRICT-27",
+  "mutually_exclusive": false,
+  "series_ticker": "KXSNAPRESTRICT",
+  "strike_period": "",
+  "sub_title": "Before Jan 4, 2027",
+  "title": "Will Trump restrict SNAP benefits?"
+}

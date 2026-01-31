@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXSERIEAGAME-26JAN31CAGVER",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Serie A",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXSERIEAGAME",
+  "strike_period": "",
+  "sub_title": "CAG vs VER (Jan 31)",
+  "title": "Cagliari vs Hellas Verona"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Companies",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXMATCHPAYERS-26Q4",
+  "mutually_exclusive": false,
+  "series_ticker": "KXMATCHPAYERS",
+  "strike_period": "",
+  "sub_title": "In Q4 2025",
+  "title": "Match total payers in Q4?"
+}

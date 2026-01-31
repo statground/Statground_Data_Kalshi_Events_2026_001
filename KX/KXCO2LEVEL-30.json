@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "World",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXCO2LEVEL-30",
+  "mutually_exclusive": false,
+  "series_ticker": "KXCO2LEVEL",
+  "strike_period": "",
+  "sub_title": "Before 2030",
+  "title": "How bad will CO2 atmospheric concentration get before 2030?"
+}

@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXWONORDIC-INDLARGE26MEDAL",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Nordic Combined",
+    "competition_scope": "Medal Winner"
+  },
+  "series_ticker": "KXWONORDIC",
+  "strike_period": "",
+  "sub_title": "Individual Large Hill Medal Winner",
+  "title": "Nordic Combined Individual Large Hill: Medal Winner"
+}

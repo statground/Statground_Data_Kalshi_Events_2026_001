@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXFED-26DEC",
+  "mutually_exclusive": false,
+  "series_ticker": "KXFED",
+  "strike_date": "2026-12-09T19:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Dec 9, 2026",
+  "title": "Fed funds rate after Dec 2026 meeting?"
+}

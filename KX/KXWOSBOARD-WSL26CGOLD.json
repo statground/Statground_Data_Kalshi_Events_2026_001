@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXWOSBOARD-WSL26CGOLD",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Snowboarding",
+    "competition_scope": "Gold Medal Country"
+  },
+  "series_ticker": "KXWOSBOARD",
+  "strike_period": "",
+  "sub_title": "Women's Slopestyle Gold Medal Country",
+  "title": "Snowboarding Women's Slopestyle: Gold Medal Country"
+}

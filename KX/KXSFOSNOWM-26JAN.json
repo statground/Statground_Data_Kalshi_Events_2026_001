@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXSFOSNOWM-26JAN",
+  "mutually_exclusive": false,
+  "series_ticker": "KXSFOSNOWM",
+  "strike_period": "",
+  "sub_title": "In Jan 2026",
+  "title": "Snow in San Francisco in Jan 2026?"
+}

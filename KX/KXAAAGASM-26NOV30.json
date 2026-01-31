@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXAAAGASM-26NOV30",
+  "mutually_exclusive": false,
+  "series_ticker": "KXAAAGASM",
+  "strike_date": "2026-11-30T15:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Nov 30, 2026",
+  "title": "Gas prices in the US in Nov 2026?"
+}

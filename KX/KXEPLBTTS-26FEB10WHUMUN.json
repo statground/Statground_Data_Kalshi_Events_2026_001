@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXEPLBTTS-26FEB10WHUMUN",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "EPL",
+    "competition_scope": "BTTS"
+  },
+  "series_ticker": "KXEPLBTTS",
+  "strike_period": "",
+  "sub_title": "MUN at WHU (Feb 10)",
+  "title": "Manchester United at West Ham: Both Teams to Score"
+}

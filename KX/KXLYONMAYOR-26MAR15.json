@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Elections",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXLYONMAYOR-26MAR15",
+  "mutually_exclusive": true,
+  "series_ticker": "KXLYONMAYOR",
+  "strike_period": "",
+  "sub_title": "March 15, 2026",
+  "title": "Who will win the Lyon mayoral election?"
+}

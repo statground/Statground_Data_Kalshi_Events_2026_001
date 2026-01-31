@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXBRASILEIROGAME-26FEB05CRUCTB",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Brasileiro Serie A",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXBRASILEIROGAME",
+  "strike_period": "",
+  "sub_title": "CRU vs CTB (Feb 5)",
+  "title": "Cruzeiro vs Coritiba"
+}

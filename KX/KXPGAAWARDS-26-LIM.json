@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXPGAAWARDS-26-LIM",
+  "mutually_exclusive": true,
+  "series_ticker": "KXPGAAWARDS",
+  "strike_period": "",
+  "sub_title": "Limited or Anthology Series Television | 37th",
+  "title": "PGA Award for Best Limited or Anthology Series Television?"
+}

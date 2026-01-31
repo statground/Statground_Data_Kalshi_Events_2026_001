@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNFLDRAFTTOP-26-5",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Football",
+    "competition_scope": "Draft"
+  },
+  "series_ticker": "KXNFLDRAFTTOP",
+  "strike_period": "",
+  "sub_title": "Top 5 2026",
+  "title": "Pro Football Players Drafted Top 5 in 2026?"
+}

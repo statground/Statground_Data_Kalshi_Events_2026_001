@@ -1,0 +1,14 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNEXTTEAMNBA-26JMOR",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Pro Basketball (M)"
+  },
+  "series_ticker": "KXNEXTTEAMNBA",
+  "strike_period": "",
+  "sub_title": "Ja Morant",
+  "title": "Ja Morant's next team?"
+}

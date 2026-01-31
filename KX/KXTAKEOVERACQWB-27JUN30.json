@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Companies",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXTAKEOVERACQWB-27JUN30",
+  "mutually_exclusive": true,
+  "series_ticker": "KXTAKEOVERACQWB",
+  "strike_period": "",
+  "sub_title": "Before July 2027",
+  "title": "Who will successfully take over Warner Brothers?"
+}

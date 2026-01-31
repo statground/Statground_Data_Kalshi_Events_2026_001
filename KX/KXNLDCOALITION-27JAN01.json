@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNLDCOALITION-27JAN01",
+  "mutually_exclusive": true,
+  "series_ticker": "KXNLDCOALITION",
+  "strike_period": "",
+  "sub_title": "Before Jan 1, 2027",
+  "title": "Which coalition will form the next government in the Netherlands?"
+}

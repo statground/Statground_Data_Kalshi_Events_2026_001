@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNEXTCOACHOUTNBA-0-27",
+  "mutually_exclusive": true,
+  "series_ticker": "KXNEXTCOACHOUTNBA",
+  "strike_period": "",
+  "sub_title": "Before 2027",
+  "title": "Who will be the next coach out in pro men's basketball?"
+}

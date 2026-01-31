@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Entertainment",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXMC-CAI",
+  "mutually_exclusive": false,
+  "series_ticker": "KXMC",
+  "strike_period": "",
+  "sub_title": "Cairn",
+  "title": "\"Cairn\" Metacritic score?"
+}

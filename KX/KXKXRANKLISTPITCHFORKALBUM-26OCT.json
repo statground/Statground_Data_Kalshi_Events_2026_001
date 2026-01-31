@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXKXRANKLISTPITCHFORKALBUM-26OCT",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Pro Football",
+    "competition_scope": "Fantasy"
+  },
+  "series_ticker": "KXKXRANKLISTPITCHFORKALBUM",
+  "strike_period": "",
+  "sub_title": "Before Oct 2026",
+  "title": "#1  album on Pitchforks' The 50 Best Albums of 2025?"
+}

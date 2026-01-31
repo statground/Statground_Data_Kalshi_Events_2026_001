@@ -1,0 +1,14 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXTENNCOACH-26",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Pro Football"
+  },
+  "series_ticker": "KXTENNCOACH",
+  "strike_period": "",
+  "sub_title": "Before Sep 1, 2026",
+  "title": "Tennessee Pro Football - Next Head Coach?"
+}

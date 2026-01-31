@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXSENATENYD-28",
+  "mutually_exclusive": true,
+  "series_ticker": "KXSENATENYD",
+  "strike_period": "",
+  "sub_title": "In 2028",
+  "title": "Democratic nominee for New York Senate in 2028?"
+}

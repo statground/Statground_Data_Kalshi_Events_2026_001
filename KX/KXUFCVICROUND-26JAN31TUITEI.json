@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXUFCVICROUND-26JAN31TUITEI",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "UFC",
+    "competition_scope": "Round of Victory"
+  },
+  "series_ticker": "KXUFCVICROUND",
+  "strike_period": "",
+  "sub_title": "Tai Tuivasa vs Tallison Teixeira (Jan 31)",
+  "title": "Tai Tuivasa vs. Tallison Teixeira: Round of Victory"
+}

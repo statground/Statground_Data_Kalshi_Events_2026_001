@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXUFCROUNDS-26JAN31HOOSAI",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "UFC",
+    "competition_scope": "Round of Finish"
+  },
+  "series_ticker": "KXUFCROUNDS",
+  "strike_period": "",
+  "sub_title": "Daniel Hooker vs Benoit Saint-Denis (Jan 31)",
+  "title": "Daniel Hooker vs. Benoit Saint-Denis: Round of Finish"
+}

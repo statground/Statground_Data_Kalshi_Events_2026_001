@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Elections",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXDCMAYORD-26",
+  "mutually_exclusive": true,
+  "series_ticker": "KXDCMAYORD",
+  "strike_period": "",
+  "sub_title": "In 2026",
+  "title": "Who will win the 2026 DC Democratic Mayoral Primary?"
+}

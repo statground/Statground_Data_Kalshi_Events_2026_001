@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXNFLGAMESACK-26FEB08SEANE",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Football",
+    "competition_scope": "Sacks"
+  },
+  "series_ticker": "KXNFLGAMESACK",
+  "strike_period": "",
+  "sub_title": "SEA at NE (Feb 8)",
+  "title": "Seattle vs New England: Sacks"
+}

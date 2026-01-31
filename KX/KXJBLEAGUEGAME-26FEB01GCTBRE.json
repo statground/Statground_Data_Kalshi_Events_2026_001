@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXJBLEAGUEGAME-26FEB01GCTBRE",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Japan B League",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXJBLEAGUEGAME",
+  "strike_period": "",
+  "sub_title": "GCT at BRE (Feb 1)",
+  "title": "Gunma Crane Thunders at Utsunomiya Brex"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Elections",
+  "collateral_return_type": "",
+  "event_ticker": "KXIRISH1ROUND-25OCT24",
+  "mutually_exclusive": false,
+  "series_ticker": "KXIRISH1ROUND",
+  "strike_period": "",
+  "sub_title": "Oct 24, 2025",
+  "title": "Will a candidate win outright in Ireland’s first round?"
+}

@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXUCLGAME-26FEB17GALJUV",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Champions League",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXUCLGAME",
+  "strike_period": "",
+  "sub_title": "GAL vs JUV (Feb 17)",
+  "title": "Galatasaray vs Juventus"
+}

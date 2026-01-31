@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNFCAFCSB-26",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Pro Football",
+    "competition_scope": "Future"
+  },
+  "series_ticker": "KXNFCAFCSB",
+  "strike_period": "",
+  "sub_title": "On Feb 8, 2026",
+  "title": "Which Conference Wins the Championship?"
+}

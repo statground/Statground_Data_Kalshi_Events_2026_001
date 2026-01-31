@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Elections",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXELECTIONMOVAZ7S-25SEP23",
+  "mutually_exclusive": true,
+  "series_ticker": "KXELECTIONMOVAZ7S",
+  "strike_period": "",
+  "sub_title": "On Sep 23, 2025",
+  "title": "Democratic margin of victory in AZ-07 special election?"
+}

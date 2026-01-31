@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXWOSBOARD-WBA26MEDAL",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Snowboarding",
+    "competition_scope": "Medal Winner"
+  },
+  "series_ticker": "KXWOSBOARD",
+  "strike_period": "",
+  "sub_title": "Women's Big Air Medal Winner",
+  "title": "Snowboarding Women's Big Air: Medal Winner"
+}

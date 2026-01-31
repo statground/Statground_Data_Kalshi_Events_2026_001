@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Health",
+  "collateral_return_type": "",
+  "event_ticker": "KXFDAAPPROVALPSYCHEDELIC-27",
+  "mutually_exclusive": false,
+  "series_ticker": "KXFDAAPPROVALPSYCHEDELIC",
+  "strike_period": "",
+  "sub_title": "Before 2027",
+  "title": "Will the FDA approve any psychedelic substance for medical use before 2027?"
+}

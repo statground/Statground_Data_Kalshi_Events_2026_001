@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXACAHOUSEVOTE-27JAN01",
+  "mutually_exclusive": true,
+  "series_ticker": "KXACAHOUSEVOTE",
+  "strike_period": "",
+  "sub_title": "Before Jan 1, 2027",
+  "title": "How many House votes to extend ACA subsidies?"
+}

@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXSECHOMELAND-26DEC31",
+  "mutually_exclusive": true,
+  "series_ticker": "KXSECHOMELAND",
+  "strike_date": "2027-01-01T04:59:00Z",
+  "strike_period": "",
+  "sub_title": "By Dec 31, 2026",
+  "title": "Who will be Trump's Secretary of Homeland Security?"
+}

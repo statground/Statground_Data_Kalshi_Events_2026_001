@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Crypto",
+  "collateral_return_type": "",
+  "event_ticker": "KXFDVZAMA-27JAN01",
+  "mutually_exclusive": false,
+  "series_ticker": "KXFDVZAMA",
+  "strike_period": "",
+  "sub_title": "Jan 1, 2027 at 10:00AM",
+  "title": "ZAMA FDV one day after launch?"
+}

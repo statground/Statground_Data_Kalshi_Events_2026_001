@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXROMANIATOP2-27",
+  "mutually_exclusive": true,
+  "series_ticker": "KXROMANIATOP2",
+  "strike_period": "",
+  "sub_title": "The next first round",
+  "title": "Who will win the first round of the Romanian election?"
+}

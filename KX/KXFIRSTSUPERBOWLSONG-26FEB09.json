@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXFIRSTSUPERBOWLSONG-26FEB09",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Pro Football",
+    "competition_scope": "The Big Game"
+  },
+  "series_ticker": "KXFIRSTSUPERBOWLSONG",
+  "strike_period": "",
+  "sub_title": "Bad Bunny setlist",
+  "title": "Bad Bunny’s halftime opener?"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXSAFEBANK-27JAN01",
+  "mutually_exclusive": true,
+  "series_ticker": "KXSAFEBANK",
+  "strike_period": "",
+  "sub_title": "Before Jan 1, 2027",
+  "title": "Will cannabis banking insurance protections become law in 2026?"
+}

@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNBADRAFTPICK-26-3",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Pro Basketball (M)",
+    "competition_scope": "Draft"
+  },
+  "series_ticker": "KXNBADRAFTPICK",
+  "strike_period": "",
+  "sub_title": "3rd Pick 2026",
+  "title": "Pro Basketball #3 overall pick in 2026?"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXGDP-26OCT30",
+  "mutually_exclusive": false,
+  "series_ticker": "KXGDP",
+  "strike_period": "Q3 2026",
+  "sub_title": "In Q3 2026",
+  "title": "US GDP growth in Q3 2026?"
+}

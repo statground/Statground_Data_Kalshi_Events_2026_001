@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Elections",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNLDFOURTH-25OCT29-4",
+  "mutually_exclusive": true,
+  "series_ticker": "KXNLDFOURTH",
+  "strike_period": "",
+  "sub_title": "the 2025 Dutch general election",
+  "title": "Who will finish 4th in the Dutch election?"
+}

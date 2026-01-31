@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCOPPAITALIA-26",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Coppa Italia",
+    "competition_scope": "Future"
+  },
+  "series_ticker": "KXCOPPAITALIA",
+  "strike_period": "",
+  "sub_title": "2025-26 Season",
+  "title": "Coppa Italia Champion"
+}

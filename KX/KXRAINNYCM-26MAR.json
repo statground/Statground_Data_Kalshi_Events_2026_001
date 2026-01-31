@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXRAINNYCM-26MAR",
+  "mutually_exclusive": false,
+  "series_ticker": "KXRAINNYCM",
+  "strike_period": "",
+  "sub_title": "In Mar 2026",
+  "title": "Rain in NYC in Mar 2026?"
+}

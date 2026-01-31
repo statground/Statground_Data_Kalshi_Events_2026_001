@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXWMARMADROUND-26T2",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "College Basketball (W)",
+    "competition_scope": "Future"
+  },
+  "series_ticker": "KXWMARMADROUND",
+  "strike_period": "",
+  "sub_title": "2026 Championship Game",
+  "title": "Women's March Madness Championship Game Qualifiers"
+}

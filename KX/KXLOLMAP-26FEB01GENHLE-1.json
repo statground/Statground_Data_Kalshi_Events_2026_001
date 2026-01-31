@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXLOLMAP-26FEB01GENHLE-1",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "League of Legends",
+    "competition_scope": "Map 1 Winner"
+  },
+  "series_ticker": "KXLOLMAP",
+  "strike_period": "",
+  "sub_title": "Map 1: GEN vs. HLE (Feb 1)",
+  "title": "LCK Cup 2026: Gen.G vs. Hanwha Life Esports Map 1"
+}

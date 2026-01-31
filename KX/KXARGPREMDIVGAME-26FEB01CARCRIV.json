@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXARGPREMDIVGAME-26FEB01CARCRIV",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Argentina Primera Division",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXARGPREMDIVGAME",
+  "strike_period": "",
+  "sub_title": "CARC vs RIV (Feb 1)",
+  "title": "Rosario vs River Plate"
+}

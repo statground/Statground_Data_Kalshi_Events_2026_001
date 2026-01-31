@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Elections",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXDECLAREPRESFIRSTD-28NOV07",
+  "mutually_exclusive": true,
+  "series_ticker": "KXDECLAREPRESFIRSTD",
+  "strike_period": "",
+  "sub_title": "Before Nov 7, 2028",
+  "title": "Who will be the first Democrat listed to announce a presidential run?"
+}

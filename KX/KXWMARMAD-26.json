@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXWMARMAD-26",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "College Basketball (W)",
+    "competition_scope": "Future"
+  },
+  "series_ticker": "KXWMARMAD",
+  "strike_period": "",
+  "sub_title": "2025-26 Season",
+  "title": "Women's College Basketball Champion"
+}

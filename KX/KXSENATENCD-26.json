@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXSENATENCD-26",
+  "mutually_exclusive": true,
+  "series_ticker": "KXSENATENCD",
+  "strike_period": "",
+  "sub_title": "In 2026",
+  "title": "Democratic nominee for Senate in North Carolina?"
+}

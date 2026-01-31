@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXWTAMATCH-26FEB01KESPAV",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "WTA Abu Dhabi",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXWTAMATCH",
+  "strike_period": "",
+  "sub_title": "Kessler vs Pavlyuchenkova (Feb 1)",
+  "title": "Kessler vs Pavlyuchenkova"
+}

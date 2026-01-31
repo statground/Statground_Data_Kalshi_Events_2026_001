@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXR6GAME-26FEB03ELVFLCS",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "R6",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXR6GAME",
+  "strike_period": "",
+  "sub_title": "Elevate vs. Falcons Esport (Feb 3)",
+  "title": "Six Invitational 2026: Elevate vs. Falcons Esport"
+}

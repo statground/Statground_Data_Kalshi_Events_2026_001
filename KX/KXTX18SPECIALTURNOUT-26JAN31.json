@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Elections",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXTX18SPECIALTURNOUT-26JAN31",
+  "mutually_exclusive": true,
+  "series_ticker": "KXTX18SPECIALTURNOUT",
+  "strike_period": "",
+  "sub_title": "TX-18 special election runoff in Texas 18th Congressional district",
+  "title": "Voter turnout in the TX-18 special election runoff?"
+}

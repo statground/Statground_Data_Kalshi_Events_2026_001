@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXFISPIRITAWARDS-26JOHN",
+  "mutually_exclusive": true,
+  "series_ticker": "KXFISPIRITAWARDS",
+  "strike_period": "",
+  "sub_title": "John Cassavetes Award | 41st",
+  "title": "Film Independent Spirit Awards: John Cassavetes Award?"
+}

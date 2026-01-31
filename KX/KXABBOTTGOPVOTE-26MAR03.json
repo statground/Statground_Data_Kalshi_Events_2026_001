@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Elections",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXABBOTTGOPVOTE-26MAR03",
+  "mutually_exclusive": false,
+  "series_ticker": "KXABBOTTGOPVOTE",
+  "strike_period": "",
+  "sub_title": "On Mar 3, 2026",
+  "title": "Greg Abbott vote percent in the Texas Governor GOP primary?"
+}

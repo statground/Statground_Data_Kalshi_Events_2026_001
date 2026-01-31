@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Economics",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXU3-26JAN",
+  "mutually_exclusive": false,
+  "series_ticker": "KXU3",
+  "strike_period": "",
+  "sub_title": "In Jan 2026",
+  "title": "Unemployment in January 2026?"
+}

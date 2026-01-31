@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXUCLGAME-26FEB17BVBATA",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Champions League",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXUCLGAME",
+  "strike_period": "",
+  "sub_title": "BVB vs ATA (Feb 17)",
+  "title": "Dortmund vs Atalanta"
+}

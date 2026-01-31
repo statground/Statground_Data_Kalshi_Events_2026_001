@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Financials",
+  "collateral_return_type": "",
+  "event_ticker": "KXSP500ADDQ-26MAR31",
+  "mutually_exclusive": false,
+  "series_ticker": "KXSP500ADDQ",
+  "strike_period": "",
+  "sub_title": "Index membership",
+  "title": "Which companies will be added to the S&P 500 in Q1 of 2026?"
+}

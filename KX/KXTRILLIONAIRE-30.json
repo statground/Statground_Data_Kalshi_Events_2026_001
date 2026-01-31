@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Economics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXTRILLIONAIRE-30",
+  "mutually_exclusive": true,
+  "series_ticker": "KXTRILLIONAIRE",
+  "strike_period": "",
+  "sub_title": "Before Jan 1, 2030",
+  "title": "Who will be the world's first trillionaire?"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXLOSEPRIMARYHOUSER-26NOV03",
+  "mutually_exclusive": true,
+  "series_ticker": "KXLOSEPRIMARYHOUSER",
+  "strike_period": "",
+  "sub_title": "Before Nov 3, 2026",
+  "title": "How many House Republicans will lose their primary in 2026?"
+}

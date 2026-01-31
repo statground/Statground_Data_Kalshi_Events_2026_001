@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXTRUMPUN-26",
+  "mutually_exclusive": true,
+  "series_ticker": "KXTRUMPUN",
+  "strike_period": "",
+  "sub_title": "Before Dec 2026",
+  "title": "Will Stefanik be announced as Trump’s UN Ambassador?"
+}

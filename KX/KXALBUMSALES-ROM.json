@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Entertainment",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXALBUMSALES-ROM",
+  "mutually_exclusive": false,
+  "series_ticker": "KXALBUMSALES",
+  "strike_period": "",
+  "sub_title": "The Romantic",
+  "title": "How many album sales will 'The Romantic' by Bruno Mars have on the chart dated March 6th?"
+}

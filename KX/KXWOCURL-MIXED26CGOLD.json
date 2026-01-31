@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXWOCURL-MIXED26CGOLD",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Curling",
+    "competition_scope": "Gold Medal Country"
+  },
+  "series_ticker": "KXWOCURL",
+  "strike_period": "",
+  "sub_title": "Mixed Doubles Curling Gold Medal Country",
+  "title": "Mixed Doubles Curling: Gold Medal Country"
+}

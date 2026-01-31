@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXATPCHALLENGERMATCH-26JAN31VITJON",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "ATP Challenger Brisbane",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXATPCHALLENGERMATCH",
+  "strike_period": "",
+  "sub_title": "Vithoontien vs Jones (Jan 31)",
+  "title": "Vithoontien vs Jones"
+}

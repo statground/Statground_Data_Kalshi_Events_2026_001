@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXUFCMOF-26JAN31SALMUL",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "UFC",
+    "competition_scope": "Method of Finish"
+  },
+  "series_ticker": "KXUFCMOF",
+  "strike_period": "",
+  "sub_title": "Quillan Salkilld vs Jamie Mullarkey (Jan 31)",
+  "title": "Quillan Salkilld vs. Jamie Mullarkey: Method of Finish"
+}

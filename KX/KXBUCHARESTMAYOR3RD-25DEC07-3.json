@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Elections",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXBUCHARESTMAYOR3RD-25DEC07-3",
+  "mutually_exclusive": true,
+  "series_ticker": "KXBUCHARESTMAYOR3RD",
+  "strike_period": "",
+  "sub_title": "On Dec 7, 2025",
+  "title": "3rd place in the Bucharest mayoral election?"
+}

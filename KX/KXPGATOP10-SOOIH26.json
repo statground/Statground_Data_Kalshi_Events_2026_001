@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXPGATOP10-SOOIH26",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Sony Open in Hawaii",
+    "competition_scope": "Top 10 Finisher"
+  },
+  "series_ticker": "KXPGATOP10",
+  "strike_period": "",
+  "sub_title": "2026 Sony Open in Hawaii",
+  "title": "Sony Open in Hawaii Top 10 Finisher"
+}

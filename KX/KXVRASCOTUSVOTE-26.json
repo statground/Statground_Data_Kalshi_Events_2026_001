@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXVRASCOTUSVOTE-26",
+  "mutually_exclusive": true,
+  "series_ticker": "KXVRASCOTUSVOTE",
+  "strike_period": "",
+  "sub_title": "Before Aug 2026",
+  "title": "How many justices will vote for Louisiana in Louisiana v. Callais?"
+}

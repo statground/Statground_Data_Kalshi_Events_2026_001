@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "",
+  "event_ticker": "KXGTEMP-26",
+  "mutually_exclusive": false,
+  "series_ticker": "KXGTEMP",
+  "strike_period": "2026",
+  "sub_title": "In 2026",
+  "title": "Will 2026 be the hottest year ever?"
+}

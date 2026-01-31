@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXTOPALBUMSPOTIFYUSA-26",
+  "mutually_exclusive": true,
+  "series_ticker": "KXTOPALBUMSPOTIFYUSA",
+  "strike_period": "",
+  "sub_title": "In 2026",
+  "title": "Top Album on Spotify U.S in 2026?"
+}

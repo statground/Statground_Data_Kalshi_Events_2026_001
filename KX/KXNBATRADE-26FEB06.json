@@ -1,0 +1,14 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNBATRADE-26FEB06",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Basketball (M)"
+  },
+  "series_ticker": "KXNBATRADE",
+  "strike_period": "",
+  "sub_title": "Before Feb 6, 2026",
+  "title": "Pro Basketball Players Traded before Deadline"
+}

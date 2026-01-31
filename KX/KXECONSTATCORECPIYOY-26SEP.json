@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXECONSTATCORECPIYOY-26SEP",
+  "mutually_exclusive": true,
+  "series_ticker": "KXECONSTATCORECPIYOY",
+  "strike_period": "",
+  "sub_title": "In Sep 2026",
+  "title": "CPI core year-over-year in Sep 2026?"
+}

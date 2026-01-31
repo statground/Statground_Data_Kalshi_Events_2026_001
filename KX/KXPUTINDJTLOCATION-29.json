@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Social",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXPUTINDJTLOCATION-29",
+  "mutually_exclusive": true,
+  "series_ticker": "KXPUTINDJTLOCATION",
+  "strike_period": "",
+  "sub_title": "Before 2029",
+  "title": "Where will Trump and Putin next meet?"
+}

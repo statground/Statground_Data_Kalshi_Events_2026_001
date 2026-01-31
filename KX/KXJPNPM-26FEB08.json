@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Elections",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXJPNPM-26FEB08",
+  "mutually_exclusive": true,
+  "series_ticker": "KXJPNPM",
+  "strike_period": "",
+  "sub_title": "Before Feb 8, 2027",
+  "title": "Who will be the Prime Minister of Japan after their snap election?"
+}

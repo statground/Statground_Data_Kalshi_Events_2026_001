@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Elections",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXSNPMAJORITY-26MAY07",
+  "mutually_exclusive": false,
+  "series_ticker": "KXSNPMAJORITY",
+  "strike_period": "",
+  "sub_title": "On May 7, 2026",
+  "title": "How many seats will the SNP win in the Scottish Parliament election?"
+}

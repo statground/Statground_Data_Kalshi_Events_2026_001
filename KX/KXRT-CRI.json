@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXRT-CRI",
+  "mutually_exclusive": false,
+  "series_ticker": "KXRT",
+  "strike_period": "",
+  "sub_title": "Crime 101",
+  "title": "\"Crime 101\" Rotten Tomatoes score?"
+}

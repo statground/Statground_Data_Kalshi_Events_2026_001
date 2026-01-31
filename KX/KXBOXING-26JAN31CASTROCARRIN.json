@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXBOXING-26JAN31CASTROCARRIN",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Boxing",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXBOXING",
+  "strike_period": "",
+  "sub_title": "Carlos Castro vs Bruce Carrington (Jan 31)",
+  "title": "Carlos Castro vs Bruce Carrington"
+}

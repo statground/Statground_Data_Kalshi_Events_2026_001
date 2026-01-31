@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNDPLEADER-26APR01",
+  "mutually_exclusive": true,
+  "series_ticker": "KXNDPLEADER",
+  "strike_period": "",
+  "sub_title": "Before Apr 1, 2026",
+  "title": "Who will be the next leader of the NDP?"
+}

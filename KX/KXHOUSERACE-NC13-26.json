@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Elections",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXHOUSERACE-NC13-26",
+  "mutually_exclusive": true,
+  "series_ticker": "KXHOUSERACE",
+  "strike_period": "",
+  "sub_title": "NC-13",
+  "title": "Which party will win the House race for NC-13?"
+}

@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXEKSTRAKLASAGAME-26FEB01LEGKOR",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Ekstraklasa",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXEKSTRAKLASAGAME",
+  "strike_period": "",
+  "sub_title": "LEG vs KOR (Feb 1)",
+  "title": "Legia Warszawa vs Korona Kielce"
+}

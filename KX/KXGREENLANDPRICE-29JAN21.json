@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXGREENLANDPRICE-29JAN21",
+  "mutually_exclusive": true,
+  "series_ticker": "KXGREENLANDPRICE",
+  "strike_period": "",
+  "sub_title": "During Trump's term",
+  "title": "How much will the US acquire Greenland for?"
+}

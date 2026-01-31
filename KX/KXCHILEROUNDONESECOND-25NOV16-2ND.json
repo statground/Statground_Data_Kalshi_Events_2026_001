@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Elections",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCHILEROUNDONESECOND-25NOV16-2ND",
+  "mutually_exclusive": true,
+  "series_ticker": "KXCHILEROUNDONESECOND",
+  "strike_period": "",
+  "sub_title": "On Nov 16, 2025",
+  "title": "Who will finish 2nd in the first round of the Chile Presidential election?"
+}

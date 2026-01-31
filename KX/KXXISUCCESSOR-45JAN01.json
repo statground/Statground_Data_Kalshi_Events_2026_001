@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXXISUCCESSOR-45JAN01",
+  "mutually_exclusive": true,
+  "series_ticker": "KXXISUCCESSOR",
+  "strike_period": "",
+  "sub_title": "Before Jan 1, 2045",
+  "title": "Who will be named as Xi Jinping's successor?"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Elections",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXBENINUPR-26JAN11",
+  "mutually_exclusive": true,
+  "series_ticker": "KXBENINUPR",
+  "strike_period": "",
+  "sub_title": "In 2026",
+  "title": "Will the Progressive Union win a majority in the Benin parliamentary election?"
+}

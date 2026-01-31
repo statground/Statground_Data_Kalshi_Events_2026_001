@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXUCLRO4-26",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Champions League",
+    "competition_scope": "Future"
+  },
+  "series_ticker": "KXUCLRO4",
+  "strike_period": "",
+  "sub_title": "Before 2026",
+  "title": "UCL Semifinals Qualifiers"
+}

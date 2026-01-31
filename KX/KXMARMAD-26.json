@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXMARMAD-26",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "College Basketball (M)",
+    "competition_scope": "Future"
+  },
+  "series_ticker": "KXMARMAD",
+  "strike_period": "",
+  "sub_title": "2025-26 Season",
+  "title": "Men's College Basketball Champion"
+}

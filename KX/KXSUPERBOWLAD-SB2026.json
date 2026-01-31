@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Companies",
+  "collateral_return_type": "",
+  "event_ticker": "KXSUPERBOWLAD-SB2026",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Football",
+    "competition_scope": "The Big Game"
+  },
+  "series_ticker": "KXSUPERBOWLAD",
+  "strike_period": "",
+  "sub_title": "The Big Game 2026",
+  "title": "Which brands will advertise during the Big Game 2026?"
+}

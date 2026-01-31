@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXWOSKIJUMP-WLH26GOLD",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Ski Jumping",
+    "competition_scope": "Gold Medal Winner"
+  },
+  "series_ticker": "KXWOSKIJUMP",
+  "strike_period": "",
+  "sub_title": "Women's Large Hill Gold Medal Winner",
+  "title": "Ski Jumping Women's Large Hill: Gold Medal Winner"
+}

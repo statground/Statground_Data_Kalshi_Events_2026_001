@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXLALIGASPREAD-26FEB02MALSEV",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "La Liga",
+    "competition_scope": "Spread"
+  },
+  "series_ticker": "KXLALIGASPREAD",
+  "strike_period": "",
+  "sub_title": "SEV at MAL (Feb 2)",
+  "title": "Sevilla at Mallorca: Spreads"
+}

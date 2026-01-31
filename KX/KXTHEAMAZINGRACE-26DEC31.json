@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXTHEAMAZINGRACE-26DEC31",
+  "mutually_exclusive": true,
+  "series_ticker": "KXTHEAMAZINGRACE",
+  "strike_period": "",
+  "sub_title": "The Amazing Race Season 38",
+  "title": "Who will win The Amazing Race Season 38?"
+}

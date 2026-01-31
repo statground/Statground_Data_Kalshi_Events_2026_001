@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXSB-26",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Pro Football",
+    "competition_scope": "The Big Game"
+  },
+  "series_ticker": "KXSB",
+  "strike_period": "",
+  "sub_title": "On Feb 8, 2026",
+  "title": "Pro Football Champion: Seattle vs New England"
+}

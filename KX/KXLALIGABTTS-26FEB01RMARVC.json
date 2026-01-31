@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXLALIGABTTS-26FEB01RMARVC",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "La Liga",
+    "competition_scope": "BTTS"
+  },
+  "series_ticker": "KXLALIGABTTS",
+  "strike_period": "",
+  "sub_title": "RVC at RMA (Feb 1)",
+  "title": "Vallecano at Real Madrid: Both Teams to Score"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Elections",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNEXTDUTCHPM-25OCT29",
+  "mutually_exclusive": true,
+  "series_ticker": "KXNEXTDUTCHPM",
+  "strike_period": "",
+  "sub_title": "On Oct 29, 2025",
+  "title": "Who will be the Prime Minister of the Netherlands after their election?"
+}

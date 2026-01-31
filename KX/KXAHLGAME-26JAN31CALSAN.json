@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXAHLGAME-26JAN31CALSAN",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "AHL",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXAHLGAME",
+  "strike_period": "",
+  "sub_title": "CAL at SAN (Jan 31)",
+  "title": "Calgary Wranglers at San Jose Barracuda"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "SENATEFL-28",
+  "mutually_exclusive": true,
+  "series_ticker": "SENATEFL",
+  "strike_period": "",
+  "sub_title": "In 2028",
+  "title": "Who will win the 2028 Senate race in Florida?"
+}

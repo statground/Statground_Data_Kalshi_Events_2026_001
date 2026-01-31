@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Companies",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXFYREFESTPRICE-30",
+  "mutually_exclusive": false,
+  "series_ticker": "KXFYREFESTPRICE",
+  "strike_period": "",
+  "sub_title": "Before 2030",
+  "title": "How much will a Fyre Festival 2 General Admission Ticket cost?"
+}

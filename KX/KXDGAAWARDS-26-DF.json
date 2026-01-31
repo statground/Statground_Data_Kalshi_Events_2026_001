@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXDGAAWARDS-26-DF",
+  "mutually_exclusive": true,
+  "series_ticker": "KXDGAAWARDS",
+  "strike_period": "",
+  "sub_title": "Documentary Film | 78th",
+  "title": "DGA Award for Best Documentary Film?"
+}

@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXEREDIVISIEGAME-26FEB01HEEFCU",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Eredivisie",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXEREDIVISIEGAME",
+  "strike_period": "",
+  "sub_title": "HEE vs FCU (Feb 1)",
+  "title": "Heerenveen vs Utrecht"
+}

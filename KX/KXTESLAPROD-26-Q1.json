@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Companies",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXTESLAPROD-26-Q1",
+  "mutually_exclusive": false,
+  "series_ticker": "KXTESLAPROD",
+  "strike_period": "",
+  "sub_title": "In Q1 2026",
+  "title": "Tesla production in Q1 2026?"
+}

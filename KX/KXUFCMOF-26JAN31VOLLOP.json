@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXUFCMOF-26JAN31VOLLOP",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "UFC",
+    "competition_scope": "Method of Finish"
+  },
+  "series_ticker": "KXUFCMOF",
+  "strike_period": "",
+  "sub_title": "Alex Volkanovski vs Diego Lopes (Jan 31)",
+  "title": "Alex Volkanovski vs. Diego Lopes: Method of Finish"
+}

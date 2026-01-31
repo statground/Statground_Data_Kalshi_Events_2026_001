@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXUCLTOTAL-26FEB18BOGINT",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Champions League",
+    "competition_scope": "Point Total"
+  },
+  "series_ticker": "KXUCLTOTAL",
+  "strike_period": "",
+  "sub_title": "INT at BOG (Feb 18)",
+  "title": "Inter at Bodoe/Glimt: Totals"
+}

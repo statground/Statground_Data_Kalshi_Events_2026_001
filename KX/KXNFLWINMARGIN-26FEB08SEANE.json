@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNFLWINMARGIN-26FEB08SEANE",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Pro Football",
+    "competition_scope": "Winning Margin"
+  },
+  "series_ticker": "KXNFLWINMARGIN",
+  "strike_period": "",
+  "sub_title": "SEA at NE (Feb 8)",
+  "title": "Seattle vs New England: Winning Margin"
+}

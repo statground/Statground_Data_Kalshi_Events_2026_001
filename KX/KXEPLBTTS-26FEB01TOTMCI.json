@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXEPLBTTS-26FEB01TOTMCI",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "EPL",
+    "competition_scope": "BTTS"
+  },
+  "series_ticker": "KXEPLBTTS",
+  "strike_period": "",
+  "sub_title": "MCI at TOT (Feb 1)",
+  "title": "Manchester City at Tottenham: Both Teams to Score"
+}

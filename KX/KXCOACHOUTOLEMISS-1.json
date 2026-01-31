@@ -1,0 +1,14 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXCOACHOUTOLEMISS-1",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "College Football"
+  },
+  "series_ticker": "KXCOACHOUTOLEMISS",
+  "strike_period": "",
+  "sub_title": "Lane Kiffin",
+  "title": "When will Lane Kiffin leave Ole Miss Football"
+}

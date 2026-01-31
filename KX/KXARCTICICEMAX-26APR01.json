@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "",
+  "event_ticker": "KXARCTICICEMAX-26APR01",
+  "mutually_exclusive": false,
+  "series_ticker": "KXARCTICICEMAX",
+  "strike_period": "between December 18, 2025 and April 01, 2026",
+  "sub_title": "2025-2026 Winter",
+  "title": "Arctic sea ice maximum extent this winter?"
+}

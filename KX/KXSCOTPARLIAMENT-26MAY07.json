@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Elections",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXSCOTPARLIAMENT-26MAY07",
+  "mutually_exclusive": true,
+  "series_ticker": "KXSCOTPARLIAMENT",
+  "strike_period": "",
+  "sub_title": "in 2026",
+  "title": "Who will win the 2026 Scottish Parliament election?"
+}

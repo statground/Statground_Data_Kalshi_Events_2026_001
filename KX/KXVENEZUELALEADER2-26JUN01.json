@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXVENEZUELALEADER2-26JUN01",
+  "mutually_exclusive": true,
+  "series_ticker": "KXVENEZUELALEADER2",
+  "strike_period": "",
+  "sub_title": "Jun 1, 2026",
+  "title": "Who will officially lead Venezuela on June 1?"
+}

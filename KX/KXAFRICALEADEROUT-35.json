@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXAFRICALEADEROUT-35",
+  "mutually_exclusive": true,
+  "series_ticker": "KXAFRICALEADEROUT",
+  "strike_period": "",
+  "sub_title": "Before 2035",
+  "title": "Which of these African leaders will leave office next?"
+}

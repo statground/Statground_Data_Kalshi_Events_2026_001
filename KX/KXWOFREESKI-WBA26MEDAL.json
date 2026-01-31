@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXWOFREESKI-WBA26MEDAL",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Freestyle Skiing",
+    "competition_scope": "Medal Winner"
+  },
+  "series_ticker": "KXWOFREESKI",
+  "strike_period": "",
+  "sub_title": "Women's Freeski Big Air Medal Winner",
+  "title": "Freestyle Skiing Women's Freeski Big Air: Medal Winner"
+}

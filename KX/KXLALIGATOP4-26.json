@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXLALIGATOP4-26",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "La Liga",
+    "competition_scope": "Future"
+  },
+  "series_ticker": "KXLALIGATOP4",
+  "strike_period": "",
+  "sub_title": "2025-2026 La Liga",
+  "title": "La Liga Top 4 Finishers"
+}

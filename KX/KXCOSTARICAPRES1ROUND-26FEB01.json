@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Elections",
+  "collateral_return_type": "",
+  "event_ticker": "KXCOSTARICAPRES1ROUND-26FEB01",
+  "mutually_exclusive": false,
+  "series_ticker": "KXCOSTARICAPRES1ROUND",
+  "strike_period": "",
+  "sub_title": "Feb 1, 2026",
+  "title": "Will anyone win outright in the Costa Rica Presidential election?"
+}

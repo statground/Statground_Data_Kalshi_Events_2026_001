@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCABOUT-29",
+  "mutually_exclusive": true,
+  "series_ticker": "KXCABOUT",
+  "strike_period": "",
+  "sub_title": "Before 2029",
+  "title": "Who will be the first to leave the Trump Cabinet?"
+}

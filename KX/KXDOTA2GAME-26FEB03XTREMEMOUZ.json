@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXDOTA2GAME-26FEB03XTREMEMOUZ",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Dota 2",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXDOTA2GAME",
+  "strike_period": "",
+  "sub_title": "Xtreme Gaming vs. MOUZ (Feb 3)",
+  "title": "BLAST Slam 2026: Xtreme Gaming vs. MOUZ"
+}

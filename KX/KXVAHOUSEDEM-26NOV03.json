@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Elections",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXVAHOUSEDEM-26NOV03",
+  "mutually_exclusive": true,
+  "series_ticker": "KXVAHOUSEDEM",
+  "strike_period": "",
+  "sub_title": "On Nov 3, 2026",
+  "title": "How many House seats will Democrats win in Virginia?"
+}

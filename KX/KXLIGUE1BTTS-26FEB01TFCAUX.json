@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXLIGUE1BTTS-26FEB01TFCAUX",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Ligue 1",
+    "competition_scope": "BTTS"
+  },
+  "series_ticker": "KXLIGUE1BTTS",
+  "strike_period": "",
+  "sub_title": "AUX at TFC (Feb 1)",
+  "title": "Auxerre at Toulouse: Both Teams to Score"
+}

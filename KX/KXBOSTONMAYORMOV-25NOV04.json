@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Elections",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXBOSTONMAYORMOV-25NOV04",
+  "mutually_exclusive": true,
+  "series_ticker": "KXBOSTONMAYORMOV",
+  "strike_period": "",
+  "sub_title": "On Nov 4, 2025",
+  "title": "Margin of victory for Michelle Wu in the Boston mayoral election?"
+}

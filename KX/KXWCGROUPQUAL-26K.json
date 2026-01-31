@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXWCGROUPQUAL-26K",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "FIFA World Cup",
+    "competition_scope": "Group Qualifiers"
+  },
+  "series_ticker": "KXWCGROUPQUAL",
+  "strike_period": "",
+  "sub_title": "Group K",
+  "title": "World Cup Group K Qualifiers"
+}

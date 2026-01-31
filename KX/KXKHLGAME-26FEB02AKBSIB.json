@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXKHLGAME-26FEB02AKBSIB",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "KHL",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXKHLGAME",
+  "strike_period": "",
+  "sub_title": "AKB at SIB (Feb 2)",
+  "title": "Ak Bars Kazan at Sibir Novosibirsk"
+}

@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXSERIEATOTAL-26FEB06VERPIS",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Serie A",
+    "competition_scope": "Point Total"
+  },
+  "series_ticker": "KXSERIEATOTAL",
+  "strike_period": "",
+  "sub_title": "PIS at VER (Feb 6)",
+  "title": "Pisa at Hellas Verona: Totals"
+}

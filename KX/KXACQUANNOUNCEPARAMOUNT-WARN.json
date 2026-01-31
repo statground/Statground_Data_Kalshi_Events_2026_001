@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Financials",
+  "collateral_return_type": "",
+  "event_ticker": "KXACQUANNOUNCEPARAMOUNT-WARN",
+  "mutually_exclusive": false,
+  "series_ticker": "KXACQUANNOUNCEPARAMOUNT",
+  "strike_period": "",
+  "sub_title": "Paramount acquiring Warner Bros",
+  "title": "Will Paramount acquire Warner Bros?"
+}

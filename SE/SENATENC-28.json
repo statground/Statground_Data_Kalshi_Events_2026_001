@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "SENATENC-28",
+  "mutually_exclusive": true,
+  "series_ticker": "SENATENC",
+  "strike_period": "",
+  "sub_title": "In 2028",
+  "title": "Who will win the Senate race in North Carolina?"
+}

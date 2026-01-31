@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXSPOTIFYGLOBALD-26JAN20",
+  "mutually_exclusive": true,
+  "series_ticker": "KXSPOTIFYGLOBALD",
+  "strike_period": "",
+  "sub_title": "On Jan 20, 2026 Chart",
+  "title": "Top Global Song on Spotify on Jan 20, 2026?"
+}

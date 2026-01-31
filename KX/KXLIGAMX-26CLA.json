@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXLIGAMX-26CLA",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Liga MX",
+    "competition_scope": "Future"
+  },
+  "series_ticker": "KXLIGAMX",
+  "strike_period": "",
+  "sub_title": "2026 Clausura",
+  "title": "Liga MX Clausura Winner"
+}

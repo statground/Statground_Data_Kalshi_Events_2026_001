@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXSENATELA-26NOV",
+  "mutually_exclusive": true,
+  "series_ticker": "KXSENATELA",
+  "strike_period": "",
+  "sub_title": "In 2026",
+  "title": "Who will win the Senate race in Louisiana?"
+}

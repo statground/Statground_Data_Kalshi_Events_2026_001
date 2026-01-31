@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXCPICOREYOY-26JAN",
+  "mutually_exclusive": false,
+  "series_ticker": "KXCPICOREYOY",
+  "strike_period": "January 2026",
+  "sub_title": "Jan 2026",
+  "title": "Core inflation in Jan 2026? (Core CPI YoY)"
+}

@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXFED-26JUL",
+  "mutually_exclusive": false,
+  "series_ticker": "KXFED",
+  "strike_date": "2026-07-29T18:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Jul 29, 2026",
+  "title": "Fed funds rate after Jul 2026 meeting?"
+}

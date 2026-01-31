@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXEKSTRAKLASAGAME-26FEB03PGLLPO",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Ekstraklasa",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXEKSTRAKLASAGAME",
+  "strike_period": "",
+  "sub_title": "PGL vs LPO (Feb 3)",
+  "title": "Gliwice vs Lech Poznan"
+}

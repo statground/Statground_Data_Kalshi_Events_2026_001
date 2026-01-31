@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXPGATOP20-THAE26",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "The American Express",
+    "competition_scope": "Top 20 Finisher"
+  },
+  "series_ticker": "KXPGATOP20",
+  "strike_period": "",
+  "sub_title": "2026 The American Express",
+  "title": "The American Express Top 20 Finisher"
+}

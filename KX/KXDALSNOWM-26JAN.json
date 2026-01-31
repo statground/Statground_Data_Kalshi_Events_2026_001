@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Climate and Weather",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXDALSNOWM-26JAN",
+  "mutually_exclusive": false,
+  "series_ticker": "KXDALSNOWM",
+  "strike_period": "",
+  "sub_title": "In Jan 2026",
+  "title": "Snow in Dallas in Jan 2026?"
+}

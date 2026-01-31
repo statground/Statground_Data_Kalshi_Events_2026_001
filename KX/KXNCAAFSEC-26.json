@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNCAAFSEC-26",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "College Football",
+    "competition_scope": "Conferences"
+  },
+  "series_ticker": "KXNCAAFSEC",
+  "strike_period": "",
+  "sub_title": "2026",
+  "title": "College Football SEC Championship Winner"
+}

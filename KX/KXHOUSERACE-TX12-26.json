@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Elections",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXHOUSERACE-TX12-26",
+  "mutually_exclusive": true,
+  "series_ticker": "KXHOUSERACE",
+  "strike_period": "",
+  "sub_title": "TX-12",
+  "title": "Which party will win the House race for TX-12?"
+}

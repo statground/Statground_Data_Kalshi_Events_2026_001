@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "World",
+  "collateral_return_type": "",
+  "event_ticker": "KXTRUMPSTATES-27JAN01",
+  "mutually_exclusive": false,
+  "series_ticker": "KXTRUMPSTATES",
+  "strike_period": "",
+  "sub_title": "Before Jan 1, 2027",
+  "title": "Which states will Trump visit before 2027?"
+}

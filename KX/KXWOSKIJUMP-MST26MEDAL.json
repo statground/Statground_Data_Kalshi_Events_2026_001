@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXWOSKIJUMP-MST26MEDAL",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Ski Jumping",
+    "competition_scope": "Medal Winner"
+  },
+  "series_ticker": "KXWOSKIJUMP",
+  "strike_period": "",
+  "sub_title": "Super Team Large Hill Medal Winner",
+  "title": "Ski Jumping Super Team Large Hill: Medal Winner"
+}

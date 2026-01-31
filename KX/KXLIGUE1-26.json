@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXLIGUE1-26",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Ligue 1",
+    "competition_scope": "Future"
+  },
+  "series_ticker": "KXLIGUE1",
+  "strike_period": "",
+  "sub_title": "2025-2026",
+  "title": "Ligue 1 Winner"
+}

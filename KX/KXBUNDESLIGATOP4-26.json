@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXBUNDESLIGATOP4-26",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Bundesliga",
+    "competition_scope": "Future"
+  },
+  "series_ticker": "KXBUNDESLIGATOP4",
+  "strike_period": "",
+  "sub_title": "2025-2026 Bundesliga",
+  "title": "Bundesliga Top 4 Finishers"
+}

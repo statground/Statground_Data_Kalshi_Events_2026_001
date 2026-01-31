@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXALBUMSALES-CLO",
+  "mutually_exclusive": false,
+  "series_ticker": "KXALBUMSALES",
+  "strike_period": "",
+  "sub_title": "Cloud 9",
+  "title": "How many album sales will Megan Moroney's 'Cloud 9' have on the chart dated Feb 27, 2026?"
+}

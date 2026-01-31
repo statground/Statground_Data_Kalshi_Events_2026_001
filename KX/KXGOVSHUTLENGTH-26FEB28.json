@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Politics",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXGOVSHUTLENGTH-26FEB28",
+  "mutually_exclusive": false,
+  "series_ticker": "KXGOVSHUTLENGTH",
+  "strike_period": "",
+  "sub_title": "Jan 25, 2026 to Feb 28, 2026",
+  "title": "How many days will the federal government be shut down before March?"
+}

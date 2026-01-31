@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Climate and Weather",
+  "collateral_return_type": "",
+  "event_ticker": "KXEARTHQUAKECALIFORNIA-28",
+  "mutually_exclusive": false,
+  "series_ticker": "KXEARTHQUAKECALIFORNIA",
+  "strike_period": "",
+  "sub_title": "Before 2028",
+  "title": "Will there be an at least 8.0 magnitude earthquake in California before 2028?"
+}

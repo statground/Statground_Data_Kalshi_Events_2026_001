@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Social",
+  "collateral_return_type": "",
+  "event_ticker": "KXFOLLOWERCOUNTISHOWSPEED",
+  "mutually_exclusive": false,
+  "series_ticker": "KXFOLLOWERCOUNTISHOWSPEED",
+  "strike_period": "",
+  "sub_title": "Before Jan 1, 2027",
+  "title": "When will IShowSpeed reach 5 million Twitch followers?"
+}

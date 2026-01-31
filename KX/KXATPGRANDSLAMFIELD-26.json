@@ -1,0 +1,14 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXATPGRANDSLAMFIELD-26",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition_scope": "Future"
+  },
+  "series_ticker": "KXATPGRANDSLAMFIELD",
+  "strike_period": "",
+  "sub_title": "In 2026",
+  "title": "Will any man other than Carlos Alcaraz and Jannik Sinner win any ATP Grand Slam in 2026?"
+}

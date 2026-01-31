@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXBALANCEPOWERCOMBO-27FEB",
+  "mutually_exclusive": true,
+  "series_ticker": "KXBALANCEPOWERCOMBO",
+  "strike_period": "",
+  "sub_title": "For Feb 2027",
+  "title": "2026 2026 Midterms: Congress Balance of Power?"
+}

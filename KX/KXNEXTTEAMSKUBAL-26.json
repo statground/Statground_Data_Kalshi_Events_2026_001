@@ -1,0 +1,14 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNEXTTEAMSKUBAL-26",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Pro Baseball"
+  },
+  "series_ticker": "KXNEXTTEAMSKUBAL",
+  "strike_period": "",
+  "sub_title": "Before Opening Day",
+  "title": "Tarik Skubal's next team?"
+}

@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXMARMADROUND-26E8",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "College Basketball (M)",
+    "competition_scope": "Future"
+  },
+  "series_ticker": "KXMARMADROUND",
+  "strike_period": "",
+  "sub_title": "2026 Elite Eight",
+  "title": "Men's March Madness Elite Eight Qualifiers"
+}

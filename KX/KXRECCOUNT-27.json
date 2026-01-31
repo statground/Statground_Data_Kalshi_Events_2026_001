@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXRECCOUNT-27",
+  "mutually_exclusive": true,
+  "series_ticker": "KXRECCOUNT",
+  "strike_period": "",
+  "sub_title": "In 2027",
+  "title": "How many reconciliation bills will be passed in 2026?"
+}

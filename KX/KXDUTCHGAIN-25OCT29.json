@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Elections",
+  "collateral_return_type": "",
+  "event_ticker": "KXDUTCHGAIN-25OCT29",
+  "mutually_exclusive": false,
+  "series_ticker": "KXDUTCHGAIN",
+  "strike_period": "",
+  "sub_title": "Oct 29, 2025",
+  "title": "Which parties will gain seats in the Dutch election?"
+}

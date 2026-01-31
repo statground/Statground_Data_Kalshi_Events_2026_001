@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Companies",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNEWROLEVOGUE-30JAN",
+  "mutually_exclusive": true,
+  "series_ticker": "KXNEWROLEVOGUE",
+  "strike_period": "",
+  "sub_title": "In 2030",
+  "title": "Who will be the next Editor-in-Chief of Vogue?"
+}

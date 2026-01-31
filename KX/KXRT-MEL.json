@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Entertainment",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXRT-MEL",
+  "mutually_exclusive": false,
+  "series_ticker": "KXRT",
+  "strike_period": "",
+  "sub_title": "Melania",
+  "title": "\"Melania\" Rotten Tomatoes score?"
+}

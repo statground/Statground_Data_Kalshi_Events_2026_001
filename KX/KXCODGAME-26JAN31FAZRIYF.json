@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCODGAME-26JAN31FAZRIYF",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Call of Duty",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXCODGAME",
+  "strike_period": "",
+  "sub_title": "FaZe Vegas vs. Riyadh Falcons (Jan 31)",
+  "title": "Call of Duty League Stage 1 Major 2026: FaZe Vegas vs. Riyadh Falcons"
+}

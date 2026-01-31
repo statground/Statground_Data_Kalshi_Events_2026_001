@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXWOHOCKEY-WOMEN26CGOLD",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Ice Hockey",
+    "competition_scope": "Gold Medal Country"
+  },
+  "series_ticker": "KXWOHOCKEY",
+  "strike_period": "",
+  "sub_title": "Women's Ice Hockey Gold Medal Country",
+  "title": "Women's Ice Hockey: Gold Medal Country"
+}

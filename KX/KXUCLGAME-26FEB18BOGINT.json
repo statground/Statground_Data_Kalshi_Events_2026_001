@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXUCLGAME-26FEB18BOGINT",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Champions League",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXUCLGAME",
+  "strike_period": "",
+  "sub_title": "BOG vs INT (Feb 18)",
+  "title": "Bodoe/Glimt vs Inter"
+}

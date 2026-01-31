@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXWCROUND-26FINAL",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "FIFA World Cup",
+    "competition_scope": "Future"
+  },
+  "series_ticker": "KXWCROUND",
+  "strike_period": "",
+  "sub_title": "Final Qualifiers",
+  "title": "FIFA World Cup Final Qualifiers"
+}

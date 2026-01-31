@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXWOFREESKI-XTAER26MEDAL",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Freestyle Skiing",
+    "competition_scope": "Medal Winner"
+  },
+  "series_ticker": "KXWOFREESKI",
+  "strike_period": "",
+  "sub_title": "Mixed Team Aerials Medal Winner",
+  "title": "Freestyle Skiing Mixed Team Aerials: Medal Winner"
+}

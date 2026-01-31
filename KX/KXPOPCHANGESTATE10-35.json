@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Social",
+  "collateral_return_type": "",
+  "event_ticker": "KXPOPCHANGESTATE10-35",
+  "mutually_exclusive": false,
+  "series_ticker": "KXPOPCHANGESTATE10",
+  "strike_period": "",
+  "sub_title": "Between 2025 and 2035?",
+  "title": "Will any U.S. state experience a population decrease of at least 10% between 2025 and 2035?"
+}

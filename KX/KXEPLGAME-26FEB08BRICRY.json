@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXEPLGAME-26FEB08BRICRY",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "EPL",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXEPLGAME",
+  "strike_period": "",
+  "sub_title": "BRI vs CRY (Feb 8)",
+  "title": "Brighton vs Crystal Palace"
+}

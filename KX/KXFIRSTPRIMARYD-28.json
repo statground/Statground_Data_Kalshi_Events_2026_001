@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXFIRSTPRIMARYD-28",
+  "mutually_exclusive": true,
+  "series_ticker": "KXFIRSTPRIMARYD",
+  "strike_period": "",
+  "sub_title": "In 2028",
+  "title": "What state will vote first in the 2028 Democratic primary?"
+}

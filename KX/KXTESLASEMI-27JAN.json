@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "World",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXTESLASEMI-27JAN",
+  "mutually_exclusive": false,
+  "series_ticker": "KXTESLASEMI",
+  "strike_period": "",
+  "sub_title": "Before Jan 2027",
+  "title": "How many Semi Trucks will Tesla Produce in a quarter in 2026?"
+}

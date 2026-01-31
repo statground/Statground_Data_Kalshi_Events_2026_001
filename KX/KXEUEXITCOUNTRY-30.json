@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "",
+  "event_ticker": "KXEUEXITCOUNTRY-30",
+  "mutually_exclusive": false,
+  "series_ticker": "KXEUEXITCOUNTRY",
+  "strike_period": "",
+  "sub_title": "Before 2030",
+  "title": "Which countries will vote to leave the EU before 2030?"
+}

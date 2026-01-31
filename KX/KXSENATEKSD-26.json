@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXSENATEKSD-26",
+  "mutually_exclusive": true,
+  "series_ticker": "KXSENATEKSD",
+  "strike_period": "",
+  "sub_title": "In 2026",
+  "title": "Democratic nominee for Senate in Kansas?"
+}

@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": true,
+  "category": "Economics",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXFED-27APR",
+  "mutually_exclusive": false,
+  "series_ticker": "KXFED",
+  "strike_date": "2027-04-28T18:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Apr 28, 2027",
+  "title": "Fed funds rate after Apr 2027 meeting?"
+}

@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNCAAFB10-26",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "College Football",
+    "competition_scope": "Conferences"
+  },
+  "series_ticker": "KXNCAAFB10",
+  "strike_period": "",
+  "sub_title": "2026",
+  "title": "College Football Big 10 Championship Winner"
+}

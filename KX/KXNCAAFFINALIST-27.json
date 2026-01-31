@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNCAAFFINALIST-27",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "College Football",
+    "competition_scope": "Championship"
+  },
+  "series_ticker": "KXNCAAFFINALIST",
+  "strike_period": "",
+  "sub_title": "2026-27",
+  "title": "Reach the College Football Playoff National Championship Game"
+}

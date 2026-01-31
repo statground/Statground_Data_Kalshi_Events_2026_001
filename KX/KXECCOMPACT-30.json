@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Elections",
+  "collateral_return_type": "",
+  "event_ticker": "KXECCOMPACT-30",
+  "mutually_exclusive": false,
+  "series_ticker": "KXECCOMPACT",
+  "strike_period": "",
+  "sub_title": "Before 2030",
+  "title": "Will the National Popular Vote Interstate Compact reach 270 electoral votes before 2030?"
+}

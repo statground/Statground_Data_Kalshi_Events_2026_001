@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Elections",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXLOUDOUNMOVVAGOV-25NOV04",
+  "mutually_exclusive": true,
+  "series_ticker": "KXLOUDOUNMOVVAGOV",
+  "strike_period": "",
+  "sub_title": "In 2025",
+  "title": "Abigail Spanberger margin of victory in Loudoun County, Virginia?"
+}

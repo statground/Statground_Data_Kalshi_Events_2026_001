@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNBAPLAYOFF-26",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Basketball (M)",
+    "competition_scope": "Future"
+  },
+  "series_ticker": "KXNBAPLAYOFF",
+  "strike_period": "",
+  "sub_title": "2026 Pro Basketball Playoff Qualifiers",
+  "title": "Pro Basketball Playoff Qualifiers?"
+}

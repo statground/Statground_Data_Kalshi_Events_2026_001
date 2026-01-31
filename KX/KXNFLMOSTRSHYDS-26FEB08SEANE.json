@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNFLMOSTRSHYDS-26FEB08SEANE",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Pro Football",
+    "competition_scope": "Most Rushing Yards"
+  },
+  "series_ticker": "KXNFLMOSTRSHYDS",
+  "strike_period": "",
+  "sub_title": "SEA at NE (Feb 8)",
+  "title": "Seattle vs New England: Most Rushing yards"
+}

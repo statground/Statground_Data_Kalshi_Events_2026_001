@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "",
+  "event_ticker": "KXCANCARBON-27",
+  "mutually_exclusive": false,
+  "series_ticker": "KXCANCARBON",
+  "strike_period": "",
+  "sub_title": "Before 2027",
+  "title": "Will the Canadian carbon tax be repealed before 2027?"
+}

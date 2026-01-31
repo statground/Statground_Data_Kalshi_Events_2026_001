@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNFLDRAFTPICK-26-5",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Pro Football",
+    "competition_scope": "Draft"
+  },
+  "series_ticker": "KXNFLDRAFTPICK",
+  "strike_period": "",
+  "sub_title": "5 pick 2026",
+  "title": "Pro Football #5 overall pick in 2026?"
+}

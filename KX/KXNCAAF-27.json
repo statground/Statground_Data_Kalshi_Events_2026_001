@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNCAAF-27",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "College Football",
+    "competition_scope": "Championship"
+  },
+  "series_ticker": "KXNCAAF",
+  "strike_period": "",
+  "sub_title": "2026-27",
+  "title": "College Football National Championship Winner"
+}

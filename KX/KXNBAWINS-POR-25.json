@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXNBAWINS-POR-25",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Basketball (M)",
+    "competition_scope": "Win totals"
+  },
+  "series_ticker": "KXNBAWINS",
+  "strike_period": "",
+  "sub_title": "2025-26 season",
+  "title": "Portland pro basketball wins this season?"
+}

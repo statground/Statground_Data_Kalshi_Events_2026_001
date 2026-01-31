@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXWOLUGE-WDOUB26CGOLD",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Luge",
+    "competition_scope": "Gold Medal Country"
+  },
+  "series_ticker": "KXWOLUGE",
+  "strike_period": "",
+  "sub_title": "Women's Doubles Gold Medal Country",
+  "title": "Luge Women's Doubles: Gold Medal Country"
+}

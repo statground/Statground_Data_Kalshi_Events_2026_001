@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXTRUMPSLAUGHTERVOTE-26",
+  "mutually_exclusive": true,
+  "series_ticker": "KXTRUMPSLAUGHTERVOTE",
+  "strike_period": "",
+  "sub_title": "Before 2026",
+  "title": "How many justices will vote for Trump in the FTC removal case?"
+}

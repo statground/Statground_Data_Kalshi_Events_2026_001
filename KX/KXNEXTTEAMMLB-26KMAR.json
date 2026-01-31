@@ -1,0 +1,14 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNEXTTEAMMLB-26KMAR",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Pro Baseball"
+  },
+  "series_ticker": "KXNEXTTEAMMLB",
+  "strike_period": "",
+  "sub_title": "Ketel Marte",
+  "title": "Ketel Marte's next team?"
+}

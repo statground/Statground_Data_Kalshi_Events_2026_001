@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Crypto",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXBTC2026200-27JAN01",
+  "mutually_exclusive": true,
+  "series_ticker": "KXBTC2026200",
+  "strike_period": "",
+  "sub_title": "Before 2027",
+  "title": "Will Bitcoin be above $200k by 2027?"
+}

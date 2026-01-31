@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Health",
+  "collateral_return_type": "",
+  "event_ticker": "KXPOLIOELIM-30",
+  "mutually_exclusive": false,
+  "series_ticker": "KXPOLIOELIM",
+  "strike_period": "",
+  "sub_title": "Before 2030",
+  "title": "Will there be a year without polio before 2030?"
+}

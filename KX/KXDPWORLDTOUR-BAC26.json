@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXDPWORLDTOUR-BAC26",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Bahrain Championship",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXDPWORLDTOUR",
+  "strike_period": "",
+  "sub_title": "2026 Bahrain Championship",
+  "title": "Bahrain Championship Winner?"
+}

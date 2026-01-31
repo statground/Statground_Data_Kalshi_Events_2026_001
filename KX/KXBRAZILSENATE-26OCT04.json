@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Elections",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXBRAZILSENATE-26OCT04",
+  "mutually_exclusive": true,
+  "series_ticker": "KXBRAZILSENATE",
+  "strike_period": "",
+  "sub_title": "On Oct 4, 2026",
+  "title": "Who will win the 2026 Brazilian Senate election?"
+}

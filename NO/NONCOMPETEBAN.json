@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "",
+  "event_ticker": "NONCOMPETEBAN",
+  "mutually_exclusive": false,
+  "series_ticker": "KXNONCOMPETEBAN",
+  "strike_period": "",
+  "sub_title": "By 2030",
+  "title": "Non-compete ban overturned?"
+}

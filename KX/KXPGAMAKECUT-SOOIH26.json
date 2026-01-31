@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXPGAMAKECUT-SOOIH26",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Sony Open in Hawaii",
+    "competition_scope": "Make the Cut"
+  },
+  "series_ticker": "KXPGAMAKECUT",
+  "strike_period": "",
+  "sub_title": "2026 Sony Open in Hawaii",
+  "title": "Sony Open in Hawaii: To Make the Cut"
+}

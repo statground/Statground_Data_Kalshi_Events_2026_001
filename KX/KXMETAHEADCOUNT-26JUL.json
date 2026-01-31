@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Companies",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXMETAHEADCOUNT-26JUL",
+  "mutually_exclusive": false,
+  "series_ticker": "KXMETAHEADCOUNT",
+  "strike_period": "",
+  "sub_title": "in Q1 2026",
+  "title": "Meta headcount in Q1?"
+}

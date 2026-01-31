@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNETFLIXRANKSHOWRUNNERUP-26FEB02",
+  "mutually_exclusive": true,
+  "series_ticker": "KXNETFLIXRANKSHOWRUNNERUP",
+  "strike_period": "",
+  "sub_title": "The chart published on Feb 3, 2026",
+  "title": "#2 US Netflix Show this week?"
+}

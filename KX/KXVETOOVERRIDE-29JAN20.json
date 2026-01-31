@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "",
+  "event_ticker": "KXVETOOVERRIDE-29JAN20",
+  "mutually_exclusive": false,
+  "series_ticker": "KXVETOOVERRIDE",
+  "strike_period": "",
+  "sub_title": "Before Jan 20, 2029",
+  "title": "Will Congress override Trump's veto?"
+}

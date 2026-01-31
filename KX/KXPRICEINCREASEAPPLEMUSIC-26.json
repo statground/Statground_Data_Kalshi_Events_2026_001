@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Financials",
+  "collateral_return_type": "",
+  "event_ticker": "KXPRICEINCREASEAPPLEMUSIC-26",
+  "mutually_exclusive": false,
+  "series_ticker": "KXPRICEINCREASEAPPLEMUSIC",
+  "strike_period": "",
+  "sub_title": "Before 2027",
+  "title": "Will Apple Music's Individual Plan increase before 2027?"
+}

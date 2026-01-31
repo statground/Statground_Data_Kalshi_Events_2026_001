@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXTEAMSINSC-26",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "NHL",
+    "competition_scope": "Future"
+  },
+  "series_ticker": "KXTEAMSINSC",
+  "strike_period": "",
+  "sub_title": "Before Jun 5, 2026",
+  "title": "Which teams will play in the 2026 Stanley Cup®?"
+}

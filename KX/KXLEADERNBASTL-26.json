@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXLEADERNBASTL-26",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Pro Basketball (M)",
+    "competition_scope": "League Leader"
+  },
+  "series_ticker": "KXLEADERNBASTL",
+  "strike_period": "",
+  "sub_title": "2025-26 Regular Season",
+  "title": "Pro Basketball Steals Per Game Leader"
+}

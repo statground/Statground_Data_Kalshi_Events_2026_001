@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXWOSSKATE-WMASS26GOLD",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Speed Skating",
+    "competition_scope": "Gold Medal Winner"
+  },
+  "series_ticker": "KXWOSSKATE",
+  "strike_period": "",
+  "sub_title": "Women's Mass Start Gold Medal Winner",
+  "title": "Speed Skating Women's Mass Start: Gold Medal Winner"
+}

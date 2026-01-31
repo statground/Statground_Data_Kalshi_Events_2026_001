@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXEPLBTTS-26FEB10TOTNEW",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "EPL",
+    "competition_scope": "BTTS"
+  },
+  "series_ticker": "KXEPLBTTS",
+  "strike_period": "",
+  "sub_title": "NEW at TOT (Feb 10)",
+  "title": "Newcastle at Tottenham: Both Teams to Score"
+}

@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNFLSBMVPPOS-26",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Football",
+    "competition_scope": "The Big Game"
+  },
+  "series_ticker": "KXNFLSBMVPPOS",
+  "strike_period": "",
+  "sub_title": "2025-26 season",
+  "title": "Pro Football Championship Game MVP Position?"
+}

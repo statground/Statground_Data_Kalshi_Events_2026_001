@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "World",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCBDECISIONENGLAND-26FEB05",
+  "mutually_exclusive": true,
+  "series_ticker": "KXCBDECISIONENGLAND",
+  "strike_period": "",
+  "sub_title": "Feb 2026 meeting",
+  "title": "What will the Bank of England do at the February meeting?"
+}

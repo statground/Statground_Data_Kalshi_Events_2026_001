@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Elections",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXGOVCAPRIMARYPARTY-26",
+  "mutually_exclusive": true,
+  "series_ticker": "KXGOVCAPRIMARYPARTY",
+  "strike_period": "",
+  "sub_title": "In 2026",
+  "title": "Who will advance from California's primary for Governor? (Party)"
+}

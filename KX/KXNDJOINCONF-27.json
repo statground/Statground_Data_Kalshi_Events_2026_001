@@ -1,0 +1,14 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNDJOINCONF-27",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "College Football"
+  },
+  "series_ticker": "KXNDJOINCONF",
+  "strike_period": "",
+  "sub_title": "before 2027-28 College Football Season",
+  "title": "Will Notre Dame Football join a conference before 2027-28 College Football Season"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Elections",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXHOUSERACE-IN03-26",
+  "mutually_exclusive": true,
+  "series_ticker": "KXHOUSERACE",
+  "strike_period": "",
+  "sub_title": "IN-03",
+  "title": "Which party will win the House race for IN-03?"
+}

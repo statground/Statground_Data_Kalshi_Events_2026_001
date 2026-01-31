@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCANADAPM-45",
+  "mutually_exclusive": true,
+  "series_ticker": "KXCANADAPM",
+  "strike_period": "",
+  "sub_title": "For the next Parliament",
+  "title": "Who will be the Canadian Prime Minister after the next election?"
+}

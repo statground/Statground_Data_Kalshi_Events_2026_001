@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNEXTPRESSEC-29JAN21",
+  "mutually_exclusive": true,
+  "series_ticker": "KXNEXTPRESSEC",
+  "strike_period": "",
+  "sub_title": "Before Jan 21, 2029",
+  "title": "Who will be Trump's next Press Secretary?"
+}

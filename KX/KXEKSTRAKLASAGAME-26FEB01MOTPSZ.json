@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXEKSTRAKLASAGAME-26FEB01MOTPSZ",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Ekstraklasa",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXEKSTRAKLASAGAME",
+  "strike_period": "",
+  "sub_title": "MOT vs PSZ (Feb 1)",
+  "title": "Motor Lublin vs Pogon Szczecin"
+}

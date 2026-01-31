@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Crypto",
+  "collateral_return_type": "",
+  "event_ticker": "KXFDVSTABLE-27JAN01",
+  "mutually_exclusive": false,
+  "series_ticker": "KXFDVSTABLE",
+  "strike_period": "",
+  "sub_title": "Stable",
+  "title": "What will Stable FDV be at 1 day after launch?"
+}

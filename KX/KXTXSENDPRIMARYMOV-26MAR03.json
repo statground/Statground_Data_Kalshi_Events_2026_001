@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Elections",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXTXSENDPRIMARYMOV-26MAR03",
+  "mutually_exclusive": true,
+  "series_ticker": "KXTXSENDPRIMARYMOV",
+  "strike_period": "",
+  "sub_title": "On Mar 3, 2026",
+  "title": "Margin of victory in the 1st round of the Texas Senate Democratic primary?"
+}

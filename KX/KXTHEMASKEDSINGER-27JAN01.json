@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXTHEMASKEDSINGER-27JAN01",
+  "mutually_exclusive": true,
+  "series_ticker": "KXTHEMASKEDSINGER",
+  "strike_period": "",
+  "sub_title": "The Masked Singer: Season 14",
+  "title": "Who will win The Masked Singer: Season 14?"
+}

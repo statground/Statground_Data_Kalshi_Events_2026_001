@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXEREDIVISIEGAME-26FEB01VOLGAE",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Eredivisie",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXEREDIVISIEGAME",
+  "strike_period": "",
+  "sub_title": "VOL vs GAE (Feb 1)",
+  "title": "Volendam vs GA Eagles"
+}

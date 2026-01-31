@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXPARDONSYEAR-26DEC",
+  "mutually_exclusive": true,
+  "series_ticker": "KXPARDONSYEAR",
+  "strike_period": "",
+  "sub_title": "Before 2027-01-01T15:00:00.000Z",
+  "title": "How many people will Trump pardon in 2026?"
+}

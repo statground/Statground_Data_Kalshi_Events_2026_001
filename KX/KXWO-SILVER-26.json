@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXWO-SILVER-26",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Winter Olympics",
+    "competition_scope": "Future"
+  },
+  "series_ticker": "KXWO-SILVER",
+  "strike_period": "",
+  "sub_title": "2026",
+  "title": "Winter Olympics: Most Silver Medals"
+}

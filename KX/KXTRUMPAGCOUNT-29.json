@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXTRUMPAGCOUNT-29",
+  "mutually_exclusive": true,
+  "series_ticker": "KXTRUMPAGCOUNT",
+  "strike_period": "",
+  "sub_title": "Before Jan 20, 2029",
+  "title": "How many Attorneys General will Trump have?"
+}

@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXEFLCUP-26",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "EFL Cup",
+    "competition_scope": "Future"
+  },
+  "series_ticker": "KXEFLCUP",
+  "strike_period": "",
+  "sub_title": "On Mar 22, 2026",
+  "title": "EFL Carabao Cup Winner"
+}

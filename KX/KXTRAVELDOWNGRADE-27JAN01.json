@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Politics",
+  "collateral_return_type": "",
+  "event_ticker": "KXTRAVELDOWNGRADE-27JAN01",
+  "mutually_exclusive": false,
+  "series_ticker": "KXTRAVELDOWNGRADE",
+  "strike_period": "",
+  "sub_title": "Before Jan 1, 2027",
+  "title": "Which countries will have their US Travel Advisory downgraded in 2026?"
+}

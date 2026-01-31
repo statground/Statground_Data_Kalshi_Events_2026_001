@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXUFCROUNDS-26JAN31VOLLOP",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "UFC",
+    "competition_scope": "Round of Finish"
+  },
+  "series_ticker": "KXUFCROUNDS",
+  "strike_period": "",
+  "sub_title": "Alex Volkanovski vs Diego Lopes (Jan 31)",
+  "title": "Alex Volkanovski vs. Diego Lopes: Round of Finish"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Elections",
+  "collateral_return_type": "",
+  "event_ticker": "KXPRESELECTIONOCCUR-28",
+  "mutually_exclusive": false,
+  "series_ticker": "KXPRESELECTIONOCCUR",
+  "strike_period": "",
+  "sub_title": "In 2028",
+  "title": "Will the 2028 presidential election occur?"
+}

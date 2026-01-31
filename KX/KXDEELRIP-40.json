@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXDEELRIP-40",
+  "mutually_exclusive": true,
+  "series_ticker": "KXDEELRIP",
+  "strike_period": "",
+  "sub_title": "Before 2040",
+  "title": "Will Deel or Rippling IPO first?"
+}

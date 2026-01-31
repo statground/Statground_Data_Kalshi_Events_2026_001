@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXWOLUGE-WSING26GOLD",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Luge",
+    "competition_scope": "Gold Medal Winner"
+  },
+  "series_ticker": "KXWOLUGE",
+  "strike_period": "",
+  "sub_title": "Women's Singles Gold Medal Winner",
+  "title": "Luge Women's Singles: Gold Medal Winner"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXTORNADO-26MAR",
+  "mutually_exclusive": false,
+  "series_ticker": "KXTORNADO",
+  "strike_period": "",
+  "sub_title": "In Mar 2026",
+  "title": "Number of tornadoes in Mar 2026?"
+}

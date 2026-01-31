@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXSERIEAGAME-26FEB07GENNAP",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Serie A",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXSERIEAGAME",
+  "strike_period": "",
+  "sub_title": "GEN vs NAP (Feb 7)",
+  "title": "Genoa vs Napoli"
+}

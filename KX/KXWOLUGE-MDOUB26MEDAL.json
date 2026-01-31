@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXWOLUGE-MDOUB26MEDAL",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Luge",
+    "competition_scope": "Medal Winner"
+  },
+  "series_ticker": "KXWOLUGE",
+  "strike_period": "",
+  "sub_title": "Men's Doubles Medal Winner",
+  "title": "Luge Men's Doubles: Medal Winner"
+}

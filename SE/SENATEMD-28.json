@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "SENATEMD-28",
+  "mutually_exclusive": true,
+  "series_ticker": "SENATEMD",
+  "strike_period": "",
+  "sub_title": "In 2028",
+  "title": "Who will win the 2028 Senate race in Maryland?"
+}

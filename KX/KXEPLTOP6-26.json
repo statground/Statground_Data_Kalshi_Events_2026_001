@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXEPLTOP6-26",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "EPL",
+    "competition_scope": "Future"
+  },
+  "series_ticker": "KXEPLTOP6",
+  "strike_period": "",
+  "sub_title": "2025-2026 English Premier League",
+  "title": "EPL Top 6 Finishers"
+}

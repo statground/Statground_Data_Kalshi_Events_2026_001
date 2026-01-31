@@ -1,0 +1,14 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXLAMINEYAMAL-27",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "La Liga"
+  },
+  "series_ticker": "KXLAMINEYAMAL",
+  "strike_period": "",
+  "sub_title": "Before Jan 1, 2027",
+  "title": "Will Lamine Yamal leave Barcelona before 2027?"
+}

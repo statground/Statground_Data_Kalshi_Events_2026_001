@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXDEBTGROWTH25-25DEC31",
+  "mutually_exclusive": false,
+  "series_ticker": "KXDEBTGROWTH25",
+  "strike_period": "",
+  "sub_title": "In 2025",
+  "title": "Peak US National Debt in 2025?"
+}

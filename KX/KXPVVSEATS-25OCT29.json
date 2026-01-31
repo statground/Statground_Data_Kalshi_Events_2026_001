@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Elections",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXPVVSEATS-25OCT29",
+  "mutually_exclusive": true,
+  "series_ticker": "KXPVVSEATS",
+  "strike_period": "",
+  "sub_title": "On Oct 29, 2025",
+  "title": "How many seats will the Party for Freedom (PVV) win in the Dutch election?"
+}

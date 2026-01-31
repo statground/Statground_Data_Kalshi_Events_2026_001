@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Social",
+  "collateral_return_type": "",
+  "event_ticker": "KXTWITCHSUBSKAICENAT-27JAN01",
+  "mutually_exclusive": false,
+  "series_ticker": "KXTWITCHSUBSKAICENAT",
+  "strike_period": "",
+  "sub_title": "Before Jan 1, 2027",
+  "title": "How many Twitch subscribers will KaiCenat reach this year?"
+}

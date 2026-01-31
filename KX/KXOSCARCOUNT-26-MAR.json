@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXOSCARCOUNT-26-MAR",
+  "mutually_exclusive": true,
+  "series_ticker": "KXOSCARCOUNT",
+  "strike_period": "",
+  "sub_title": "Oscars - Marty Supreme",
+  "title": "How many Oscars will 'Marty Supreme' win?"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Elections",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXLOSEREELECTIONGOV-2026",
+  "mutually_exclusive": true,
+  "series_ticker": "KXLOSEREELECTIONGOV",
+  "strike_period": "",
+  "sub_title": "2026 elections",
+  "title": "How many Governors will lose reelection in 2026?"
+}

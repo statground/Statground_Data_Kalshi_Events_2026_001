@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXLOLTOTALMAPS-26FEB01GZDFM",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "League of Legends",
+    "competition_scope": "Total Maps"
+  },
+  "series_ticker": "KXLOLTOTALMAPS",
+  "strike_period": "",
+  "sub_title": "Total Maps: GZ vs. DFM (Feb 1)",
+  "title": "LCP 2026: Ground Zero Gaming vs. DetonatioN FocusMe Total Maps"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "World",
+  "collateral_return_type": "",
+  "event_ticker": "EUEXPANSION",
+  "mutually_exclusive": false,
+  "series_ticker": "KXEUEXPANSION",
+  "strike_period": "",
+  "sub_title": "By 2030",
+  "title": "EU has a new member before 2030?"
+}

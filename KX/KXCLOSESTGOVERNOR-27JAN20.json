@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Elections",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCLOSESTGOVERNOR-27JAN20",
+  "mutually_exclusive": true,
+  "series_ticker": "KXCLOSESTGOVERNOR",
+  "strike_period": "",
+  "sub_title": "Before Jan 20, 2027",
+  "title": "Closest Governor race in 2026?"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Social",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXPUTINZELENSKYYLOCATION-28",
+  "mutually_exclusive": true,
+  "series_ticker": "KXPUTINZELENSKYYLOCATION",
+  "strike_period": "",
+  "sub_title": "Before 2028",
+  "title": "Where will Putin and Zelenskyy next meet?"
+}

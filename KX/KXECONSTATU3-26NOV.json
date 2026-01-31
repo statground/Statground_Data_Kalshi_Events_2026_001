@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXECONSTATU3-26NOV",
+  "mutually_exclusive": true,
+  "series_ticker": "KXECONSTATU3",
+  "strike_period": "",
+  "sub_title": "In Nov 2026",
+  "title": "Unemployment rate in Nov 2026?"
+}

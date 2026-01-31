@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXEPLTOTAL-26FEB11SUNLFC",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "EPL",
+    "competition_scope": "Point Total"
+  },
+  "series_ticker": "KXEPLTOTAL",
+  "strike_period": "",
+  "sub_title": "LFC at SUN (Feb 11)",
+  "title": "Liverpool at Sunderland: Totals"
+}

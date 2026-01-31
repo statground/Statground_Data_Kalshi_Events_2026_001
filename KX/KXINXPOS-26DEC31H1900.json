@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": true,
+  "category": "Financials",
+  "collateral_return_type": "",
+  "event_ticker": "KXINXPOS-26DEC31H1900",
+  "mutually_exclusive": false,
+  "series_ticker": "KXINXPOS",
+  "strike_date": "2027-01-01T00:00:00Z",
+  "strike_period": "",
+  "sub_title": "2026",
+  "title": "Will the S&P finish positive this year?"
+}

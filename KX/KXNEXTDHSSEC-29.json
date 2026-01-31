@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNEXTDHSSEC-29",
+  "mutually_exclusive": true,
+  "series_ticker": "KXNEXTDHSSEC",
+  "strike_period": "",
+  "sub_title": "Before January 20th, 2029",
+  "title": "Who will be Trump's next DHS secretary?"
+}

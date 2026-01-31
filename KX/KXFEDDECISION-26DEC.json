@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXFEDDECISION-26DEC",
+  "mutually_exclusive": true,
+  "series_ticker": "KXFEDDECISION",
+  "strike_date": "2026-12-09T19:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Dec 9, 2026",
+  "title": "Fed decision in Dec 2026?"
+}

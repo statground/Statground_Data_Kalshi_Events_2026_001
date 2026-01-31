@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Elections",
+  "collateral_return_type": "",
+  "event_ticker": "KXJAPANCRA172SEATS-26FEB08",
+  "mutually_exclusive": false,
+  "series_ticker": "KXJAPANCRA172SEATS",
+  "strike_period": "",
+  "sub_title": "On Feb 8, 2026",
+  "title": "Will the CRA win more than 172 seats in the Japanese snap election?"
+}

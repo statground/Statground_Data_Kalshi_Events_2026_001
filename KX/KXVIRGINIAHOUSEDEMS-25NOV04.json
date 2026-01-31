@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Elections",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXVIRGINIAHOUSEDEMS-25NOV04",
+  "mutually_exclusive": true,
+  "series_ticker": "KXVIRGINIAHOUSEDEMS",
+  "strike_period": "",
+  "sub_title": "Nov 4, 2025",
+  "title": "How many seats will Democrats win in the Virginia House of Delegates?"
+}

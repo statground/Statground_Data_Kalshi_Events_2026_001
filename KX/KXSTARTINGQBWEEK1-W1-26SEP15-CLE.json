@@ -1,0 +1,14 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXSTARTINGQBWEEK1-W1-26SEP15-CLE",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Pro Football"
+  },
+  "series_ticker": "KXSTARTINGQBWEEK1",
+  "strike_period": "",
+  "sub_title": "CLE, Week 1, 2026-27",
+  "title": "Cleveland Week 1 Starting Quarterback?"
+}

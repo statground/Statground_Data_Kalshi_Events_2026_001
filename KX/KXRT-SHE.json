@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Entertainment",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXRT-SHE",
+  "mutually_exclusive": false,
+  "series_ticker": "KXRT",
+  "strike_period": "",
+  "sub_title": "Shelter",
+  "title": "\"Shelter\" Rotten Tomatoes score?"
+}

@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXLNBELITEGAME-26FEB01BOUPAR",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "LNB Elite",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXLNBELITEGAME",
+  "strike_period": "",
+  "sub_title": "BOU at PAR (Feb 1)",
+  "title": "Boulazac Basket Dordogne at Paris Basketball"
+}

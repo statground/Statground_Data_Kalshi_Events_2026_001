@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Climate and Weather",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXLAXSNOWM-26JAN",
+  "mutually_exclusive": false,
+  "series_ticker": "KXLAXSNOWM",
+  "strike_period": "",
+  "sub_title": "In Jan 2026",
+  "title": "Snow in Los Angeles in Jan 2026?"
+}

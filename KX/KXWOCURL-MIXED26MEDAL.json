@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXWOCURL-MIXED26MEDAL",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Curling",
+    "competition_scope": "Medal Winner"
+  },
+  "series_ticker": "KXWOCURL",
+  "strike_period": "",
+  "sub_title": "Mixed Doubles Curling Medal Winner",
+  "title": "Mixed Doubles Curling: Medal Winner"
+}

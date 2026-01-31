@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCONGRESSTRADES-25",
+  "mutually_exclusive": true,
+  "series_ticker": "KXCONGRESSTRADES",
+  "strike_period": "",
+  "sub_title": "In 2025",
+  "title": "Which member of Congress will have the biggest returns this year?"
+}

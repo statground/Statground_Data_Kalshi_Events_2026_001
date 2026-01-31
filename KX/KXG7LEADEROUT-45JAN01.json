@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXG7LEADEROUT-45JAN01",
+  "mutually_exclusive": true,
+  "series_ticker": "KXG7LEADEROUT",
+  "strike_period": "",
+  "sub_title": "G7 Leaders",
+  "title": "Which G7 leader will leave next?"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXPRIMEENGCONSUMPTION-30",
+  "mutually_exclusive": true,
+  "series_ticker": "KXPRIMEENGCONSUMPTION",
+  "strike_period": "",
+  "sub_title": "In 2030",
+  "title": "What will be the largest source of global primary energy consumption in 2030?"
+}

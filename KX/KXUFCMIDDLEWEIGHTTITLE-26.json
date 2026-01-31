@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXUFCMIDDLEWEIGHTTITLE-26",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "UFC",
+    "competition_scope": "Future"
+  },
+  "series_ticker": "KXUFCMIDDLEWEIGHTTITLE",
+  "strike_period": "",
+  "sub_title": "Before 2027",
+  "title": "UFC Middleweight Title Holder on Dec 31, 2026?"
+}

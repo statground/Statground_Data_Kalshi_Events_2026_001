@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXWONORDIC-INDLARGE26CGOLD",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Nordic Combined",
+    "competition_scope": "Gold Medal Country"
+  },
+  "series_ticker": "KXWONORDIC",
+  "strike_period": "",
+  "sub_title": "Individual Large Hill Gold Medal Country",
+  "title": "Nordic Combined Individual Large Hill: Gold Medal Country"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Elections",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXIRISHPM-34",
+  "mutually_exclusive": true,
+  "series_ticker": "KXIRISHPM",
+  "strike_period": "",
+  "sub_title": "For the next Government",
+  "title": "Who will be the next Irish Prime Minister?"
+}

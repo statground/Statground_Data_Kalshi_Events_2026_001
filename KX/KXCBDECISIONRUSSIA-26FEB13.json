@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCBDECISIONRUSSIA-26FEB13",
+  "mutually_exclusive": true,
+  "series_ticker": "KXCBDECISIONRUSSIA",
+  "strike_period": "",
+  "sub_title": "Feb 13, 2026 meeting",
+  "title": "What will the Bank of Russia do at the February key rate meeting?"
+}

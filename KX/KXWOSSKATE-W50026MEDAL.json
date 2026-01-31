@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXWOSSKATE-W50026MEDAL",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Speed Skating",
+    "competition_scope": "Medal Winner"
+  },
+  "series_ticker": "KXWOSSKATE",
+  "strike_period": "",
+  "sub_title": "Women's 500m Medal Winner",
+  "title": "Speed Skating Women's 500m: Medal Winner"
+}

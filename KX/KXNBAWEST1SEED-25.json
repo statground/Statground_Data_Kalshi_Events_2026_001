@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNBAWEST1SEED-25",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Pro Basketball (M)",
+    "competition_scope": "Future"
+  },
+  "series_ticker": "KXNBAWEST1SEED",
+  "strike_period": "",
+  "sub_title": "2025-2026",
+  "title": "Pro Basketball Western Conference #1 Seed"
+}

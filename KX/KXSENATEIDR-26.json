@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXSENATEIDR-26",
+  "mutually_exclusive": true,
+  "series_ticker": "KXSENATEIDR",
+  "strike_period": "",
+  "sub_title": "In 2026",
+  "title": "Who will be the Republican nominee for Senate in Idaho?"
+}

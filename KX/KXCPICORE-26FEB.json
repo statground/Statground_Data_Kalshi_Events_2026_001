@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXCPICORE-26FEB",
+  "mutually_exclusive": false,
+  "series_ticker": "KXCPICORE",
+  "strike_period": "February 2026",
+  "sub_title": "In Feb 2026",
+  "title": "CPI core in Feb 2026?"
+}

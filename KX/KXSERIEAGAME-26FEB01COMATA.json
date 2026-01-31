@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXSERIEAGAME-26FEB01COMATA",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Serie A",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXSERIEAGAME",
+  "strike_period": "",
+  "sub_title": "COM vs ATA (Feb 1)",
+  "title": "Como vs Atalanta"
+}

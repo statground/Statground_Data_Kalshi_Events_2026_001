@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXWPL-26",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Women's Premier League",
+    "competition_scope": "Future"
+  },
+  "series_ticker": "KXWPL",
+  "strike_period": "",
+  "sub_title": "2026 Season",
+  "title": "Cricket Women's Premier League Champion"
+}

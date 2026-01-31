@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXWOSSKATE-M10K26CGOLD",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Speed Skating",
+    "competition_scope": "Gold Medal Country"
+  },
+  "series_ticker": "KXWOSSKATE",
+  "strike_period": "",
+  "sub_title": "Men's 10000m Gold Medal Country",
+  "title": "Speed Skating Men's 10000m: Gold Medal Country"
+}

@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXBIGEASTREG-26",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "College Basketball (M)",
+    "competition_scope": "Conference"
+  },
+  "series_ticker": "KXBIGEASTREG",
+  "strike_period": "",
+  "sub_title": "2026 Men's Big East Regular Season",
+  "title": "Big East Regular Season Champion"
+}

@@ -1,0 +1,14 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNEXTTEAMNBA-26TYOU",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Pro Basketball (M)"
+  },
+  "series_ticker": "KXNEXTTEAMNBA",
+  "strike_period": "",
+  "sub_title": "Trae Young",
+  "title": "Trae Young's next team?"
+}

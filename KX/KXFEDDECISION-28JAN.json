@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXFEDDECISION-28JAN",
+  "mutually_exclusive": true,
+  "series_ticker": "KXFEDDECISION",
+  "strike_date": "2028-01-26T19:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Jan 26, 2028",
+  "title": "Fed decision in Jan 2028?"
+}

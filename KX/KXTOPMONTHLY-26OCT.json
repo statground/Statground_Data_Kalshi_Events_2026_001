@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXTOPMONTHLY-26OCT",
+  "mutually_exclusive": true,
+  "series_ticker": "KXTOPMONTHLY",
+  "strike_period": "",
+  "sub_title": "On Oct 31, 2026",
+  "title": "Artist with the most monthly Spotify listeners at the end of Oct 2026?"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Entertainment",
+  "collateral_return_type": "",
+  "event_ticker": "KXSTARWARS-27",
+  "mutually_exclusive": false,
+  "series_ticker": "KXSTARWARS",
+  "strike_period": "",
+  "sub_title": "Before 2027",
+  "title": "New Star Wars movie released in theaters before 2027?"
+}

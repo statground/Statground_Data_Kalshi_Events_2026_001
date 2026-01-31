@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNBADRAFTTOP-26-3",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Basketball (M)",
+    "competition_scope": "Draft"
+  },
+  "series_ticker": "KXNBADRAFTTOP",
+  "strike_period": "",
+  "sub_title": "Top 3 2026",
+  "title": "Pro Basketball Players Drafted Top 3 in 2026?"
+}

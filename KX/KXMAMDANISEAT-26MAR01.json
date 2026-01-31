@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Elections",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXMAMDANISEAT-26MAR01",
+  "mutually_exclusive": true,
+  "series_ticker": "KXMAMDANISEAT",
+  "strike_period": "",
+  "sub_title": "in 2026",
+  "title": "Who will win the election to fill Mamdani's assembly seat?"
+}

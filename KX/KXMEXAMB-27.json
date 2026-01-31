@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXMEXAMB-27",
+  "mutually_exclusive": true,
+  "series_ticker": "KXMEXAMB",
+  "strike_period": "",
+  "sub_title": "Before Jan 2027",
+  "title": "Who will be Trump's Ambassador to Mexico?"
+}

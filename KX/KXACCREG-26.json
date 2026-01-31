@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXACCREG-26",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "College Basketball (M)",
+    "competition_scope": "Conference"
+  },
+  "series_ticker": "KXACCREG",
+  "strike_period": "",
+  "sub_title": "2026 Men's ACC Regular Season",
+  "title": "ACC Regular Season Champion"
+}

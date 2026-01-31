@@ -1,0 +1,14 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNEXTMANAGERMANU-26",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "EPL"
+  },
+  "series_ticker": "KXNEXTMANAGERMANU",
+  "strike_period": "",
+  "sub_title": "2026",
+  "title": "Who will be the next manager of Manchester United?"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXALBUMSALES-SON",
+  "mutually_exclusive": false,
+  "series_ticker": "KXALBUMSALES",
+  "strike_period": "",
+  "sub_title": "Songs About Us",
+  "title": "How many album sales will Jason Aldean's 'Songs About Us' have on the chart dated May 1, 2026?"
+}

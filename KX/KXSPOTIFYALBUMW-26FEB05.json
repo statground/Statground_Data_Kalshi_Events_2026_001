@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXSPOTIFYALBUMW-26FEB05",
+  "mutually_exclusive": true,
+  "series_ticker": "KXSPOTIFYALBUMW",
+  "strike_period": "",
+  "sub_title": "On Feb 5, 2026 Chart",
+  "title": "Top Album on Weekly Top Albums USA on Feb 5, 2026?"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "",
+  "event_ticker": "KXRANKLISTSONGTOP10-26FEB07",
+  "mutually_exclusive": false,
+  "series_ticker": "KXRANKLISTSONGTOP10",
+  "strike_period": "",
+  "sub_title": "Before Feb 7, 2026",
+  "title": "Which songs will be in the Top 10 on the Billboard Hot 100 chart for the week of February 7th?"
+}

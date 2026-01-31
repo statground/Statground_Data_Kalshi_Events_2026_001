@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Elections",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNJASSEMBLYSEATSD-25NOV04",
+  "mutually_exclusive": true,
+  "series_ticker": "KXNJASSEMBLYSEATSD",
+  "strike_period": "",
+  "sub_title": "On Nov 4, 2025",
+  "title": "How many seats will the Democrats win in the New Jersey General Assembly?"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Elections",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNEXTHUNGARYPM-26MAY01",
+  "mutually_exclusive": true,
+  "series_ticker": "KXNEXTHUNGARYPM",
+  "strike_period": "",
+  "sub_title": "For the election expected to happen by April 2026",
+  "title": "Who will be Prime Minister of Hungary after the 2026 election?"
+}

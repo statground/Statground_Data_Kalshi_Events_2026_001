@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "",
+  "event_ticker": "KXSCOTUSCERTFLAG-27JAN",
+  "mutually_exclusive": false,
+  "series_ticker": "KXSCOTUSCERTFLAG",
+  "strike_period": "",
+  "sub_title": "Before 2027",
+  "title": "Will the SCOTUS hear a case about flag burning before 2027?"
+}

@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXBABYNAMEGIRL-26DEC",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Pro Football",
+    "competition_scope": "Fantasy"
+  },
+  "series_ticker": "KXBABYNAMEGIRL",
+  "strike_period": "",
+  "sub_title": "Before Dec 2026",
+  "title": "Most popular baby girl name in 2025?"
+}

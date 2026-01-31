@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXUCLBTTS-26FEB18BOGINT",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Champions League",
+    "competition_scope": "BTTS"
+  },
+  "series_ticker": "KXUCLBTTS",
+  "strike_period": "",
+  "sub_title": "INT at BOG (Feb 18)",
+  "title": "Inter at Bodoe/Glimt: Both Teams to Score"
+}

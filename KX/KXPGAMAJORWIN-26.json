@@ -1,0 +1,14 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXPGAMAJORWIN-26",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition_scope": "Future"
+  },
+  "series_ticker": "KXPGAMAJORWIN",
+  "strike_period": "",
+  "sub_title": "2026",
+  "title": "Who will win a PGA Tour Major in 2026?"
+}

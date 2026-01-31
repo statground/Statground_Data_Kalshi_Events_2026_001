@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Elections",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNORWAYLABOUR-25SEP08",
+  "mutually_exclusive": true,
+  "series_ticker": "KXNORWAYLABOUR",
+  "strike_period": "",
+  "sub_title": "On Sep 8, 2025",
+  "title": "How many seats will the Labour Party (Ap) win in the 2025 Norwegian general election?"
+}

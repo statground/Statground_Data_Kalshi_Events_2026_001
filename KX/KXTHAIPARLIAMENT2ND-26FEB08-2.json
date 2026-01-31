@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Elections",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXTHAIPARLIAMENT2ND-26FEB08-2",
+  "mutually_exclusive": true,
+  "series_ticker": "KXTHAIPARLIAMENT2ND",
+  "strike_period": "",
+  "sub_title": "On Feb 8, 2026",
+  "title": "Who will finish 2nd in the 2026 Thailand parliamentary election?"
+}

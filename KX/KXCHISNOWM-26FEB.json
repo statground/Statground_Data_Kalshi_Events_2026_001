@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Climate and Weather",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXCHISNOWM-26FEB",
+  "mutually_exclusive": false,
+  "series_ticker": "KXCHISNOWM",
+  "strike_period": "",
+  "sub_title": "In Feb 2026",
+  "title": "Snow in Chicago in Feb 2026?"
+}

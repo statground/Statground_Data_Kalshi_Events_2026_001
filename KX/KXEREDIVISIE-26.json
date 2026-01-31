@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXEREDIVISIE-26",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Eredivisie",
+    "competition_scope": "Future"
+  },
+  "series_ticker": "KXEREDIVISIE",
+  "strike_period": "",
+  "sub_title": "2025-26 Season",
+  "title": "Eredivisie Champion"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Elections",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXPRESTAIWAN-28",
+  "mutually_exclusive": true,
+  "series_ticker": "KXPRESTAIWAN",
+  "strike_period": "",
+  "sub_title": "In 2028",
+  "title": "Who will win the next Taiwanese presidential election?"
+}

@@ -1,0 +1,14 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXCOLLEGEGAMEDAYGUEST-26CGD",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "College Football"
+  },
+  "series_ticker": "KXCOLLEGEGAMEDAYGUEST",
+  "strike_period": "",
+  "sub_title": "Johnny Manziel",
+  "title": "Will Johnny Manziel go on ESPN's College GameDay before 2027?"
+}

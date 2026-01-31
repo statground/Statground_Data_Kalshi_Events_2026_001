@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Health",
+  "collateral_return_type": "",
+  "event_ticker": "KXFDATYPE1DIABETES-33",
+  "mutually_exclusive": false,
+  "series_ticker": "KXFDATYPE1DIABETES",
+  "strike_period": "",
+  "sub_title": "Before 2033",
+  "title": "Will the FDA approve a cure for Type 1 diabetes before 2033?"
+}

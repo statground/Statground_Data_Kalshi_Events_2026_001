@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXFEDCHAIRNOM-29",
+  "mutually_exclusive": true,
+  "series_ticker": "KXFEDCHAIRNOM",
+  "strike_period": "",
+  "sub_title": "During Trump's term",
+  "title": "Who will Trump nominate as Fed Chair?"
+}

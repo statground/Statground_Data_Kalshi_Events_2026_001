@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXWONORDIC-TEAMLARGE26MEDAL",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Nordic Combined",
+    "competition_scope": "Medal Winner"
+  },
+  "series_ticker": "KXWONORDIC",
+  "strike_period": "",
+  "sub_title": "Team Sprint Large Hill Medal Winner",
+  "title": "Nordic Combined Team Sprint Large Hill: Medal Winner"
+}

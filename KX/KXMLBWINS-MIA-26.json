@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXMLBWINS-MIA-26",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Baseball",
+    "competition_scope": "Win totals"
+  },
+  "series_ticker": "KXMLBWINS-MIA",
+  "strike_period": "",
+  "sub_title": "2026 season",
+  "title": "Miami pro baseball wins this season?"
+}

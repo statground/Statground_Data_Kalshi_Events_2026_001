@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXPGASOLHEIM-SC26",
+  "mutually_exclusive": true,
+  "series_ticker": "KXPGASOLHEIM",
+  "strike_period": "",
+  "sub_title": "2026 Solheim Cup",
+  "title": "Solheim Cup Champion?"
+}

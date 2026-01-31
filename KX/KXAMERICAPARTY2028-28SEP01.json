@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Elections",
+  "collateral_return_type": "",
+  "event_ticker": "KXAMERICAPARTY2028-28SEP01",
+  "mutually_exclusive": false,
+  "series_ticker": "KXAMERICAPARTY2028",
+  "strike_period": "",
+  "sub_title": "Before Sep 1, 2028",
+  "title": "Will the America Party contest the 2028 U.S. presidential election?"
+}

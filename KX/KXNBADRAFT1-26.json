@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNBADRAFT1-26",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Pro Basketball (M)",
+    "competition_scope": "Draft"
+  },
+  "series_ticker": "KXNBADRAFT1",
+  "strike_period": "",
+  "sub_title": "In 2026",
+  "title": "#1 overall pick in 2026?"
+}

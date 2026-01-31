@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXLOWTDEN-26FEB01",
+  "mutually_exclusive": true,
+  "series_ticker": "KXLOWTDEN",
+  "strike_date": "2026-02-02T07:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Feb 1, 2026",
+  "title": "Lowest temperature in Denver on Feb 1, 2026?"
+}

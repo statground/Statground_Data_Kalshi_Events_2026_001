@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXENGAGEMENTISHOWSPEED-26",
+  "mutually_exclusive": true,
+  "series_ticker": "KXENGAGEMENTISHOWSPEED",
+  "strike_period": "",
+  "sub_title": "Before 2027",
+  "title": "Will IShowSpeed be engaged before 2027?"
+}

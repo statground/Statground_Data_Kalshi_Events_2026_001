@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXTOPBUSINESS-26",
+  "mutually_exclusive": true,
+  "series_ticker": "KXTOPBUSINESS",
+  "strike_period": "",
+  "sub_title": "In 2026",
+  "title": "Who will be CNBC's number 1 US State for Business in 2026?"
+}

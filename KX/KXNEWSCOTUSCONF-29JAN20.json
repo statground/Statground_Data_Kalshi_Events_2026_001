@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNEWSCOTUSCONF-29JAN20",
+  "mutually_exclusive": true,
+  "series_ticker": "KXNEWSCOTUSCONF",
+  "strike_period": "",
+  "sub_title": "During the 2025-2029 term",
+  "title": "How many Supreme Court justices will the President confirm?"
+}

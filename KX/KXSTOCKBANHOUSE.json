@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "",
+  "event_ticker": "KXSTOCKBANHOUSE",
+  "mutually_exclusive": false,
+  "series_ticker": "KXSTOCKBANHOUSE",
+  "strike_period": "",
+  "sub_title": "legislation that prohibits members of Congress from purchasing stocks, even if it allows for purchasing stocks via a blind trust or the purchase of “diversified assets” (such as ETFs or mutual funds)",
+  "title": "Will the House vote to ban members of Congress from trading stocks?"
+}

@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXAPRPOTUS-26FEB06",
+  "mutually_exclusive": true,
+  "series_ticker": "KXAPRPOTUS",
+  "strike_date": "2026-02-06T17:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Feb 6, 2026",
+  "title": "Trump's approval rating on Feb 6, 2026?"
+}

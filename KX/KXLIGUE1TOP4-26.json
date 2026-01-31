@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXLIGUE1TOP4-26",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Ligue 1",
+    "competition_scope": "Future"
+  },
+  "series_ticker": "KXLIGUE1TOP4",
+  "strike_period": "",
+  "sub_title": "2025-2026 Ligue 1",
+  "title": "Ligue 1 Top 4 Finishers"
+}

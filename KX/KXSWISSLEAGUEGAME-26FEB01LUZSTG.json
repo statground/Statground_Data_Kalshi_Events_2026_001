@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXSWISSLEAGUEGAME-26FEB01LUZSTG",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Swiss Super League",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXSWISSLEAGUEGAME",
+  "strike_period": "",
+  "sub_title": "LUZ vs STG (Feb 1)",
+  "title": "Luzern vs St. Gallen"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNEXTUKPM-30",
+  "mutually_exclusive": true,
+  "series_ticker": "KXNEXTUKPM",
+  "strike_period": "",
+  "sub_title": "Before 2030",
+  "title": "Who will be the next Prime Minister of the UK?"
+}

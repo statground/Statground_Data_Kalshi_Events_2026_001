@@ -1,0 +1,14 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNEXTTEAMNFL-26KMURRAY",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Pro Football"
+  },
+  "series_ticker": "KXNEXTTEAMNFL",
+  "strike_period": "",
+  "sub_title": "Kyler Murray",
+  "title": "Kyler Murray's next team?"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXPRESPARTY-2028",
+  "mutually_exclusive": true,
+  "series_ticker": "KXPRESPARTY",
+  "strike_period": "",
+  "sub_title": "In 2028",
+  "title": "Which party will win the 2028 Presidential Election?"
+}

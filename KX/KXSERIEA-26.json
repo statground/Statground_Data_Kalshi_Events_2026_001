@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXSERIEA-26",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Serie A",
+    "competition_scope": "Future"
+  },
+  "series_ticker": "KXSERIEA",
+  "strike_period": "",
+  "sub_title": "On May 24, 2026",
+  "title": "Serie A Winner"
+}

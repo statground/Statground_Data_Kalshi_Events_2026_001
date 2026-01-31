@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Elections",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXVPRESNOMD-28",
+  "mutually_exclusive": true,
+  "series_ticker": "KXVPRESNOMD",
+  "strike_period": "",
+  "sub_title": "In 2028",
+  "title": "Who will be the Democratic VP nominee in 2028?"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXLAGODAYS-26FEB",
+  "mutually_exclusive": true,
+  "series_ticker": "KXLAGODAYS",
+  "strike_period": "",
+  "sub_title": "Feb 2026",
+  "title": "How many times will Trump visit Mar-a-Lago in Feb 2026?"
+}

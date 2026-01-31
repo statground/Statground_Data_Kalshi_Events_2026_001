@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXBELGIANPLGAME-26FEB01STARSC",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Belgian Pro League",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXBELGIANPLGAME",
+  "strike_period": "",
+  "sub_title": "STA vs RSC (Feb 1)",
+  "title": "Standard vs Anderlecht"
+}

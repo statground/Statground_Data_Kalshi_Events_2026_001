@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Elections",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCA01S-26JAN01",
+  "mutually_exclusive": true,
+  "series_ticker": "KXCA01S",
+  "strike_period": "",
+  "sub_title": "In 2026",
+  "title": "Who will win the CA-01 special election?"
+}

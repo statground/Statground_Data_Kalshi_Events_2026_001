@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXPERFORMBOND-35",
+  "mutually_exclusive": true,
+  "series_ticker": "KXPERFORMBOND",
+  "strike_period": "",
+  "sub_title": "Before 2035",
+  "title": "Who will perform the next James Bond theme?"
+}

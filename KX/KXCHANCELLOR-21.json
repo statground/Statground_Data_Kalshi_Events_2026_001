@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Elections",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCHANCELLOR-21",
+  "mutually_exclusive": true,
+  "series_ticker": "KXCHANCELLOR",
+  "strike_period": "",
+  "sub_title": "For the next Parliament",
+  "title": "Who will be the next German Chancellor?"
+}

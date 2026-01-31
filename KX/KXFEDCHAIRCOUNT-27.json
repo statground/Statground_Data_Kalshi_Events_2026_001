@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXFEDCHAIRCOUNT-27",
+  "mutually_exclusive": true,
+  "series_ticker": "KXFEDCHAIRCOUNT",
+  "strike_period": "",
+  "sub_title": "Before Jan 2027",
+  "title": "How many Senators will vote for Kevin Warsh for Fed Chair?"
+}

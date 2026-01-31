@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXR6GAME-26FEB02EPSSG",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "R6",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXR6GAME",
+  "strike_period": "",
+  "sub_title": "ENTERPRISE Esports vs. Spacestation Gaming (Feb 2)",
+  "title": "Six Invitational 2026: ENTERPRISE Esports vs. Spacestation Gaming"
+}

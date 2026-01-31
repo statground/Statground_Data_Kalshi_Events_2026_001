@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXAAAGASM-26MAY31",
+  "mutually_exclusive": false,
+  "series_ticker": "KXAAAGASM",
+  "strike_date": "2026-05-31T14:00:00Z",
+  "strike_period": "",
+  "sub_title": "On May 31, 2026",
+  "title": "Gas prices in the US in May 2026?"
+}

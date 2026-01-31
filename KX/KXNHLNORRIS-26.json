@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNHLNORRIS-26",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "NHL",
+    "competition_scope": "Awards"
+  },
+  "series_ticker": "KXNHLNORRIS",
+  "strike_period": "",
+  "sub_title": "2025-26 NHL season",
+  "title": "NHL James Norris Memorial Trophy"
+}

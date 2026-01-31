@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXPAYROLLS-26SEP",
+  "mutually_exclusive": false,
+  "series_ticker": "KXPAYROLLS",
+  "strike_period": "September 2026",
+  "sub_title": "In Sep 2026",
+  "title": "Jobs numbers in Sep 2026?"
+}

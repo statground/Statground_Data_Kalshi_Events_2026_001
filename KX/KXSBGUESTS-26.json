@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Entertainment",
+  "collateral_return_type": "",
+  "event_ticker": "KXSBGUESTS-26",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Football",
+    "competition_scope": "The Big Game"
+  },
+  "series_ticker": "KXSBGUESTS",
+  "strike_period": "",
+  "sub_title": "In 2026",
+  "title": "Who will attend the Big Game?"
+}

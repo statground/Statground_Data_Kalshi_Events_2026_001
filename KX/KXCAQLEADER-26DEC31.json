@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Elections",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCAQLEADER-26DEC31",
+  "mutually_exclusive": true,
+  "series_ticker": "KXCAQLEADER",
+  "strike_period": "",
+  "sub_title": "2026",
+  "title": "Who will win the next CAQ leadership election?"
+}

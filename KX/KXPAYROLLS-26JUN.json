@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXPAYROLLS-26JUN",
+  "mutually_exclusive": false,
+  "series_ticker": "KXPAYROLLS",
+  "strike_period": "June 2026",
+  "sub_title": "In Jun 2026",
+  "title": "Jobs numbers in June 2026?"
+}

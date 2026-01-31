@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXJOBLESSCLAIMS-26FEB05",
+  "mutually_exclusive": false,
+  "series_ticker": "KXJOBLESSCLAIMS",
+  "strike_period": "",
+  "sub_title": "For the week ending Jan 31, 2026",
+  "title": "How many initial jobless claims for the week ending Jan 31, 2026?"
+}

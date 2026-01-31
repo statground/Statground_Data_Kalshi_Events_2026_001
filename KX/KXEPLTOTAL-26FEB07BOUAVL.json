@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXEPLTOTAL-26FEB07BOUAVL",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "EPL",
+    "competition_scope": "Point Total"
+  },
+  "series_ticker": "KXEPLTOTAL",
+  "strike_period": "",
+  "sub_title": "AVL at BOU (Feb 7)",
+  "title": "Aston Villa at Bournemouth: Totals"
+}

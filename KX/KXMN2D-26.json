@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Elections",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXMN2D-26",
+  "mutually_exclusive": true,
+  "series_ticker": "KXMN2D",
+  "strike_period": "",
+  "sub_title": "In 2026",
+  "title": "Who will be the Democratic (DFL) nominee for MN-02?"
+}

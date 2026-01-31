@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXWOTW-26",
+  "mutually_exclusive": true,
+  "series_ticker": "KXWOTW",
+  "strike_period": "",
+  "sub_title": "Winter 25/26",
+  "title": "Wave of the Winter"
+}

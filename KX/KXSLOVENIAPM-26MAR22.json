@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Elections",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXSLOVENIAPM-26MAR22",
+  "mutually_exclusive": true,
+  "series_ticker": "KXSLOVENIAPM",
+  "strike_period": "",
+  "sub_title": "Before Dec 31, 2027",
+  "title": "Who will be Prime Minister of Slovenia after their election?"
+}

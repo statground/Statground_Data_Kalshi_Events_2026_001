@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Social",
+  "collateral_return_type": "",
+  "event_ticker": "KXTWITCHSUBSNINJA-27JAN01",
+  "mutually_exclusive": false,
+  "series_ticker": "KXTWITCHSUBSNINJA",
+  "strike_period": "",
+  "sub_title": "Before Jan 1, 2027",
+  "title": "Will Ninja reach at least 10k Twitch subscribers this year?"
+}

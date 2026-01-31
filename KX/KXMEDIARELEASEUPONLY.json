@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "",
+  "event_ticker": "KXMEDIARELEASEUPONLY",
+  "mutually_exclusive": false,
+  "series_ticker": "KXMEDIARELEASEUPONLY",
+  "strike_period": "",
+  "sub_title": "A new episode of UpOnly podcast",
+  "title": "When will the next episode of the UpOnly podcast be released?"
+}

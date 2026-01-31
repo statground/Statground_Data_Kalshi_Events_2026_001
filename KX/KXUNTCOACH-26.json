@@ -1,0 +1,14 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXUNTCOACH-26",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "College Football"
+  },
+  "series_ticker": "KXUNTCOACH",
+  "strike_period": "",
+  "sub_title": "Before Sep 1, 2026",
+  "title": "Who will be the next permanent Head Coach of the North Texas Football Team?"
+}

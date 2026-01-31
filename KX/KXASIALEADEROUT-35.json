@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXASIALEADEROUT-35",
+  "mutually_exclusive": true,
+  "series_ticker": "KXASIALEADEROUT",
+  "strike_period": "",
+  "sub_title": "Before 2035",
+  "title": "Which of these Asia-Pacific leaders will leave office next?"
+}

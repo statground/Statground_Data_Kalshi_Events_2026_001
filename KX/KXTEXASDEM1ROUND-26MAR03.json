@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Elections",
+  "collateral_return_type": "",
+  "event_ticker": "KXTEXASDEM1ROUND-26MAR03",
+  "mutually_exclusive": false,
+  "series_ticker": "KXTEXASDEM1ROUND",
+  "strike_period": "",
+  "sub_title": "Mar 3, 2026",
+  "title": "Will a candidate win outright in the Texas Democratic Senate primary?"
+}

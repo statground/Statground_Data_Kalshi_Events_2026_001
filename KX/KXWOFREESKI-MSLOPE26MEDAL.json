@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXWOFREESKI-MSLOPE26MEDAL",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Freestyle Skiing",
+    "competition_scope": "Medal Winner"
+  },
+  "series_ticker": "KXWOFREESKI",
+  "strike_period": "",
+  "sub_title": "Men's Freeski Slopestyle Medal Winner",
+  "title": "Freestyle Skiing Men's Freeski Slopestyle: Medal Winner"
+}

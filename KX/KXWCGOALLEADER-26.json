@@ -1,0 +1,14 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXWCGOALLEADER-26",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "FIFA World Cup"
+  },
+  "series_ticker": "KXWCGOALLEADER",
+  "strike_period": "",
+  "sub_title": "2026 World Cup Full Tournament",
+  "title": "FIFA World Cup Golden Boot Winner"
+}

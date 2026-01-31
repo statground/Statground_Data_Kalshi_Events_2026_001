@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Elections",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCLOSESTSENATE-27JAN03",
+  "mutually_exclusive": true,
+  "series_ticker": "KXCLOSESTSENATE",
+  "strike_period": "",
+  "sub_title": "Before Jan 3, 2027",
+  "title": "Closest Senate race in 2026?"
+}

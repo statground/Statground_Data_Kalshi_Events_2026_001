@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXDGAAWARDS-26-MOV",
+  "mutually_exclusive": true,
+  "series_ticker": "KXDGAAWARDS",
+  "strike_period": "",
+  "sub_title": "Movies for Television | 78th",
+  "title": "DGA Award for Best Movies for Television?"
+}

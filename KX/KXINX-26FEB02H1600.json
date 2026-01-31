@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXINX-26FEB02H1600",
+  "mutually_exclusive": true,
+  "series_ticker": "KXINX",
+  "strike_date": "2026-02-02T21:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Feb 2, 2026 at 4pm EST",
+  "title": "S&P price range on Feb 2, 2026 at 4pm EST?"
+}

@@ -1,0 +1,14 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXPHILIPRIVERSNFL",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Football"
+  },
+  "series_ticker": "KXPHILIPRIVERSNFL",
+  "strike_period": "",
+  "sub_title": "Philip Rivers",
+  "title": "Will Philip Rivers play for any Pro Football team this Season?"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Elections",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXMOVPORTUGALPRESRUNOFF-26FEB08",
+  "mutually_exclusive": true,
+  "series_ticker": "KXMOVPORTUGALPRESRUNOFF",
+  "strike_period": "",
+  "sub_title": "On Feb 8, 2026",
+  "title": "Margin of victory in the Portugal Presidential election runoff?"
+}

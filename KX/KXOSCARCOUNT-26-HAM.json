@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXOSCARCOUNT-26-HAM",
+  "mutually_exclusive": true,
+  "series_ticker": "KXOSCARCOUNT",
+  "strike_period": "",
+  "sub_title": "Oscars - Hamnet",
+  "title": "How many Oscars will 'Hamnet' win?"
+}

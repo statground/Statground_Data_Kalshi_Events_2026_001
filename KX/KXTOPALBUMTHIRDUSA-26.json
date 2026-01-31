@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXTOPALBUMTHIRDUSA-26",
+  "mutually_exclusive": true,
+  "series_ticker": "KXTOPALBUMTHIRDUSA",
+  "strike_period": "",
+  "sub_title": "In 2026",
+  "title": "#3 Album on Spotify U.S. in 2026?"
+}

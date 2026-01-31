@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXTOP10BILLBOARDSPOTSBRUNO-26MAR14",
+  "mutually_exclusive": true,
+  "series_ticker": "KXTOP10BILLBOARDSPOTSBRUNO",
+  "strike_period": "",
+  "sub_title": "Mar 14, 2026",
+  "title": "How many spots on the Billboard Hot 100's top 10 will Bruno Mars hold for the week of Mar 14th?"
+}

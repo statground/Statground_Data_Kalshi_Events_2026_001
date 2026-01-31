@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNFLPREPACKSGP-26FEB08SEANE",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Pro Football",
+    "competition_scope": "Moneyline and Total"
+  },
+  "series_ticker": "KXNFLPREPACKSGP",
+  "strike_period": "",
+  "sub_title": "Seattle vs New England",
+  "title": "Moneyline / Total Points Combo"
+}

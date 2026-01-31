@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXMLB-26",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Pro Baseball",
+    "competition_scope": "Future"
+  },
+  "series_ticker": "KXMLB",
+  "strike_period": "",
+  "sub_title": "2026",
+  "title": "Pro Baseball Champion"
+}

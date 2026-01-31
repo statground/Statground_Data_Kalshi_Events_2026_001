@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXSCOURT-29",
+  "mutually_exclusive": true,
+  "series_ticker": "KXSCOURT",
+  "strike_period": "",
+  "sub_title": "By January 20, 2029",
+  "title": "Who will be the next Supreme Court justice?"
+}

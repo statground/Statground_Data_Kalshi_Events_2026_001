@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXUCLBTTS-26FEB18QARNEW",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Champions League",
+    "competition_scope": "BTTS"
+  },
+  "series_ticker": "KXUCLBTTS",
+  "strike_period": "",
+  "sub_title": "NEW at QAR (Feb 18)",
+  "title": "Newcastle at Qarabag: Both Teams to Score"
+}

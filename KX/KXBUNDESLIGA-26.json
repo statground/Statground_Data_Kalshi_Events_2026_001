@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXBUNDESLIGA-26",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Bundesliga",
+    "competition_scope": "Future"
+  },
+  "series_ticker": "KXBUNDESLIGA",
+  "strike_period": "",
+  "sub_title": "On May 18, 2026",
+  "title": "Bundesliga Winner"
+}

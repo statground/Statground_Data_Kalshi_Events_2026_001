@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Elections",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXLONDONMAYOR-28MAY01",
+  "mutually_exclusive": true,
+  "series_ticker": "KXLONDONMAYOR",
+  "strike_period": "",
+  "sub_title": "2028",
+  "title": "Who will win the 2028 London mayoral election?"
+}

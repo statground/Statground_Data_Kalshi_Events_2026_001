@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXLIGUE1BTTS-26JAN31ASMREN",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Ligue 1",
+    "competition_scope": "BTTS"
+  },
+  "series_ticker": "KXLIGUE1BTTS",
+  "strike_period": "",
+  "sub_title": "REN at ASM (Jan 31)",
+  "title": "Stade Rennais at Monaco: Both Teams to Score"
+}

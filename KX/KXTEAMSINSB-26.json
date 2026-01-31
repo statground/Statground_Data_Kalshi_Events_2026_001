@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXTEAMSINSB-26",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Pro Football",
+    "competition_scope": "Future"
+  },
+  "series_ticker": "KXTEAMSINSB",
+  "strike_period": "",
+  "sub_title": "Before Feb 7, 2026",
+  "title": "Which teams will play in the 2026 Pro Football Championship Game?"
+}

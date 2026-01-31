@@ -1,0 +1,14 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNEXTCOACHOUTNFL-26-1",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Pro Football"
+  },
+  "series_ticker": "KXNEXTCOACHOUTNFL",
+  "strike_period": "",
+  "sub_title": "Before 2025-2026 Season End",
+  "title": "Who will be the next Pro Football coach out?"
+}

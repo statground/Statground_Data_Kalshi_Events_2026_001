@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": true,
+  "category": "Financials",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXNASDAQ100MAXY-26DEC31H1600",
+  "mutually_exclusive": false,
+  "series_ticker": "KXNASDAQ100MAXY",
+  "strike_date": "2026-12-31T21:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Dec 31, 2026 at 4pm EST",
+  "title": "How high will the Nasdaq-100 price get in 2026?"
+}

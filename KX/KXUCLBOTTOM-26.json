@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXUCLBOTTOM-26",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "UCL",
+    "competition_scope": "Future"
+  },
+  "series_ticker": "KXUCLBOTTOM",
+  "strike_period": "",
+  "sub_title": "2025-26 UCL",
+  "title": "UCL Bottom of Table"
+}

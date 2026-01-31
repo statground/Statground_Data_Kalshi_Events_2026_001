@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXLOSEPRIMARYSENATED-26NOV03",
+  "mutually_exclusive": true,
+  "series_ticker": "KXLOSEPRIMARYSENATED",
+  "strike_period": "",
+  "sub_title": "Before Nov 3, 2026",
+  "title": "How many Senate Democrats will lose their primary in 2026?"
+}

@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXUCLBTTS-26FEB17GALJUV",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Champions League",
+    "competition_scope": "BTTS"
+  },
+  "series_ticker": "KXUCLBTTS",
+  "strike_period": "",
+  "sub_title": "JUV at GAL (Feb 17)",
+  "title": "Juventus at Galatasaray: Both Teams to Score"
+}

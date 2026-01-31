@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNCAAFUNDEFEATED-26",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "College Football",
+    "competition_scope": "Future"
+  },
+  "series_ticker": "KXNCAAFUNDEFEATED",
+  "strike_period": "",
+  "sub_title": "2026",
+  "title": "College Football Undefeated Season"
+}

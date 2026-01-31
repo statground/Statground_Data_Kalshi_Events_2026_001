@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Elections",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXTXRSEN2ND-26MAR03-2",
+  "mutually_exclusive": true,
+  "series_ticker": "KXTXRSEN2ND",
+  "strike_period": "",
+  "sub_title": "On Mar 3, 2026",
+  "title": "2nd place in first round of Texas Senate Republican primary?"
+}

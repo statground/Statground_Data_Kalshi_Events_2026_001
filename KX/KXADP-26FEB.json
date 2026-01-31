@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXADP-26FEB",
+  "mutually_exclusive": false,
+  "series_ticker": "KXADP",
+  "strike_period": "",
+  "sub_title": "In Feb 2026",
+  "title": "ADP employment change in Feb 2026?"
+}

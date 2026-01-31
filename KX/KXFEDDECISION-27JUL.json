@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXFEDDECISION-27JUL",
+  "mutually_exclusive": true,
+  "series_ticker": "KXFEDDECISION",
+  "strike_date": "2027-07-28T18:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Jul 28, 2027",
+  "title": "Fed decision in Jul 2027?"
+}

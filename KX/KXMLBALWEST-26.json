@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXMLBALWEST-26",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Pro Baseball",
+    "competition_scope": "Divisions"
+  },
+  "series_ticker": "KXMLBALWEST",
+  "strike_period": "",
+  "sub_title": "2026",
+  "title": "AL West Division Winner"
+}

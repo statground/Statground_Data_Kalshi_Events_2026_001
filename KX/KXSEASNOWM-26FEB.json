@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Climate and Weather",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXSEASNOWM-26FEB",
+  "mutually_exclusive": false,
+  "series_ticker": "KXSEASNOWM",
+  "strike_period": "",
+  "sub_title": "In Feb 2026",
+  "title": "Snow in Seattle in Feb 2026?"
+}

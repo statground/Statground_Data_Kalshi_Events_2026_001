@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXLALIGA-26",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "La Liga",
+    "competition_scope": "Future"
+  },
+  "series_ticker": "KXLALIGA",
+  "strike_period": "",
+  "sub_title": "On May 24, 2026",
+  "title": "La Liga Winner"
+}

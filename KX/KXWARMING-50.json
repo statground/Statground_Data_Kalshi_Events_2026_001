@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "",
+  "event_ticker": "KXWARMING-50",
+  "mutually_exclusive": false,
+  "series_ticker": "KXWARMING",
+  "strike_period": "",
+  "sub_title": "Before 2050",
+  "title": "Will the world pass 2 degrees Celsius over pre-industrial levels before 2050?"
+}

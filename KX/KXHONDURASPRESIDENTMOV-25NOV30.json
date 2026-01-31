@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Elections",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXHONDURASPRESIDENTMOV-25NOV30",
+  "mutually_exclusive": true,
+  "series_ticker": "KXHONDURASPRESIDENTMOV",
+  "strike_period": "",
+  "sub_title": "Nov 30, 2025",
+  "title": "Margin of victory in the 2025 Honduras Presidential election?"
+}

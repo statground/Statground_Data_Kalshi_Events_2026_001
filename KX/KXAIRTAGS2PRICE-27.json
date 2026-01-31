@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Companies",
+  "collateral_return_type": "",
+  "event_ticker": "KXAIRTAGS2PRICE-27",
+  "mutually_exclusive": false,
+  "series_ticker": "KXAIRTAGS2PRICE",
+  "strike_period": "",
+  "sub_title": "Before 2027",
+  "title": "Will the AirTag 2 cost at least $30?"
+}

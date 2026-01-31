@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXRHOUSESEATS-27",
+  "mutually_exclusive": true,
+  "series_ticker": "KXRHOUSESEATS",
+  "strike_period": "",
+  "sub_title": "On Feb 1, 2027",
+  "title": "How many House seats will Republicans hold after the Midterms?"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Science and Technology",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXMODELHIGH-27",
+  "mutually_exclusive": true,
+  "series_ticker": "KXMODELHIGH",
+  "strike_period": "",
+  "sub_title": "Before 2027",
+  "title": "Which AI will be the first to hit 1500 on Chatbot Arena?"
+}

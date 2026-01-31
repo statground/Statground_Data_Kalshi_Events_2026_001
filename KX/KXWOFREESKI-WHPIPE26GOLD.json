@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXWOFREESKI-WHPIPE26GOLD",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Freestyle Skiing",
+    "competition_scope": "Gold Medal Winner"
+  },
+  "series_ticker": "KXWOFREESKI",
+  "strike_period": "",
+  "sub_title": "Women's Freeski Halfpipe Gold Medal Winner",
+  "title": "Freestyle Skiing Women's Freeski Halfpipe: Gold Medal Winner"
+}

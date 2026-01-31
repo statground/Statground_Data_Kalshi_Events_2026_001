@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Elections",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXTN7SMOV-25NOV07",
+  "mutually_exclusive": true,
+  "series_ticker": "KXTN7SMOV",
+  "strike_period": "",
+  "sub_title": "Nov 7, 2025",
+  "title": "Margin of victory in the TN-07 Special Election?"
+}

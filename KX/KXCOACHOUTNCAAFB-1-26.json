@@ -1,0 +1,14 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXCOACHOUTNCAAFB-1-26",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "College Football"
+  },
+  "series_ticker": "KXCOACHOUTNCAAFB",
+  "strike_period": "",
+  "sub_title": "On Sep 1, 2026",
+  "title": "Which College Football coaches will be out before September?"
+}

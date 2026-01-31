@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXRANKLISTFFWR-26FEB",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Pro Football",
+    "competition_scope": "Fantasy"
+  },
+  "series_ticker": "KXRANKLISTFFWR",
+  "strike_period": "",
+  "sub_title": "Before Feb 2026",
+  "title": "Fantasy Football: 2025 Season Top WR"
+}

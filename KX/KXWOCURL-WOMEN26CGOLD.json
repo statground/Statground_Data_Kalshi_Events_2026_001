@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXWOCURL-WOMEN26CGOLD",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Curling",
+    "competition_scope": "Gold Medal Country"
+  },
+  "series_ticker": "KXWOCURL",
+  "strike_period": "",
+  "sub_title": "Women's Curling Gold Medal Country",
+  "title": "Women's Curling: Gold Medal Country"
+}

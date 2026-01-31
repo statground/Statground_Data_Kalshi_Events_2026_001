@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNBA2D-26JAN31CHIMIA",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Basketball (M)",
+    "competition_scope": "Double Double"
+  },
+  "series_ticker": "KXNBA2D",
+  "strike_period": "",
+  "sub_title": "CHI at MIA (Jan 31)",
+  "title": "Chicago at Miami: Double Doubles"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXPCECORE-26OCT",
+  "mutually_exclusive": false,
+  "series_ticker": "KXPCECORE",
+  "strike_period": "October 2026",
+  "sub_title": "In Oct 2026",
+  "title": "How much will core PCE increase in Oct 2026?"
+}

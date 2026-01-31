@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Elections",
+  "collateral_return_type": "",
+  "event_ticker": "KXTRUMPGA14-26MAY19",
+  "mutually_exclusive": false,
+  "series_ticker": "KXTRUMPGA14",
+  "strike_period": "",
+  "sub_title": "Before May 19, 2026",
+  "title": "Will Trump endorse a candidate other than Marjorie Taylor Greene?"
+}

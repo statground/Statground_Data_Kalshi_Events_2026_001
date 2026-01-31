@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Companies",
+  "collateral_return_type": "",
+  "event_ticker": "TESLACEOCHANGE-26",
+  "mutually_exclusive": false,
+  "series_ticker": "KXTESLACEOCHANGE",
+  "strike_period": "",
+  "sub_title": "Before 2027",
+  "title": "Elon Musk out as Tesla CEO before 2027?"
+}

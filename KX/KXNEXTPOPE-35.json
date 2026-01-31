@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "World",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNEXTPOPE-35",
+  "mutually_exclusive": true,
+  "series_ticker": "KXNEXTPOPE",
+  "strike_period": "",
+  "sub_title": "Before 2035",
+  "title": "Who will the next Pope be?"
+}

@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNFLPREPACK1HFT-26FEB08SEANE",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Pro Football",
+    "competition_scope": "1H and FT"
+  },
+  "series_ticker": "KXNFLPREPACK1HFT",
+  "strike_period": "",
+  "sub_title": "Seattle vs New England",
+  "title": "1H / FT Combo"
+}

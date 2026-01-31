@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXBRASILEIRO-26",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Brasileiro Serie A",
+    "competition_scope": "Future"
+  },
+  "series_ticker": "KXBRASILEIRO",
+  "strike_period": "",
+  "sub_title": "2026 Season",
+  "title": "Brasileiro Serie A Champion"
+}

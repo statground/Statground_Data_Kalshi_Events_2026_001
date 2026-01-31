@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXEMERCUTS-26",
+  "mutually_exclusive": true,
+  "series_ticker": "KXEMERCUTS",
+  "strike_period": "",
+  "sub_title": "In 2026",
+  "title": "Number of emergency rate cuts in 2026?"
+}

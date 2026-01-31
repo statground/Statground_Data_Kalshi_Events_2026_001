@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNHLROSS-26",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "NHL",
+    "competition_scope": "Awards"
+  },
+  "series_ticker": "KXNHLROSS",
+  "strike_period": "",
+  "sub_title": "2025-26 NHL season",
+  "title": "NHL Art Ross Trophy"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXHMONTHRANGE-26FEB",
+  "mutually_exclusive": true,
+  "series_ticker": "KXHMONTHRANGE",
+  "strike_period": "",
+  "sub_title": "In Feb 2026",
+  "title": "Feb 2026 temperature increase?"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Economics",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXPAYROLLS-26JAN",
+  "mutually_exclusive": false,
+  "series_ticker": "KXPAYROLLS",
+  "strike_period": "January 2026",
+  "sub_title": "In Jan 2026",
+  "title": "Jobs numbers in Jan 2026?"
+}

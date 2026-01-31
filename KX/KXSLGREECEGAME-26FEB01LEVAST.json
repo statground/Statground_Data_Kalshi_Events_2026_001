@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXSLGREECEGAME-26FEB01LEVAST",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Greece Super League",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXSLGREECEGAME",
+  "strike_period": "",
+  "sub_title": "LEV vs AST (Feb 1)",
+  "title": "Levadiakos vs Asteras Tripolis"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Elections",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNEWZEALANDPARLI-26DEC31",
+  "mutually_exclusive": true,
+  "series_ticker": "KXNEWZEALANDPARLI",
+  "strike_period": "",
+  "sub_title": "in 2026",
+  "title": "Which party will win the 2026 New Zealand general election?"
+}

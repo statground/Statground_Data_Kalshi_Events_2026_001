@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXUFCDISTANCE-26JAN31SALMUL",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "UFC",
+    "competition_scope": "Go the Distance"
+  },
+  "series_ticker": "KXUFCDISTANCE",
+  "strike_period": "",
+  "sub_title": "Quillan Salkilld vs Jamie Mullarkey (Jan 31)",
+  "title": "Quillan Salkilld vs. Jamie Mullarkey: Go the Distance"
+}

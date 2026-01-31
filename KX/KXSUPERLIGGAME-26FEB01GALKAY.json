@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXSUPERLIGGAME-26FEB01GALKAY",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Super Lig",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXSUPERLIGGAME",
+  "strike_period": "",
+  "sub_title": "GAL vs KAY (Feb 1)",
+  "title": "Galatasaray vs Kayserispor"
+}

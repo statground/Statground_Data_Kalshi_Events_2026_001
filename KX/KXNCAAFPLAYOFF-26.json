@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNCAAFPLAYOFF-26",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "College Football",
+    "competition_scope": "Future"
+  },
+  "series_ticker": "KXNCAAFPLAYOFF",
+  "strike_period": "",
+  "sub_title": "2026-27",
+  "title": "College Football Playoff Qualifiers"
+}

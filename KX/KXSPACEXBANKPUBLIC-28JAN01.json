@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Companies",
+  "collateral_return_type": "",
+  "event_ticker": "KXSPACEXBANKPUBLIC-28JAN01",
+  "mutually_exclusive": false,
+  "series_ticker": "KXSPACEXBANKPUBLIC",
+  "strike_period": "",
+  "sub_title": "Before Jan 1, 2028",
+  "title": "Which bank will take SpaceX public?"
+}

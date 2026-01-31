@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Economics",
+  "collateral_return_type": "",
+  "event_ticker": "KXIPOOPENAI",
+  "mutually_exclusive": false,
+  "series_ticker": "KXIPOOPENAI",
+  "strike_period": "",
+  "sub_title": "OpenAI",
+  "title": "When will OpenAI officially announce an IPO?"
+}

@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXOSCARDSFILM-26",
+  "mutually_exclusive": true,
+  "series_ticker": "KXOSCARDSFILM",
+  "strike_date": "2026-12-31T15:00:00Z",
+  "strike_period": "",
+  "sub_title": "In 2026",
+  "title": "2026 Oscar for best Documentary Short Film?"
+}

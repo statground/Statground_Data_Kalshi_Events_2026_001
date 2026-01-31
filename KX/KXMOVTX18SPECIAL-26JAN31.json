@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Elections",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXMOVTX18SPECIAL-26JAN31",
+  "mutually_exclusive": true,
+  "series_ticker": "KXMOVTX18SPECIAL",
+  "strike_period": "",
+  "sub_title": "On Jan 31, 2026",
+  "title": "Margin of victory in the TX-18 special election?"
+}

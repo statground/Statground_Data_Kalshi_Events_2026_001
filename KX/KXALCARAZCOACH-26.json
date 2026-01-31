@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXALCARAZCOACH-26",
+  "mutually_exclusive": true,
+  "series_ticker": "KXALCARAZCOACH",
+  "strike_period": "",
+  "sub_title": "Before Dec 31, 2026",
+  "title": "Carlos Alcaraz's Next Coach?"
+}

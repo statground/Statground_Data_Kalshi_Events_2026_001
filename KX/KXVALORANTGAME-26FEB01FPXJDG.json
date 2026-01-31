@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXVALORANTGAME-26FEB01FPXJDG",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Valorant",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXVALORANTGAME",
+  "strike_period": "",
+  "sub_title": "FunPlus Phoenix vs. JD Gaming (Feb 1)",
+  "title": "VCT China Kickoff 2026: FunPlus Phoenix vs. JD Gaming"
+}

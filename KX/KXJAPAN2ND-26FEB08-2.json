@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Elections",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXJAPAN2ND-26FEB08-2",
+  "mutually_exclusive": true,
+  "series_ticker": "KXJAPAN2ND",
+  "strike_period": "",
+  "sub_title": "On Feb 8, 2026",
+  "title": "Who will place 2nd in the Japan snap election?"
+}

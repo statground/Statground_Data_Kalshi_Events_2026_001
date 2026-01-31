@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNEXTSTATE-29",
+  "mutually_exclusive": true,
+  "series_ticker": "KXNEXTSTATE",
+  "strike_period": "",
+  "sub_title": "Next Secretary of State",
+  "title": "Who will be Trump's next Secretary of State?"
+}

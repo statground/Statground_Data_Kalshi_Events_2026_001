@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Elections",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXLOSEREELECTIONDSEN-2026",
+  "mutually_exclusive": true,
+  "series_ticker": "KXLOSEREELECTIONDSEN",
+  "strike_period": "",
+  "sub_title": "2026 elections",
+  "title": "How many Democratic Senators will lose reelection in 2026?"
+}

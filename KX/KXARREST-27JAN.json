@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Politics",
+  "collateral_return_type": "",
+  "event_ticker": "KXARREST-27JAN",
+  "mutually_exclusive": false,
+  "series_ticker": "KXARREST",
+  "strike_period": "",
+  "sub_title": "Before Jan 2027",
+  "title": "Who will be arrested before 2027?"
+}

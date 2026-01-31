@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXGRAMBCP-68",
+  "mutually_exclusive": true,
+  "series_ticker": "KXGRAMBCP",
+  "strike_period": "",
+  "sub_title": "In 2026",
+  "title": "Grammy Award for Best Choral Performance?"
+}

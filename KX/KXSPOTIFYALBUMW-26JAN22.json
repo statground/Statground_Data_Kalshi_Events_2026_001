@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXSPOTIFYALBUMW-26JAN22",
+  "mutually_exclusive": true,
+  "series_ticker": "KXSPOTIFYALBUMW",
+  "strike_period": "",
+  "sub_title": "On Jan 22, 2026 Chart",
+  "title": "Top Album on Weekly Top Albums USA on Jan 22, 2026?"
+}

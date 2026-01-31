@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXECONSTATU3-26FEB",
+  "mutually_exclusive": true,
+  "series_ticker": "KXECONSTATU3",
+  "strike_period": "",
+  "sub_title": "In Feb 2026",
+  "title": "Unemployment rate in Feb 2026?"
+}

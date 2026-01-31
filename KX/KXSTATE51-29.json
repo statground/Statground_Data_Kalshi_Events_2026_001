@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXSTATE51-29",
+  "mutually_exclusive": true,
+  "series_ticker": "KXSTATE51",
+  "strike_period": "",
+  "sub_title": "During Trump's term",
+  "title": "What will be the 51st state in Trump's term?"
+}

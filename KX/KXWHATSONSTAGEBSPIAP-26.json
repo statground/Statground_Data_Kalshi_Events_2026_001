@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXWHATSONSTAGEBSPIAP-26",
+  "mutually_exclusive": true,
+  "series_ticker": "KXWHATSONSTAGEBSPIAP",
+  "strike_period": "",
+  "sub_title": "In 2026",
+  "title": "Who will win the Best Supporting Performer in a Play at the WhatsOnStage Awards?"
+}

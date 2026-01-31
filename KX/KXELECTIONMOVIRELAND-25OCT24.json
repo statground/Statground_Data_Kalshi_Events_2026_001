@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Elections",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXELECTIONMOVIRELAND-25OCT24",
+  "mutually_exclusive": true,
+  "series_ticker": "KXELECTIONMOVIRELAND",
+  "strike_period": "",
+  "sub_title": "On Oct 24, 2025",
+  "title": "Catherine Connolly margin of victory in Ireland Presidential election?"
+}

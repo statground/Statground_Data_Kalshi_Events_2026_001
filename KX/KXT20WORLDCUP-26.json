@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXT20WORLDCUP-26",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Men's T20 World Cup",
+    "competition_scope": "Future"
+  },
+  "series_ticker": "KXT20WORLDCUP",
+  "strike_period": "",
+  "sub_title": "2026 Season",
+  "title": "2026 ICC Men's T20 World Cup Winner"
+}

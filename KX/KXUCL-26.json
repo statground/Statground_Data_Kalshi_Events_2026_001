@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXUCL-26",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Champions League",
+    "competition_scope": "Future"
+  },
+  "series_ticker": "KXUCL",
+  "strike_period": "",
+  "sub_title": "On May 30, 2026",
+  "title": "Champions League Winner"
+}

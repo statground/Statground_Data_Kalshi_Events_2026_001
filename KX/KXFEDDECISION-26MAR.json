@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": true,
+  "category": "Economics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXFEDDECISION-26MAR",
+  "mutually_exclusive": true,
+  "series_ticker": "KXFEDDECISION",
+  "strike_date": "2026-03-18T18:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Mar 18, 2026",
+  "title": "Fed decision in Mar 2026?"
+}
