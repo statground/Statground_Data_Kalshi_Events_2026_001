@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXWTAMATCH-25JUN28JOIEAL",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "WTA Eastbourne",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXWTAMATCH",
+  "strike_period": "",
+  "sub_title": "Joint vs Eala",
+  "title": "WTA Eastbourne: Joint or Eala wins?"
+}

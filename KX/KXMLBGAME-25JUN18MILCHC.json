@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXMLBGAME-25JUN18MILCHC",
+  "mutually_exclusive": true,
+  "series_ticker": "KXMLBGAME",
+  "strike_period": "",
+  "sub_title": "MIL at CHC (Aug 18, Game 1)",
+  "title": "Milwaukee at Chicago C (Game 1)"
+}

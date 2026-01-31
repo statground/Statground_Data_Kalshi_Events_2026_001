@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXMLSGAME-25JUN28HOUSTL",
+  "mutually_exclusive": true,
+  "series_ticker": "KXMLSGAME",
+  "strike_period": "",
+  "sub_title": "HOU vs STL (Jun 28)",
+  "title": "Houston vs Saint Louis"
+}

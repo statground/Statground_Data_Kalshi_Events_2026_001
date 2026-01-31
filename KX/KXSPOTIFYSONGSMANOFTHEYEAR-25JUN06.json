@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXSPOTIFYSONGSMANOFTHEYEAR-25JUN06",
+  "mutually_exclusive": false,
+  "series_ticker": "KXSPOTIFYSONGSMANOFTHEYEAR",
+  "strike_period": "",
+  "sub_title": "On Jun 6, 2025 at 10:00 AM ET",
+  "title": "Total Spotify streams for 'Man Of The Year' by Jun 6, 2025?"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXFOMEN-25ZVECOB",
+  "mutually_exclusive": true,
+  "series_ticker": "KXFOMEN",
+  "strike_period": "",
+  "sub_title": "Zverev vs Cobolli",
+  "title": "French Open Men Singles: Zverev or Cobolli advances?"
+}

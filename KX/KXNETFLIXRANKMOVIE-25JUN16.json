@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNETFLIXRANKMOVIE-25JUN16",
+  "mutually_exclusive": true,
+  "series_ticker": "KXNETFLIXRANKMOVIE",
+  "strike_period": "",
+  "sub_title": "The chart published on Jun 17, 2025",
+  "title": "Top US Netflix movie this week?"
+}

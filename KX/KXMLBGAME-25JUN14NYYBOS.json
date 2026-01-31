@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXMLBGAME-25JUN14NYYBOS",
+  "mutually_exclusive": true,
+  "series_ticker": "KXMLBGAME",
+  "strike_period": "",
+  "sub_title": "NYY at BOS (Jun 14)",
+  "title": "New York Y vs Boston"
+}

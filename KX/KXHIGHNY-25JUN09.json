@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXHIGHNY-25JUN09",
+  "mutually_exclusive": true,
+  "series_ticker": "KXHIGHNY",
+  "strike_date": "2025-06-10T03:59:00Z",
+  "strike_period": "",
+  "sub_title": "On Jun 9, 2025",
+  "title": "Highest temperature in NYC on Jun 9, 2025?"
+}

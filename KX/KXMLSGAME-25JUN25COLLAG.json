@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXMLSGAME-25JUN25COLLAG",
+  "mutually_exclusive": true,
+  "series_ticker": "KXMLSGAME",
+  "strike_period": "",
+  "sub_title": "COL vs LAG (Jun 25)",
+  "title": "Colorado vs LA Galaxy"
+}

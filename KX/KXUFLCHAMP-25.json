@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXUFLCHAMP-25",
+  "mutually_exclusive": true,
+  "series_ticker": "KXUFLCHAMP",
+  "strike_period": "",
+  "sub_title": "2025 UFL Championship",
+  "title": "UFL Championship Winner?"
+}

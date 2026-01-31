@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "",
+  "event_ticker": "KXERUPTETNA-0",
+  "mutually_exclusive": false,
+  "series_ticker": "KXERUPTETNA",
+  "strike_period": "",
+  "sub_title": "Mt. Etna",
+  "title": "When will Mt. Etna next erupt?"
+}

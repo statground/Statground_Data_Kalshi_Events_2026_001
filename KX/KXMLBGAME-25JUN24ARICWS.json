@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXMLBGAME-25JUN24ARICWS",
+  "mutually_exclusive": true,
+  "series_ticker": "KXMLBGAME",
+  "strike_period": "",
+  "sub_title": "ARI at CWS (Jun 24)",
+  "title": "Arizona vs Chicago WS"
+}

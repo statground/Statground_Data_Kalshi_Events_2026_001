@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXAPRPOTUS-25JUN13",
+  "mutually_exclusive": true,
+  "series_ticker": "KXAPRPOTUS",
+  "strike_date": "2025-06-13T15:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Jun 13, 2025",
+  "title": "The President's RCP approval rating on Jun 13, 2025?"
+}

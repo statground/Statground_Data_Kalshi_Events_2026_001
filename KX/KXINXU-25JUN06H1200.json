@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXINXU-25JUN06H1200",
+  "mutually_exclusive": false,
+  "series_ticker": "KXINXU",
+  "strike_date": "2025-06-06T16:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Jun 6, 2025 at 12pm EDT",
+  "title": "S&P price on Jun 6, 2025 at 12pm EDT?"
+}

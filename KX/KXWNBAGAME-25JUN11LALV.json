@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXWNBAGAME-25JUN11LALV",
+  "mutually_exclusive": true,
+  "series_ticker": "KXWNBAGAME",
+  "strike_period": "",
+  "sub_title": "LA at LV (Jun 11)",
+  "title": "Los Angeles vs Las Vegas"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXMLBGAME-25JUN11SEAAZ",
+  "mutually_exclusive": true,
+  "series_ticker": "KXMLBGAME",
+  "strike_period": "",
+  "sub_title": "SEA at AZ (Jun 11)",
+  "title": "Seattle vs Arizona"
+}

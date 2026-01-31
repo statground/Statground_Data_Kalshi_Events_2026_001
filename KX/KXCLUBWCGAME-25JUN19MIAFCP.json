@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCLUBWCGAME-25JUN19MIAFCP",
+  "mutually_exclusive": true,
+  "series_ticker": "KXCLUBWCGAME",
+  "strike_period": "",
+  "sub_title": "MIA vs FCP (Jun 19)",
+  "title": "Inter Miami CF vs FC Porto"
+}

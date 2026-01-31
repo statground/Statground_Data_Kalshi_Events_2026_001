@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXNASDAQ100U-25JUN11H1300",
+  "mutually_exclusive": false,
+  "series_ticker": "KXNASDAQ100U",
+  "strike_date": "2025-06-11T17:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Jun 11, 2025 at 1pm EDT",
+  "title": "Nasdaq price on Jun 11, 2025 at 1pm EDT?"
+}

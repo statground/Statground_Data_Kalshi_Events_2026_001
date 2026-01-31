@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCLUBWCGAME-25JUN17ULSMAM",
+  "mutually_exclusive": true,
+  "series_ticker": "KXCLUBWCGAME",
+  "strike_period": "",
+  "sub_title": "ULS vs MAM (Jun 17)",
+  "title": "Ulsan HD FC vs Mamelodi Sundowns"
+}

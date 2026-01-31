@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNHLEAST-25",
+  "mutually_exclusive": true,
+  "series_ticker": "KXNHLEAST",
+  "strike_period": "",
+  "sub_title": "2025 Eastern Conference",
+  "title": "Eastern Conference Finals Winner?"
+}

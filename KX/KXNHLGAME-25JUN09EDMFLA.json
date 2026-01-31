@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNHLGAME-25JUN09EDMFLA",
+  "mutually_exclusive": true,
+  "series_ticker": "KXNHLGAME",
+  "strike_period": "",
+  "sub_title": "EDM at FLA (Jun 9)",
+  "title": "Edmonton vs Florida: Game 3 Winner?"
+}

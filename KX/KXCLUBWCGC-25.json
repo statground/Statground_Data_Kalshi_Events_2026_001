@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCLUBWCGC-25",
+  "mutually_exclusive": true,
+  "series_ticker": "KXCLUBWCGC",
+  "strike_period": "",
+  "sub_title": "On 2025",
+  "title": "Club World Cup Group C winner?"
+}

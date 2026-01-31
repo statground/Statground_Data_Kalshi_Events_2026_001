@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXUSDJPY-25JUN1610",
+  "mutually_exclusive": true,
+  "series_ticker": "KXUSDJPY",
+  "strike_date": "2025-06-16T14:00:00Z",
+  "strike_period": "",
+  "sub_title": "Jun 16, 2025 at 10am EDT",
+  "title": "USD/JPY price on Jun 16, 2025 at 10am EDT?"
+}

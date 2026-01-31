@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXTORNADO-25MAY",
+  "mutually_exclusive": false,
+  "series_ticker": "KXTORNADO",
+  "strike_period": "",
+  "sub_title": "In May 2025",
+  "title": "Number of tornadoes in May 2025?"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCLUBWCGAME-25JUN18RMAHIL",
+  "mutually_exclusive": true,
+  "series_ticker": "KXCLUBWCGAME",
+  "strike_period": "",
+  "sub_title": "RMA vs HIL (Jun 18)",
+  "title": "Real Madrid vs Al Hilal SFC"
+}

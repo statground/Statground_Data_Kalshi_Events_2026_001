@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXMLBGAME-25JUN08TEXWSH",
+  "mutually_exclusive": true,
+  "series_ticker": "KXMLBGAME",
+  "strike_period": "",
+  "sub_title": "TEX at WSH (Jun 8)",
+  "title": "Texas vs Washington"
+}

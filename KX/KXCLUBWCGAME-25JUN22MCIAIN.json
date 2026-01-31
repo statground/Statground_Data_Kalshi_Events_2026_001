@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCLUBWCGAME-25JUN22MCIAIN",
+  "mutually_exclusive": true,
+  "series_ticker": "KXCLUBWCGAME",
+  "strike_period": "",
+  "sub_title": "MCI vs AIN (Jun 22)",
+  "title": "Man City vs Al Ain"
+}

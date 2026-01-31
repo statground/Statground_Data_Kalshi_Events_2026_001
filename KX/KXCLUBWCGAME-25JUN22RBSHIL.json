@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCLUBWCGAME-25JUN22RBSHIL",
+  "mutually_exclusive": true,
+  "series_ticker": "KXCLUBWCGAME",
+  "strike_period": "",
+  "sub_title": "RBS vs HIL (Jun 22)",
+  "title": "Salzburg vs Al Hilal"
+}

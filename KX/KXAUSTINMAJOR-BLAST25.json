@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXAUSTINMAJOR-BLAST25",
+  "mutually_exclusive": true,
+  "series_ticker": "KXAUSTINMAJOR",
+  "strike_period": "",
+  "sub_title": "2025 BLAST.tv Austin Major 2025 finals",
+  "title": "BLAST.tv Austin Major 2025 Finals Winner?"
+}

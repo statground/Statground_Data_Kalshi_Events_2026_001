@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNORWAYCHESS-25",
+  "mutually_exclusive": true,
+  "series_ticker": "KXNORWAYCHESS",
+  "strike_period": "",
+  "sub_title": "On Jun 6, 2025",
+  "title": "2025 Norway Chess Tournament winner?"
+}

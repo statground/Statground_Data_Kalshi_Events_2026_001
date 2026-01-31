@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXHIGHCHI-25JUN25",
+  "mutually_exclusive": true,
+  "series_ticker": "KXHIGHCHI",
+  "strike_date": "2025-06-26T03:59:00Z",
+  "strike_period": "",
+  "sub_title": "On Jun 25, 2025",
+  "title": "Highest temperature in Chicago on Jun 25, 2025?"
+}

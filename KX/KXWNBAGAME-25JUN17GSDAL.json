@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXWNBAGAME-25JUN17GSDAL",
+  "mutually_exclusive": true,
+  "series_ticker": "KXWNBAGAME",
+  "strike_period": "",
+  "sub_title": "GS at DAL (Jun 17)",
+  "title": "Golden State vs Dallas"
+}

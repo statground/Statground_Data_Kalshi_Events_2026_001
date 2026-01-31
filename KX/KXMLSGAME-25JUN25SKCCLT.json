@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXMLSGAME-25JUN25SKCCLT",
+  "mutually_exclusive": true,
+  "series_ticker": "KXMLSGAME",
+  "strike_period": "",
+  "sub_title": "SKC vs CLT (Jun 25)",
+  "title": "Kansas City vs Charlotte"
+}

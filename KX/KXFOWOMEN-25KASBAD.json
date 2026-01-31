@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXFOWOMEN-25KASBAD",
+  "mutually_exclusive": true,
+  "series_ticker": "KXFOWOMEN",
+  "strike_period": "",
+  "sub_title": "Kasatkina vs Badosa",
+  "title": "French Open Women Singles: Kasatkina or Badosa advances?"
+}

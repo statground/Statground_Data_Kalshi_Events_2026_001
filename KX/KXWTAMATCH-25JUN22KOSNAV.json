@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXWTAMATCH-25JUN22KOSNAV",
+  "mutually_exclusive": true,
+  "series_ticker": "KXWTAMATCH",
+  "strike_period": "",
+  "sub_title": "Kostyuk vs Navarro",
+  "title": "WTA Bad Homburg: Kostyuk or Navarro advances?"
+}

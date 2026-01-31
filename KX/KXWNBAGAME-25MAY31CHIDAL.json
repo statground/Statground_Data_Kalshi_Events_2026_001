@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXWNBAGAME-25MAY31CHIDAL",
+  "mutually_exclusive": true,
+  "series_ticker": "KXWNBAGAME",
+  "strike_period": "",
+  "sub_title": "CHI at DAL (May 31)",
+  "title": "Chicago vs Dallas"
+}

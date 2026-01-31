@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXPOLANDMOV-25",
+  "mutually_exclusive": true,
+  "series_ticker": "KXPOLANDMOV",
+  "strike_period": "",
+  "sub_title": "In 2025",
+  "title": "Margin of victory in Polish presidential election?"
+}

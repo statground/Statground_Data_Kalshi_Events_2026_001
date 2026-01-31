@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXSPOTIFYSONGSOUTSIDE-25JUN27",
+  "mutually_exclusive": false,
+  "series_ticker": "KXSPOTIFYSONGSOUTSIDE",
+  "strike_period": "",
+  "sub_title": "On Jun 27, 2025 at 10:00 AM ET",
+  "title": "Total Spotify streams for Cardi B's 'Outside' by Jun 27, 2025?"
+}

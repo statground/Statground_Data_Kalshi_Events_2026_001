@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXSPOTIFYARTISTD-25JUN15",
+  "mutually_exclusive": true,
+  "series_ticker": "KXSPOTIFYARTISTD",
+  "strike_period": "",
+  "sub_title": "On Jun 15, 2025 Chart",
+  "title": "Top USA Artist on Spotify on Jun 15, 2025?"
+}

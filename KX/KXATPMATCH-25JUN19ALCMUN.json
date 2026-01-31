@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXATPMATCH-25JUN19ALCMUN",
+  "mutually_exclusive": true,
+  "series_ticker": "KXATPMATCH",
+  "strike_period": "",
+  "sub_title": "Alcaraz vs Munar",
+  "title": "ATP London: Alcaraz or Munar advances?"
+}

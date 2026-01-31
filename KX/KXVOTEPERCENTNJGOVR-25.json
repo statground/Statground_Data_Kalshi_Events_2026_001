@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Elections",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXVOTEPERCENTNJGOVR-25",
+  "mutually_exclusive": true,
+  "series_ticker": "KXVOTEPERCENTNJGOVR",
+  "strike_period": "",
+  "sub_title": "In 2025",
+  "title": "What percent of the vote will Jack Ciattarelli get in New Jersey Republican primary for Governor?"
+}

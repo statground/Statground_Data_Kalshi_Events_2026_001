@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXMLSGAME-25MAY31NYRBATL",
+  "mutually_exclusive": true,
+  "series_ticker": "KXMLSGAME",
+  "strike_period": "",
+  "sub_title": "NYRB vs ATL (May 31)",
+  "title": "New York RB vs Atlanta: Game Winner?"
+}

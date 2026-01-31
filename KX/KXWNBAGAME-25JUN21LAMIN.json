@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXWNBAGAME-25JUN21LAMIN",
+  "mutually_exclusive": true,
+  "series_ticker": "KXWNBAGAME",
+  "strike_period": "",
+  "sub_title": "LA at MIN (Jun 21)",
+  "title": "Los Angeles vs Minnesota"
+}

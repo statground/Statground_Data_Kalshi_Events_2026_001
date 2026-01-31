@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXATPMATCH-25JUN27GRIAUG",
+  "mutually_exclusive": true,
+  "series_ticker": "KXATPMATCH",
+  "strike_period": "",
+  "sub_title": "Griekspoor vs Auger-Aliassime",
+  "title": "ATP Mallorca: Griekspoor or Auger-Aliassime advances?"
+}

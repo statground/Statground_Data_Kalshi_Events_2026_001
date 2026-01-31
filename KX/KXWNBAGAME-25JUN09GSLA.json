@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXWNBAGAME-25JUN09GSLA",
+  "mutually_exclusive": true,
+  "series_ticker": "KXWNBAGAME",
+  "strike_period": "",
+  "sub_title": "GS at LA (Jun 9)",
+  "title": "Golden State vs Los Angeles"
+}

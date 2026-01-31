@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXMLSGAME-25JUN13PORSJ",
+  "mutually_exclusive": true,
+  "series_ticker": "KXMLSGAME",
+  "strike_period": "",
+  "sub_title": "POR vs SJ (Jun 13)",
+  "title": "Portland Timbers vs San Jose Earthquakes: Game Winner?"
+}

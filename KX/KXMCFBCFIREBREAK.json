@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXMCFBCFIREBREAK",
+  "mutually_exclusive": false,
+  "series_ticker": "KXMCFBCFIREBREAK",
+  "strike_period": "",
+  "sub_title": "FBC: Firebreak",
+  "title": "\"FBC: Firebreak\" Metacritic score?"
+}

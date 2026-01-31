@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXHICP-25JUN",
+  "mutually_exclusive": false,
+  "series_ticker": "KXHICP",
+  "strike_period": "",
+  "sub_title": "In Jun 2025",
+  "title": "Euro Area Inflation in June 2025? (HICP YoY)"
+}

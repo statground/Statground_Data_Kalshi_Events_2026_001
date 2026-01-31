@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNHLGAME-25JUN14FLAEDM",
+  "mutually_exclusive": true,
+  "series_ticker": "KXNHLGAME",
+  "strike_period": "",
+  "sub_title": "FLA at EDM (Jun 14)",
+  "title": "Florida vs Edmonton: Game 5 Winner?"
+}

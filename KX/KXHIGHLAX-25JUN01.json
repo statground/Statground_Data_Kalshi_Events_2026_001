@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXHIGHLAX-25JUN01",
+  "mutually_exclusive": true,
+  "series_ticker": "KXHIGHLAX",
+  "strike_period": "",
+  "sub_title": "On Jun 1, 2025",
+  "title": "Highest temperature in LA on Jun 1, 2025?"
+}

@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXEURUSDH-25JUN2509",
+  "mutually_exclusive": false,
+  "series_ticker": "KXEURUSDH",
+  "strike_date": "2025-06-25T13:00:00Z",
+  "strike_period": "",
+  "sub_title": "Jun 25, 2025 at 9am EDT",
+  "title": "EUR/USD price on Jun 25, 2025 at 9am EDT?"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXVALORANTMASTERSFINALS-VAL25",
+  "mutually_exclusive": true,
+  "series_ticker": "KXVALORANTMASTERSFINALS",
+  "strike_period": "",
+  "sub_title": "2025 VALORANT Masters Toronto Final",
+  "title": "VALORANT Masters Toronto Final Winner?"
+}

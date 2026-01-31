@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXFOMENSINGLES-25",
+  "mutually_exclusive": true,
+  "series_ticker": "KXFOMENSINGLES",
+  "strike_period": "",
+  "sub_title": "On Jun 8, 2025",
+  "title": "French Open Men's Tennis Winner?"
+}

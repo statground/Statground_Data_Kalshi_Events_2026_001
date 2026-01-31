@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Crypto",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXETH-25JUN2521",
+  "mutually_exclusive": true,
+  "series_ticker": "KXETH",
+  "strike_date": "2025-06-26T01:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Jun 25, 2025 at 9pm EDT",
+  "title": "Ethereum price range on Jun 25, 2025 at 9pm EDT?"
+}

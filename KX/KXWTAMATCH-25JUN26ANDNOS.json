@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXWTAMATCH-25JUN26ANDNOS",
+  "mutually_exclusive": true,
+  "series_ticker": "KXWTAMATCH",
+  "strike_period": "",
+  "sub_title": "Andreeva vs Noskova",
+  "title": "WTA Bad Homburg: Andreeva or Noskova advances?"
+}

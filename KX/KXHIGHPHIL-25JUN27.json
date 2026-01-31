@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXHIGHPHIL-25JUN27",
+  "mutually_exclusive": true,
+  "series_ticker": "KXHIGHPHIL",
+  "strike_period": "",
+  "sub_title": "On Jun 27, 2025",
+  "title": "Highest temperature in Philadelphia on Jun 27, 2025?"
+}

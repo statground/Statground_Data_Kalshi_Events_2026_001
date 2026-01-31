@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXSPOTIFYCANADAD-25JUN14",
+  "mutually_exclusive": true,
+  "series_ticker": "KXSPOTIFYCANADAD",
+  "strike_period": "",
+  "sub_title": "On Jun 14, 2025 Chart",
+  "title": "Top Song on Daily Top Songs Canada on Jun 14, 2025?"
+}

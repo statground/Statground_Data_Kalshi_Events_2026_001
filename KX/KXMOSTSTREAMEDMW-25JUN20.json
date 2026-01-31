@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXMOSTSTREAMEDMW-25JUN20",
+  "mutually_exclusive": true,
+  "series_ticker": "KXMOSTSTREAMEDMW",
+  "strike_period": "",
+  "sub_title": "by Jun 20, 2025",
+  "title": "Most streamed song on I'm The Problem by Jun 20th?"
+}

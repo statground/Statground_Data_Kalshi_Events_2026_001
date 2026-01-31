@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCR-25JUL01",
+  "mutually_exclusive": true,
+  "series_ticker": "KXCR",
+  "strike_period": "",
+  "sub_title": "Before Jul 1, 2025",
+  "title": "How many votes will the next funding bill in the House receive?"
+}

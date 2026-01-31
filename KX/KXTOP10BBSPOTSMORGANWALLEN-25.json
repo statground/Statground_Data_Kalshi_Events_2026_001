@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXTOP10BBSPOTSMORGANWALLEN-25",
+  "mutually_exclusive": true,
+  "series_ticker": "KXTOP10BBSPOTSMORGANWALLEN",
+  "strike_period": "",
+  "sub_title": "Before May 31, 2025",
+  "title": "Number of Top 10 Spots Morgan Wallen Has on Billboard's Hot 100 May 31 Chart?"
+}

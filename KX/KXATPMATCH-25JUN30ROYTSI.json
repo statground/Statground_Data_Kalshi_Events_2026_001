@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXATPMATCH-25JUN30ROYTSI",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Wimbledon Men Singles",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXATPMATCH",
+  "strike_period": "",
+  "sub_title": "Royer vs Tsitsipas",
+  "title": "Wimbledon Men Singles: Royer or Tsitsipas advances?"
+}

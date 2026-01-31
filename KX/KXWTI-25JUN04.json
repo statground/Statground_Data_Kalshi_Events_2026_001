@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXWTI-25JUN04",
+  "mutually_exclusive": true,
+  "series_ticker": "KXWTI",
+  "strike_date": "2025-06-04T18:30:00Z",
+  "strike_period": "",
+  "sub_title": "On Jun 4, 2025",
+  "title": "WTI oil price on Jun 4, 2025?"
+}

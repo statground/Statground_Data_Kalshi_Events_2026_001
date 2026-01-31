@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "",
+  "event_ticker": "KXFOREIGNTARIFF-25JUL01",
+  "mutually_exclusive": false,
+  "series_ticker": "KXFOREIGNTARIFF",
+  "strike_period": "",
+  "sub_title": "Before Jul 2025",
+  "title": "Which countries will impose tariffs on the US before Q3 2025?"
+}

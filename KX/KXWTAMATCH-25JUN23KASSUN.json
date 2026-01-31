@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXWTAMATCH-25JUN23KASSUN",
+  "mutually_exclusive": true,
+  "series_ticker": "KXWTAMATCH",
+  "strike_period": "",
+  "sub_title": "Kasatkina vs Sun",
+  "title": "WTA Eastbourne: Kasatkina or Sun advances?"
+}

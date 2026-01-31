@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXMLSGAME-25JUN14STLLAG",
+  "mutually_exclusive": true,
+  "series_ticker": "KXMLSGAME",
+  "strike_period": "",
+  "sub_title": "STL vs LAG (Jun 14)",
+  "title": "Saint Louis City SC vs Los Angeles Galaxy: Game Winner?"
+}

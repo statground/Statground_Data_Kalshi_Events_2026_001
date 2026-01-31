@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXTOPMONTHLY-25JUN",
+  "mutually_exclusive": true,
+  "series_ticker": "KXTOPMONTHLY",
+  "strike_period": "",
+  "sub_title": "On Jun 30, 2025",
+  "title": "Artist with the most monthly Spotify listeners at the end of Jun 2025?"
+}

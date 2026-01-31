@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXFANATICSGAMESSECONDPLACE-FAN25",
+  "mutually_exclusive": true,
+  "series_ticker": "KXFANATICSGAMESSECONDPLACE",
+  "strike_period": "",
+  "sub_title": "2025 Fanatics Games 2nd place",
+  "title": "Fanatics Games 2nd Place Winner?"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCLUBWCGAME-25JUN16FLAEST",
+  "mutually_exclusive": true,
+  "series_ticker": "KXCLUBWCGAME",
+  "strike_period": "",
+  "sub_title": "FLA vs EST (Jun 16)",
+  "title": "CR Flamengo RJ vs Esperance Sportive de Tunis: Game Winner?"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXRTF1",
+  "mutually_exclusive": false,
+  "series_ticker": "KXRTF1",
+  "strike_period": "",
+  "sub_title": "Jun 30, 2025",
+  "title": "\"F1\" Rotten Tomatoes score?"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNYCLASTROUNDMARGIN-25",
+  "mutually_exclusive": true,
+  "series_ticker": "KXNYCLASTROUNDMARGIN",
+  "strike_period": "",
+  "sub_title": "In 2025",
+  "title": "Final round margin of victory in the NYC Democratic Mayoral primary?"
+}

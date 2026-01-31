@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNHLFINALSEXACT-25",
+  "mutually_exclusive": true,
+  "series_ticker": "KXNHLFINALSEXACT",
+  "strike_period": "",
+  "sub_title": "On Jun 20, 2025",
+  "title": "Pro Hockey Championship: series score?"
+}

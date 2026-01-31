@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNBAGAME-25JUN05INDOKC",
+  "mutually_exclusive": true,
+  "series_ticker": "KXNBAGAME",
+  "strike_period": "",
+  "sub_title": "IND at OKC (Jun 5)",
+  "title": "Indiana vs Oklahoma City: Game 1 Winner?"
+}

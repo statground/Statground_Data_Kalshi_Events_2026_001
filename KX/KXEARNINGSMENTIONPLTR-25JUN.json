@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Companies",
+  "collateral_return_type": "",
+  "event_ticker": "KXEARNINGSMENTIONPLTR-25JUN",
+  "mutually_exclusive": false,
+  "series_ticker": "KXEARNINGSMENTIONPLTR",
+  "strike_period": "",
+  "sub_title": "Next earnings call",
+  "title": "What will Palantir say on their next earnings call?"
+}

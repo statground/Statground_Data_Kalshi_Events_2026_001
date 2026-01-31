@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Science and Technology",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXTOPMODEL-25JUN",
+  "mutually_exclusive": true,
+  "series_ticker": "KXTOPMODEL",
+  "strike_period": "",
+  "sub_title": "On Jun 30, 2025",
+  "title": "What will be the top AI model in Jun 2025?"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXSPOTIFYSONGSLEAVEMEALONE-25MAY30",
+  "mutually_exclusive": false,
+  "series_ticker": "KXSPOTIFYSONGSLEAVEMEALONE",
+  "strike_period": "",
+  "sub_title": "On May 30, 2025 at 10:00 AM ET",
+  "title": "Total Spotify streams for 'LEAVE ME ALONE' by May 30, 2025?"
+}

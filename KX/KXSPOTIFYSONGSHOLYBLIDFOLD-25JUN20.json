@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXSPOTIFYSONGSHOLYBLIDFOLD-25JUN20",
+  "mutually_exclusive": false,
+  "series_ticker": "KXSPOTIFYSONGSHOLYBLIDFOLD",
+  "strike_period": "",
+  "sub_title": "On Jun 20, 2025 at 10:00 AM ET",
+  "title": "Total Spotify streams for Chris Brown's 'Holy Blindfold' on Jun 20, 2025?"
+}

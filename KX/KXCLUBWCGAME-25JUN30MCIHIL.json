@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCLUBWCGAME-25JUN30MCIHIL",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Club World Cup",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXCLUBWCGAME",
+  "strike_period": "",
+  "sub_title": "MCI vs HIL (Jun 30)",
+  "title": "Man City vs Al Hilal"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXFEAR-25MAY30",
+  "mutually_exclusive": true,
+  "series_ticker": "KXFEAR",
+  "strike_period": "",
+  "sub_title": "On May 30, 2025",
+  "title": "What will the Fear & Greed Index be on May 30, 2025?"
+}

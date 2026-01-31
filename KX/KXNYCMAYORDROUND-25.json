@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Elections",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNYCMAYORDROUND-25",
+  "mutually_exclusive": true,
+  "series_ticker": "KXNYCMAYORDROUND",
+  "strike_period": "",
+  "sub_title": "Before 2025",
+  "title": "How many rounds will the NYC Democratic Mayoral primary be?"
+}

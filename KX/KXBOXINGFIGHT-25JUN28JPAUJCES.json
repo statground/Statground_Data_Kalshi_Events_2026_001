@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXBOXINGFIGHT-25JUN28JPAUJCES",
+  "mutually_exclusive": true,
+  "series_ticker": "KXBOXINGFIGHT",
+  "strike_period": "",
+  "sub_title": "Paul vs JCC Jr",
+  "title": "Jake Paul vs Julio Cesar Chavez Jr"
+}

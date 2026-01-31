@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXSPOTIFYAUSTRALIAD-25MAY22",
+  "mutually_exclusive": true,
+  "series_ticker": "KXSPOTIFYAUSTRALIAD",
+  "strike_period": "",
+  "sub_title": "On May 22, 2025 Chart",
+  "title": "Top Song on Daily Top Songs Australia on May 22, 2025?"
+}

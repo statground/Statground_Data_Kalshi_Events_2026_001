@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXSPOTIFYSONGCITYATLANTAW-25MAY29",
+  "mutually_exclusive": true,
+  "series_ticker": "KXSPOTIFYSONGCITYATLANTAW",
+  "strike_period": "",
+  "sub_title": "On May 29, 2025 Chart",
+  "title": "Top Song on Weekly Top Songs Atlanta on May 29, 2025?"
+}

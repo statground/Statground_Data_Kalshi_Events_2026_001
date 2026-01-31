@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "",
+  "event_ticker": "KXRAINNYC-25JUN22",
+  "mutually_exclusive": false,
+  "series_ticker": "KXRAINNYC",
+  "strike_period": "",
+  "sub_title": "On Jun 22, 2025",
+  "title": "Will it rain in NYC on Jun 22, 2025?"
+}

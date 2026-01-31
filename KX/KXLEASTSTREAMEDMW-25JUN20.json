@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXLEASTSTREAMEDMW-25JUN20",
+  "mutually_exclusive": true,
+  "series_ticker": "KXLEASTSTREAMEDMW",
+  "strike_period": "",
+  "sub_title": "By Jun 20, 2025",
+  "title": "Least streamed song on I'm The Problem by Jun 20th?"
+}

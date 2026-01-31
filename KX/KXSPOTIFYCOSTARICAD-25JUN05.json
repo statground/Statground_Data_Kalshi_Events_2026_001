@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXSPOTIFYCOSTARICAD-25JUN05",
+  "mutually_exclusive": true,
+  "series_ticker": "KXSPOTIFYCOSTARICAD",
+  "strike_period": "",
+  "sub_title": "On Jun 5, 2025 Chart",
+  "title": "Top Song on Daily Top Songs Costa Rica on Jun 5, 2025?"
+}

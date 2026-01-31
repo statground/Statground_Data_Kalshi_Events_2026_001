@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXSPOTIFYUKD-25MAY24",
+  "mutually_exclusive": true,
+  "series_ticker": "KXSPOTIFYUKD",
+  "strike_period": "",
+  "sub_title": "On May 24, 2025 Chart",
+  "title": "Top Song on Daily Top Songs UK on May 24, 2025?"
+}

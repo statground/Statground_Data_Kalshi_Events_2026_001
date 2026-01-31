@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXTORONTOULTRACHAMPIONSHIP-COD25",
+  "mutually_exclusive": true,
+  "series_ticker": "KXTORONTOULTRACHAMPIONSHIP",
+  "strike_period": "",
+  "sub_title": "2025 Call of Duty League Toronto Ultra Championship Weekend 2025",
+  "title": "Call of Duty League Toronto Grand Finals Winner?"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Crypto",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXBTCMAXM-25",
+  "mutually_exclusive": false,
+  "series_ticker": "KXBTCMAXM",
+  "strike_period": "",
+  "sub_title": "In Jun 11, 2025",
+  "title": "How high will Bitcoin get before Jun 11, 2025?"
+}

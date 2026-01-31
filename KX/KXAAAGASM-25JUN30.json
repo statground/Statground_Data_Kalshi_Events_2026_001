@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXAAAGASM-25JUN30",
+  "mutually_exclusive": false,
+  "series_ticker": "KXAAAGASM",
+  "strike_date": "2025-06-30T14:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Jun 30, 2025",
+  "title": "Gas prices in the US in Jun 2025?"
+}

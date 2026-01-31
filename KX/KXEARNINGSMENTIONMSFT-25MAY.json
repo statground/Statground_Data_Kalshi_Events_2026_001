@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Companies",
+  "collateral_return_type": "",
+  "event_ticker": "KXEARNINGSMENTIONMSFT-25MAY",
+  "mutually_exclusive": false,
+  "series_ticker": "KXEARNINGSMENTIONMSFT",
+  "strike_period": "",
+  "sub_title": "Next earnings call",
+  "title": "What will Microsoft say on their next earnings call?"
+}

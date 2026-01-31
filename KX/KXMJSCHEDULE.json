@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Politics",
+  "collateral_return_type": "",
+  "event_ticker": "KXMJSCHEDULE",
+  "mutually_exclusive": false,
+  "series_ticker": "KXMJSCHEDULE",
+  "strike_period": "",
+  "sub_title": "Lowered from Schedule I",
+  "title": "Will marijuana be rescheduled?"
+}

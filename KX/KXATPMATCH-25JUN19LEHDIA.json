@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXATPMATCH-25JUN19LEHDIA",
+  "mutually_exclusive": true,
+  "series_ticker": "KXATPMATCH",
+  "strike_period": "",
+  "sub_title": "Lehecka vs Diallo",
+  "title": "ATP London: Lehecka or Diallo advances?"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXATPMATCH-25JUN26TIEMOU",
+  "mutually_exclusive": true,
+  "series_ticker": "KXATPMATCH",
+  "strike_period": "",
+  "sub_title": "Tien vs Moutet",
+  "title": "ATP Mallorca: Tien or Moutet advances?"
+}
