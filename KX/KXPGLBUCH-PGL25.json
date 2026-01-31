@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXPGLBUCH-PGL25",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Counter-Strike 2",
+    "competition_scope": "Future"
+  },
+  "series_ticker": "KXPGLBUCH",
+  "strike_period": "",
+  "sub_title": "PGL Masters Bucharest 2025 Winner?",
+  "title": "PGL Masters Bucharest 2025 Winner?"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Elections",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCANPPCSEATS-25",
+  "mutually_exclusive": true,
+  "series_ticker": "KXCANPPCSEATS",
+  "strike_period": "",
+  "sub_title": "In 2025",
+  "title": "How many seats will the People's Party of Canada win in the Canadian election?"
+}

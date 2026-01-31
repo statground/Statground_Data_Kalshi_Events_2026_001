@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Elections",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXVOTEPERCENTPVV-25OCT29",
+  "mutually_exclusive": true,
+  "series_ticker": "KXVOTEPERCENTPVV",
+  "strike_period": "",
+  "sub_title": "On Oct 29, 2025",
+  "title": "What % of the vote will PVV win in the Dutch general election?"
+}

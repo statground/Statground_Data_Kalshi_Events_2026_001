@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": true,
+  "category": "Crypto",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXETHD-25NOV0309",
+  "mutually_exclusive": false,
+  "series_ticker": "KXETHD",
+  "strike_date": "2025-11-03T14:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Nov 3, 2025 at 9am EST",
+  "title": "Ethereum price on Nov 3, 2025 at 9am EST?"
+}

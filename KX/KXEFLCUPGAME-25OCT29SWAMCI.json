@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXEFLCUPGAME-25OCT29SWAMCI",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "EFL Cup",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXEFLCUPGAME",
+  "strike_period": "",
+  "sub_title": "SWA vs MCI (Oct 29)",
+  "title": "Swansea City vs Manchester City"
+}

@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNFLRSHYDS-25OCT19NOCHI",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Football",
+    "competition_scope": "Rushing Yards"
+  },
+  "series_ticker": "KXNFLRSHYDS",
+  "strike_period": "",
+  "sub_title": "NO at CHI (Oct 19)",
+  "title": "New Orleans at Chicago: Rushing Yards"
+}

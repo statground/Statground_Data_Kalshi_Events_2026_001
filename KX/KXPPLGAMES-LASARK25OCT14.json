@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXPPLGAMES-LASARK25OCT14",
+  "mutually_exclusive": true,
+  "series_ticker": "KXPPLGAMES",
+  "strike_period": "",
+  "sub_title": "On Oct 17, 2025",
+  "title": "PPL Women's Match: Las Vegas Smash vs. Arkansas Matrix"
+}

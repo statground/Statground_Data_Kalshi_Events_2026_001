@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXHIGHMIA-25OCT27",
+  "mutually_exclusive": true,
+  "series_ticker": "KXHIGHMIA",
+  "strike_date": "2025-10-28T03:59:00Z",
+  "strike_period": "",
+  "sub_title": "On Oct 27, 2025",
+  "title": "Highest temperature in Miami on Oct 27, 2025?"
+}

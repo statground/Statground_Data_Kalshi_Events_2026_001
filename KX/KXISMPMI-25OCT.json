@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXISMPMI-25OCT",
+  "mutually_exclusive": false,
+  "series_ticker": "KXISMPMI",
+  "strike_period": "",
+  "sub_title": "In Oct 2025",
+  "title": "ISM Manufacturing PMI in Oct 2025?"
+}

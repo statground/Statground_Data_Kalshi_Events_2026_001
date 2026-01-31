@@ -1,0 +1,14 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNASCARRACE-YEL25",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "NASCAR"
+  },
+  "series_ticker": "KXNASCARRACE",
+  "strike_period": "",
+  "sub_title": "YellaWood 500",
+  "title": "YellaWood 500 Winner?"
+}

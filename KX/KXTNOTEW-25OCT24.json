@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXTNOTEW-25OCT24",
+  "mutually_exclusive": true,
+  "series_ticker": "KXTNOTEW",
+  "strike_date": "2025-10-24T19:25:00Z",
+  "strike_period": "",
+  "sub_title": "On Oct 24, 2025",
+  "title": "Treasury 10-year yield on Oct 24, 2025?"
+}

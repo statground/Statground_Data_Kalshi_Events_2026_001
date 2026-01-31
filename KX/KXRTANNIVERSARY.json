@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXRTANNIVERSARY",
+  "mutually_exclusive": false,
+  "series_ticker": "KXRTANNIVERSARY",
+  "strike_period": "",
+  "sub_title": "Nov 3, 2025",
+  "title": "\"Anniversary\" Rotten Tomatoes score?"
+}

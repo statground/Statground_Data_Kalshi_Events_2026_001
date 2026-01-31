@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNEXTTEAMGIANNIS-25",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Pro Basketball (M)",
+    "competition_scope": "Trades"
+  },
+  "series_ticker": "KXNEXTTEAMGIANNIS",
+  "strike_period": "",
+  "sub_title": "In 2025",
+  "title": "Giannis Antetokounmpo's next team?"
+}

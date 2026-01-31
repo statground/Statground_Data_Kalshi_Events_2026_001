@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXWTAMATCH-25OCT23KALNOS",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "WTA Tokyo",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXWTAMATCH",
+  "strike_period": "",
+  "sub_title": "Kalinskaya vs Noskova",
+  "title": "Kalinskaya vs Noskova"
+}

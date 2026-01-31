@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Elections",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXARGENTINAPARTY",
+  "mutually_exclusive": true,
+  "series_ticker": "KXARGENTINAPARTY",
+  "strike_period": "",
+  "sub_title": "In The 2025 Chamber of Deputies elections",
+  "title": "Which party will win the most seats in the Argentina Chamber of Deputies elections?"
+}

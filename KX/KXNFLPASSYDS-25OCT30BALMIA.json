@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNFLPASSYDS-25OCT30BALMIA",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Football",
+    "competition_scope": "Passing Yards"
+  },
+  "series_ticker": "KXNFLPASSYDS",
+  "strike_period": "",
+  "sub_title": "BAL at MIA (Oct 30)",
+  "title": "Baltimore at Miami: Passing Yards"
+}

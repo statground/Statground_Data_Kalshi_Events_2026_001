@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "World",
+  "collateral_return_type": "",
+  "event_ticker": "KXCARNEYHALIFAX-25",
+  "mutually_exclusive": false,
+  "series_ticker": "KXCARNEYHALIFAX",
+  "strike_period": "",
+  "sub_title": "Before Oct 31, 2025",
+  "title": "Will Mark Carney visit Halifax before Oct 31, 2025?"
+}

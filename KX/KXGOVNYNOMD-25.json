@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXGOVNYNOMD-25",
+  "mutually_exclusive": true,
+  "series_ticker": "KXGOVNYNOMD",
+  "strike_period": "",
+  "sub_title": "In 2026",
+  "title": "Democratic nominee for Governor in New York?"
+}

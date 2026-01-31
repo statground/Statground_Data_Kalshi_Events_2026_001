@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXSPORTSIGNAHOR-25",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Pro Basketball (M)",
+    "competition_scope": "Trades"
+  },
+  "series_ticker": "KXSPORTSIGNAHOR",
+  "strike_period": "",
+  "sub_title": "Before the regular season starts",
+  "title": "Who will Al Horford sign with?"
+}

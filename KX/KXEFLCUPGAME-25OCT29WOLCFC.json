@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXEFLCUPGAME-25OCT29WOLCFC",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "EFL Cup",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXEFLCUPGAME",
+  "strike_period": "",
+  "sub_title": "WOL vs CFC (Oct 29)",
+  "title": "Wolverhampton Wanderers vs Chelsea FC"
+}

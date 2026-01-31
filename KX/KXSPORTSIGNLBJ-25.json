@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXSPORTSIGNLBJ-25",
+  "mutually_exclusive": true,
+  "series_ticker": "KXSPORTSIGNLBJ",
+  "strike_period": "",
+  "sub_title": "Before the regular season starts",
+  "title": "Who will LeBron James sign with?"
+}

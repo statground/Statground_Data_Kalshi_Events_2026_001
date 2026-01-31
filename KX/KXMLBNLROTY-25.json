@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXMLBNLROTY-25",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Pro Baseball",
+    "competition_scope": "Awards"
+  },
+  "series_ticker": "KXMLBNLROTY",
+  "strike_period": "",
+  "sub_title": "2025 season",
+  "title": "NL Rookie of the Year Winner?"
+}

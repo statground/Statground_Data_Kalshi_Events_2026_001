@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXSIXKINGSSLAM-25",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Six Kings Slam",
+    "competition_scope": "Future"
+  },
+  "series_ticker": "KXSIXKINGSSLAM",
+  "strike_period": "",
+  "sub_title": "On Oct 18, 2025",
+  "title": "Six Kings Slam Champion"
+}

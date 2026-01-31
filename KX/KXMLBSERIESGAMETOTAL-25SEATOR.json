@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXMLBSERIESGAMETOTAL-25SEATOR",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Baseball",
+    "competition_scope": "Series"
+  },
+  "series_ticker": "KXMLBSERIESGAMETOTAL",
+  "strike_period": "",
+  "sub_title": "Seattle vs Toronto",
+  "title": "Seattle vs Toronto: Series Total Games Played"
+}

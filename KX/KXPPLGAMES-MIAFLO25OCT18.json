@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXPPLGAMES-MIAFLO25OCT18",
+  "mutually_exclusive": true,
+  "series_ticker": "KXPPLGAMES",
+  "strike_period": "",
+  "sub_title": "On Oct 18, 2025",
+  "title": "PPL Men's Match: Miami Padel Club vs. Flowrida Goats"
+}

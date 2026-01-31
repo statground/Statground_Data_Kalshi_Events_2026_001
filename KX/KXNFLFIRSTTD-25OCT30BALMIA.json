@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNFLFIRSTTD-25OCT30BALMIA",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Football",
+    "competition_scope": "1st TD"
+  },
+  "series_ticker": "KXNFLFIRSTTD",
+  "strike_period": "",
+  "sub_title": "BAL at MIA (Oct 30)",
+  "title": "Baltimore at Miami: First Touchdown Scorer"
+}

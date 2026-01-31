@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXEURUSDH-25OCT2915",
+  "mutually_exclusive": false,
+  "series_ticker": "KXEURUSDH",
+  "strike_date": "2025-10-29T19:00:00Z",
+  "strike_period": "",
+  "sub_title": "Oct 29, 2025 at 3pm EDT",
+  "title": "EUR/USD price on Oct 29, 2025 at 3pm EDT?"
+}

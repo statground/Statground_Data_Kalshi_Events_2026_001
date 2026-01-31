@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXLOLGAMES-G2TOP25",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "LoL",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXLOLGAMES",
+  "strike_period": "",
+  "sub_title": "2025 LoL Worlds: G2 Esports vs. Top Esports",
+  "title": "2025 LoL Worlds: G2 Esports vs. Top Esports"
+}

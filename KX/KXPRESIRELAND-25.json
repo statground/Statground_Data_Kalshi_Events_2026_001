@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Elections",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXPRESIRELAND-25",
+  "mutually_exclusive": true,
+  "series_ticker": "KXPRESIRELAND",
+  "strike_period": "",
+  "sub_title": "In the 2025 election",
+  "title": "2025 Irish Presidential election winner?"
+}

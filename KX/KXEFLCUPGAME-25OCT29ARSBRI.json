@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXEFLCUPGAME-25OCT29ARSBRI",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "EFL Cup",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXEFLCUPGAME",
+  "strike_period": "",
+  "sub_title": "ARS vs BRI (Oct 29)",
+  "title": "Arsenal FC vs Brighton & Hove Albion"
+}

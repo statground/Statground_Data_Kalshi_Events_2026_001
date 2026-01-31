@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXLIGAPORTUGALGAME-25NOV01VITBEN",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Liga Portugal",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXLIGAPORTUGALGAME",
+  "strike_period": "",
+  "sub_title": "VIT vs BEN (Nov 1)",
+  "title": "Vitoria SC Guimaraes vs SL Benfica"
+}

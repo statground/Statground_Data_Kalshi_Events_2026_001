@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Elections",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCANNDPSEATS-25",
+  "mutually_exclusive": true,
+  "series_ticker": "KXCANNDPSEATS",
+  "strike_period": "",
+  "sub_title": "In 2025",
+  "title": "How many seats will the New Democratic Party win in the Canadian election?"
+}

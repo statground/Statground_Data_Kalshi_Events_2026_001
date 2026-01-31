@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNEXTTEAMLEBRON-25",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Pro Basketball (M)",
+    "competition_scope": "Trades"
+  },
+  "series_ticker": "KXNEXTTEAMLEBRON",
+  "strike_period": "",
+  "sub_title": "Before Oct 21, 2025",
+  "title": "LeBron James's next team?"
+}

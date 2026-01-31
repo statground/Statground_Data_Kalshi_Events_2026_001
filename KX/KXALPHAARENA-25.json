@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXALPHAARENA-25",
+  "mutually_exclusive": true,
+  "series_ticker": "KXALPHAARENA",
+  "strike_period": "",
+  "sub_title": "By season 1 ending on Nov 3, 2025",
+  "title": "Alpha Arena season 1 winning model?"
+}

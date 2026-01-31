@@ -1,0 +1,14 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNASCARRACE-NASCS25",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "NASCAR"
+  },
+  "series_ticker": "KXNASCARRACE",
+  "strike_period": "",
+  "sub_title": "NASCAR Cup Series Championship",
+  "title": "NASCAR Cup Series Championship Winner?"
+}

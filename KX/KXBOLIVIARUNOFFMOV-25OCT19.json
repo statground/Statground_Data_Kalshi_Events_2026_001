@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Elections",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXBOLIVIARUNOFFMOV-25OCT19",
+  "mutually_exclusive": true,
+  "series_ticker": "KXBOLIVIARUNOFFMOV",
+  "strike_period": "",
+  "sub_title": "On Oct 19, 2025",
+  "title": "Margin of victory for Rodrigo Paz Pereira in the Bolivia Presidential election runoff?"
+}

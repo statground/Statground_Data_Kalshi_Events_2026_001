@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNASCAR-PLAYOFFS25",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "NASCAR",
+    "competition_scope": "Future"
+  },
+  "series_ticker": "KXNASCAR",
+  "strike_period": "",
+  "sub_title": "On Nov 2, 2025",
+  "title": "NASCAR Cup Series playoffs Winner?"
+}

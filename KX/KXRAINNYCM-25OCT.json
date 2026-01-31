@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXRAINNYCM-25OCT",
+  "mutually_exclusive": false,
+  "series_ticker": "KXRAINNYCM",
+  "strike_period": "",
+  "sub_title": "In Oct 2025",
+  "title": "Rain in NYC in Oct 2025?"
+}

@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Crypto",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXXRPD-25OCT2413",
+  "mutually_exclusive": false,
+  "series_ticker": "KXXRPD",
+  "strike_date": "2025-10-24T17:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Oct 24, 2025 at 1pm EDT",
+  "title": "Ripple price today at Oct 24, 2025 at 1pm EDT?"
+}

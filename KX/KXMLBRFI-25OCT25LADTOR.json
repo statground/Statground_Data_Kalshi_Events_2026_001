@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXMLBRFI-25OCT25LADTOR",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Baseball",
+    "competition_scope": "YRFI/NRFI"
+  },
+  "series_ticker": "KXMLBRFI",
+  "strike_period": "",
+  "sub_title": "LAD at TOR (Oct 25)",
+  "title": "Los Angeles D vs Toronto (Game 2)"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "World",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCBDECISIONCANADA-25OCT",
+  "mutually_exclusive": true,
+  "series_ticker": "KXCBDECISIONCANADA",
+  "strike_period": "",
+  "sub_title": "In Oct 2025",
+  "title": "Bank of Canada decision in Oct 2025?"
+}

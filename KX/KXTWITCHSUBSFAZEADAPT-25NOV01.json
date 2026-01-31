@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Social",
+  "collateral_return_type": "",
+  "event_ticker": "KXTWITCHSUBSFAZEADAPT-25NOV01",
+  "mutually_exclusive": false,
+  "series_ticker": "KXTWITCHSUBSFAZEADAPT",
+  "strike_period": "",
+  "sub_title": "Before Nov 1, 2025",
+  "title": "Will FaZe Adapt reach at least 150k Twitch subscribers this month?"
+}
