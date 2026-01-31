@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "WTI-24APR17",
+  "mutually_exclusive": true,
+  "series_ticker": "KXWTI",
+  "strike_date": "2024-04-17T18:30:00Z",
+  "strike_period": "",
+  "sub_title": "On Apr 17, 2024",
+  "title": "WTI oil price range on Apr 17, 2024?"
+}

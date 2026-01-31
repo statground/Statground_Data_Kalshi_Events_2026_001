@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Transportation",
+  "collateral_return_type": "",
+  "event_ticker": "TSAW-23SEP10",
+  "mutually_exclusive": false,
+  "series_ticker": "KXTSAW",
+  "strike_period": "Sep 4 to 10, 2023",
+  "sub_title": "Sep 4 to 10, 2023",
+  "title": "TSA check-ins from Sep 4 to 10, 2023?"
+}

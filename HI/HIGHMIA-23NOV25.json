@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "HIGHMIA-23NOV25",
+  "mutually_exclusive": true,
+  "series_ticker": "KXHIGHMIA",
+  "strike_date": "2023-11-26T04:59:00Z",
+  "strike_period": "",
+  "sub_title": "On Nov 25, 2023",
+  "title": "Highest temperature in Miami on Nov 25, 2023?"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "AVGTEMP-23AUG",
+  "mutually_exclusive": true,
+  "series_ticker": "KXAVGTEMP",
+  "strike_period": "",
+  "sub_title": "Aug 2023",
+  "title": "US average temp, Aug 2023?"
+}

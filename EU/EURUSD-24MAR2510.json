@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "EURUSD-24MAR2510",
+  "mutually_exclusive": true,
+  "series_ticker": "KXEURUSD",
+  "strike_date": "2024-03-25T14:00:00Z",
+  "strike_period": "",
+  "sub_title": "Mar 25, 2024 at 10am EDT",
+  "title": "EUR/USD price range on Mar 25, 2024 at 10am EDT?"
+}

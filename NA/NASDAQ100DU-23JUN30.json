@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "",
+  "event_ticker": "NASDAQ100DU-23JUN30",
+  "mutually_exclusive": false,
+  "series_ticker": "KXNASDAQ100U",
+  "strike_date": "2023-06-30T20:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Jun 30, 2023",
+  "title": "Nasdaq above/below on Jun 30, 2023?"
+}

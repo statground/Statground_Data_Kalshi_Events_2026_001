@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "SFFA",
+  "mutually_exclusive": true,
+  "series_ticker": "KXSFFA",
+  "strike_period": "",
+  "sub_title": "By Dec 31, 2023",
+  "title": "Harvard affirmative action (SCOTUS) by Dec 31, 2023?"
+}

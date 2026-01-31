@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "TERMINALRATE-23DEC31",
+  "mutually_exclusive": true,
+  "series_ticker": "KXTERMINALRATE",
+  "strike_period": "2023",
+  "sub_title": "In 2023",
+  "title": "Fed funds highest rate in 2023?"
+}

@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "EURUSD-23OCT1010",
+  "mutually_exclusive": true,
+  "series_ticker": "KXEURUSD",
+  "strike_date": "2023-10-10T14:00:00Z",
+  "strike_period": "",
+  "sub_title": "Oct 10, 2023 at 10am EDT",
+  "title": "EUR/USD range on Oct 10, 2023 at 10am EDT?"
+}

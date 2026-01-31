@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "",
+  "event_ticker": "GDP-23JUL27",
+  "mutually_exclusive": false,
+  "series_ticker": "KXGDP",
+  "strike_period": "2023 Q2",
+  "sub_title": "In Q2 2023",
+  "title": "US GDP growth in Q2 2023?"
+}

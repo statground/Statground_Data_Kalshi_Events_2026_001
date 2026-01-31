@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "HIGHNY-24FEB23",
+  "mutually_exclusive": true,
+  "series_ticker": "KXHIGHNY",
+  "strike_date": "2024-02-24T04:59:00Z",
+  "strike_period": "",
+  "sub_title": "On Feb 23, 2024",
+  "title": "Highest temperature in NYC on Feb 23, 2024?"
+}

@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "",
+  "event_ticker": "USDJPYH-24APR2615",
+  "mutually_exclusive": false,
+  "series_ticker": "KXUSDJPYH",
+  "strike_date": "2024-04-26T19:00:00Z",
+  "strike_period": "",
+  "sub_title": "Apr 26, 2024 at 3pm EDT",
+  "title": "USD/JPY price on Apr 26, 2024 at 3pm EDT?"
+}

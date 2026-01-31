@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "HIGHMIA-23OCT31",
+  "mutually_exclusive": true,
+  "series_ticker": "KXHIGHMIA",
+  "strike_date": "2023-11-01T03:59:00Z",
+  "strike_period": "",
+  "sub_title": "On Oct 31, 2023",
+  "title": "Highest temperature in Miami on Oct 31, 2023?"
+}

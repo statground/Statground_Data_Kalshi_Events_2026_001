@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "",
+  "event_ticker": "GASMIN-23DEC18",
+  "mutually_exclusive": false,
+  "series_ticker": "KXGASMIN",
+  "strike_period": "Jan 24 to Dec 18, 2023",
+  "sub_title": "In 2023",
+  "title": "EIA Gas lowest price yearly in 2023?"
+}

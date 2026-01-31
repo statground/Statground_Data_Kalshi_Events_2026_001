@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "",
+  "event_ticker": "NGASMIN-23DEC29",
+  "mutually_exclusive": false,
+  "series_ticker": "KXNGASMIN",
+  "strike_period": "1/03/2023-12/29/2023",
+  "sub_title": "Jan 03 to Dec 29, 2023",
+  "title": "Natural gas yearly low, Jan 03 to Dec 29, 2023?"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "",
+  "event_ticker": "GASMAX-23DEC18",
+  "mutually_exclusive": false,
+  "series_ticker": "KXGASMAX",
+  "strike_period": "Jan 24 to Dec 18, 2023",
+  "sub_title": "In 2023",
+  "title": "EIA Gas highest price yearly in 2023?"
+}

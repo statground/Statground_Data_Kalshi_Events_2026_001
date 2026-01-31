@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "TNOTEW-24APR12",
+  "mutually_exclusive": true,
+  "series_ticker": "KXTNOTEW",
+  "strike_date": "2024-04-12T19:25:00Z",
+  "strike_period": "",
+  "sub_title": "On Apr 12, 2024",
+  "title": "Treasury 10-year yield on Apr 12, 2024?"
+}

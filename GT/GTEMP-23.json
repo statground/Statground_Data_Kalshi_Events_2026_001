@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "",
+  "event_ticker": "GTEMP-23",
+  "mutually_exclusive": false,
+  "series_ticker": "KXGTEMP",
+  "strike_period": "2023",
+  "sub_title": "2023",
+  "title": "This year is the hottest year ever?"
+}

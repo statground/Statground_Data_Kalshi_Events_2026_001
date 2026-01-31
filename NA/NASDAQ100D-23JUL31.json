@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "NASDAQ100D-23JUL31",
+  "mutually_exclusive": true,
+  "series_ticker": "KXNASDAQ100",
+  "strike_date": "2023-07-31T20:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Jul 31, 2023",
+  "title": "Nasdaq range on Jul 31, 2023?"
+}

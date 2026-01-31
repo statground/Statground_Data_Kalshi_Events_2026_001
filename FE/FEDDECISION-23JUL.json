@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "FEDDECISION-23JUL",
+  "mutually_exclusive": true,
+  "series_ticker": "KXFEDDECISION",
+  "strike_date": "2023-07-26T18:00:00Z",
+  "strike_period": "",
+  "sub_title": "In Jul 2023",
+  "title": "Fed meeting in Jul 2023?"
+}

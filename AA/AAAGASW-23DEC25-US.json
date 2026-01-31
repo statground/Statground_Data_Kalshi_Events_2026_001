@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "",
+  "event_ticker": "AAAGASW-23DEC25-US",
+  "mutually_exclusive": false,
+  "series_ticker": "KXAAAGASW",
+  "strike_date": "2023-12-25T15:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Dec 25, 2023",
+  "title": "US gas price up on Dec 25, 2023?"
+}

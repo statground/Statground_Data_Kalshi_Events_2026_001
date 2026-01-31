@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "GRAMMYCOUNTSZA",
+  "mutually_exclusive": true,
+  "series_ticker": "KXGRAMMYCOUNTSZA",
+  "strike_period": "",
+  "sub_title": "At the 2024 Grammys",
+  "title": "Number of Grammys SZA wins?"
+}

@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "",
+  "event_ticker": "EURUSDH-23DEC1510",
+  "mutually_exclusive": false,
+  "series_ticker": "KXEURUSDH",
+  "strike_date": "2023-12-15T15:00:00Z",
+  "strike_period": "",
+  "sub_title": "Dec 15, 2023 at 10am EST",
+  "title": "EUR/USD over/under on Dec 15, 2023 at 10am EST?"
+}

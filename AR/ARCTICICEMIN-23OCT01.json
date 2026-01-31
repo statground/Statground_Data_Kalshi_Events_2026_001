@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "",
+  "event_ticker": "ARCTICICEMIN-23OCT01",
+  "mutually_exclusive": false,
+  "series_ticker": "KXARCTICICEMIN",
+  "strike_period": "between February 17, 2023 and October 01, 2023",
+  "sub_title": "Feb 17 to Oct 1, 2023",
+  "title": "Arctic sea ice min extent, Feb 17 to Oct 1, 2023?"
+}

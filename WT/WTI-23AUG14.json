@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "WTI-23AUG14",
+  "mutually_exclusive": true,
+  "series_ticker": "KXWTI",
+  "strike_date": "2023-08-14T18:30:00Z",
+  "strike_period": "",
+  "sub_title": "On Aug 14, 2023",
+  "title": "WTI oil range on Aug 14, 2023?"
+}

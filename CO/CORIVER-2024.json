@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "",
+  "event_ticker": "CORIVER-2024",
+  "mutually_exclusive": false,
+  "series_ticker": "KXCORIVER",
+  "strike_date": "2024-01-01T12:00:00Z",
+  "strike_period": "",
+  "sub_title": "Start of 2024",
+  "title": "Lake Mead water level projections, Start of 2024?"
+}

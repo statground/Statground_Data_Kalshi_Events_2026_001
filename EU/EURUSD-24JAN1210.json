@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "EURUSD-24JAN1210",
+  "mutually_exclusive": true,
+  "series_ticker": "KXEURUSD",
+  "strike_date": "2024-01-12T15:00:00Z",
+  "strike_period": "",
+  "sub_title": "Jan 12, 2024 at 10am EST",
+  "title": "EUR/USD range on Jan 12, 2024 at 10am EST?"
+}

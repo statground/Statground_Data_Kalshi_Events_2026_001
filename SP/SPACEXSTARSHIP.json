@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Companies",
+  "collateral_return_type": "",
+  "event_ticker": "SPACEXSTARSHIP",
+  "mutually_exclusive": false,
+  "series_ticker": "KXSPACEXSTARSHIP",
+  "strike_period": "",
+  "sub_title": "SpaceX Starship",
+  "title": "SpaceX Starship launch?"
+}

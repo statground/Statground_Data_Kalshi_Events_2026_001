@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "HIGHNY-23AUG27",
+  "mutually_exclusive": true,
+  "series_ticker": "KXHIGHNY",
+  "strike_date": "2023-08-28T03:59:00Z",
+  "strike_period": "",
+  "sub_title": "On Aug 27, 2023",
+  "title": "Highest temperature in NYC on Aug 27, 2023?"
+}

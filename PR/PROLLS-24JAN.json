@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "",
+  "event_ticker": "PROLLS-24JAN",
+  "mutually_exclusive": false,
+  "series_ticker": "KXPAYROLLS",
+  "strike_period": "January 2024",
+  "sub_title": "In Jan 2024",
+  "title": "Jobs numbers in Jan 2024?"
+}

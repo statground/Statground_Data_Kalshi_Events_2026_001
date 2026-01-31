@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "",
+  "event_ticker": "10Y3M-23DEC29",
+  "mutually_exclusive": false,
+  "series_ticker": "KX10Y3M",
+  "strike_period": "Mar 6 to Dec 29, 2023",
+  "sub_title": "By Dec 29, 2023",
+  "title": "Treasury spread 10Y-3M by Dec 29, 2023?"
+}

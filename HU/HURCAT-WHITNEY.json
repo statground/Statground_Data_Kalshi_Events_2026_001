@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "",
+  "event_ticker": "HURCAT-WHITNEY",
+  "mutually_exclusive": false,
+  "series_ticker": "KXHURCAT",
+  "strike_period": "",
+  "sub_title": "Hurricane Whitney",
+  "title": "Hurricane category, Hurricane Whitney?"
+}

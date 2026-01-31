@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "HIGHAUS-23DEC08",
+  "mutually_exclusive": true,
+  "series_ticker": "KXHIGHAUS",
+  "strike_date": "2023-12-09T05:59:00Z",
+  "strike_period": "",
+  "sub_title": "On Dec 8, 2023",
+  "title": "Highest temperature in Austin on Dec 8, 2023?"
+}

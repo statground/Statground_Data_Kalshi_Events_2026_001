@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "",
+  "event_ticker": "USDRUBMAX-23DEC31",
+  "mutually_exclusive": false,
+  "series_ticker": "KXUSDRUBMAX",
+  "strike_date": "2023-12-31T19:30:00Z",
+  "strike_period": "",
+  "sub_title": "In 2023",
+  "title": "USD/RUB high in 2023?"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "",
+  "event_ticker": "GDPEU-22",
+  "mutually_exclusive": false,
+  "series_ticker": "KXGDPEU",
+  "strike_period": "2022",
+  "sub_title": "In 2022",
+  "title": "European Union GDP growth in 2022?"
+}

@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "",
+  "event_ticker": "NASDAQ100Z-23NOV10",
+  "mutually_exclusive": false,
+  "series_ticker": "KXNASDAQ100Z",
+  "strike_date": "2023-11-10T21:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Nov 10, 2023",
+  "title": "Nasdaq up on Nov 10, 2023?"
+}

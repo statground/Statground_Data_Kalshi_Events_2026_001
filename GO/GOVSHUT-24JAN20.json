@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "",
+  "event_ticker": "GOVSHUT-24JAN20",
+  "mutually_exclusive": false,
+  "series_ticker": "KXGOVSHUT",
+  "strike_period": "",
+  "sub_title": "On Jan 20, 2024",
+  "title": "Government shutdown on Jan 20, 2024?"
+}

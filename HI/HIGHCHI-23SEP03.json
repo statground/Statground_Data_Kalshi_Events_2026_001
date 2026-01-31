@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "HIGHCHI-23SEP03",
+  "mutually_exclusive": true,
+  "series_ticker": "KXHIGHCHI",
+  "strike_date": "2023-09-04T03:59:00Z",
+  "strike_period": "",
+  "sub_title": "On Sep 3, 2023",
+  "title": "Highest temperature in Chicago on Sep 3, 2023?"
+}

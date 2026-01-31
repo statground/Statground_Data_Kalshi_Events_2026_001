@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "",
+  "event_ticker": "TORNADO-24APR",
+  "mutually_exclusive": false,
+  "series_ticker": "KXTORNADO",
+  "strike_period": "",
+  "sub_title": "In Apr 2024",
+  "title": "Number of tornadoes in Apr 2024?"
+}

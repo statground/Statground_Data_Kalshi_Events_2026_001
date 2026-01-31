@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "",
+  "event_ticker": "RTSYMPATH",
+  "mutually_exclusive": false,
+  "series_ticker": "KXRTSYMPATH",
+  "strike_period": "",
+  "sub_title": "Day after the premiere",
+  "title": "\"The Sympathizer\" Rotten Tomatoes score?"
+}

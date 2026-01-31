@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "EURUSD-23JUL0618",
+  "mutually_exclusive": true,
+  "series_ticker": "KXEURUSD",
+  "strike_date": "2023-07-06T22:00:00Z",
+  "strike_period": "",
+  "sub_title": "Jul 6, 2023 at 6pm EDT",
+  "title": "EUR/USD range on Jul 6, 2023 at 6pm EDT?"
+}

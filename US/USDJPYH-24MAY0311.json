@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "",
+  "event_ticker": "USDJPYH-24MAY0311",
+  "mutually_exclusive": false,
+  "series_ticker": "KXUSDJPYH",
+  "strike_date": "2024-05-03T15:00:00Z",
+  "strike_period": "",
+  "sub_title": "May 3, 2024 at 11am EDT",
+  "title": "USD/JPY price on May 3, 2024 at 11am EDT?"
+}

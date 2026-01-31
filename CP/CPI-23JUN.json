@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "",
+  "event_ticker": "CPI-23JUN",
+  "mutually_exclusive": false,
+  "series_ticker": "KXCPI",
+  "strike_period": "June 2023",
+  "sub_title": "In Jun 2023",
+  "title": "CPI in Jun 2023?"
+}

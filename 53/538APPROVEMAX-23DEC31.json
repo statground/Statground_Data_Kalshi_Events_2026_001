@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "",
+  "event_ticker": "538APPROVEMAX-23DEC31",
+  "mutually_exclusive": false,
+  "series_ticker": "KX538APPROVEMAX",
+  "strike_date": "2024-01-01T04:59:00Z",
+  "strike_period": "",
+  "sub_title": "By Dec 31, 2023",
+  "title": "Biden 538 highest approval rating by Dec 31, 2023?"
+}

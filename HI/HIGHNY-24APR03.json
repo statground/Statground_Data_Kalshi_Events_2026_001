@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "HIGHNY-24APR03",
+  "mutually_exclusive": true,
+  "series_ticker": "KXHIGHNY",
+  "strike_date": "2024-04-04T03:59:00Z",
+  "strike_period": "",
+  "sub_title": "On Apr 3, 2024",
+  "title": "Highest temperature in NYC on Apr 3, 2024?"
+}

@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "",
+  "event_ticker": "COIN-23DEC31",
+  "mutually_exclusive": false,
+  "series_ticker": "KXCOIN",
+  "strike_date": "2024-01-01T04:59:00Z",
+  "strike_period": "",
+  "sub_title": "In 2023",
+  "title": "Trillion dollar coin minted in 2023?"
+}

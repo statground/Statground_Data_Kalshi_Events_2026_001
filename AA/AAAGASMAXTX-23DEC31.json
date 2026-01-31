@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "",
+  "event_ticker": "AAAGASMAXTX-23DEC31",
+  "mutually_exclusive": false,
+  "series_ticker": "KXAAAGASMAXTX",
+  "strike_date": "2023-12-31T15:00:00Z",
+  "strike_period": "",
+  "sub_title": "In 2023",
+  "title": "Texas highest gas price in 2023?"
+}

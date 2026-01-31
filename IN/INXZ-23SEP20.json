@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "",
+  "event_ticker": "INXZ-23SEP20",
+  "mutually_exclusive": false,
+  "series_ticker": "KXINXZ",
+  "strike_date": "2023-09-20T20:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Sep 20, 2023",
+  "title": "S&P 500 up on Sep 20, 2023?"
+}

@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "USDJPY-24JAN0910",
+  "mutually_exclusive": true,
+  "series_ticker": "KXUSDJPY",
+  "strike_date": "2024-01-09T15:00:00Z",
+  "strike_period": "",
+  "sub_title": "Jan 9, 2024 at 10am EST",
+  "title": "USD/JPY range on Jan 9, 2024 at 10am EST?"
+}

@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "",
+  "event_ticker": "INXZ-24MAR20",
+  "mutually_exclusive": false,
+  "series_ticker": "KXINXZ",
+  "strike_date": "2024-03-20T20:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Mar 20, 2024",
+  "title": "S&P 500 up on Mar 20, 2024?"
+}

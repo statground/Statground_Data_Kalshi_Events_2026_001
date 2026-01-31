@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "",
+  "event_ticker": "CPIAPPAREL-23SEP",
+  "mutually_exclusive": false,
+  "series_ticker": "KXCPIAPPAREL",
+  "strike_period": "",
+  "sub_title": "In Sep 2023",
+  "title": "CPI on apparel in Sep 2023?"
+}

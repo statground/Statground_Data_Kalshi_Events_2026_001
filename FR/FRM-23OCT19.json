@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "",
+  "event_ticker": "FRM-23OCT19",
+  "mutually_exclusive": false,
+  "series_ticker": "KXFRM",
+  "strike_date": "2023-10-19T14:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Oct 19, 2023",
+  "title": "Mortgage 30-yr rate from On Oct 19, 2023?"
+}

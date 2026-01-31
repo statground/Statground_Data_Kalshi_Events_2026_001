@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "",
+  "event_ticker": "EURUSDH-24APR2613",
+  "mutually_exclusive": false,
+  "series_ticker": "KXEURUSDH",
+  "strike_date": "2024-04-26T17:00:00Z",
+  "strike_period": "",
+  "sub_title": "Apr 26, 2024 at 1pm EDT",
+  "title": "EUR/USD price on Apr 26, 2024 at 1pm EDT?"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "",
+  "event_ticker": "GOVSHUT-24MAR04",
+  "mutually_exclusive": false,
+  "series_ticker": "KXGOVSHUT",
+  "strike_period": "",
+  "sub_title": "On Mar 4, 2024",
+  "title": "Government shutdown on Mar 4, 2024?"
+}

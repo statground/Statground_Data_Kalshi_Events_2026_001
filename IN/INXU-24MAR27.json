@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "",
+  "event_ticker": "INXU-24MAR27",
+  "mutually_exclusive": false,
+  "series_ticker": "KXINXU",
+  "strike_date": "2024-03-27T20:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Mar 27, 2024",
+  "title": "S&P close price on Mar 27, 2024?"
+}

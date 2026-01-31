@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "",
+  "event_ticker": "CPICORE-23JUL",
+  "mutually_exclusive": false,
+  "series_ticker": "KXCPICORE",
+  "strike_period": "July 2023",
+  "sub_title": "Jul 2023",
+  "title": "CPI core, Jul 2023?"
+}

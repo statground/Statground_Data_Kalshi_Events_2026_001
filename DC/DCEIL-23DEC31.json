@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "",
+  "event_ticker": "DCEIL-23DEC31",
+  "mutually_exclusive": false,
+  "series_ticker": "KXDCEIL",
+  "strike_date": "2023-12-31T12:00:00Z",
+  "strike_period": "",
+  "sub_title": "In 2023",
+  "title": "Debt ceiling hike in 2023?"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "HOTYEAR-23",
+  "mutually_exclusive": true,
+  "series_ticker": "KXHOTYEAR",
+  "strike_period": "",
+  "sub_title": "In 2023",
+  "title": "Global heat in 2023?"
+}

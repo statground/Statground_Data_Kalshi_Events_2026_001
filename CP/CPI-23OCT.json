@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "",
+  "event_ticker": "CPI-23OCT",
+  "mutually_exclusive": false,
+  "series_ticker": "KXCPI",
+  "strike_period": "October 2023",
+  "sub_title": "In Oct 2023",
+  "title": "CPI in Oct 2023?"
+}

@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "TNOTED-23NOV20",
+  "mutually_exclusive": true,
+  "series_ticker": "KXTNOTED",
+  "strike_date": "2023-11-20T20:25:00Z",
+  "strike_period": "",
+  "sub_title": "On Nov 20, 2023",
+  "title": "Treasury 10Y yield on Nov 20, 2023?"
+}

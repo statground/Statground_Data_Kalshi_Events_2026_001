@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "APRPOTUS-24FEB16",
+  "mutually_exclusive": true,
+  "series_ticker": "KXAPRPOTUS",
+  "strike_date": "2024-02-16T16:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Feb 16, 2024",
+  "title": "Biden RCP approval rating on Feb 16, 2024?"
+}

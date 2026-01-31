@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "HIGHNY-23DEC05",
+  "mutually_exclusive": true,
+  "series_ticker": "KXHIGHNY",
+  "strike_date": "2023-12-06T04:59:00Z",
+  "strike_period": "",
+  "sub_title": "On Dec 5, 2023",
+  "title": "Highest temperature in NYC on Dec 5, 2023?"
+}

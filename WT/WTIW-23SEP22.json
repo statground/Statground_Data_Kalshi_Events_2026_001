@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "WTIW-23SEP22",
+  "mutually_exclusive": true,
+  "series_ticker": "KXWTIW",
+  "strike_date": "2023-09-22T18:30:00Z",
+  "strike_period": "",
+  "sub_title": "On Sep 22, 2023",
+  "title": "WTI oil range on Sep 22, 2023?"
+}

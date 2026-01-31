@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "HIGHAUS-23JUN01",
+  "mutually_exclusive": true,
+  "series_ticker": "KXHIGHAUS",
+  "strike_date": "2023-06-02T04:59:00Z",
+  "strike_period": "",
+  "sub_title": "On Jun 1, 2023",
+  "title": "Highest temperature in Austin on Jun 1, 2023?"
+}

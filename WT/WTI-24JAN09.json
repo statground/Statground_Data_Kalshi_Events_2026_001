@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "WTI-24JAN09",
+  "mutually_exclusive": true,
+  "series_ticker": "KXWTI",
+  "strike_date": "2024-01-09T19:30:00Z",
+  "strike_period": "",
+  "sub_title": "On Jan 9, 2024",
+  "title": "WTI oil range on Jan 9, 2024?"
+}

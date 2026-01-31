@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Transportation",
+  "collateral_return_type": "",
+  "event_ticker": "TSAW-24FEB25",
+  "mutually_exclusive": false,
+  "series_ticker": "KXTSAW",
+  "strike_period": "Feb 19 to 25, 2024",
+  "sub_title": "Feb 19 to 25, 2024",
+  "title": "TSA check-ins from Feb 19 to 25, 2024?"
+}

@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "EURUSD-24FEB2710",
+  "mutually_exclusive": true,
+  "series_ticker": "KXEURUSD",
+  "strike_date": "2024-02-27T15:00:00Z",
+  "strike_period": "",
+  "sub_title": "Feb 27, 2024 at 10am EST",
+  "title": "EUR/USD range on Feb 27, 2024 at 10am EST?"
+}

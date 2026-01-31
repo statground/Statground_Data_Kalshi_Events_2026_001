@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "",
+  "event_ticker": "INXZ-23NOV16",
+  "mutually_exclusive": false,
+  "series_ticker": "KXINXZ",
+  "strike_date": "2023-11-16T21:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Nov 16, 2023",
+  "title": "S&P 500 up on Nov 16, 2023?"
+}

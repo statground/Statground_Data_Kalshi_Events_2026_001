@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "",
+  "event_ticker": "INXU-24FEB09",
+  "mutually_exclusive": false,
+  "series_ticker": "KXINXU",
+  "strike_date": "2024-02-09T21:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Feb 9, 2024",
+  "title": "S&P 500 above/below on Feb 9, 2024?"
+}

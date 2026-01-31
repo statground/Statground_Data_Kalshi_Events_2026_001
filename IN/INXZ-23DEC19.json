@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "",
+  "event_ticker": "INXZ-23DEC19",
+  "mutually_exclusive": false,
+  "series_ticker": "KXINXZ",
+  "strike_date": "2023-12-19T21:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Dec 19, 2023",
+  "title": "S&P 500 up on Dec 19, 2023?"
+}

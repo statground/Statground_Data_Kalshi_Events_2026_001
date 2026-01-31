@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "INXW-23JUN09",
+  "mutually_exclusive": true,
+  "series_ticker": "KXINX",
+  "strike_date": "2023-06-09T20:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Jun 9, 2023",
+  "title": "S&P 500 range on Jun 9, 2023?"
+}

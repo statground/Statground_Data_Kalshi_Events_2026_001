@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Transportation",
+  "collateral_return_type": "",
+  "event_ticker": "TSAW-23JUN18",
+  "mutually_exclusive": false,
+  "series_ticker": "KXTSAW",
+  "strike_period": "Jun 12 to 18, 2023",
+  "sub_title": "Jun 12 to 18, 2023",
+  "title": "TSA check-ins from Jun 12 to 18, 2023?"
+}

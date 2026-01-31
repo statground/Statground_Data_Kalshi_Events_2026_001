@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "TNOTEW-23SEP15",
+  "mutually_exclusive": true,
+  "series_ticker": "KXTNOTEW",
+  "strike_date": "2023-09-15T19:25:00Z",
+  "strike_period": "",
+  "sub_title": "On Sep 15, 2023",
+  "title": "Treasury 10Y yield on Sep 15, 2023?"
+}

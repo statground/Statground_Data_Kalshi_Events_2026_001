@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "APRPOTUS-23JUN30",
+  "mutually_exclusive": true,
+  "series_ticker": "KXAPRPOTUS",
+  "strike_date": "2023-06-30T15:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Jun 30, 2023",
+  "title": "Biden RCP approval rating on Jun 30, 2023?"
+}

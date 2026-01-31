@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "NASDAQ100-24MAR27",
+  "mutually_exclusive": true,
+  "series_ticker": "KXNASDAQ100",
+  "strike_date": "2024-03-27T20:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Mar 27, 2024",
+  "title": "Nasdaq close price range on Mar 27, 2024?"
+}

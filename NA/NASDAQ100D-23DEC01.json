@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "NASDAQ100D-23DEC01",
+  "mutually_exclusive": true,
+  "series_ticker": "KXNASDAQ100",
+  "strike_date": "2023-12-01T21:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Dec 1, 2023",
+  "title": "Nasdaq range on Dec 1, 2023?"
+}

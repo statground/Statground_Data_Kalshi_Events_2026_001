@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "USDJPY-23JUL1018",
+  "mutually_exclusive": true,
+  "series_ticker": "KXUSDJPY",
+  "strike_date": "2023-07-10T22:00:00Z",
+  "strike_period": "",
+  "sub_title": "Jul 10, 2023 at 6pm EDT",
+  "title": "USD/JPY range on Jul 10, 2023 at 6pm EDT?"
+}

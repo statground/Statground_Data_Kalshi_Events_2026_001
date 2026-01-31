@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "",
+  "event_ticker": "AAAGASD-23SEP19-US",
+  "mutually_exclusive": false,
+  "series_ticker": "KXAAAGASD",
+  "strike_date": "2023-09-19T14:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Sep 19, 2023",
+  "title": "US gas price up on Sep 19, 2023?"
+}

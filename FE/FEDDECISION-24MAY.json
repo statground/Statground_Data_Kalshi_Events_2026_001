@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "FEDDECISION-24MAY",
+  "mutually_exclusive": true,
+  "series_ticker": "KXFEDDECISION",
+  "strike_date": "2024-05-01T18:00:00Z",
+  "strike_period": "",
+  "sub_title": "In May 2024",
+  "title": "Fed meeting in May 2024?"
+}

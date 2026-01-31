@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Transportation",
+  "collateral_return_type": "",
+  "event_ticker": "TSAW-23AUG06",
+  "mutually_exclusive": false,
+  "series_ticker": "KXTSAW",
+  "strike_period": "Jul 31 to Aug 6, 2023",
+  "sub_title": "Jul 31 to Aug 6, 2023",
+  "title": "TSA check-ins from Jul 31 to Aug 6, 2023?"
+}

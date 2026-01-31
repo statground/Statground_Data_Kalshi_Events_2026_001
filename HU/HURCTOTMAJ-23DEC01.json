@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "",
+  "event_ticker": "HURCTOTMAJ-23DEC01",
+  "mutually_exclusive": false,
+  "series_ticker": "KXHURCMAJ",
+  "strike_period": "Jan 1-Dec 1, 2023",
+  "sub_title": "In 2023",
+  "title": "Number of major hurricanes in 2023?"
+}

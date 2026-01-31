@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "HIGHMIA-23AUG19",
+  "mutually_exclusive": true,
+  "series_ticker": "KXHIGHMIA",
+  "strike_date": "2023-08-20T03:59:00Z",
+  "strike_period": "",
+  "sub_title": "On Aug 19, 2023",
+  "title": "Highest temperature in Miami on Aug 19, 2023?"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "",
+  "event_ticker": "RENTNYC-23JUN",
+  "mutually_exclusive": false,
+  "series_ticker": "KXRENTNYCM",
+  "strike_period": "",
+  "sub_title": "Jun 2023",
+  "title": "Rent price increase in NYC monthly, Jun 2023?"
+}

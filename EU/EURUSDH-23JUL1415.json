@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "",
+  "event_ticker": "EURUSDH-23JUL1415",
+  "mutually_exclusive": false,
+  "series_ticker": "KXEURUSDH",
+  "strike_date": "2023-07-14T19:00:00Z",
+  "strike_period": "",
+  "sub_title": "Jul 14, 2023 at 3pm EDT",
+  "title": "EUR/USD over/under on Jul 14, 2023 at 3pm EDT?"
+}

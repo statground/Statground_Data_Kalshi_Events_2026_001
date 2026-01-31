@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "HIGHUS-23SEP23",
+  "mutually_exclusive": true,
+  "series_ticker": "KXHIGHUS",
+  "strike_date": "2023-09-24T03:59:00Z",
+  "strike_period": "",
+  "sub_title": "On Sep 23, 2023",
+  "title": "High temp in United States on Sep 23, 2023?"
+}

@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "EURUSD-23AUG3110",
+  "mutually_exclusive": true,
+  "series_ticker": "KXEURUSD",
+  "strike_date": "2023-08-31T14:00:00Z",
+  "strike_period": "",
+  "sub_title": "Aug 31, 2023 at 10am EDT",
+  "title": "EUR/USD range on Aug 31, 2023 at 10am EDT?"
+}

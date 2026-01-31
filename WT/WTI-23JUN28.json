@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "WTI-23JUN28",
+  "mutually_exclusive": true,
+  "series_ticker": "KXWTI",
+  "strike_date": "2023-06-28T18:30:00Z",
+  "strike_period": "",
+  "sub_title": "On Jun 28, 2023",
+  "title": "WTI oil range on Jun 28, 2023?"
+}

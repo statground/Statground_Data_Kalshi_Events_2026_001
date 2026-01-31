@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "",
+  "event_ticker": "GOVSHUTLENGTH-23DEC31",
+  "mutually_exclusive": false,
+  "series_ticker": "KXGOVSHUTLENGTH",
+  "strike_period": "Jan 24 to Dec 31, 2023",
+  "sub_title": "In 2023",
+  "title": "Number of days of government shutdown in 2023?"
+}

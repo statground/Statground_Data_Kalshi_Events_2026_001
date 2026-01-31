@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Transportation",
+  "collateral_return_type": "",
+  "event_ticker": "MAERSK",
+  "mutually_exclusive": false,
+  "series_ticker": "KXMAERSK",
+  "strike_period": "",
+  "sub_title": "Before Apr, 2024 (initial stoppage/determined)",
+  "title": "Maersk resumes shipping in the Red Sea before Apr, 2024 (initial stoppage/determined)?"
+}

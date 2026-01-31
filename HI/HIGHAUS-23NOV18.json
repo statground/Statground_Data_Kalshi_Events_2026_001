@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "HIGHAUS-23NOV18",
+  "mutually_exclusive": true,
+  "series_ticker": "KXHIGHAUS",
+  "strike_date": "2023-11-19T05:59:00Z",
+  "strike_period": "",
+  "sub_title": "On Nov 18, 2023",
+  "title": "Highest temperature in Austin on Nov 18, 2023?"
+}

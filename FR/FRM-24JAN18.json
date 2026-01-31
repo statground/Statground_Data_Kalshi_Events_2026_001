@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "",
+  "event_ticker": "FRM-24JAN18",
+  "mutually_exclusive": false,
+  "series_ticker": "KXFRM",
+  "strike_date": "2024-01-18T15:00:00Z",
+  "strike_period": "",
+  "sub_title": "Jan 12 to 18, 2024",
+  "title": "Mortgage 30-yr rate from Jan 12 to 18, 2024?"
+}

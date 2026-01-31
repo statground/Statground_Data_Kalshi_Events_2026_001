@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "TNOTEW-24JAN05",
+  "mutually_exclusive": true,
+  "series_ticker": "KXTNOTEW",
+  "strike_date": "2024-01-05T20:25:00Z",
+  "strike_period": "",
+  "sub_title": "On Jan 5, 2024",
+  "title": "Treasury 10Y yield on Jan 5, 2024?"
+}

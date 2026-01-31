@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "",
+  "event_ticker": "RATECUT-24MAR20",
+  "mutually_exclusive": false,
+  "series_ticker": "KXRATECUT",
+  "strike_period": "",
+  "sub_title": "By Mar 2024",
+  "title": "Fed rate cut by March?"
+}
