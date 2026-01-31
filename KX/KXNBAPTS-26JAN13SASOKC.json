@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNBAPTS-26JAN13SASOKC",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Basketball (M)",
+    "competition_scope": "Player Points"
+  },
+  "series_ticker": "KXNBAPTS",
+  "strike_period": "",
+  "sub_title": "SAS at OKC (Jan 13)",
+  "title": "San Antonio at Oklahoma City: Points"
+}

@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXKNVBCUPADVANCE-26JAN14DBOPSV",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "KNVB",
+    "competition_scope": "To Advance"
+  },
+  "series_ticker": "KXKNVBCUPADVANCE",
+  "strike_period": "",
+  "sub_title": "DBO vs PSV (Jan 14)",
+  "title": "Den Bosch vs Eindhoven: To Advance"
+}

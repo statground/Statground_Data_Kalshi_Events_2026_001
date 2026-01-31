@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXWPLGAME-26JAN12UPWROY",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Women's Premier League",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXWPLGAME",
+  "strike_period": "",
+  "sub_title": "ROY vs UPW (Jan 12)",
+  "title": "Royal Challengers Bangalore vs Up Warriorz"
+}

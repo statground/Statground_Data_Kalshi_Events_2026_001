@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": true,
+  "category": "Financials",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXNASDAQ100U-26JAN12H1400",
+  "mutually_exclusive": false,
+  "series_ticker": "KXNASDAQ100U",
+  "strike_date": "2026-01-12T19:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Jan 12, 2026 at 2pm EST",
+  "title": "Nasdaq-100 price on Jan 12, 2026 at 2pm EST?"
+}

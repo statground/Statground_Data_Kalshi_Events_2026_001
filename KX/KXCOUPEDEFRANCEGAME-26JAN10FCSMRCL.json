@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCOUPEDEFRANCEGAME-26JAN10FCSMRCL",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Coupe de France",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXCOUPEDEFRANCEGAME",
+  "strike_period": "",
+  "sub_title": "FCSM vs RCL (Jan 10)",
+  "title": "Sochaux-Montbeliard vs Lens"
+}

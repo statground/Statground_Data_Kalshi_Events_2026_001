@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": true,
+  "category": "Climate and Weather",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXHIGHAUS-26JAN13",
+  "mutually_exclusive": true,
+  "series_ticker": "KXHIGHAUS",
+  "strike_date": "2026-01-14T05:59:00Z",
+  "strike_period": "",
+  "sub_title": "On Jan 13, 2026",
+  "title": "Highest temperature in Austin on Jan 13, 2026?"
+}

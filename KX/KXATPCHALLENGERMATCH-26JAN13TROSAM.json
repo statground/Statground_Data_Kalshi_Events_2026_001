@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXATPCHALLENGERMATCH-26JAN13TROSAM",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "ATP Challenger Nonthaburi 2",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXATPCHALLENGERMATCH",
+  "strike_period": "",
+  "sub_title": "Trotter vs Samrej",
+  "title": "Trotter vs Samrej"
+}

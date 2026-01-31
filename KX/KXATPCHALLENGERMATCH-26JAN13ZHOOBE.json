@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXATPCHALLENGERMATCH-26JAN13ZHOOBE",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "ATP Challenger Nonthaburi 2",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXATPCHALLENGERMATCH",
+  "strike_period": "",
+  "sub_title": "Zhou vs Oberleitner",
+  "title": "Zhou vs Oberleitner"
+}

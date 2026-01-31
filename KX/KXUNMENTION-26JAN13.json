@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Mentions",
+  "collateral_return_type": "",
+  "event_ticker": "KXUNMENTION-26JAN13",
+  "mutually_exclusive": false,
+  "series_ticker": "KXUNMENTION",
+  "strike_period": "",
+  "sub_title": "On Jan 12, 2026",
+  "title": "What will the US rep say during the UN Security Council?"
+}

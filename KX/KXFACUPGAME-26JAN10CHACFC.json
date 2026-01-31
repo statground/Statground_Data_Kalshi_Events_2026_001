@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXFACUPGAME-26JAN10CHACFC",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "FA Cup",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXFACUPGAME",
+  "strike_period": "",
+  "sub_title": "CHA vs CFC (Jan 10)",
+  "title": "Charlton vs Chelsea"
+}

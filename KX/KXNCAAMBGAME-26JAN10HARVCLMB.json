@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNCAAMBGAME-26JAN10HARVCLMB",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "College Basketball (M)",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXNCAAMBGAME",
+  "strike_period": "",
+  "sub_title": "HARV at CLMB (Jan 10)",
+  "title": "Harvard at Columbia"
+}

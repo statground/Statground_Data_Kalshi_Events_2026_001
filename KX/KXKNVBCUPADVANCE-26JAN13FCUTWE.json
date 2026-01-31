@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXKNVBCUPADVANCE-26JAN13FCUTWE",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "KNVB",
+    "competition_scope": "To Advance"
+  },
+  "series_ticker": "KXKNVBCUPADVANCE",
+  "strike_period": "",
+  "sub_title": "FCU vs TWE (Jan 13)",
+  "title": "Utrecht vs Enschede: To Advance"
+}

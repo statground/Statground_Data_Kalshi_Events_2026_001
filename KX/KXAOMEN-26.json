@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXAOMEN-26",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Australian Open Men Singles",
+    "competition_scope": "Future"
+  },
+  "series_ticker": "KXAOMEN",
+  "strike_period": "",
+  "sub_title": "2026 Australian Open",
+  "title": "Australian Open Final: Alcaraz vs Djokovic"
+}

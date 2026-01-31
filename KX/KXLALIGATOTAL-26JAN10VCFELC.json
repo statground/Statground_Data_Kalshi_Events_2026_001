@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXLALIGATOTAL-26JAN10VCFELC",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "La Liga",
+    "competition_scope": "Point Total"
+  },
+  "series_ticker": "KXLALIGATOTAL",
+  "strike_period": "",
+  "sub_title": "ELC at VCF (Jan 10)",
+  "title": "Elche at Valencia: Totals"
+}

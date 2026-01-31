@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXNFLWINS-JAC-25",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Football",
+    "competition_scope": "Win totals"
+  },
+  "series_ticker": "KXNFLWINS-JAC",
+  "strike_period": "",
+  "sub_title": "2025-26 season",
+  "title": "Jacksonville wins this season?"
+}

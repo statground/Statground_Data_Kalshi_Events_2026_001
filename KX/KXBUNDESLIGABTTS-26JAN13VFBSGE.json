@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXBUNDESLIGABTTS-26JAN13VFBSGE",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Bundesliga",
+    "competition_scope": "BTTS"
+  },
+  "series_ticker": "KXBUNDESLIGABTTS",
+  "strike_period": "",
+  "sub_title": "SGE at VFB (Jan 13)",
+  "title": "Frankfurt at Stuttgart: Both Teams to Score"
+}

@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXEREDIVISIEGAME-26JAN11SPAHER",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Eredivisie",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXEREDIVISIEGAME",
+  "strike_period": "",
+  "sub_title": "SPA vs HER (Jan 11)",
+  "title": "Sparta vs Heracles Almelo"
+}

@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXEURUSD-26JAN1310",
+  "mutually_exclusive": true,
+  "series_ticker": "KXEURUSD",
+  "strike_date": "2026-01-13T15:00:00Z",
+  "strike_period": "",
+  "sub_title": "Jan 13, 2026 at 10am EST",
+  "title": "EUR/USD price range on Jan 13, 2026 at 10am EST?"
+}

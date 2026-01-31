@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCOUPEDEFRANCEGAME-26JAN10AVRRCS",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Coupe de France",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXCOUPEDEFRANCEGAME",
+  "strike_period": "",
+  "sub_title": "AVR vs RCS (Jan 10)",
+  "title": "Avranches vs Strasbourg Alsace"
+}

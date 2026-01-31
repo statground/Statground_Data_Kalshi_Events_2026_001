@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXARGLNBGAME-26JAN14PENRAC",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Liga Nacional de Basquetbol",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXARGLNBGAME",
+  "strike_period": "",
+  "sub_title": "PEN at RAC (Jan 14)",
+  "title": "Penarol Mar Del Plata at Racing de Chivilcoy"
+}

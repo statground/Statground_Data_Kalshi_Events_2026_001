@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": true,
+  "category": "Crypto",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXETHD-26JAN1323",
+  "mutually_exclusive": false,
+  "series_ticker": "KXETHD",
+  "strike_date": "2026-01-14T04:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Jan 13, 2026 at 11pm EST",
+  "title": "Ethereum price on Jan 13, 2026 at 11pm EST?"
+}

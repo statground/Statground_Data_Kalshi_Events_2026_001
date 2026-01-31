@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNBAPTS-26JAN10DALCHI",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Basketball (M)",
+    "competition_scope": "Player Points"
+  },
+  "series_ticker": "KXNBAPTS",
+  "strike_period": "",
+  "sub_title": "DAL at CHI (Jan 10)",
+  "title": "Dallas at Chicago: Points"
+}

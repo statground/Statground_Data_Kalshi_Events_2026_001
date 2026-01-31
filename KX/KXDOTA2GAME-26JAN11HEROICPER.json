@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXDOTA2GAME-26JAN11HEROICPER",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Dota 2",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXDOTA2GAME",
+  "strike_period": "",
+  "sub_title": "Heroic vs. Peru Rejects (Jan 11)",
+  "title": "DreamLeague South America Closed Qualifier 2026: Heroic vs. Peru Rejects"
+}

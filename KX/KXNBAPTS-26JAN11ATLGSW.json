@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNBAPTS-26JAN11ATLGSW",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Basketball (M)",
+    "competition_scope": "Player Points"
+  },
+  "series_ticker": "KXNBAPTS",
+  "strike_period": "",
+  "sub_title": "ATL at GSW (Jan 11)",
+  "title": "Atlanta at Golden State: Points"
+}

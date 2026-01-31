@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNFLTEAMTOTAL-26JAN12HOUPIT",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Football",
+    "competition_scope": "Team Total"
+  },
+  "series_ticker": "KXNFLTEAMTOTAL",
+  "strike_period": "",
+  "sub_title": "HOU at PIT (Jan 12)",
+  "title": "Houston at Pittsburgh: Team Totals"
+}

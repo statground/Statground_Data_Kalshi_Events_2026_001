@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCS2GAME-26JAN10MARREGAIN",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "CS2",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXCS2GAME",
+  "strike_period": "",
+  "sub_title": "Marsborne vs. regain (Jan 10)",
+  "title": "fl0m's Mythical LAN Las Vegas 2026: Marsborne vs. regain"
+}

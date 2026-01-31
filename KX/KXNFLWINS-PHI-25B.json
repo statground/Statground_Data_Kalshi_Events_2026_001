@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNFLWINS-PHI-25B",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Football",
+    "competition_scope": "Win totals"
+  },
+  "series_ticker": "KXNFLWINS-PHI",
+  "strike_period": "",
+  "sub_title": "2025-26 season",
+  "title": "Philadelphia pro football wins this season?"
+}

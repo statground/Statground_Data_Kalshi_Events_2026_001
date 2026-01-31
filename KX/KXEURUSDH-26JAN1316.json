@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXEURUSDH-26JAN1316",
+  "mutually_exclusive": false,
+  "series_ticker": "KXEURUSDH",
+  "strike_date": "2026-01-13T21:00:00Z",
+  "strike_period": "",
+  "sub_title": "Jan 13, 2026 at 4pm EST",
+  "title": "EUR/USD price on Jan 13, 2026 at 4pm EST?"
+}

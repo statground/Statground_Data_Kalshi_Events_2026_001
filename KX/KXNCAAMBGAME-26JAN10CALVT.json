@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNCAAMBGAME-26JAN10CALVT",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "College Basketball (M)",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXNCAAMBGAME",
+  "strike_period": "",
+  "sub_title": "CAL at VT (Jan 10)",
+  "title": "California at Virginia Tech"
+}

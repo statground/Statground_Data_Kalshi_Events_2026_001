@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCOUPEDEFRANCEGAME-26JAN13BAYOM",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Coupe de France",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXCOUPEDEFRANCEGAME",
+  "strike_period": "",
+  "sub_title": "BAY vs OM (Jan 13)",
+  "title": "FC Bayeux vs Marseille"
+}

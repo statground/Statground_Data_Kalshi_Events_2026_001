@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXSCOTTISHPREMGAME-26JAN14HOMMIR",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Scottish Premiership",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXSCOTTISHPREMGAME",
+  "strike_period": "",
+  "sub_title": "HOM vs MIR (Jan 14)",
+  "title": "Heart of Midlothian vs St. Mirren"
+}

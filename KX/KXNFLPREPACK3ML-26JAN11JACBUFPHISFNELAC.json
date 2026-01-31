@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNFLPREPACK3ML-26JAN11JACBUFPHISFNELAC",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Pro Football",
+    "competition_scope": "Combo"
+  },
+  "series_ticker": "KXNFLPREPACK3ML",
+  "strike_period": "",
+  "sub_title": "Buffalo at Jacksonville, San Francisco at Philadelphia, Los Angeles C at New England",
+  "title": "Pro Football 3-leg Combo: Buffalo at Jacksonville, San Francisco at Philadelphia, Los Angeles C at New England"
+}

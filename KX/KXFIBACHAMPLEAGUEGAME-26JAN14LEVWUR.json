@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXFIBACHAMPLEAGUEGAME-26JAN14LEVWUR",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "FIBA Champions League",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXFIBACHAMPLEAGUEGAME",
+  "strike_period": "",
+  "sub_title": "LEV at WUR (Jan 14)",
+  "title": "BK Levicki Patrioti at Wurzburg Baskets"
+}

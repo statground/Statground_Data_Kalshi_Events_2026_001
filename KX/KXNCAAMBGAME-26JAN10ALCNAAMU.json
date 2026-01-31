@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNCAAMBGAME-26JAN10ALCNAAMU",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "College Basketball (M)",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXNCAAMBGAME",
+  "strike_period": "",
+  "sub_title": "ALCN at AAMU (Jan 10)",
+  "title": "Alcorn St. at Alabama A&M"
+}

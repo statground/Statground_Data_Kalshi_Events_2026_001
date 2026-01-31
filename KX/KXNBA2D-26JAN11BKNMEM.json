@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNBA2D-26JAN11BKNMEM",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Basketball (M)",
+    "competition_scope": "Double Double"
+  },
+  "series_ticker": "KXNBA2D",
+  "strike_period": "",
+  "sub_title": "BKN at MEM (Jan 11)",
+  "title": "Brooklyn at Memphis: Double Doubles"
+}

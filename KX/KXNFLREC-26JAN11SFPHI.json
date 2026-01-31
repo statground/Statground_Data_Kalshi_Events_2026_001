@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNFLREC-26JAN11SFPHI",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Football",
+    "competition_scope": "Receptions"
+  },
+  "series_ticker": "KXNFLREC",
+  "strike_period": "",
+  "sub_title": "SF at PHI (Jan 11)",
+  "title": "San Francisco at Philadelphia: Receptions"
+}

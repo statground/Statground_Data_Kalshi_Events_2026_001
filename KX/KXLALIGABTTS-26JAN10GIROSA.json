@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXLALIGABTTS-26JAN10GIROSA",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "La Liga",
+    "competition_scope": "BTTS"
+  },
+  "series_ticker": "KXLALIGABTTS",
+  "strike_period": "",
+  "sub_title": "OSA at GIR (Jan 10)",
+  "title": "Osasuna at Girona: Both Teams to Score"
+}

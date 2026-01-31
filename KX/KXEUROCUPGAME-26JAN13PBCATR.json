@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXEUROCUPGAME-26JAN13PBCATR",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "EuroCup",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXEUROCUPGAME",
+  "strike_period": "",
+  "sub_title": "PBC at ATR (Jan 13)",
+  "title": "Panionios BC Athens at Aquila Basket Trento"
+}

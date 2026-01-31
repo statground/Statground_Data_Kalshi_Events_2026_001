@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Economics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXACPI-2025",
+  "mutually_exclusive": true,
+  "series_ticker": "KXACPI",
+  "strike_period": "",
+  "sub_title": "In 2025",
+  "title": "Inflation in 2025?"
+}

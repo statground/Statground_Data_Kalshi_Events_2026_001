@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNHLTOTAL-26JAN12SEANYR",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "NHL",
+    "competition_scope": "Point Total"
+  },
+  "series_ticker": "KXNHLTOTAL",
+  "strike_period": "",
+  "sub_title": "SEA at NYR (Jan 12)",
+  "title": "Seattle at New York R: Total Points"
+}

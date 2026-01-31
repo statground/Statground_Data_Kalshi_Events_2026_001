@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXUNRIVALEDGAME-26JAN12LCSLNR",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Unrivaled",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXUNRIVALEDGAME",
+  "strike_period": "",
+  "sub_title": "LCS at LNR (Jan 12)",
+  "title": "Laces at Lunar Owls"
+}

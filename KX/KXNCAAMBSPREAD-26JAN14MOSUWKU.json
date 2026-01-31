@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNCAAMBSPREAD-26JAN14MOSUWKU",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "College Basketball (M)",
+    "competition_scope": "Spread"
+  },
+  "series_ticker": "KXNCAAMBSPREAD",
+  "strike_period": "",
+  "sub_title": "MOSU at WKU (Jan 14)",
+  "title": "Missouri St. at Western Kentucky: Spread"
+}

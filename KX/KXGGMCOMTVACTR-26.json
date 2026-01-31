@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXGGMCOMTVACTR-26",
+  "mutually_exclusive": true,
+  "series_ticker": "KXGGMCOMTVACTR",
+  "strike_period": "",
+  "sub_title": "In 2026",
+  "title": "Golden Globe Award for Best Actress in a Television Series – Musical or Comedy?"
+}

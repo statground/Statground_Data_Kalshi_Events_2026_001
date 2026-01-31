@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": true,
+  "category": "Climate and Weather",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXLOWTAUS-26JAN11",
+  "mutually_exclusive": true,
+  "series_ticker": "KXLOWTAUS",
+  "strike_date": "2026-01-12T06:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Jan 11, 2026",
+  "title": "Lowest temperature in Austin on Jan 11, 2026?"
+}

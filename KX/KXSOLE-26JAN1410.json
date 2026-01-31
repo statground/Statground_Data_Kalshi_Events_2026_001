@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Crypto",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXSOLE-26JAN1410",
+  "mutually_exclusive": true,
+  "series_ticker": "KXSOLE",
+  "strike_date": "2026-01-14T15:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Jan 14, 2026 at 10am EST",
+  "title": "SOL price range on Jan 14, 2026 at 10am EST?"
+}

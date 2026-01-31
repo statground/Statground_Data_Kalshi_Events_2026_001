@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNBABLK-26JAN14NYKSAC",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Basketball (M)",
+    "competition_scope": "Player Blocks"
+  },
+  "series_ticker": "KXNBABLK",
+  "strike_period": "",
+  "sub_title": "NYK at SAC (Jan 14)",
+  "title": "New York at Sacramento: Blocks"
+}

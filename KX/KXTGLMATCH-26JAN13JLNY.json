@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXTGLMATCH-26JAN13JLNY",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Tomorrow's Golf League (TGL)",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXTGLMATCH",
+  "strike_period": "",
+  "sub_title": "Jupiter Links Golf Club vs New York Golf Club (Jan 13)",
+  "title": "Jupiter Links Golf Club vs New York Golf Club"
+}

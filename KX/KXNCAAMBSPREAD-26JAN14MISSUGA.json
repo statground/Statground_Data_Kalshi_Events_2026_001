@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNCAAMBSPREAD-26JAN14MISSUGA",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "College Basketball (M)",
+    "competition_scope": "Spread"
+  },
+  "series_ticker": "KXNCAAMBSPREAD",
+  "strike_period": "",
+  "sub_title": "MISS at UGA (Jan 14)",
+  "title": "Ole Miss at Georgia: Spread"
+}

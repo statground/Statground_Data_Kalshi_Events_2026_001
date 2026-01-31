@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXATPMATCH-26JAN11TIRVAV",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "ATP Adelaide",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXATPMATCH",
+  "strike_period": "",
+  "sub_title": "Tirante vs Vavassori",
+  "title": "Tirante vs Vavassori"
+}

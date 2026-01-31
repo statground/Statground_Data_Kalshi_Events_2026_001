@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNHLAST-26JAN12VANMTL",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "NHL",
+    "competition_scope": "Player Assists"
+  },
+  "series_ticker": "KXNHLAST",
+  "strike_period": "",
+  "sub_title": "VAN at MTL (Jan 12)",
+  "title": "VAN Canucks at MTL Canadiens: Assists"
+}

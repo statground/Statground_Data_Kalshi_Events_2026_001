@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXBILLBOARDRUNNERUPSONG-26JAN17",
+  "mutually_exclusive": true,
+  "series_ticker": "KXBILLBOARDRUNNERUPSONG",
+  "strike_period": "",
+  "sub_title": "On Jan 17, 2026",
+  "title": "Billboard Hot 100 #2 on Jan 17, 2026 chart?"
+}

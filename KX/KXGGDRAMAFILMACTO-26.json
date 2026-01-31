@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXGGDRAMAFILMACTO-26",
+  "mutually_exclusive": true,
+  "series_ticker": "KXGGDRAMAFILMACTO",
+  "strike_period": "",
+  "sub_title": "In 2026",
+  "title": "Golden Globe Award for Best Actor in a Motion Picture – Drama?"
+}

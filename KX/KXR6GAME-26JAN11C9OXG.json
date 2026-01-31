@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXR6GAME-26JAN11C9OXG",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "R6",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXR6GAME",
+  "strike_period": "",
+  "sub_title": "Cloud9 vs. Oxygen Esports (Jan 11)",
+  "title": "Six Invitational North America LCQ 2026: Cloud9 vs. Oxygen Esports"
+}

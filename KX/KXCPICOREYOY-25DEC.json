@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Economics",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXCPICOREYOY-25DEC",
+  "mutually_exclusive": false,
+  "series_ticker": "KXCPICOREYOY",
+  "strike_period": "December 2025",
+  "sub_title": "Dec 2025",
+  "title": "Core inflation in December 2025? (Core CPI YoY)"
+}

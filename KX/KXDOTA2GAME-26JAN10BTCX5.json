@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXDOTA2GAME-26JAN10BTCX5",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Dota 2",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXDOTA2GAME",
+  "strike_period": "",
+  "sub_title": "BTC Gaming vs. x5 Gaming (Jan 10)",
+  "title": "DreamLeague South America Closed Qualifier 2026: BTC Gaming vs. x5 Gaming"
+}

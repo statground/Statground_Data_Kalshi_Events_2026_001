@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXTACAPORTGAME-26JAN14FCPBEN",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Taca de Portugal",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXTACAPORTGAME",
+  "strike_period": "",
+  "sub_title": "FCP vs BEN (Jan 14)",
+  "title": "Porto vs SL Benfica"
+}

@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXKNVBCUPGAME-26JAN14AZAAJA",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "KNVB",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXKNVBCUPGAME",
+  "strike_period": "",
+  "sub_title": "AZA vs AJA (Jan 14)",
+  "title": "Alkmaar vs Ajax"
+}

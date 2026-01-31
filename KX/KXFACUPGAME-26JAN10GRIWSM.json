@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXFACUPGAME-26JAN10GRIWSM",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "FA Cup",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXFACUPGAME",
+  "strike_period": "",
+  "sub_title": "GRI vs WSM (Jan 10)",
+  "title": "Grimsby vs Weston-super-Mare"
+}

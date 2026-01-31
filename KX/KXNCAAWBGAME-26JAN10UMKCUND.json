@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNCAAWBGAME-26JAN10UMKCUND",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "College Basketball (W)",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXNCAAWBGAME",
+  "strike_period": "",
+  "sub_title": "UMKC at UND (Jan 10)",
+  "title": "Kansas City at North Dakota"
+}

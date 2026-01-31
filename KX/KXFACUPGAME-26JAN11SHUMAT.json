@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXFACUPGAME-26JAN11SHUMAT",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "FA Cup",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXFACUPGAME",
+  "strike_period": "",
+  "sub_title": "SHU vs MAT (Jan 11)",
+  "title": "Sheffield United vs Mansfield"
+}

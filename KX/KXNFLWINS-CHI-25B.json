@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNFLWINS-CHI-25B",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Football",
+    "competition_scope": "Win totals"
+  },
+  "series_ticker": "KXNFLWINS-CHI",
+  "strike_period": "",
+  "sub_title": "2025-26 season",
+  "title": "Chicago pro football wins this season?"
+}

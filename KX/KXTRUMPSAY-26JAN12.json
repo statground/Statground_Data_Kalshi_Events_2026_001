@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Mentions",
+  "collateral_return_type": "",
+  "event_ticker": "KXTRUMPSAY-26JAN12",
+  "mutually_exclusive": false,
+  "series_ticker": "KXTRUMPSAY",
+  "strike_period": "",
+  "sub_title": "Before Jan 12, 2026",
+  "title": "What will Trump say this week?"
+}

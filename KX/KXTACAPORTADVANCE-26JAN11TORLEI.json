@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXTACAPORTADVANCE-26JAN11TORLEI",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Taca de Portugal",
+    "competition_scope": "To Advance"
+  },
+  "series_ticker": "KXTACAPORTADVANCE",
+  "strike_period": "",
+  "sub_title": "TOR vs LEI (Jan 11)",
+  "title": "Torreense vs Leiria: To Advance"
+}

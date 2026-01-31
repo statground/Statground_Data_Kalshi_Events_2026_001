@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXKBLGAME-26JAN13WONKNI",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "South Korea KBL",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXKBLGAME",
+  "strike_period": "",
+  "sub_title": "WON at KNI (Jan 13)",
+  "title": "Wonju DB Promy at Seoul SK Knights"
+}

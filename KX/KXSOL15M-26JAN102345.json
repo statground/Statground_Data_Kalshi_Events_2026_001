@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Crypto",
+  "collateral_return_type": "",
+  "event_ticker": "KXSOL15M-26JAN102345",
+  "mutually_exclusive": false,
+  "series_ticker": "KXSOL15M",
+  "strike_date": "2026-01-11T04:45:00Z",
+  "strike_period": "",
+  "sub_title": "Jan 10 - 11:30PM EST to 11:45PM EST",
+  "title": "SOL Up or Down - 15 minutes"
+}

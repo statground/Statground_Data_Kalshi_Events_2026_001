@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXSERIEATOTAL-26JAN11VERLAZ",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Serie A",
+    "competition_scope": "Point Total"
+  },
+  "series_ticker": "KXSERIEATOTAL",
+  "strike_period": "",
+  "sub_title": "LAZ at VER (Jan 11)",
+  "title": "Lazio at Hellas Verona: Totals"
+}

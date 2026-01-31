@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXATPMATCH-26JAN12WATBUD",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Australian Open Men Singles",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXATPMATCH",
+  "strike_period": "",
+  "sub_title": "Watanuki vs Budkov Kjaer",
+  "title": "Watanuki vs Budkov Kjaer"
+}

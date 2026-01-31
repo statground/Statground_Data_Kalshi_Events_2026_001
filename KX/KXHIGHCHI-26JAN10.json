@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": true,
+  "category": "Climate and Weather",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXHIGHCHI-26JAN10",
+  "mutually_exclusive": true,
+  "series_ticker": "KXHIGHCHI",
+  "strike_date": "2026-01-11T04:59:00Z",
+  "strike_period": "",
+  "sub_title": "On Jan 10, 2026",
+  "title": "Highest temperature in Chicago on Jan 10, 2026?"
+}

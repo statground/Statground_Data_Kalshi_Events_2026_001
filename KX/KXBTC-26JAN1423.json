@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": true,
+  "category": "Crypto",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXBTC-26JAN1423",
+  "mutually_exclusive": true,
+  "series_ticker": "KXBTC",
+  "strike_date": "2026-01-15T04:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Jan 14, 2026 at 11pm EST",
+  "title": "Bitcoin price range on Jan 14, 2026 at 11pm EST?"
+}

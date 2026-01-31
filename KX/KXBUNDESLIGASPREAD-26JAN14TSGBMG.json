@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXBUNDESLIGASPREAD-26JAN14TSGBMG",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Bundesliga",
+    "competition_scope": "Spread"
+  },
+  "series_ticker": "KXBUNDESLIGASPREAD",
+  "strike_period": "",
+  "sub_title": "BMG at TSG (Jan 14)",
+  "title": "M´gladbach at Hoffenheim: Spreads"
+}

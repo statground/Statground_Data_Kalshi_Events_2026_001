@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXBUNDESLIGASPREAD-26JAN10LEVVFB",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Bundesliga",
+    "competition_scope": "Spread"
+  },
+  "series_ticker": "KXBUNDESLIGASPREAD",
+  "strike_period": "",
+  "sub_title": "VFB at LEV (Jan 10)",
+  "title": "Stuttgart at Leverkusen: Spreads"
+}

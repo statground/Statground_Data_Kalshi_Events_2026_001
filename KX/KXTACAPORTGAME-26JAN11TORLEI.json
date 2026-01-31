@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXTACAPORTGAME-26JAN11TORLEI",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Taca de Portugal",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXTACAPORTGAME",
+  "strike_period": "",
+  "sub_title": "TOR vs LEI (Jan 11)",
+  "title": "Torreense vs Leiria"
+}

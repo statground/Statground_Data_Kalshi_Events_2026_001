@@ -1,0 +1,14 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXRANKLISTCS2PLAYER-26JAN",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "CS2"
+  },
+  "series_ticker": "KXRANKLISTCS2PLAYER",
+  "strike_period": "",
+  "sub_title": "2025 HLTV Awards",
+  "title": "HLTV Awards: Player of the Year"
+}

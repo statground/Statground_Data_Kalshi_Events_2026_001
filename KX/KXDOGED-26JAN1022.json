@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Crypto",
+  "collateral_return_type": "",
+  "event_ticker": "KXDOGED-26JAN1022",
+  "mutually_exclusive": false,
+  "series_ticker": "KXDOGED",
+  "strike_date": "2026-01-11T03:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Jan 10, 2026 at 10pm EST",
+  "title": "Dogecoin price  on Jan 10, 2026 at 10pm EST?"
+}

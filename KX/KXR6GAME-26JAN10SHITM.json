@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXR6GAME-26JAN10SHITM",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "R6",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXR6GAME",
+  "strike_period": "",
+  "sub_title": "Shifters vs. Twisted Minds (Jan 10)",
+  "title": "Six Invitational Europe and MENA LCQ 2026: Shifters vs. Twisted Minds"
+}

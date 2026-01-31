@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXWTAMATCH-26JAN12PARPRI",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Australian Open Women Singles",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXWTAMATCH",
+  "strike_period": "",
+  "sub_title": "Parry vs Pridankina",
+  "title": "Parry vs Pridankina"
+}

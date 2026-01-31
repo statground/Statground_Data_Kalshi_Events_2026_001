@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Economics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCPICOREA-2025",
+  "mutually_exclusive": true,
+  "series_ticker": "KXCPICOREA",
+  "strike_period": "",
+  "sub_title": "In 2025",
+  "title": "Core inflation in 2025?"
+}

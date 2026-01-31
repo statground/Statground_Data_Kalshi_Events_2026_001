@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCOPADELREYGAME-26JAN14RBBELC",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Copa del Rey",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXCOPADELREYGAME",
+  "strike_period": "",
+  "sub_title": "RBB vs ELC (Jan 14)",
+  "title": "Real Betis vs Elche"
+}

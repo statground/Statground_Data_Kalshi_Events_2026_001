@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": true,
+  "category": "Climate and Weather",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXLOWTLAX-26JAN11",
+  "mutually_exclusive": true,
+  "series_ticker": "KXLOWTLAX",
+  "strike_date": "2026-01-12T08:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Jan 11, 2026",
+  "title": "Lowest temperature in Los Angeles on Jan 11, 2026?"
+}

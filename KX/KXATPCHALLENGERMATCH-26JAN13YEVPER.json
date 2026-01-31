@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXATPCHALLENGERMATCH-26JAN13YEVPER",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "ATP Challenger Glasgow",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXATPCHALLENGERMATCH",
+  "strike_period": "",
+  "sub_title": "Yevseyev vs Pereira",
+  "title": "Yevseyev vs Pereira"
+}
