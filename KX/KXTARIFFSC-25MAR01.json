@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "",
+  "event_ticker": "KXTARIFFSC-25MAR01",
+  "mutually_exclusive": false,
+  "series_ticker": "KXTARIFFSC",
+  "strike_period": "",
+  "sub_title": "Before Mar 1, 2025",
+  "title": "Will Trump impose tariffs on any country before Mar 2025?"
+}

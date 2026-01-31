@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXATPIWO-25PAUMED",
+  "mutually_exclusive": true,
+  "series_ticker": "KXATPIWO",
+  "strike_period": "",
+  "sub_title": "Paul vs Medvedev",
+  "title": "ATP Indian Wells: Paul or Medvedev advances?"
+}

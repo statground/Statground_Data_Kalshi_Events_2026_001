@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXUCLROUND-25BRUAVL",
+  "mutually_exclusive": true,
+  "series_ticker": "KXUCLROUND",
+  "strike_period": "",
+  "sub_title": "On Mar 4, 2025",
+  "title": "Club Brugge vs Aston Villa"
+}

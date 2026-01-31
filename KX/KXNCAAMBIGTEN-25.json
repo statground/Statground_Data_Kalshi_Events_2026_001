@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNCAAMBIGTEN-25",
+  "mutually_exclusive": true,
+  "series_ticker": "KXNCAAMBIGTEN",
+  "strike_period": "",
+  "sub_title": "On Mar 16, 2025",
+  "title": "Big Ten Men's Basketball Tournament Winner?"
+}

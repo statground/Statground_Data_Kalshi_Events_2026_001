@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNCAAMIVYLEAGUE-25",
+  "mutually_exclusive": true,
+  "series_ticker": "KXNCAAMIVYLEAGUE",
+  "strike_period": "",
+  "sub_title": "On Mar 16, 2025",
+  "title": "Ivy League Men's Basketball Tournament Winner?"
+}

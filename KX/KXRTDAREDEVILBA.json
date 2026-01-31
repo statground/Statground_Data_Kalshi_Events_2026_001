@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXRTDAREDEVILBA",
+  "mutually_exclusive": false,
+  "series_ticker": "KXRTDAREDEVILBA",
+  "strike_period": "",
+  "sub_title": "Day after the premiere",
+  "title": "\"Daredevil: Born Again\" Rotten Tomatoes score?"
+}

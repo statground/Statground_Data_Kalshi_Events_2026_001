@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "",
+  "event_ticker": "KXLAMAYORRESIGN-25",
+  "mutually_exclusive": false,
+  "series_ticker": "KXLAMAYORRESIGN",
+  "strike_period": "",
+  "sub_title": "Before Mar 2025",
+  "title": "Will the Mayor of LA resign before Mar 2025?"
+}

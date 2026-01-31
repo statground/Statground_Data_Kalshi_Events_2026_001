@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXPCECORE-25JAN",
+  "mutually_exclusive": false,
+  "series_ticker": "KXPCECORE",
+  "strike_period": "January 2025",
+  "sub_title": "In Jan 2025",
+  "title": "What will the rate of core PCE inflation be in January 2025?"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXSPOTIFYARTISTW-25FEB07",
+  "mutually_exclusive": true,
+  "series_ticker": "KXSPOTIFYARTISTW",
+  "strike_period": "",
+  "sub_title": "On Feb 7, 2025 Chart",
+  "title": "Top Artist on Weekly Top Artists USA on Feb 7, 2025?"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXSPOTIFYVIRALD-25FEB11",
+  "mutually_exclusive": true,
+  "series_ticker": "KXSPOTIFYVIRALD",
+  "strike_period": "",
+  "sub_title": "On Feb 11, 2025 Chart",
+  "title": "Top Viral USA Song on Spotify on Feb 11, 2025?"
+}

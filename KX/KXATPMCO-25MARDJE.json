@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXATPMCO-25MARDJE",
+  "mutually_exclusive": true,
+  "series_ticker": "KXATPMCO",
+  "strike_period": "",
+  "sub_title": "Martinez vs Djere",
+  "title": "ATP Santiago: Martinez or Djere advances?"
+}

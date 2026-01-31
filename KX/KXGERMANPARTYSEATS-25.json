@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Elections",
+  "collateral_return_type": "",
+  "event_ticker": "KXGERMANPARTYSEATS-25",
+  "mutually_exclusive": false,
+  "series_ticker": "KXGERMANPARTYSEATS",
+  "strike_period": "",
+  "sub_title": "In 2025",
+  "title": "Will the CDU/CSU, SPD, and Greens have at least 399 seats after the 2025 German election?"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXATPAMT-25VUKPAC",
+  "mutually_exclusive": true,
+  "series_ticker": "KXATPAMT",
+  "strike_period": "",
+  "sub_title": "Vukic vs Pacheco Mendez",
+  "title": "ATP Acapulco: Vukic or Pacheco Mendez advances?"
+}

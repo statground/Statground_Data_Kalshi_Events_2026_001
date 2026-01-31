@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXNASDAQ100U-25MAR03H1500",
+  "mutually_exclusive": false,
+  "series_ticker": "KXNASDAQ100U",
+  "strike_date": "2025-03-03T20:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Mar 3, 2025 at 3pm EST",
+  "title": "Nasdaq price on Mar 3, 2025 at 3pm EST?"
+}

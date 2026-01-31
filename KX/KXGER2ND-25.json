@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Elections",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXGER2ND-25",
+  "mutually_exclusive": true,
+  "series_ticker": "KXGER2ND",
+  "strike_period": "",
+  "sub_title": "In The 2025 election",
+  "title": "Who will get 2nd in the German election?"
+}

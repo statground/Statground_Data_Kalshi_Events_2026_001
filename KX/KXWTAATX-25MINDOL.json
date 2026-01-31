@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXWTAATX-25MINDOL",
+  "mutually_exclusive": true,
+  "series_ticker": "KXWTAATX",
+  "strike_period": "",
+  "sub_title": "Minnen vs Dolehide",
+  "title": "WTA Austin: Minnen or Dolehide advances?"
+}

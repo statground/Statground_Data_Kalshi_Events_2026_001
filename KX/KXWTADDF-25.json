@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXWTADDF-25",
+  "mutually_exclusive": true,
+  "series_ticker": "KXWTADDF",
+  "strike_period": "",
+  "sub_title": "Rybakina vs Andreeva",
+  "title": "WTA Dubai: Rybakina or Andreeva advances?"
+}

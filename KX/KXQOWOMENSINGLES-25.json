@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXQOWOMENSINGLES-25",
+  "mutually_exclusive": true,
+  "series_ticker": "KXQOWOMENSINGLES",
+  "strike_period": "",
+  "sub_title": "On Feb 16, 2025",
+  "title": "Qatar Open Women's Singles Champion?"
+}

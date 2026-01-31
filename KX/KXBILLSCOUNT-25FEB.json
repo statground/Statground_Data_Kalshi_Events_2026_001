@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXBILLSCOUNT-25FEB",
+  "mutually_exclusive": true,
+  "series_ticker": "KXBILLSCOUNT",
+  "strike_period": "",
+  "sub_title": "In Feb 2025",
+  "title": "How many bills will President Trump sign in Feb 2025?"
+}

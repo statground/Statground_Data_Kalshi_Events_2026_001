@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXHIGHNY-25FEB14",
+  "mutually_exclusive": true,
+  "series_ticker": "KXHIGHNY",
+  "strike_date": "2025-02-15T04:59:00Z",
+  "strike_period": "",
+  "sub_title": "On Feb 14, 2025",
+  "title": "Highest temperature in NYC on Feb 14, 2025?"
+}

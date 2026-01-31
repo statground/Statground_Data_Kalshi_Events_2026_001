@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXUSDJPYH-25MAR0616",
+  "mutually_exclusive": false,
+  "series_ticker": "KXUSDJPYH",
+  "strike_date": "2025-03-06T21:00:00Z",
+  "strike_period": "",
+  "sub_title": "Mar 6, 2025 at 4pm EST",
+  "title": "USD/JPY price range on Mar 6, 2025 at 4pm EST?"
+}

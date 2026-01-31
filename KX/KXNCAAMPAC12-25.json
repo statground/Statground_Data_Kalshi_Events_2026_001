@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNCAAMPAC12-25",
+  "mutually_exclusive": true,
+  "series_ticker": "KXNCAAMPAC12",
+  "strike_period": "",
+  "sub_title": "On Mar 15, 2025",
+  "title": "Pac-12 Men's Basketball Tournament Winner?"
+}

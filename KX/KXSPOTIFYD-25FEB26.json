@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXSPOTIFYD-25FEB26",
+  "mutually_exclusive": true,
+  "series_ticker": "KXSPOTIFYD",
+  "strike_period": "",
+  "sub_title": "On Feb 26, 2025 Chart",
+  "title": "Top USA Song on Spotify on Feb 26, 2025?"
+}

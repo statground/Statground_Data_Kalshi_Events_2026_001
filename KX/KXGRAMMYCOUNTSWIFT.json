@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXGRAMMYCOUNTSWIFT",
+  "mutually_exclusive": true,
+  "series_ticker": "KXGRAMMYCOUNTSWIFT",
+  "strike_period": "",
+  "sub_title": "At the 2025 Grammys",
+  "title": "How many Grammys will Taylor Swift win?"
+}

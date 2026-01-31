@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "INXI-25FEB12H1000",
+  "mutually_exclusive": false,
+  "series_ticker": "INXI",
+  "strike_date": "2025-02-12T15:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Feb 12, 2025 at 10am EST",
+  "title": "What will the value of the S&P 500 be on Feb 12, 2025 at 10am EST?"
+}

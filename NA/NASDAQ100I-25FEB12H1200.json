@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "NASDAQ100I-25FEB12H1200",
+  "mutually_exclusive": false,
+  "series_ticker": "NASDAQ100I",
+  "strike_date": "2025-02-12T17:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Feb 12, 2025 at 12pm EST",
+  "title": "What will the value of the NASDAQ100 be on Feb 12, 2025 at 12pm EST?"
+}

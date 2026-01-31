@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXATPIWO-25DIMALC",
+  "mutually_exclusive": true,
+  "series_ticker": "KXATPIWO",
+  "strike_period": "",
+  "sub_title": "Dimitrov vs Alcaraz",
+  "title": "ATP Indian Wells: Dimitrov or Alcaraz advances?"
+}

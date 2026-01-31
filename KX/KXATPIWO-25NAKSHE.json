@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXATPIWO-25NAKSHE",
+  "mutually_exclusive": true,
+  "series_ticker": "KXATPIWO",
+  "strike_period": "",
+  "sub_title": "Nakashima vs Shelton",
+  "title": "ATP Indian Wells: Nakashima or Shelton advances?"
+}

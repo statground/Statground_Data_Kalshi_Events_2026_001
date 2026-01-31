@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXWTAATX-25PEGPAR",
+  "mutually_exclusive": true,
+  "series_ticker": "KXWTAATX",
+  "strike_period": "",
+  "sub_title": "Pegula vs Parrizas Diaz",
+  "title": "WTA Austin: Pegula or Parrizas Diaz advances?"
+}

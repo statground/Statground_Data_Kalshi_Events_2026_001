@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXWTAATX-25PROSHN",
+  "mutually_exclusive": true,
+  "series_ticker": "KXWTAATX",
+  "strike_period": "",
+  "sub_title": "Prozorova vs Shnaider",
+  "title": "WTA Austin: Prozorova or Shnaider advances?"
+}

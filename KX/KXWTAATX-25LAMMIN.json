@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXWTAATX-25LAMMIN",
+  "mutually_exclusive": true,
+  "series_ticker": "KXWTAATX",
+  "strike_period": "",
+  "sub_title": "Lamens vs Minnen",
+  "title": "WTA Austin: Lamens or Minnen advances?"
+}

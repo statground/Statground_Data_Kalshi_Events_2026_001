@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXATPIWO-25DRAFRI",
+  "mutually_exclusive": true,
+  "series_ticker": "KXATPIWO",
+  "strike_period": "",
+  "sub_title": "Draper vs Fritz",
+  "title": "ATP Indian Wells: Draper or Fritz advances?"
+}

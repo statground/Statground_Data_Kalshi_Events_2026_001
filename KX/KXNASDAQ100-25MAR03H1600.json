@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNASDAQ100-25MAR03H1600",
+  "mutually_exclusive": true,
+  "series_ticker": "KXNASDAQ100",
+  "strike_date": "2025-03-03T21:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Mar 3, 2025 at 4pm EST",
+  "title": "Nasdaq price range on Mar 3, 2025 at 4pm EST?"
+}

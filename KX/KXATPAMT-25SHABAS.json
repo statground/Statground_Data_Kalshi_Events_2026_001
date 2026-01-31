@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXATPAMT-25SHABAS",
+  "mutually_exclusive": true,
+  "series_ticker": "KXATPAMT",
+  "strike_period": "",
+  "sub_title": "Shapovalov vs Basavareddy",
+  "title": "ATP Acapulco: Shapovalov or Basavareddy advances?"
+}

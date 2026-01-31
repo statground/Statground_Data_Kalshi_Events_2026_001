@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXHIGHMIA-25MAR03",
+  "mutually_exclusive": true,
+  "series_ticker": "KXHIGHMIA",
+  "strike_date": "2025-03-04T04:59:00Z",
+  "strike_period": "",
+  "sub_title": "On Mar 3, 2025",
+  "title": "Highest temperature in Miami on Mar 3, 2025?"
+}

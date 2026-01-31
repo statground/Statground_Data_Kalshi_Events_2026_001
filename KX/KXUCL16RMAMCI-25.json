@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXUCL16RMAMCI-25",
+  "mutually_exclusive": true,
+  "series_ticker": "KXUCL16RMAMCI",
+  "strike_period": "",
+  "sub_title": "To the Round of 16",
+  "title": "Champions League: Real Madrid or Manchester City advances?"
+}

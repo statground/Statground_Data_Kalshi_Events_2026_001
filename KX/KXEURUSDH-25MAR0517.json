@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXEURUSDH-25MAR0517",
+  "mutually_exclusive": false,
+  "series_ticker": "KXEURUSDH",
+  "strike_date": "2025-03-05T22:00:00Z",
+  "strike_period": "",
+  "sub_title": "Mar 5, 2025 at 5pm EST",
+  "title": "EUR/USD price range on Mar 5, 2025 at 5pm EST?"
+}

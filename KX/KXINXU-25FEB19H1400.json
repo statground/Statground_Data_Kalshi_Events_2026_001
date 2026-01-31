@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXINXU-25FEB19H1400",
+  "mutually_exclusive": false,
+  "series_ticker": "KXINXU",
+  "strike_date": "2025-02-19T19:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Feb 19, 2025 at 2pm EST",
+  "title": "S&P price on Feb 19, 2025 at 2pm EST?"
+}

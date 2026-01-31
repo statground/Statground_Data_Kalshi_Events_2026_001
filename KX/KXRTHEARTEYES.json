@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXRTHEARTEYES",
+  "mutually_exclusive": false,
+  "series_ticker": "KXRTHEARTEYES",
+  "strike_period": "",
+  "sub_title": "On Monday following wide release",
+  "title": "\"Heart Eyes\" Rotten Tomatoes score?"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Elections",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXLINKEPERCENT-25",
+  "mutually_exclusive": true,
+  "series_ticker": "KXLINKEPERCENT",
+  "strike_period": "",
+  "sub_title": "In the 2025 election",
+  "title": "Will the Left get 5% of the vote in the German election?"
+}

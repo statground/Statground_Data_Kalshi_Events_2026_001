@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXATPAMT-25MACNAK",
+  "mutually_exclusive": true,
+  "series_ticker": "KXATPAMT",
+  "strike_period": "",
+  "sub_title": "Machac vs Nakashima",
+  "title": "ATP Acapulco: Machac or Nakashima advances?"
+}

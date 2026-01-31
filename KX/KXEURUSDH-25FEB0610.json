@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXEURUSDH-25FEB0610",
+  "mutually_exclusive": false,
+  "series_ticker": "KXEURUSDH",
+  "strike_date": "2025-02-06T15:00:00Z",
+  "strike_period": "",
+  "sub_title": "Feb 6, 2025 at 10am EST",
+  "title": "EUR/USD price range on Feb 6, 2025 at 10am EST?"
+}

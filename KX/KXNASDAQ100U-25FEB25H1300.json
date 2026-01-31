@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXNASDAQ100U-25FEB25H1300",
+  "mutually_exclusive": false,
+  "series_ticker": "KXNASDAQ100U",
+  "strike_date": "2025-02-25T18:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Feb 25, 2025 at 1pm EST",
+  "title": "Nasdaq price on Feb 25, 2025 at 1pm EST?"
+}

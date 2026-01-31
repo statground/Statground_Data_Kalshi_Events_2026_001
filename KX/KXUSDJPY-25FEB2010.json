@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXUSDJPY-25FEB2010",
+  "mutually_exclusive": true,
+  "series_ticker": "KXUSDJPY",
+  "strike_date": "2025-02-20T15:00:00Z",
+  "strike_period": "",
+  "sub_title": "Feb 20, 2025 at 10am EST",
+  "title": "USD/JPY price range on Feb 20, 2025 at 10am EST?"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXWTAMOA-25SAVKAL",
+  "mutually_exclusive": true,
+  "series_ticker": "KXWTAMOA",
+  "strike_period": "",
+  "sub_title": "Saville vs Kalinina",
+  "title": "WTA Merida: Saville or Kalinina advances?"
+}

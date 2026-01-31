@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXOSCARCOUNTEMILIAPEREZ",
+  "mutually_exclusive": true,
+  "series_ticker": "KXOSCARCOUNTEMILIAPEREZ",
+  "strike_period": "",
+  "sub_title": "At the 2025 Oscars",
+  "title": "How many Oscars will “Emilia Perez” win?"
+}

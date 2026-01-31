@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXWTAIWO-25ANDSVI",
+  "mutually_exclusive": true,
+  "series_ticker": "KXWTAIWO",
+  "strike_period": "",
+  "sub_title": "Andreeva vs Svitolina",
+  "title": "WTA Indian Wells: Andreeva or Svitolina advances?"
+}

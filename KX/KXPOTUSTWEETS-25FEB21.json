@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXPOTUSTWEETS-25FEB21",
+  "mutually_exclusive": true,
+  "series_ticker": "KXPOTUSTWEETS",
+  "strike_period": "",
+  "sub_title": "Ending Feb 21, 2025",
+  "title": "How many times will Trump (@POTUS) post on X this week?"
+}

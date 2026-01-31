@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXATPAMT-25MICYUN",
+  "mutually_exclusive": true,
+  "series_ticker": "KXATPAMT",
+  "strike_period": "",
+  "sub_title": "Michelsen vs Bu",
+  "title": "ATP Acapulco: Michelsen or Bu advances?"
+}

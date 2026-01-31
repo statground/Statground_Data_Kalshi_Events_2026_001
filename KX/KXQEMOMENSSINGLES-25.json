@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXQEMOMENSSINGLES-25",
+  "mutually_exclusive": true,
+  "series_ticker": "KXQEMOMENSSINGLES",
+  "strike_period": "",
+  "sub_title": "On Feb 22, 2025",
+  "title": "ATP Doha Tennis Winner?"
+}

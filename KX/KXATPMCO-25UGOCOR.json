@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXATPMCO-25UGOCOR",
+  "mutually_exclusive": true,
+  "series_ticker": "KXATPMCO",
+  "strike_period": "",
+  "sub_title": "Ugo Carabelli vs Coria",
+  "title": "ATP Santiago: Ugo Carabelli or Coria advances?"
+}

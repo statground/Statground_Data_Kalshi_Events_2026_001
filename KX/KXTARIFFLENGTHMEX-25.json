@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "",
+  "event_ticker": "KXTARIFFLENGTHMEX-25",
+  "mutually_exclusive": false,
+  "series_ticker": "KXTARIFFLENGTHMEX",
+  "strike_period": "",
+  "sub_title": "Current Tariffs on Mexico",
+  "title": "When will Trump's tariffs on Mexico end or change?"
+}

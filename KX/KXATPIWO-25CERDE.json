@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXATPIWO-25CERDE",
+  "mutually_exclusive": true,
+  "series_ticker": "KXATPIWO",
+  "strike_period": "",
+  "sub_title": "Cerundolo vs de Minaur",
+  "title": "ATP Indian Wells: Cerundolo or de Minaur advances?"
+}

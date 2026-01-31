@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXUCL16PSGSTB-25",
+  "mutually_exclusive": true,
+  "series_ticker": "KXUCL16PSGSTB",
+  "strike_period": "",
+  "sub_title": "To the Round of 16",
+  "title": "Champions League: Paris Saint-Germain or Stade Brest 29 advances?"
+}

@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Crypto",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXBTC-25FEB2821",
+  "mutually_exclusive": true,
+  "series_ticker": "KXBTC",
+  "strike_date": "2025-03-01T02:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Feb 28, 2025 at 9pm EST",
+  "title": "Bitcoin price range on Feb 28, 2025 at 9pm EST?"
+}

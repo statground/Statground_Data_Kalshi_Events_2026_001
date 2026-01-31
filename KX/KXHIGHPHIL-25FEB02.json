@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXHIGHPHIL-25FEB02",
+  "mutually_exclusive": true,
+  "series_ticker": "KXHIGHPHIL",
+  "strike_period": "",
+  "sub_title": "On Feb 2, 2025",
+  "title": "Highest temperature in Philadelphia on Feb 2, 2025?"
+}

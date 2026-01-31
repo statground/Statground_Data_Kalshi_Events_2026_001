@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "",
+  "event_ticker": "KXCPICOREYOY-25JAN",
+  "mutually_exclusive": false,
+  "series_ticker": "KXCPICOREYOY",
+  "strike_period": "January 2025",
+  "sub_title": "Jan 2025",
+  "title": "Core inflation in Jan 2025? (Core CPI YoY)"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Elections",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCDUPERCENT-25",
+  "mutually_exclusive": true,
+  "series_ticker": "KXCDUPERCENT",
+  "strike_period": "",
+  "sub_title": "The 2025 election",
+  "title": "What share of the vote will the CDU/CSU get in the German election?"
+}

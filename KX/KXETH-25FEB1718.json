@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Crypto",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXETH-25FEB1718",
+  "mutually_exclusive": true,
+  "series_ticker": "KXETH",
+  "strike_date": "2025-02-17T23:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Feb 17, 2025 at 6pm EST",
+  "title": "Ethereum price range on Feb 17, 2025 at 6pm EST?"
+}

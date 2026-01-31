@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXPGATOUR-APIPBM25",
+  "mutually_exclusive": true,
+  "series_ticker": "KXPGATOUR",
+  "strike_period": "",
+  "sub_title": "2025 Arnold Palmer Invitational",
+  "title": "Arnold Palmer Invitational Winner?"
+}

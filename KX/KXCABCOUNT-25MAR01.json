@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCABCOUNT-25MAR01",
+  "mutually_exclusive": true,
+  "series_ticker": "KXCABCOUNT",
+  "strike_period": "",
+  "sub_title": "Before March 1, 2025",
+  "title": "How many Cabinet members will Trump get confirmed before March?"
+}

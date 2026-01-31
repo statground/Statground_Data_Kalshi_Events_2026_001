@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXGRAMMYCOUNTKENDRICK",
+  "mutually_exclusive": true,
+  "series_ticker": "KXGRAMMYCOUNTKENDRICK",
+  "strike_period": "",
+  "sub_title": "At the 2025 Grammys",
+  "title": "How many Grammys will Kendrick Lamar win?"
+}

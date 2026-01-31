@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCITIESWEATHER-25FEB28(AUS)(CHI)",
+  "mutually_exclusive": true,
+  "series_ticker": "KXCITIESWEATHER",
+  "strike_period": "",
+  "sub_title": "Austin and Chicago on Feb 28, 2025",
+  "title": "Highest temperature in Austin and Chicago on Feb 28, 2025?"
+}

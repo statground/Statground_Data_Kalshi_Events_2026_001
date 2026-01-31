@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNHL4NATIONS-25",
+  "mutually_exclusive": true,
+  "series_ticker": "KXNHL4NATIONS",
+  "strike_period": "",
+  "sub_title": "On Feb 20, 2025",
+  "title": "4 Nations Face-Off Winner?"
+}

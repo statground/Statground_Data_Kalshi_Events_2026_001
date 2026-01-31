@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXRTLASTBREATH",
+  "mutually_exclusive": false,
+  "series_ticker": "KXRTLASTBREATH",
+  "strike_period": "",
+  "sub_title": "On Monday following wide release",
+  "title": "\"Last Breath\" Rotten Tomatoes score?"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXSPOTIFYVIRALD-25JAN26",
+  "mutually_exclusive": true,
+  "series_ticker": "KXSPOTIFYVIRALD",
+  "strike_period": "",
+  "sub_title": "On Jan 26, 2025 Chart",
+  "title": "Top Viral USA Song on Spotify on Jan 26, 2025?"
+}

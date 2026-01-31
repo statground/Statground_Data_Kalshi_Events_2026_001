@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXUFCTITLE-UFC313PERANK",
+  "mutually_exclusive": true,
+  "series_ticker": "KXUFCTITLE",
+  "strike_period": "",
+  "sub_title": "UFC 313 - Pereira vs Ankalaev",
+  "title": "UFC 313: Pereira vs Ankalaev"
+}

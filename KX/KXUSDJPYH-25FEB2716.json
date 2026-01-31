@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXUSDJPYH-25FEB2716",
+  "mutually_exclusive": false,
+  "series_ticker": "KXUSDJPYH",
+  "strike_date": "2025-02-27T21:00:00Z",
+  "strike_period": "",
+  "sub_title": "Feb 27, 2025 at 4pm EST",
+  "title": "USD/JPY price range on Feb 27, 2025 at 4pm EST?"
+}

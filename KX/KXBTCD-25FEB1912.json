@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Crypto",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXBTCD-25FEB1912",
+  "mutually_exclusive": false,
+  "series_ticker": "KXBTCD",
+  "strike_date": "2025-02-19T17:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Feb 19, 2025 at 12pm EST",
+  "title": "Bitcoin price on Feb 19, 2025 at 12pm EST?"
+}

@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXWTI-25FEB06",
+  "mutually_exclusive": true,
+  "series_ticker": "KXWTI",
+  "strike_date": "2025-02-06T19:30:00Z",
+  "strike_period": "",
+  "sub_title": "On Feb 6, 2025",
+  "title": "WTI oil price on Feb 6, 2025?"
+}

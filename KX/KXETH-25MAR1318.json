@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Crypto",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXETH-25MAR1318",
+  "mutually_exclusive": true,
+  "series_ticker": "KXETH",
+  "strike_date": "2025-03-13T22:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Mar 13, 2025 at 6pm EDT",
+  "title": "Ethereum price range on Mar 13, 2025 at 6pm EDT?"
+}
