@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNBA3PT-25DEC14CHACLE",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Basketball (M)",
+    "competition_scope": "Player Threes"
+  },
+  "series_ticker": "KXNBA3PT",
+  "strike_period": "",
+  "sub_title": "CHA at CLE (Dec 14)",
+  "title": "Charlotte at Cleveland: Three Pointers"
+}

@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXUECLGAME-25DEC11CSUSPA",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Conference League",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXUECLGAME",
+  "strike_period": "",
+  "sub_title": "CSU vs SPA (Dec 11)",
+  "title": "Uni Craiova vs Sparta Prague"
+}

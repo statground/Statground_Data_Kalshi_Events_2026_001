@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXLALIGAGAME-25DEC15RVCRBB",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "La Liga",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXLALIGAGAME",
+  "strike_period": "",
+  "sub_title": "RVC vs RBB (Dec 15)",
+  "title": "Vallecano vs Real Betis"
+}

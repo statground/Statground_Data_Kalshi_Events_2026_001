@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXDARTSMATCH-25DEC13JDEPLIM",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "PDC World Championship",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXDARTSMATCH",
+  "strike_period": "",
+  "sub_title": "Jeffrey de Graaf vs Paul Lim (Dec 13)",
+  "title": "Jeffrey de Graaf vs Paul Lim"
+}

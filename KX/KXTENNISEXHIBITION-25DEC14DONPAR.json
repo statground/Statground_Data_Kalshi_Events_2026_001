@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXTENNISEXHIBITION-25DEC14DONPAR",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Czech Tennis Extraliga Singles",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXTENNISEXHIBITION",
+  "strike_period": "",
+  "sub_title": "Donald vs Paral",
+  "title": "Donald vs Paral"
+}

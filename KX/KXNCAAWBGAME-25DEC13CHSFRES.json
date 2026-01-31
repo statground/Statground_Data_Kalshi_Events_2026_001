@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNCAAWBGAME-25DEC13CHSFRES",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "College Basketball (W)",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXNCAAWBGAME",
+  "strike_period": "",
+  "sub_title": "CHS at FRES (Dec 13)",
+  "title": "Chicago St. at Fresno St."
+}

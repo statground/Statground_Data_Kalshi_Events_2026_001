@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNCAAMBSPREAD-25DEC14QUCWAKE",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "College Basketball (M)",
+    "competition_scope": "Spread"
+  },
+  "series_ticker": "KXNCAAMBSPREAD",
+  "strike_period": "",
+  "sub_title": "QUC at WAKE (Dec 14)",
+  "title": "Queens University at Wake Forest: Spread"
+}

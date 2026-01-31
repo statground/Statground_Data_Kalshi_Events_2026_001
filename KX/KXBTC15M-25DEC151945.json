@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Crypto",
+  "collateral_return_type": "",
+  "event_ticker": "KXBTC15M-25DEC151945",
+  "mutually_exclusive": false,
+  "series_ticker": "KXBTC15M",
+  "strike_date": "2025-12-16T00:45:00Z",
+  "strike_period": "",
+  "sub_title": "Dec 15 - 7:30PM EST to 7:45PM EST",
+  "title": "BTC Up or Down - 15 minutes"
+}

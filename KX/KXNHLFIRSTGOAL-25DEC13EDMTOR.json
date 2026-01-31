@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNHLFIRSTGOAL-25DEC13EDMTOR",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "NHL",
+    "competition_scope": "1st Goalscorer"
+  },
+  "series_ticker": "KXNHLFIRSTGOAL",
+  "strike_period": "",
+  "sub_title": "EDM at TOR (Dec 13)",
+  "title": "EDM Oilers at TOR Maple Leafs: First Goal"
+}

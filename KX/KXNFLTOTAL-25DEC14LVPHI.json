@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNFLTOTAL-25DEC14LVPHI",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Football",
+    "competition_scope": "Point Total"
+  },
+  "series_ticker": "KXNFLTOTAL",
+  "strike_period": "",
+  "sub_title": "LV at PHI (Dec 14)",
+  "title": "Las Vegas at Philadelphia: Total Points"
+}

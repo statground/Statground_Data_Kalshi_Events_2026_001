@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNBAGAME-25DEC12MINGSW",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Pro Basketball (M)",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXNBAGAME",
+  "strike_period": "",
+  "sub_title": "MIN at GSW (Dec 12)",
+  "title": "Minnesota vs Golden State"
+}

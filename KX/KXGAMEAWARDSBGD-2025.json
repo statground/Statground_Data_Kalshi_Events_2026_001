@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXGAMEAWARDSBGD-2025",
+  "mutually_exclusive": true,
+  "series_ticker": "KXGAMEAWARDSBGD",
+  "strike_period": "",
+  "sub_title": "In 2025",
+  "title": "Game Awards for Best Game Direction?"
+}

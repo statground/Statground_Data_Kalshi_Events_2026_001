@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXUCLGOAL-25DEC09PSVATM",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "UCL",
+    "competition_scope": "Goalscorer"
+  },
+  "series_ticker": "KXUCLGOAL",
+  "strike_period": "",
+  "sub_title": "ATM at PSV (Dec 9)",
+  "title": "Atletico at Eindhoven: Anytime Goalscorer"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Entertainment",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXRTELLAMCCAY",
+  "mutually_exclusive": false,
+  "series_ticker": "KXRTELLAMCCAY",
+  "strike_period": "",
+  "sub_title": "Dec 15, 2025",
+  "title": "\"Ella McCay\" Rotten Tomatoes score?"
+}

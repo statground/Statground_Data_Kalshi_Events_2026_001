@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXLOWTMIA-25DEC15",
+  "mutually_exclusive": true,
+  "series_ticker": "KXLOWTMIA",
+  "strike_date": "2025-12-16T12:12:10.535327Z",
+  "strike_period": "",
+  "sub_title": "On Dec 15, 2025",
+  "title": "Lowest temperature in Miami on Dec 15, 2025?"
+}

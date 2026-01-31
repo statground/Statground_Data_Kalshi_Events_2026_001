@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNHLTOTAL-25DEC09SJPHI",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "NHL",
+    "competition_scope": "Point Total"
+  },
+  "series_ticker": "KXNHLTOTAL",
+  "strike_period": "",
+  "sub_title": "SJ at PHI (Dec 9)",
+  "title": "San Jose vs Philadelphia: Total Points"
+}

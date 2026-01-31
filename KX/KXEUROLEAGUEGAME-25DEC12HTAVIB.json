@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXEUROLEAGUEGAME-25DEC12HTAVIB",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Euroleague",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXEUROLEAGUEGAME",
+  "strike_period": "",
+  "sub_title": "HTA at VIB (Dec 12)",
+  "title": "Virtus Bologna vs Hapoel Tel-Aviv"
+}

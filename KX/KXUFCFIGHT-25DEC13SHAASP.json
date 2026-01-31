@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXUFCFIGHT-25DEC13SHAASP",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "UFC",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXUFCFIGHT",
+  "strike_period": "",
+  "sub_title": "Sharaf vs Asplund",
+  "title": "UFC Fight Night: Sharaf vs Asplund"
+}

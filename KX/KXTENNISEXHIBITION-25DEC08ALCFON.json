@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXTENNISEXHIBITION-25DEC08ALCFON",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Miami Invitational",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXTENNISEXHIBITION",
+  "strike_period": "",
+  "sub_title": "Alcaraz vs Fonseca",
+  "title": "Alcaraz vs Fonseca"
+}

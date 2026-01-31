@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Politics",
+  "collateral_return_type": "",
+  "event_ticker": "KXFEDCOMBO-25DEC",
+  "mutually_exclusive": false,
+  "series_ticker": "KXFEDCOMBO",
+  "strike_period": "",
+  "sub_title": "For Dec 2025",
+  "title": "December 2025 Fed Combo: Rate & Dissents"
+}

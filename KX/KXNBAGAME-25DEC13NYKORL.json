@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNBAGAME-25DEC13NYKORL",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Pro Basketball (M)",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXNBAGAME",
+  "strike_period": "",
+  "sub_title": "NYK at ORL (Dec 13)",
+  "title": "New York K vs Orlando"
+}

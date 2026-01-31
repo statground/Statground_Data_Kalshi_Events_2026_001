@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXUELGAME-25DEC11FCPMAL",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Europa League",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXUELGAME",
+  "strike_period": "",
+  "sub_title": "FCP vs MAL (Dec 11)",
+  "title": "Porto vs Malmo"
+}

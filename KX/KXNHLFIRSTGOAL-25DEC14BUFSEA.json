@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNHLFIRSTGOAL-25DEC14BUFSEA",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "NHL",
+    "competition_scope": "1st Goalscorer"
+  },
+  "series_ticker": "KXNHLFIRSTGOAL",
+  "strike_period": "",
+  "sub_title": "BUF at SEA (Dec 14)",
+  "title": "BUF Sabres at SEA Kraken: First Goal"
+}

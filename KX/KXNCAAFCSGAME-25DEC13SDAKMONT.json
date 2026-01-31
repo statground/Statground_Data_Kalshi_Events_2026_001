@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNCAAFCSGAME-25DEC13SDAKMONT",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "College Football",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXNCAAFCSGAME",
+  "strike_period": "",
+  "sub_title": "SDAK at MONT (Dec 13)",
+  "title": "South Dakota at Montana"
+}

@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNCAAWBGAME-25DEC11CSMBSJSU",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "College Basketball (W)",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXNCAAWBGAME",
+  "strike_period": "",
+  "sub_title": "CSMB at SJSU (Dec 11)",
+  "title": "Cal State Monterey Bay at San Jose St."
+}

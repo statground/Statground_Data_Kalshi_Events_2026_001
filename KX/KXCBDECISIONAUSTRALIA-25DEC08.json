@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "World",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCBDECISIONAUSTRALIA-25DEC08",
+  "mutually_exclusive": true,
+  "series_ticker": "KXCBDECISIONAUSTRALIA",
+  "strike_period": "",
+  "sub_title": "Dec 8, 2025 meeting",
+  "title": "What will the Reserve Bank of Australia do at the Dec 2025 RBA meeting?"
+}

@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXBUNDESLIGASPREAD-25DEC12UNIRBL",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Bundesliga",
+    "competition_scope": "Spread"
+  },
+  "series_ticker": "KXBUNDESLIGASPREAD",
+  "strike_period": "",
+  "sub_title": "RBL at UNI (Dec 12)",
+  "title": "Leipzig at Union Berlin: Spreads"
+}

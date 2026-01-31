@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Climate and Weather",
+  "collateral_return_type": "",
+  "event_ticker": "KXRAINNYC-25DEC14",
+  "mutually_exclusive": false,
+  "series_ticker": "KXRAINNYC",
+  "strike_period": "",
+  "sub_title": "On Dec 14, 2025",
+  "title": "Will it rain in NYC on Dec 14, 2025?"
+}

@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNHLGOAL-25DEC15LADAL",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "NHL",
+    "competition_scope": "Goalscorer"
+  },
+  "series_ticker": "KXNHLGOAL",
+  "strike_period": "",
+  "sub_title": "LA at DAL (Dec 15)",
+  "title": "LA Kings at DAL Stars: Anytime Goal"
+}

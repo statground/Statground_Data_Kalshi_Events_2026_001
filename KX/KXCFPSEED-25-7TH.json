@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCFPSEED-25-7TH",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "College Football",
+    "competition_scope": "Future"
+  },
+  "series_ticker": "KXCFPSEED",
+  "strike_period": "",
+  "sub_title": "2025-26 #7 Seed",
+  "title": "College Football Playoff: #7 Seed"
+}

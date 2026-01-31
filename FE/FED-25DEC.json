@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": true,
+  "category": "Economics",
+  "collateral_return_type": "",
+  "event_ticker": "FED-25DEC",
+  "mutually_exclusive": false,
+  "series_ticker": "KXFED",
+  "strike_date": "2025-12-10T19:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Dec 10, 2025",
+  "title": "Fed funds rate in Dec 2025?"
+}

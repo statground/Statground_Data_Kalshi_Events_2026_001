@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNHLFIRSTGOAL-25DEC09VGKNYI",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "NHL",
+    "competition_scope": "1st Goalscorer"
+  },
+  "series_ticker": "KXNHLFIRSTGOAL",
+  "strike_period": "",
+  "sub_title": "VGK at NYI (Dec 9)",
+  "title": "VGK Golden Knights at NYI Islanders: First Goal"
+}

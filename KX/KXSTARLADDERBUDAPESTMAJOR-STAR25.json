@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXSTARLADDERBUDAPESTMAJOR-STAR25",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Counter-Strike 2",
+    "competition_scope": "Future"
+  },
+  "series_ticker": "KXSTARLADDERBUDAPESTMAJOR",
+  "strike_period": "",
+  "sub_title": "2025 StarLadder Budapest Major 2025",
+  "title": "StarLadder Budapest Major 2025 Winner?"
+}

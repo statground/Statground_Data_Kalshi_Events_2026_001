@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNCAAMBGAME-25DEC11JOESSYR",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "College Basketball (M)",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXNCAAMBGAME",
+  "strike_period": "",
+  "sub_title": "JOES at SYR (Dec 11)",
+  "title": "Saint Joseph's at Syracuse"
+}

@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXFIFAGAME-25DEC16CODZAM",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Intl Friendlies",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXFIFAGAME",
+  "strike_period": "",
+  "sub_title": "COD vs ZAM (Dec 16)",
+  "title": "Congo DR vs Zambia"
+}

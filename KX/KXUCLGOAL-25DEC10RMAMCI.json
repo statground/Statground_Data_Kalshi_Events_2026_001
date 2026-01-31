@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXUCLGOAL-25DEC10RMAMCI",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "UCL",
+    "competition_scope": "Goalscorer"
+  },
+  "series_ticker": "KXUCLGOAL",
+  "strike_period": "",
+  "sub_title": "MCI at RMA (Dec 10)",
+  "title": "Manchester City at Real Madrid: Anytime Goalscorer"
+}

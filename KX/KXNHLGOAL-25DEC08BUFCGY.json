@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNHLGOAL-25DEC08BUFCGY",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "NHL",
+    "competition_scope": "Goalscorer"
+  },
+  "series_ticker": "KXNHLGOAL",
+  "strike_period": "",
+  "sub_title": "BUF at CGY (Dec 8)",
+  "title": "BUF Sabres at CGY Flames: Anytime Goal"
+}

@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNFLPREPACK2ML-25DEC07LVDENARILAGBCHI",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Football",
+    "competition_scope": "Combo"
+  },
+  "series_ticker": "KXNFLPREPACK2ML",
+  "strike_period": "",
+  "sub_title": "DEN vs LV, LAR vs ARI, GB vs CHI",
+  "title": "Pro Football Combo: DEN vs LV, LAR vs ARI, GB vs CHI"
+}

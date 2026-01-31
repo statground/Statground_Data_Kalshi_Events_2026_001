@@ -1,0 +1,14 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXZYWOOMVPBP-25",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition_scope": "Awards"
+  },
+  "series_ticker": "KXZYWOOMVPBP",
+  "strike_period": "",
+  "sub_title": "2025 season",
+  "title": "Will ZywOo be the MVP at the Budapest Major?"
+}

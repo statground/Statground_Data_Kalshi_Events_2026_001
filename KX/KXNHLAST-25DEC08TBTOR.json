@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNHLAST-25DEC08TBTOR",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "NHL",
+    "competition_scope": "Player Assists"
+  },
+  "series_ticker": "KXNHLAST",
+  "strike_period": "",
+  "sub_title": "TB at TOR (Dec 8)",
+  "title": "TB Lightning at TOR Maple Leafs: Assists"
+}

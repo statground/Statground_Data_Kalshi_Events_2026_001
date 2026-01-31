@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXEUROCUPGAME-25DEC10WRONEP",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "EuroCup",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXEUROCUPGAME",
+  "strike_period": "",
+  "sub_title": "WRO at NEP (Dec 10)",
+  "title": "BC Neptunas Klaipeda vs Slask Wroclaw"
+}

@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXUCLGAME-25DEC10BRUARS",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "UCL",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXUCLGAME",
+  "strike_period": "",
+  "sub_title": "BRU vs ARS (Dec 10)",
+  "title": "Club Brugge vs Arsenal"
+}

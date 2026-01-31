@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXEUROLEAGUEGAME-25DEC16RMAOLM",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Euroleague",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXEUROLEAGUEGAME",
+  "strike_period": "",
+  "sub_title": "RMA at OLM (Dec 16)",
+  "title": "Olimpia Milano vs Real Madrid"
+}

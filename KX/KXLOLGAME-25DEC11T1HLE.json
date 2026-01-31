@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXLOLGAME-25DEC11T1HLE",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "LoL",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXLOLGAME",
+  "strike_period": "",
+  "sub_title": "T1 vs. Hanwha Life Esports",
+  "title": "KeSPA Cup 2025: T1 vs. Hanwha Life Esports"
+}

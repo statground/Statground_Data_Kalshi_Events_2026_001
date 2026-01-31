@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNCAAMBTOTAL-25DEC14WSUUSC",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "College Basketball (M)",
+    "competition_scope": "Point Total"
+  },
+  "series_ticker": "KXNCAAMBTOTAL",
+  "strike_period": "",
+  "sub_title": "WSU at USC (Dec 14)",
+  "title": "Washington St. at USC: Total Points"
+}

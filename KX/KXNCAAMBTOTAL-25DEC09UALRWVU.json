@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNCAAMBTOTAL-25DEC09UALRWVU",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "College Basketball (M)",
+    "competition_scope": "Point Total"
+  },
+  "series_ticker": "KXNCAAMBTOTAL",
+  "strike_period": "",
+  "sub_title": "UALR at WVU (Dec 9)",
+  "title": "Little Rock at West Virginia: Total Points"
+}

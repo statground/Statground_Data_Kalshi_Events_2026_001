@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXEUROLEAGUEGAME-25DEC12OPIFCB",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Euroleague",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXEUROLEAGUEGAME",
+  "strike_period": "",
+  "sub_title": "OPI at FCB (Dec 12)",
+  "title": "FC Barcelona vs BC Olympiakos Piraeus"
+}

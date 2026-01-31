@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXLOLGAME-25DEC11NSDK",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "LoL",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXLOLGAME",
+  "strike_period": "",
+  "sub_title": "Nongshim Red Force vs. Dplus KIA",
+  "title": "KeSPA Cup 2025: Nongshim Red Force vs. Dplus KIA"
+}

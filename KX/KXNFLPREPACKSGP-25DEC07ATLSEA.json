@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNFLPREPACKSGP-25DEC07ATLSEA",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Pro Football",
+    "competition_scope": "Combo"
+  },
+  "series_ticker": "KXNFLPREPACKSGP",
+  "strike_period": "",
+  "sub_title": "Seattle at Atlanta",
+  "title": "Pro Football Combo: Seattle at Atlanta"
+}

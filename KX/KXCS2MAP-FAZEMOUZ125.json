@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCS2MAP-FAZEMOUZ125",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Counter-Strike 2",
+    "competition_scope": "Map"
+  },
+  "series_ticker": "KXCS2MAP",
+  "strike_period": "",
+  "sub_title": "2025 FaZe vs. MOUZ Map 1",
+  "title": "FaZe vs. MOUZ Map 1 Winner?"
+}

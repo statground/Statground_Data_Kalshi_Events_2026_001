@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNBA2D-25DEC13NYKORL",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Basketball (M)",
+    "competition_scope": "Double Double"
+  },
+  "series_ticker": "KXNBA2D",
+  "strike_period": "",
+  "sub_title": "NYK at ORL (Dec 13)",
+  "title": "New York K at Orlando: Double Doubles"
+}

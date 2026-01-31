@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXTENNISEXHIBITION-25DEC07ANIPEG",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "A Racquet at The Rock",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXTENNISEXHIBITION",
+  "strike_period": "",
+  "sub_title": "Anisimova vs Pegula",
+  "title": "Anisimova vs Pegula"
+}

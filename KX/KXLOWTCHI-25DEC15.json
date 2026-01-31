@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXLOWTCHI-25DEC15",
+  "mutually_exclusive": true,
+  "series_ticker": "KXLOWTCHI",
+  "strike_date": "2025-12-16T12:12:10.044492Z",
+  "strike_period": "",
+  "sub_title": "On Dec 15, 2025",
+  "title": "Lowest temperature in Chicago on Dec 15, 2025?"
+}

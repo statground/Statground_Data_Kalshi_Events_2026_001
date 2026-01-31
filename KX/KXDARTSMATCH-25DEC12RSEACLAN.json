@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXDARTSMATCH-25DEC12RSEACLAN",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "PDC World Championship",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXDARTSMATCH",
+  "strike_period": "",
+  "sub_title": "Ryan Searle vs Chris Landman (Dec 12)",
+  "title": "Ryan Searle vs Chris Landman"
+}

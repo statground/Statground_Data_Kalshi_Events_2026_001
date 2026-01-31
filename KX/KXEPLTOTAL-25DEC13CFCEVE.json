@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXEPLTOTAL-25DEC13CFCEVE",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "EPL",
+    "competition_scope": "Point Total"
+  },
+  "series_ticker": "KXEPLTOTAL",
+  "strike_period": "",
+  "sub_title": "EVE at CFC (Dec 13)",
+  "title": "Everton at Chelsea: Totals"
+}

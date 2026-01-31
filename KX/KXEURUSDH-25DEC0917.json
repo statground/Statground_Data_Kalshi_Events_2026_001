@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXEURUSDH-25DEC0917",
+  "mutually_exclusive": false,
+  "series_ticker": "KXEURUSDH",
+  "strike_date": "2025-12-09T22:00:00Z",
+  "strike_period": "",
+  "sub_title": "Dec 9, 2025 at 5pm EST",
+  "title": "EUR/USD price on Dec 9, 2025 at 5pm EST?"
+}

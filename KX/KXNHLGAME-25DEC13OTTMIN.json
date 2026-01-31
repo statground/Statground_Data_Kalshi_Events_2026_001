@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNHLGAME-25DEC13OTTMIN",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "NHL",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXNHLGAME",
+  "strike_period": "",
+  "sub_title": "OTT at MIN (Dec 13)",
+  "title": "Ottawa vs Minnesota"
+}

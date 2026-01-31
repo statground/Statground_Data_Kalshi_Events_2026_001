@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNBA3PT-25DEC07DENCHA",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Basketball (M)",
+    "competition_scope": "Player Threes"
+  },
+  "series_ticker": "KXNBA3PT",
+  "strike_period": "",
+  "sub_title": "DEN at CHA (Dec 7)",
+  "title": "Denver at Charlotte: Three Pointers"
+}

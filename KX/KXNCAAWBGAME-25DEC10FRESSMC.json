@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNCAAWBGAME-25DEC10FRESSMC",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "College Basketball (W)",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXNCAAWBGAME",
+  "strike_period": "",
+  "sub_title": "FRES at SMC (Dec 10)",
+  "title": "Fresno St. at Saint Mary's"
+}

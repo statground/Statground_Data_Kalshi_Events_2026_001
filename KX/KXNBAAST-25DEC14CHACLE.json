@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNBAAST-25DEC14CHACLE",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Basketball (M)",
+    "competition_scope": "Player Assists"
+  },
+  "series_ticker": "KXNBAAST",
+  "strike_period": "",
+  "sub_title": "CHA at CLE (Dec 14)",
+  "title": "Charlotte at Cleveland: Assists"
+}

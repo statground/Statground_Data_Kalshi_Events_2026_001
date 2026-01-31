@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXLALIGASPREAD-25DEC14LEVVIL",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "La Liga",
+    "competition_scope": "Spread"
+  },
+  "series_ticker": "KXLALIGASPREAD",
+  "strike_period": "",
+  "sub_title": "VIL at LEV (Dec 14)",
+  "title": "Villarreal at Levante: Spreads"
+}

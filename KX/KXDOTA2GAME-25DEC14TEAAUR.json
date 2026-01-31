@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXDOTA2GAME-25DEC14TEAAUR",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Dota 2",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXDOTA2GAME",
+  "strike_period": "",
+  "sub_title": "Team Nemesis vs. Aurora",
+  "title": "DreamLeague 2025: Team Nemesis vs. Aurora"
+}

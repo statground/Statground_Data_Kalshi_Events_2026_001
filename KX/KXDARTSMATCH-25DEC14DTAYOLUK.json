@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXDARTSMATCH-25DEC14DTAYOLUK",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "PDC World Championship",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXDARTSMATCH",
+  "strike_period": "",
+  "sub_title": "Dom Taylor vs Oskar Lukasiak (Dec 14)",
+  "title": "Dom Taylor vs Oskar Lukasiak"
+}

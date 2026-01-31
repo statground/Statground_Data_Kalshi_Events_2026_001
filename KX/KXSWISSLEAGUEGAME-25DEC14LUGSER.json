@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXSWISSLEAGUEGAME-25DEC14LUGSER",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Swiss Super League",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXSWISSLEAGUEGAME",
+  "strike_period": "",
+  "sub_title": "LUG vs SER (Dec 14)",
+  "title": "Lugano vs Servette Geneva"
+}

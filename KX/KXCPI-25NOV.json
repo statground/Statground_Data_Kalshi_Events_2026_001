@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Economics",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXCPI-25NOV",
+  "mutually_exclusive": false,
+  "series_ticker": "KXCPI",
+  "strike_period": "",
+  "sub_title": "In Nov 2025",
+  "title": "CPI in Nov 2025?"
+}

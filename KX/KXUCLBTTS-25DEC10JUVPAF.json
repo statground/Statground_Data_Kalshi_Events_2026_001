@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXUCLBTTS-25DEC10JUVPAF",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "UCL",
+    "competition_scope": "BTTS"
+  },
+  "series_ticker": "KXUCLBTTS",
+  "strike_period": "",
+  "sub_title": "PAF at JUV (Dec 10)",
+  "title": "Pafos at Juventus: Both Teams to Score"
+}

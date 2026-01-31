@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Climate and Weather",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXHIGHPHIL-25DEC13",
+  "mutually_exclusive": true,
+  "series_ticker": "KXHIGHPHIL",
+  "strike_period": "",
+  "sub_title": "On Dec 13, 2025",
+  "title": "Highest temperature in Philadelphia on Dec 13, 2025?"
+}

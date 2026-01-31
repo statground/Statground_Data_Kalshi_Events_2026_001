@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXPUBG-GLOBALCHAMP25",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "PUBG",
+    "competition_scope": "Future"
+  },
+  "series_ticker": "KXPUBG",
+  "strike_period": "",
+  "sub_title": "PUBG Global Championship 2025",
+  "title": "PUBG Global Championship 2025 Winner"
+}

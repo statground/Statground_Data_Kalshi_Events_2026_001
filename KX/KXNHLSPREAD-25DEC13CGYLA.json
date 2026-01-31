@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNHLSPREAD-25DEC13CGYLA",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "NHL",
+    "competition_scope": "Spread"
+  },
+  "series_ticker": "KXNHLSPREAD",
+  "strike_period": "",
+  "sub_title": "CGY at LA (Dec 13)",
+  "title": "Calgary vs Los Angeles: Spread"
+}

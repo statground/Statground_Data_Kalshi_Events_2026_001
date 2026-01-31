@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXEPLBTTS-25DEC13BURFUL",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "EPL",
+    "competition_scope": "BTTS"
+  },
+  "series_ticker": "KXEPLBTTS",
+  "strike_period": "",
+  "sub_title": "FUL at BUR (Dec 13)",
+  "title": "Fulham at Burnley: Both Teams to Score"
+}

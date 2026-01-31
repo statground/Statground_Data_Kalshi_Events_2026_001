@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCHESSGAME-25DEC10JSINMCAR",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Chess",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXCHESSGAME",
+  "strike_period": "",
+  "sub_title": "Javokhir Sindarov vs Magnus Carlsen (Dec 10)",
+  "title": "Freestyle Chess South Africa: Javokhir Sindarov vs. Magnus Carlsen"
+}

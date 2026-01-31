@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXLALIGAGAME-25DEC12RSOGIR",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "La Liga",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXLALIGAGAME",
+  "strike_period": "",
+  "sub_title": "RSO vs GIR (Dec 12)",
+  "title": "Real Sociedad vs Girona"
+}

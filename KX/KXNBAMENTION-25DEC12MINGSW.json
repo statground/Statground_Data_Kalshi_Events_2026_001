@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Mentions",
+  "collateral_return_type": "",
+  "event_ticker": "KXNBAMENTION-25DEC12MINGSW",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "the governing league",
+    "competition_scope": "Mentions"
+  },
+  "series_ticker": "KXNBAMENTION",
+  "strike_period": "",
+  "sub_title": "Minnesota vs Golden State",
+  "title": "What will the announcers say during the Minnesota vs Golden State pro basketball game?"
+}

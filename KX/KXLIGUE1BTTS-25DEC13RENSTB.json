@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXLIGUE1BTTS-25DEC13RENSTB",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Ligue 1",
+    "competition_scope": "BTTS"
+  },
+  "series_ticker": "KXLIGUE1BTTS",
+  "strike_period": "",
+  "sub_title": "STB at REN (Dec 13)",
+  "title": "Stade Brest 29 at Stade Rennais: Both Teams to Score"
+}

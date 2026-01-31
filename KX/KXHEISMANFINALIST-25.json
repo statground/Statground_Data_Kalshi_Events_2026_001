@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXHEISMANFINALIST-25",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "College Football",
+    "competition_scope": "Awards"
+  },
+  "series_ticker": "KXHEISMANFINALIST",
+  "strike_period": "",
+  "sub_title": "2025-2026 college football season",
+  "title": "Will a defensive player be a Heisman Trophy Finalist"
+}

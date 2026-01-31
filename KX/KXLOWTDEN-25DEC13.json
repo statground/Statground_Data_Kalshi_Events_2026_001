@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXLOWTDEN-25DEC13",
+  "mutually_exclusive": true,
+  "series_ticker": "KXLOWTDEN",
+  "strike_date": "2025-12-14T12:34:55.696637Z",
+  "strike_period": "",
+  "sub_title": "On Dec 13, 2025",
+  "title": "Lowest temperature in Denver on Dec 13, 2025?"
+}

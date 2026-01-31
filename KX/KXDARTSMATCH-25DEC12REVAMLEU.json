@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXDARTSMATCH-25DEC12REVAMLEU",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "PDC World Championship",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXDARTSMATCH",
+  "strike_period": "",
+  "sub_title": "Ricky Evans vs Man Lok Leung (Dec 12)",
+  "title": "Ricky Evans vs Man Lok Leung"
+}

@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNFLPREPACK3ML-25DEC07CLETENMINWASNYJMIA",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Pro Football",
+    "competition_scope": "Combo"
+  },
+  "series_ticker": "KXNFLPREPACK3ML",
+  "strike_period": "",
+  "sub_title": "CLE vs TEN, MIN vs WAS, NYJ vs MIA",
+  "title": "Pro Football Combo: CLE vs TEN, MIN vs WAS, NYJ vs MIA"
+}

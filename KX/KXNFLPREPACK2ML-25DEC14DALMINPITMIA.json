@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNFLPREPACK2ML-25DEC14DALMINPITMIA",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Pro Football",
+    "competition_scope": "Combo"
+  },
+  "series_ticker": "KXNFLPREPACK2ML",
+  "strike_period": "",
+  "sub_title": "Minnesota at Dallas, Miami at Pittsburgh",
+  "title": "Pro Football 2-leg Combo: Minnesota at Dallas, Miami at Pittsburgh"
+}

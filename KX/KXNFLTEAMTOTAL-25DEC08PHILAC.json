@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNFLTEAMTOTAL-25DEC08PHILAC",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Football",
+    "competition_scope": "Team Total"
+  },
+  "series_ticker": "KXNFLTEAMTOTAL",
+  "strike_period": "",
+  "sub_title": "PHI at LAC (Dec 8)",
+  "title": "Philadelphia at Los Angeles C: Team Totals"
+}

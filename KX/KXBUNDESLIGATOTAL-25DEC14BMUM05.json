@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXBUNDESLIGATOTAL-25DEC14BMUM05",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Bundesliga",
+    "competition_scope": "Point Total"
+  },
+  "series_ticker": "KXBUNDESLIGATOTAL",
+  "strike_period": "",
+  "sub_title": "M05 at BMU (Dec 14)",
+  "title": "Mainz at Bayern Munich: Totals"
+}

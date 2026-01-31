@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXEUROCUPGAME-25DEC10REVARI",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "EuroCup",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXEUROCUPGAME",
+  "strike_period": "",
+  "sub_title": "REV at ARI (Dec 10)",
+  "title": "BC Aris Thessaloniki vs Reyer Venezia"
+}

@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXSERIEASPREAD-25DEC14ACMSAS",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Serie A",
+    "competition_scope": "Spread"
+  },
+  "series_ticker": "KXSERIEASPREAD",
+  "strike_period": "",
+  "sub_title": "SAS at ACM (Dec 14)",
+  "title": "Sassuolo at Milan: Spreads"
+}

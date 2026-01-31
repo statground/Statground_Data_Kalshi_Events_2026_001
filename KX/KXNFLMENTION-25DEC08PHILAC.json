@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Mentions",
+  "collateral_return_type": "",
+  "event_ticker": "KXNFLMENTION-25DEC08PHILAC",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "the governing league",
+    "competition_scope": "Mentions"
+  },
+  "series_ticker": "KXNFLMENTION",
+  "strike_period": "",
+  "sub_title": "On Dec 8, 2025",
+  "title": "What will the announcers say during the Philadelphia at Los Angeles C pro football game?"
+}

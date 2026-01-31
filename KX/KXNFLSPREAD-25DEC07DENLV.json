@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNFLSPREAD-25DEC07DENLV",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Football",
+    "competition_scope": "Spread"
+  },
+  "series_ticker": "KXNFLSPREAD",
+  "strike_period": "",
+  "sub_title": "DEN at LV (Dec 7)",
+  "title": "Denver at Las Vegas: Spread"
+}

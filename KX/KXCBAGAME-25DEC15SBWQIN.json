@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCBAGAME-25DEC15SBWQIN",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Chinese Basketball Association",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXCBAGAME",
+  "strike_period": "",
+  "sub_title": "SBW at QIN (Dec 15)",
+  "title": "Qingdao Eagles vs Sichuan Blue Whales"
+}

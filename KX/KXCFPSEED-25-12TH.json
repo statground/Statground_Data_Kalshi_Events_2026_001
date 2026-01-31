@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCFPSEED-25-12TH",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "College Football",
+    "competition_scope": "Future"
+  },
+  "series_ticker": "KXCFPSEED",
+  "strike_period": "",
+  "sub_title": "2025-26 #12 Seed",
+  "title": "College Football Playoff: #12 Seed"
+}

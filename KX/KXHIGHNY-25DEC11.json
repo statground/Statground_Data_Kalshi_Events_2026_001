@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": true,
+  "category": "Climate and Weather",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXHIGHNY-25DEC11",
+  "mutually_exclusive": true,
+  "series_ticker": "KXHIGHNY",
+  "strike_date": "2025-12-12T04:59:00Z",
+  "strike_period": "",
+  "sub_title": "On Dec 11, 2025",
+  "title": "Highest temperature in NYC on Dec 11, 2025?"
+}

@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXUCLTOTAL-25DEC10ATHPSG",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "UCL",
+    "competition_scope": "Point Total"
+  },
+  "series_ticker": "KXUCLTOTAL",
+  "strike_period": "",
+  "sub_title": "PSG at ATH (Dec 10)",
+  "title": "PSG at Bilbao: Totals"
+}

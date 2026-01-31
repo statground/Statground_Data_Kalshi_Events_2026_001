@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNFLTOTAL-25DEC08PHILAC",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Football",
+    "competition_scope": "Point Total"
+  },
+  "series_ticker": "KXNFLTOTAL",
+  "strike_period": "",
+  "sub_title": "PHI at LAC (Dec 8)",
+  "title": "Philadelphia at Los Angeles C: Total Points"
+}

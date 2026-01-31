@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Crypto",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXSOLE-25DEC1309",
+  "mutually_exclusive": true,
+  "series_ticker": "KXSOLE",
+  "strike_date": "2025-12-13T14:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Dec 13, 2025 at 9am EST",
+  "title": "SOL price \n\n\nrange \n\n\non Dec 13, 2025 at 9am EST\n?"
+}

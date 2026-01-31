@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNFL2TD-25DEC08PHILAC",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Football",
+    "competition_scope": "2+ TDs"
+  },
+  "series_ticker": "KXNFL2TD",
+  "strike_period": "",
+  "sub_title": "PHI at LAC (Dec 8)",
+  "title": "Philadelphia at Los Angeles C: Two or More Touchdowns Scorer"
+}

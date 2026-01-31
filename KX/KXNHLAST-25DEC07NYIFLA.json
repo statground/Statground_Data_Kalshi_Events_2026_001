@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNHLAST-25DEC07NYIFLA",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "NHL",
+    "competition_scope": "Player Assists"
+  },
+  "series_ticker": "KXNHLAST",
+  "strike_period": "",
+  "sub_title": "NYI at FLA (Dec 7)",
+  "title": "NYI Islanders at FLA Panthers: Assists"
+}

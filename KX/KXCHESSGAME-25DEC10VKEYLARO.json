@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCHESSGAME-25DEC10VKEYLARO",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Chess",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXCHESSGAME",
+  "strike_period": "",
+  "sub_title": "Vincent Keymer vs Levon Aronian (Dec 10)",
+  "title": "Freestyle Chess South Africa: Vincent Keymer vs. Levon Aronian"
+}

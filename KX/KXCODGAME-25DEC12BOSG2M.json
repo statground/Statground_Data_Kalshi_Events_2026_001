@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCODGAME-25DEC12BOSG2M",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Call of Duty",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXCODGAME",
+  "strike_period": "",
+  "sub_title": "Boston Breach vs. G2 Minnesota",
+  "title": "Call of Duty League Stage 1 Major Qualifiers 2026: Boston Breach vs. G2 Minnesota"
+}

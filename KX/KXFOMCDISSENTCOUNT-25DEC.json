@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXFOMCDISSENTCOUNT-25DEC",
+  "mutually_exclusive": true,
+  "series_ticker": "KXFOMCDISSENTCOUNT",
+  "strike_period": "",
+  "sub_title": "December FOMC meeting",
+  "title": "How many dissenting votes at the next Fed meeting?"
+}

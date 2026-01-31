@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXSERIEAGAME-25DEC13TORCRE",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Serie A",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXSERIEAGAME",
+  "strike_period": "",
+  "sub_title": "TOR vs CRE (Dec 13)",
+  "title": "Torino vs Cremonese"
+}

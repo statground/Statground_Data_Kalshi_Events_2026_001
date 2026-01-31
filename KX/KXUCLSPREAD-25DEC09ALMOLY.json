@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXUCLSPREAD-25DEC09ALMOLY",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "UCL",
+    "competition_scope": "Spread"
+  },
+  "series_ticker": "KXUCLSPREAD",
+  "strike_period": "",
+  "sub_title": "OLY at ALM (Dec 9)",
+  "title": "Olympiacos at Kairat: Spreads"
+}

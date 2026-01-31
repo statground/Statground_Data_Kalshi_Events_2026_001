@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXSERIEATOTAL-25DEC08TORACM",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Serie A",
+    "competition_scope": "Point Total"
+  },
+  "series_ticker": "KXSERIEATOTAL",
+  "strike_period": "",
+  "sub_title": "ACM at TOR (Dec 8)",
+  "title": "Milan at Torino: Totals"
+}

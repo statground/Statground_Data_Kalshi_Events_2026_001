@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNHLFIRSTGOAL-25DEC14UTAPIT",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "NHL",
+    "competition_scope": "1st Goalscorer"
+  },
+  "series_ticker": "KXNHLFIRSTGOAL",
+  "strike_period": "",
+  "sub_title": "UTA at PIT (Dec 14)",
+  "title": "UTA Mammoth at PIT Penguins: First Goal"
+}

@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXEFLCHAMPIONSHIPGAME-25DEC09SWAPOR",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "EFL Championship",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXEFLCHAMPIONSHIPGAME",
+  "strike_period": "",
+  "sub_title": "SWA vs POR (Dec 9)",
+  "title": "Swansea vs Portsmouth"
+}

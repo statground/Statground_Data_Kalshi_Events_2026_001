@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXBELGIANPLGAME-25DEC14KAARAFC",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Belgian Pro League",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXBELGIANPLGAME",
+  "strike_period": "",
+  "sub_title": "KAA vs RAFC (Dec 14)",
+  "title": "Gent vs Royal Antwerp"
+}

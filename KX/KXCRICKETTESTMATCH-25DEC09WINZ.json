@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCRICKETTESTMATCH-25DEC09WINZ",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Test International",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXCRICKETTESTMATCH",
+  "strike_period": "",
+  "sub_title": "NZ vs WI (Dec 9)",
+  "title": "New Zealand vs West Indies"
+}

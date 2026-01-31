@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNFLPREPACK2ML-25DEC14CINBALKCLACNEBUF",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Football",
+    "competition_scope": "Combo"
+  },
+  "series_ticker": "KXNFLPREPACK2ML",
+  "strike_period": "",
+  "sub_title": "Baltimore at Cincinnati, Los Angeles C at Kansas City, Buffalo at New England",
+  "title": "Pro Football 2-leg Combo: Baltimore at Cincinnati, Los Angeles C at Kansas City, Buffalo at New England"
+}

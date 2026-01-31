@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXUECLGAME-25DEC11KUPSLAU",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Conference League",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXUECLGAME",
+  "strike_period": "",
+  "sub_title": "KUPS vs LAU (Dec 11)",
+  "title": "Kuopion Palloseura vs Lausanne-Sport"
+}

@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNBAAST-25DEC12CHICHA",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Basketball (M)",
+    "competition_scope": "Player Assists"
+  },
+  "series_ticker": "KXNBAAST",
+  "strike_period": "",
+  "sub_title": "CHI at CHA (Dec 12)",
+  "title": "Chicago at Charlotte: Assists"
+}

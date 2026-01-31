@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCHESS-25FCSLAMSA3RD",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Chess",
+    "competition_scope": "Future"
+  },
+  "series_ticker": "KXCHESS",
+  "strike_period": "",
+  "sub_title": "Freestyle Chess Grand Slam South Africa 3rd Place",
+  "title": "Freestyle Chess Grand Slam South Africa: 3rd Place Finisher"
+}

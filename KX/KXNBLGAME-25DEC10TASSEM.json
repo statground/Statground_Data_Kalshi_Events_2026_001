@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNBLGAME-25DEC10TASSEM",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "NBL Australia",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXNBLGAME",
+  "strike_period": "",
+  "sub_title": "TAS at SEM (Dec 10)",
+  "title": "SE Melbourne Phoenix vs Tasmania Jackjumpers"
+}

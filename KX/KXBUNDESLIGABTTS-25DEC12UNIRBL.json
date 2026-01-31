@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXBUNDESLIGABTTS-25DEC12UNIRBL",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Bundesliga",
+    "competition_scope": "BTTS"
+  },
+  "series_ticker": "KXBUNDESLIGABTTS",
+  "strike_period": "",
+  "sub_title": "RBL at UNI (Dec 12)",
+  "title": "Leipzig at Union Berlin: Both Teams to Score"
+}

@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXLIGUE1BTTS-25DEC14AUXLIL",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Ligue 1",
+    "competition_scope": "BTTS"
+  },
+  "series_ticker": "KXLIGUE1BTTS",
+  "strike_period": "",
+  "sub_title": "LIL at AUX (Dec 14)",
+  "title": "Lille at Auxerre: Both Teams to Score"
+}

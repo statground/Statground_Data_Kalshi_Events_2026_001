@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNFLRECYDS-25DEC14BALCIN",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Football",
+    "competition_scope": "Receiving Yards"
+  },
+  "series_ticker": "KXNFLRECYDS",
+  "strike_period": "",
+  "sub_title": "BAL at CIN (Dec 14)",
+  "title": "Baltimore at Cincinnati: Receiving Yards"
+}

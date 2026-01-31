@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Elections",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXTN07SPECIAL-25DEC02",
+  "mutually_exclusive": true,
+  "series_ticker": "KXTN07SPECIAL",
+  "strike_period": "",
+  "sub_title": "2025 TN-07 special election",
+  "title": "Voter turnout in the TN-07 Special Election?"
+}
