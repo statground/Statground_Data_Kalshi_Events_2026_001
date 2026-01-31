@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXEPLFIRSTGOAL-25DEC27WHUFUL",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "EPL",
+    "competition_scope": "1st Goalscorer"
+  },
+  "series_ticker": "KXEPLFIRSTGOAL",
+  "strike_period": "",
+  "sub_title": "FUL at WHU (Dec 27)",
+  "title": "Fulham at West Ham: First Goalscorer"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Health",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXNEWDRUGS-25",
+  "mutually_exclusive": false,
+  "series_ticker": "KXNEWDRUGS",
+  "strike_period": "",
+  "sub_title": "In 2025",
+  "title": "How many new drugs will the FDA approve this year?"
+}

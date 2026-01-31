@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Economics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNBERRECESSQ",
+  "mutually_exclusive": true,
+  "series_ticker": "KXNBERRECESSQ",
+  "strike_period": "",
+  "sub_title": "Next recession",
+  "title": "When will the next US recession start?"
+}

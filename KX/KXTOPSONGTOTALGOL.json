@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXTOPSONGTOTALGOL",
+  "mutually_exclusive": true,
+  "series_ticker": "KXTOPSONGTOTALGOL",
+  "strike_period": "",
+  "sub_title": "By Dec 27, 2025",
+  "title": "How Many Total Weeks Will 'Golden' be #1 this year?"
+}

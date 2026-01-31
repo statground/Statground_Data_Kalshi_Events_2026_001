@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXMULTIPREPACK-25DEC25MINDETGSWDAL",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Cross-sport",
+    "competition_scope": "Combo"
+  },
+  "series_ticker": "KXMULTIPREPACK",
+  "strike_period": "",
+  "sub_title": "Detroit at Minnesota, Dallas at Golden State",
+  "title": "Cross-sport 2-leg Combo: Detroit at Minnesota, Dallas at Golden State"
+}

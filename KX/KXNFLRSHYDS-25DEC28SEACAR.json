@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNFLRSHYDS-25DEC28SEACAR",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Football",
+    "competition_scope": "Rushing Yards"
+  },
+  "series_ticker": "KXNFLRSHYDS",
+  "strike_period": "",
+  "sub_title": "SEA at CAR (Dec 28)",
+  "title": "Seattle at Carolina: Rushing Yards"
+}

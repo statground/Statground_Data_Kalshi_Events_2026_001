@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXMULTIPREPACK-25DEC25LALHOUDENMINKCDEN",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Cross-sport",
+    "competition_scope": "Combo"
+  },
+  "series_ticker": "KXMULTIPREPACK",
+  "strike_period": "",
+  "sub_title": "Houston at Los Angeles L, Minnesota at Denver, Denver at Kansas City",
+  "title": "Cross-sport 3-leg Combo: Houston at Los Angeles L, Minnesota at Denver, Denver at Kansas City"
+}

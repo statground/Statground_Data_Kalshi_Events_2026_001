@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCANRESIGNCOUNT-25",
+  "mutually_exclusive": true,
+  "series_ticker": "KXCANRESIGNCOUNT",
+  "strike_period": "",
+  "sub_title": "Within one week of the election being called",
+  "title": "How many Canadian party leaders will resign after the 2025 election?"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXFRENCHPM-25DEC31",
+  "mutually_exclusive": true,
+  "series_ticker": "KXFRENCHPM",
+  "strike_period": "",
+  "sub_title": "Before Dec 31, 2025",
+  "title": "Who will be the next French Prime Minister?"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Crypto",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXBTC2025100-25DEC31",
+  "mutually_exclusive": true,
+  "series_ticker": "KXBTC2025100",
+  "strike_period": "",
+  "sub_title": "in 2025",
+  "title": "Will Bitcoin cross $100k again this year?"
+}

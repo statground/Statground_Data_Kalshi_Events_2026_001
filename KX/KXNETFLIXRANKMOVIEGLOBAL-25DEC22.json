@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNETFLIXRANKMOVIEGLOBAL-25DEC22",
+  "mutually_exclusive": true,
+  "series_ticker": "KXNETFLIXRANKMOVIEGLOBAL",
+  "strike_period": "",
+  "sub_title": "The chart published on Dec 23, 2025",
+  "title": "Top Global Netflix Movie this week?"
+}

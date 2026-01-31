@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXEURUSD-25DEC2310",
+  "mutually_exclusive": true,
+  "series_ticker": "KXEURUSD",
+  "strike_date": "2025-12-23T15:00:00Z",
+  "strike_period": "",
+  "sub_title": "Dec 23, 2025 at 10am EST",
+  "title": "EUR/USD price range on Dec 23, 2025 at 10am EST?"
+}

@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXALEAGUEGAME-25DEC29VICWPH",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Australia A League",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXALEAGUEGAME",
+  "strike_period": "",
+  "sub_title": "VIC vs WPH (Dec 29)",
+  "title": "Melbourne Victory vs Wellington"
+}

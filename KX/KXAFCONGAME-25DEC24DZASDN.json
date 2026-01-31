@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXAFCONGAME-25DEC24DZASDN",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Africa Cup of Nations",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXAFCONGAME",
+  "strike_period": "",
+  "sub_title": "DZA vs SDN (Dec 24)",
+  "title": "Algeria vs Sudan"
+}

@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNBAREB-25DEC26MILMEM",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Basketball (M)",
+    "competition_scope": "Player Rebounds"
+  },
+  "series_ticker": "KXNBAREB",
+  "strike_period": "",
+  "sub_title": "MIL at MEM (Dec 26)",
+  "title": "Milwaukee at Memphis: Rebounds"
+}

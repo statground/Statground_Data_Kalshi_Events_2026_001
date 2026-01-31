@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXEFLCUPGAME-25DEC23ARSCRY",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "EFL Cup",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXEFLCUPGAME",
+  "strike_period": "",
+  "sub_title": "ARS vs CRY (Dec 23)",
+  "title": "Arsenal vs Crystal Palace"
+}

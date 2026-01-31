@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXMULTIPREPACK-25DEC25OKCSASWASDAL",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Cross-sport",
+    "competition_scope": "Combo"
+  },
+  "series_ticker": "KXMULTIPREPACK",
+  "strike_period": "",
+  "sub_title": "San Antonio at Oklahoma City, Dallas at Washington",
+  "title": "Cross-sport 2-leg Combo: San Antonio at Oklahoma City, Dallas at Washington"
+}

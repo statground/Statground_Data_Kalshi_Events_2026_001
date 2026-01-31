@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNETFLIXRANKSHOWGLOBAL2-25DEC22",
+  "mutually_exclusive": true,
+  "series_ticker": "KXNETFLIXRANKSHOWGLOBAL2",
+  "strike_period": "",
+  "sub_title": "The chart published on Dec 23, 2025",
+  "title": "#2 Global Netflix Show this week?"
+}

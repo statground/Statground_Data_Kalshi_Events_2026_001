@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Social",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXMANTISFREETHROW-25DEC",
+  "mutually_exclusive": true,
+  "series_ticker": "KXMANTISFREETHROW",
+  "strike_period": "",
+  "sub_title": "In Dec 2025",
+  "title": "How long will it take for Young Mantis to hit 135 free throws in a row?"
+}

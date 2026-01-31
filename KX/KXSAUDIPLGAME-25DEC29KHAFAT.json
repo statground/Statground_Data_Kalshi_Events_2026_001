@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXSAUDIPLGAME-25DEC29KHAFAT",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Saudi Pro League",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXSAUDIPLGAME",
+  "strike_period": "",
+  "sub_title": "KHA vs FAT (Dec 29)",
+  "title": "Al-Khaleej vs Al-Fateh"
+}

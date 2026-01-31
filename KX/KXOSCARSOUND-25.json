@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXOSCARSOUND-25",
+  "mutually_exclusive": true,
+  "series_ticker": "KXOSCARSOUND",
+  "strike_date": "2025-12-31T15:00:00Z",
+  "strike_period": "",
+  "sub_title": "",
+  "title": "2025 Oscar for Best Sound?"
+}

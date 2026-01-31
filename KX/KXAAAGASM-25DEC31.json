@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": true,
+  "category": "Economics",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXAAAGASM-25DEC31",
+  "mutually_exclusive": false,
+  "series_ticker": "KXAAAGASM",
+  "strike_date": "2025-12-31T15:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Dec 31, 2025",
+  "title": "US Gas prices at the end of December?"
+}

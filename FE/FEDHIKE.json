@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "",
+  "event_ticker": "FEDHIKE",
+  "mutually_exclusive": false,
+  "series_ticker": "KXFEDHIKE",
+  "strike_period": "",
+  "sub_title": "Fed rate hike",
+  "title": "Next Fed rate hike?"
+}

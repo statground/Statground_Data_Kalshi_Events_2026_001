@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Entertainment",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXRTANACONDA",
+  "mutually_exclusive": false,
+  "series_ticker": "KXRTANACONDA",
+  "strike_period": "",
+  "sub_title": "Dec 29, 2025",
+  "title": "\"Anaconda\" Rotten Tomatoes score?"
+}

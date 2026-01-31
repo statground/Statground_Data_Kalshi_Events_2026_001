@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCRICKETT20IMATCH-25DEC25MYABHU",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "T20 International",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXCRICKETT20IMATCH",
+  "strike_period": "",
+  "sub_title": "BHU vs MYA (Dec 25)",
+  "title": "Bhutan vs Myanmar"
+}

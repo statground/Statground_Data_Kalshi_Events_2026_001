@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNFLPREPACK2ML-25DEC21BALNEINDSF",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Pro Football",
+    "competition_scope": "Combo"
+  },
+  "series_ticker": "KXNFLPREPACK2ML",
+  "strike_period": "",
+  "sub_title": "New England at Baltimore, San Francisco at Indianapolis",
+  "title": "Pro Football Combo: New England at Baltimore, San Francisco at Indianapolis"
+}

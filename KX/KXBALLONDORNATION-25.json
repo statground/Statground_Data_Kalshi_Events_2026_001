@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXBALLONDORNATION-25",
+  "mutually_exclusive": true,
+  "series_ticker": "KXBALLONDORNATION",
+  "strike_period": "",
+  "sub_title": "Before 2025",
+  "title": "What will be the nationality of the 2025 Ballon d'Or winner?"
+}

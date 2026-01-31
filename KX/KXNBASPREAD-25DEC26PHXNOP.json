@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNBASPREAD-25DEC26PHXNOP",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Basketball (M)",
+    "competition_scope": "Spread"
+  },
+  "series_ticker": "KXNBASPREAD",
+  "strike_period": "",
+  "sub_title": "PHX at NOP (Dec 26)",
+  "title": "Phoenix at New Orleans: Spread"
+}

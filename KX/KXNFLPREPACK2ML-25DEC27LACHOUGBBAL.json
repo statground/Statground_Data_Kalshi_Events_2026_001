@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNFLPREPACK2ML-25DEC27LACHOUGBBAL",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Pro Football",
+    "competition_scope": "Combo"
+  },
+  "series_ticker": "KXNFLPREPACK2ML",
+  "strike_period": "",
+  "sub_title": "Houston at Los Angeles C, Baltimore at Green Bay",
+  "title": "Pro Football 2-leg Combo: Houston at Los Angeles C, Baltimore at Green Bay"
+}

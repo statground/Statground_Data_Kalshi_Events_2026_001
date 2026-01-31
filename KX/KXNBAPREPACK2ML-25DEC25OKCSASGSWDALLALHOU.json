@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNBAPREPACK2ML-25DEC25OKCSASGSWDALLALHOU",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Basketball (M)",
+    "competition_scope": "Combo"
+  },
+  "series_ticker": "KXNBAPREPACK2ML",
+  "strike_period": "",
+  "sub_title": "San Antonio at Oklahoma City, Dallas at Golden State, Houston at Los Angeles L",
+  "title": "Pro Basketball 2-leg Combo: San Antonio at Oklahoma City, Dallas at Golden State, Houston at Los Angeles L"
+}

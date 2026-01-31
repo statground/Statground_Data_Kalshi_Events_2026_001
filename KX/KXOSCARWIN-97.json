@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXOSCARWIN-97",
+  "mutually_exclusive": true,
+  "series_ticker": "KXOSCARWIN",
+  "strike_period": "",
+  "sub_title": "At the 2025 Oscars",
+  "title": "Which movie will win the most Oscars?"
+}

@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXMULTIPREPACK-25DEC25NYKCLEWASDALOKCSAS",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Cross-sport",
+    "competition_scope": "Combo"
+  },
+  "series_ticker": "KXMULTIPREPACK",
+  "strike_period": "",
+  "sub_title": "Cleveland at New York, Dallas at Washington, San Antonio at Oklahoma City",
+  "title": "Cross-sport 3-leg Combo: Cleveland at New York, Dallas at Washington, San Antonio at Oklahoma City"
+}

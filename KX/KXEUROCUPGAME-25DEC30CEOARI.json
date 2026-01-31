@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXEUROCUPGAME-25DEC30CEOARI",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "EuroCup",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXEUROCUPGAME",
+  "strike_period": "",
+  "sub_title": "CEO at ARI (Dec 30)",
+  "title": "BC Aris Thessaloniki vs KK Cedevita Olimpija Ljubljana"
+}

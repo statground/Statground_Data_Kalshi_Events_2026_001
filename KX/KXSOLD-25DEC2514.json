@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Crypto",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXSOLD-25DEC2514",
+  "mutually_exclusive": false,
+  "series_ticker": "KXSOLD",
+  "strike_date": "2025-12-25T19:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Dec 25, 2025 at 2pm EST",
+  "title": "SOL price on Dec 25, 2025 at 2pm EST?"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "",
+  "event_ticker": "KXCANRESIGNPARTY-25",
+  "mutually_exclusive": false,
+  "series_ticker": "KXCANRESIGNPARTY",
+  "strike_period": "",
+  "sub_title": "Within a week of the election being called",
+  "title": "Which Canadian party leaders will resign after this year's election?"
+}

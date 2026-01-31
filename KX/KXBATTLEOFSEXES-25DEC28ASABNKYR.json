@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXBATTLEOFSEXES-25DEC28ASABNKYR",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Battle of the Sexes",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXBATTLEOFSEXES",
+  "strike_period": "",
+  "sub_title": "Aryna Sabalenka vs Nick Kyrgios",
+  "title": "Battle of the Sexes: Aryna Sabalenka vs Nick Kyrgios"
+}

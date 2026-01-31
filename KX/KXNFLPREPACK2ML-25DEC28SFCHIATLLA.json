@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNFLPREPACK2ML-25DEC28SFCHIATLLA",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Pro Football",
+    "competition_scope": "Combo"
+  },
+  "series_ticker": "KXNFLPREPACK2ML",
+  "strike_period": "",
+  "sub_title": "Chicago at San Francisco, Los Angeles R at Atlanta",
+  "title": "Pro Football 2-leg Combo: Chicago at San Francisco, Los Angeles R at Atlanta"
+}

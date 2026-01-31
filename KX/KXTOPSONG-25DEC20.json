@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXTOPSONG-25DEC20",
+  "mutually_exclusive": true,
+  "series_ticker": "KXTOPSONG",
+  "strike_period": "",
+  "sub_title": "On Dec 20, 2025",
+  "title": "Billboard Hot 100 #1 on Dec 20, 2025 chart?"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Social",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXACHIEVEMENTHOLDERWSOP-25DEC19",
+  "mutually_exclusive": true,
+  "series_ticker": "KXACHIEVEMENTHOLDERWSOP",
+  "strike_period": "",
+  "sub_title": "Tournament",
+  "title": "What country will the WSOP Paradise Super Main Event Winner be from?"
+}

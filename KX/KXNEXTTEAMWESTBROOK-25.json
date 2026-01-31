@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNEXTTEAMWESTBROOK-25",
+  "mutually_exclusive": true,
+  "series_ticker": "KXNEXTTEAMWESTBROOK",
+  "strike_period": "",
+  "sub_title": "Before 2026",
+  "title": "Russell Westbrook's next team?"
+}

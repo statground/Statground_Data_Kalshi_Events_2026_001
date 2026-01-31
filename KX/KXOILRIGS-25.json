@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Economics",
+  "collateral_return_type": "",
+  "event_ticker": "KXOILRIGS-25",
+  "mutually_exclusive": false,
+  "series_ticker": "KXOILRIGS",
+  "strike_period": "",
+  "sub_title": "In 2025",
+  "title": "How many oil rigs will the US have at the end of the year?"
+}

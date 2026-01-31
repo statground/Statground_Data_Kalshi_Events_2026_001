@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXEUROVISIONJURY-25",
+  "mutually_exclusive": true,
+  "series_ticker": "KXEUROVISIONJURY",
+  "strike_period": "",
+  "sub_title": "Before 2026",
+  "title": "Eurovision: who will win the Jury Vote?"
+}

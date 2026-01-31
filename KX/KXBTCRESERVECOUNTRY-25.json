@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Crypto",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXBTCRESERVECOUNTRY-25",
+  "mutually_exclusive": true,
+  "series_ticker": "KXBTCRESERVECOUNTRY",
+  "strike_period": "",
+  "sub_title": "In 2025",
+  "title": "How many countries will create crypto reserves in 2025?"
+}

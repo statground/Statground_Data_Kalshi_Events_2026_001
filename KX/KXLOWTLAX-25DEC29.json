@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": true,
+  "category": "Climate and Weather",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXLOWTLAX-25DEC29",
+  "mutually_exclusive": true,
+  "series_ticker": "KXLOWTLAX",
+  "strike_date": "2025-12-30T08:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Dec 29, 2025",
+  "title": "Lowest temperature in Los Angeles on Dec 29, 2025?"
+}

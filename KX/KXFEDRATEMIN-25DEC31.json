@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "",
+  "event_ticker": "KXFEDRATEMIN-25DEC31",
+  "mutually_exclusive": false,
+  "series_ticker": "KXFEDRATEMIN",
+  "strike_period": "",
+  "sub_title": "Before 2026",
+  "title": "How low will the Fed rate get in 2025?"
+}

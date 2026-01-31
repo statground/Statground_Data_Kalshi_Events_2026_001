@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": true,
+  "category": "Climate and Weather",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXHIGHAUS-25DEC24",
+  "mutually_exclusive": true,
+  "series_ticker": "KXHIGHAUS",
+  "strike_date": "2025-12-25T05:59:00Z",
+  "strike_period": "",
+  "sub_title": "On Dec 24, 2025",
+  "title": "Highest temperature in Austin on Dec 24, 2025?"
+}

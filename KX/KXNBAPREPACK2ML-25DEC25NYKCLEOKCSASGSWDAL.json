@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNBAPREPACK2ML-25DEC25NYKCLEOKCSASGSWDAL",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Basketball (M)",
+    "competition_scope": "Combo"
+  },
+  "series_ticker": "KXNBAPREPACK2ML",
+  "strike_period": "",
+  "sub_title": "Cleveland at New York, San Antonio at Oklahoma City, Dallas at Golden State",
+  "title": "Pro Basketball 2-leg Combo: Cleveland at New York, San Antonio at Oklahoma City, Dallas at Golden State"
+}

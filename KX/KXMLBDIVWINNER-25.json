@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXMLBDIVWINNER-25",
+  "mutually_exclusive": true,
+  "series_ticker": "KXMLBDIVWINNER",
+  "strike_period": "",
+  "sub_title": "In 2025",
+  "title": "Which Division Wins the Championship?"
+}

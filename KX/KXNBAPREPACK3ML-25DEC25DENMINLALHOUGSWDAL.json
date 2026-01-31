@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNBAPREPACK3ML-25DEC25DENMINLALHOUGSWDAL",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Pro Basketball (M)",
+    "competition_scope": "Combo"
+  },
+  "series_ticker": "KXNBAPREPACK3ML",
+  "strike_period": "",
+  "sub_title": "Minnesota at Denver, Houston at Los Angeles L, Dallas at Golden State",
+  "title": "Pro Basketball 3-leg Combo: Minnesota at Denver, Houston at Los Angeles L, Dallas at Golden State"
+}

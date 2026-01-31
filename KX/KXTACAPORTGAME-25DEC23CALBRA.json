@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXTACAPORTGAME-25DEC23CALBRA",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Taca de Portugal",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXTACAPORTGAME",
+  "strike_period": "",
+  "sub_title": "CAL vs BRA (Dec 23)",
+  "title": "Caldas vs Braga"
+}

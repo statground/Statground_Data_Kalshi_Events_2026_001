@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXAFCONGAME-25DEC26EGYRSA",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Africa Cup of Nations",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXAFCONGAME",
+  "strike_period": "",
+  "sub_title": "EGY vs RSA (Dec 26)",
+  "title": "Egypt vs South Africa"
+}
