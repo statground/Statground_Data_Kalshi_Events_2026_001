@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXBRASILEIROGAME-26JAN28SPAFLA",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Brasileiro Serie A",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXBRASILEIROGAME",
+  "strike_period": "",
+  "sub_title": "SPA vs FLA (Jan 28)",
+  "title": "Sao Paulo vs Flamengo"
+}

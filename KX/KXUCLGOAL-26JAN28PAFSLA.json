@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXUCLGOAL-26JAN28PAFSLA",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "UCL",
+    "competition_scope": "Goalscorer"
+  },
+  "series_ticker": "KXUCLGOAL",
+  "strike_period": "",
+  "sub_title": "SLA at PAF (Jan 28)",
+  "title": "Slavia Prague at Pafos: Anytime Goalscorer"
+}

@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXJBLEAGUEGAME-26JAN31SSMHAN",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Japan B League",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXJBLEAGUEGAME",
+  "strike_period": "",
+  "sub_title": "SSM at HAN (Jan 31)",
+  "title": "Shimane Susanoo Magic at Kyoto Hannaryz"
+}

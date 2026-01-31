@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXUCLBTTS-26JAN28BRUOM",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "UCL",
+    "competition_scope": "BTTS"
+  },
+  "series_ticker": "KXUCLBTTS",
+  "strike_period": "",
+  "sub_title": "OM at BRU (Jan 28)",
+  "title": "Marseille at Club Brugge: Both Teams to Score"
+}

@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNBAREB-26JAN28CHIIND",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Basketball (M)",
+    "competition_scope": "Player Rebounds"
+  },
+  "series_ticker": "KXNBAREB",
+  "strike_period": "",
+  "sub_title": "CHI at IND (Jan 28)",
+  "title": "Chicago at Indiana: Rebounds"
+}

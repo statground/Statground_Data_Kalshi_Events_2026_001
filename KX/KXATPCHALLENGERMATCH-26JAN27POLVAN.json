@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXATPCHALLENGERMATCH-26JAN27POLVAN",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "ATP Challenger San Diego",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXATPCHALLENGERMATCH",
+  "strike_period": "",
+  "sub_title": "Poling vs Vandecasteele (Jan 27)",
+  "title": "Poling vs Vandecasteele"
+}

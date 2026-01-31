@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXUCLBTTS-26JAN28BENRMA",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "UCL",
+    "competition_scope": "BTTS"
+  },
+  "series_ticker": "KXUCLBTTS",
+  "strike_period": "",
+  "sub_title": "RMA at BEN (Jan 28)",
+  "title": "Real Madrid at SL Benfica: Both Teams to Score"
+}

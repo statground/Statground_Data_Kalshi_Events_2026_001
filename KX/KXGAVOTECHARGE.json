@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "",
+  "event_ticker": "KXGAVOTECHARGE",
+  "mutually_exclusive": false,
+  "series_ticker": "KXGAVOTECHARGE",
+  "strike_period": "",
+  "sub_title": "Criminal charges",
+  "title": "Will anyone face federal charges tied to Fulton County’s 2020 election?"
+}

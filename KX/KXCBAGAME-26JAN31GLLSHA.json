@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCBAGAME-26JAN31GLLSHA",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Chinese Basketball Association",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXCBAGAME",
+  "strike_period": "",
+  "sub_title": "GLL at SHA (Jan 31)",
+  "title": "Guangzhou Loong Lions at Shandong Kirin"
+}

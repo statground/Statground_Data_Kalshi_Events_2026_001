@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNCAAMBSPREAD-26JAN28OAKPFW",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "College Basketball (M)",
+    "competition_scope": "Spread"
+  },
+  "series_ticker": "KXNCAAMBSPREAD",
+  "strike_period": "",
+  "sub_title": "OAK at PFW (Jan 28)",
+  "title": "Oakland at Purdue Fort Wayne: Spread"
+}

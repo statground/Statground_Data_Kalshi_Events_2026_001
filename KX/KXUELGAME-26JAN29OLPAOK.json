@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXUELGAME-26JAN29OLPAOK",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Europa League",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXUELGAME",
+  "strike_period": "",
+  "sub_title": "OL vs PAOK (Jan 29)",
+  "title": "Lyon vs PAOK"
+}

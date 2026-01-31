@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXARGPREMDIVGAME-26JAN29RCUARG",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Argentina Primera Division",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXARGPREMDIVGAME",
+  "strike_period": "",
+  "sub_title": "RCU vs ARG (Jan 29)",
+  "title": "Rio Cuarto vs Argentinos Juniors"
+}

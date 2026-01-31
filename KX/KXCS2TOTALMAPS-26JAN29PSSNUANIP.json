@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXCS2TOTALMAPS-26JAN29PSSNUANIP",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "CS2",
+    "competition_scope": "Total Maps"
+  },
+  "series_ticker": "KXCS2TOTALMAPS",
+  "strike_period": "",
+  "sub_title": "Total Maps: PSSNUA vs. NIP (Jan 29)",
+  "title": "IEM Krakow 2026: Passion UA vs. NIP Total Maps"
+}

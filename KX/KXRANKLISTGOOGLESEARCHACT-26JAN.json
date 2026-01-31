@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXRANKLISTGOOGLESEARCHACT-26JAN",
+  "mutually_exclusive": true,
+  "series_ticker": "KXRANKLISTGOOGLESEARCHACT",
+  "strike_period": "",
+  "sub_title": "Before Jan 2026",
+  "title": "#1 Most Searched Actor on Google this year?"
+}

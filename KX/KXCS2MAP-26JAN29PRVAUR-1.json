@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCS2MAP-26JAN29PRVAUR-1",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "CS2",
+    "competition_scope": "Map 1 Winner"
+  },
+  "series_ticker": "KXCS2MAP",
+  "strike_period": "",
+  "sub_title": "Map 1: PRV vs. AUR (Jan 29)",
+  "title": "IEM Krakow 2026: PARIVISION vs. Aurora Gaming Map 1"
+}

@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNBLGAME-26JAN29ILLASYD",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "NBL Australia",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXNBLGAME",
+  "strike_period": "",
+  "sub_title": "ILLA at SYD (Jan 29)",
+  "title": "Illawarra Hawks at Sydney Kings"
+}

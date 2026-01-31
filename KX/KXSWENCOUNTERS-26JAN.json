@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXSWENCOUNTERS-26JAN",
+  "mutually_exclusive": true,
+  "series_ticker": "KXSWENCOUNTERS",
+  "strike_period": "",
+  "sub_title": "In Jan 2026",
+  "title": "How many border encounters in Jan 2026?"
+}

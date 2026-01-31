@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXSPOTSTREAMSUSA-26JAN29",
+  "mutually_exclusive": false,
+  "series_ticker": "KXSPOTSTREAMSUSA",
+  "strike_period": "",
+  "sub_title": "For Jan 29, 2026",
+  "title": "How many streams will the top song on Spotify's Daily Top Songs USA have on Jan 29, 2026?"
+}

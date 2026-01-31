@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXARGPREMDIVGAME-26JAN27HURIRM",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Argentina Primera Division",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXARGPREMDIVGAME",
+  "strike_period": "",
+  "sub_title": "HUR vs IRM (Jan 27)",
+  "title": "Huracan vs Rivadavia"
+}

@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNBASTL-26JAN30PORNYK",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Basketball (M)",
+    "competition_scope": "Player Steals"
+  },
+  "series_ticker": "KXNBASTL",
+  "strike_period": "",
+  "sub_title": "POR at NYK (Jan 30)",
+  "title": "Portland at New York: Steals"
+}

@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXBUNDESLIGASPREAD-26JAN31FCASTP",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Bundesliga",
+    "competition_scope": "Spread"
+  },
+  "series_ticker": "KXBUNDESLIGASPREAD",
+  "strike_period": "",
+  "sub_title": "STP at FCA (Jan 31)",
+  "title": "St. Pauli at Augsburg: Spreads"
+}

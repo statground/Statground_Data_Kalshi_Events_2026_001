@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXSHLGAME-26JAN31LULHV7",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "SHL",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXSHLGAME",
+  "strike_period": "",
+  "sub_title": "LUL at HV7 (Jan 31)",
+  "title": "Lulea Hockey at HV71"
+}

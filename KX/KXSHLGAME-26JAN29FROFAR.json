@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXSHLGAME-26JAN29FROFAR",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "SHL",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXSHLGAME",
+  "strike_period": "",
+  "sub_title": "FRO at FAR (Jan 29)",
+  "title": "Frolunda HC at Färjestad"
+}

@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXVALORANTGAME-26JAN31DRGAG",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Valorant",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXVALORANTGAME",
+  "strike_period": "",
+  "sub_title": "Dragon Ranger Gaming vs. All Gamers (Jan 31)",
+  "title": "VCT China Kickoff 2026: Dragon Ranger Gaming vs. All Gamers"
+}

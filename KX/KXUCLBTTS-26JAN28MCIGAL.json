@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXUCLBTTS-26JAN28MCIGAL",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "UCL",
+    "competition_scope": "BTTS"
+  },
+  "series_ticker": "KXUCLBTTS",
+  "strike_period": "",
+  "sub_title": "GAL at MCI (Jan 28)",
+  "title": "Galatasaray at Manchester City: Both Teams to Score"
+}

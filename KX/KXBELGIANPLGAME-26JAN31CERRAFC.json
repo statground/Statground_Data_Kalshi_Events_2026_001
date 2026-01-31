@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXBELGIANPLGAME-26JAN31CERRAFC",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Belgian Pro League",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXBELGIANPLGAME",
+  "strike_period": "",
+  "sub_title": "CER vs RAFC (Jan 31)",
+  "title": "Cercle Brugge vs Royal Antwerp"
+}

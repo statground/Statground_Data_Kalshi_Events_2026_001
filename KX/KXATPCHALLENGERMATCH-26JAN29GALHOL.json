@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXATPCHALLENGERMATCH-26JAN29GALHOL",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "ATP Challenger Oeiras 2",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXATPCHALLENGERMATCH",
+  "strike_period": "",
+  "sub_title": "Galarneau vs Holmgren (Jan 29)",
+  "title": "Galarneau vs Holmgren"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXFOMCDISSENTCOUNT-26JAN",
+  "mutually_exclusive": true,
+  "series_ticker": "KXFOMCDISSENTCOUNT",
+  "strike_period": "",
+  "sub_title": "Jan 2026 FOMC Meeting",
+  "title": "How many dissenting votes at the next Fed meeting?"
+}

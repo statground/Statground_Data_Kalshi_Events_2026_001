@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNHLSPREAD-26JAN28NYRNYI",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "NHL",
+    "competition_scope": "Spread"
+  },
+  "series_ticker": "KXNHLSPREAD",
+  "strike_period": "",
+  "sub_title": "NYR at NYI (Jan 28)",
+  "title": "New York R at New York I: Spread"
+}

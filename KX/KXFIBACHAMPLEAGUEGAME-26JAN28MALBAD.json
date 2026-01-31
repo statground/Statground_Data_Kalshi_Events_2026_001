@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXFIBACHAMPLEAGUEGAME-26JAN28MALBAD",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "FIBA Champions League",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXFIBACHAMPLEAGUEGAME",
+  "strike_period": "",
+  "sub_title": "MAL at BAD (Jan 28)",
+  "title": "CB Malaga at Club Joventut Badalona"
+}

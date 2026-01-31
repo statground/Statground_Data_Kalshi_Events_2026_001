@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXAHLGAME-26JAN28ABBONT",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "AHL",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXAHLGAME",
+  "strike_period": "",
+  "sub_title": "ABB at ONT (Jan 28)",
+  "title": "Abbotsford Canucks at Ontario Reign"
+}

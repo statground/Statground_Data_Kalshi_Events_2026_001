@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNCAAMBTOTAL-26JAN28PEAYEKY",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "College Basketball (M)",
+    "competition_scope": "Point Total"
+  },
+  "series_ticker": "KXNCAAMBTOTAL",
+  "strike_period": "",
+  "sub_title": "PEAY at EKY (Jan 28)",
+  "title": "Austin Peay at Eastern Kentucky: Total Points"
+}

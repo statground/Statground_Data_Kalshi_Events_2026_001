@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNHLPTS-26JAN29UTACAR",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "NHL",
+    "competition_scope": "Player Points"
+  },
+  "series_ticker": "KXNHLPTS",
+  "strike_period": "",
+  "sub_title": "UTA at CAR (Jan 29)",
+  "title": "UTA Mammoth at CAR Hurricanes: Points"
+}

@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXAHLGAME-26JAN30HERROC",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "AHL",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXAHLGAME",
+  "strike_period": "",
+  "sub_title": "HER at ROC (Jan 30)",
+  "title": "Hershey Bears at Rochester Americans"
+}

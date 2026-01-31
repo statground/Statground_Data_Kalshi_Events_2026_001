@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Mentions",
+  "collateral_return_type": "",
+  "event_ticker": "KXNCAABMENTION-26JAN27NEBMICH",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "the governing league",
+    "competition_scope": "Mentions"
+  },
+  "series_ticker": "KXNCAABMENTION",
+  "strike_period": "",
+  "sub_title": "On Jan 27, 2026",
+  "title": "What will the announcers say during the Nebraska at Michigan men's college basketball game?"
+}

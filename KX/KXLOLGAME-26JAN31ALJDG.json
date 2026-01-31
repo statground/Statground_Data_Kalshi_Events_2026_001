@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXLOLGAME-26JAN31ALJDG",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "League of Legends",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXLOLGAME",
+  "strike_period": "",
+  "sub_title": "Anyone's Legend vs. JD Gaming (Jan 31)",
+  "title": "LPL 2026: Anyone's Legend vs. JD Gaming"
+}

@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXUCLBTTS-26JAN28BVBINT",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "UCL",
+    "competition_scope": "BTTS"
+  },
+  "series_ticker": "KXUCLBTTS",
+  "strike_period": "",
+  "sub_title": "INT at BVB (Jan 28)",
+  "title": "Inter at Dortmund: Both Teams to Score"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Entertainment",
+  "collateral_return_type": "",
+  "event_ticker": "KXRANKLIST1SONG-26JAN",
+  "mutually_exclusive": false,
+  "series_ticker": "KXRANKLIST1SONG",
+  "strike_period": "",
+  "sub_title": "January",
+  "title": "Which songs will be #1 on the Billboard Hot 100 in January?"
+}

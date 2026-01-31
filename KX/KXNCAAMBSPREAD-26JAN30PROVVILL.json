@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNCAAMBSPREAD-26JAN30PROVVILL",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "College Basketball (M)",
+    "competition_scope": "Spread"
+  },
+  "series_ticker": "KXNCAAMBSPREAD",
+  "strike_period": "",
+  "sub_title": "PROV at VILL (Jan 30)",
+  "title": "Providence at Villanova: Spread"
+}

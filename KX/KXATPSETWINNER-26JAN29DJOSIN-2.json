@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXATPSETWINNER-26JAN29DJOSIN-2",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Australian Open Men Singles",
+    "competition_scope": "Set 2 Winner"
+  },
+  "series_ticker": "KXATPSETWINNER",
+  "strike_period": "",
+  "sub_title": "Novak Djokovic vs Jannik Sinner Set 2 (Jan 29)",
+  "title": "Novak Djokovic vs Jannik Sinner: Set 2 Winner"
+}

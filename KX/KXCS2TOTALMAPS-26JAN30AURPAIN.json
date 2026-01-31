@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXCS2TOTALMAPS-26JAN30AURPAIN",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "CS2",
+    "competition_scope": "Total Maps"
+  },
+  "series_ticker": "KXCS2TOTALMAPS",
+  "strike_period": "",
+  "sub_title": "Total Maps: AUR vs. PAIN (Jan 30)",
+  "title": "IEM Krakow 2026: Aurora Gaming vs. paiN Total Maps"
+}

@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXUCLGOAL-26JAN28PSGNEW",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "UCL",
+    "competition_scope": "Goalscorer"
+  },
+  "series_ticker": "KXUCLGOAL",
+  "strike_period": "",
+  "sub_title": "NEW at PSG (Jan 28)",
+  "title": "Newcastle at PSG: Anytime Goalscorer"
+}

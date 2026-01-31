@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXLOLGAME-26JAN29NIPTT",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "League of Legends",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXLOLGAME",
+  "strike_period": "",
+  "sub_title": "Ninjas in Pyjamas vs. ThunderTalk Gaming (Jan 29)",
+  "title": "LPL 2026: Ninjas in Pyjamas vs. ThunderTalk Gaming"
+}

@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXSLGREECEGAME-26JAN31PAGARIS",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Greece Super League",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXSLGREECEGAME",
+  "strike_period": "",
+  "sub_title": "PAG vs ARIS (Jan 31)",
+  "title": "Panaitolikos vs Aris Thessaloniki"
+}

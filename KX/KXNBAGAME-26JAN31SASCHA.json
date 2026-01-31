@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNBAGAME-26JAN31SASCHA",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Pro Basketball (M)",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXNBAGAME",
+  "strike_period": "",
+  "sub_title": "SAS at CHA (Jan 31)",
+  "title": "San Antonio at Charlotte"
+}

@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXARGPREMDIVGAME-26JAN29LANUNI",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Argentina Primera Division",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXARGPREMDIVGAME",
+  "strike_period": "",
+  "sub_title": "LAN vs UNI (Jan 29)",
+  "title": "Lanus vs Union Santa Fe"
+}

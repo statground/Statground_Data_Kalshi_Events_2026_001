@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Climate and Weather",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXHIGHDEN-26JAN27",
+  "mutually_exclusive": true,
+  "series_ticker": "KXHIGHDEN",
+  "strike_period": "",
+  "sub_title": "On Jan 27, 2026",
+  "title": "Highest temperature in Denver on Jan 27, 2026?"
+}

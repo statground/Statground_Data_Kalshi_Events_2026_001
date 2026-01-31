@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXATPCHALLENGERMATCH-26JAN27HUEJUS",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "ATP Challenger Concepcion",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXATPCHALLENGERMATCH",
+  "strike_period": "",
+  "sub_title": "Huertas Del Pino Cordova vs Justo (Jan 27)",
+  "title": "Huertas Del Pino Cordova vs Justo"
+}

@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXBELGIANPLGAME-26JAN30RAALKAA",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Belgian Pro League",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXBELGIANPLGAME",
+  "strike_period": "",
+  "sub_title": "RAAL vs KAA (Jan 30)",
+  "title": "La Louviere vs Gent"
+}

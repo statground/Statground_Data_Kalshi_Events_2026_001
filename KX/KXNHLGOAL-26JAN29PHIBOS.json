@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNHLGOAL-26JAN29PHIBOS",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "NHL",
+    "competition_scope": "Goalscorer"
+  },
+  "series_ticker": "KXNHLGOAL",
+  "strike_period": "",
+  "sub_title": "PHI at BOS (Jan 29)",
+  "title": "PHI Flyers at BOS Bruins: Anytime Goal"
+}

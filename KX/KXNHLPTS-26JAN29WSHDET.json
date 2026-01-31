@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNHLPTS-26JAN29WSHDET",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "NHL",
+    "competition_scope": "Player Points"
+  },
+  "series_ticker": "KXNHLPTS",
+  "strike_period": "",
+  "sub_title": "WSH at DET (Jan 29)",
+  "title": "WSH Capitals at DET Red Wings: Points"
+}

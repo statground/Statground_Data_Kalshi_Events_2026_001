@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXEKSTRAKLASAGAME-26JAN31GORPGL",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Ekstraklasa",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXEKSTRAKLASAGAME",
+  "strike_period": "",
+  "sub_title": "GOR vs PGL (Jan 31)",
+  "title": "Gornik Zabrze vs Gliwice"
+}

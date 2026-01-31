@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXUELGAME-26JAN29RBBFEY",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Europa League",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXUELGAME",
+  "strike_period": "",
+  "sub_title": "RBB vs FEY (Jan 29)",
+  "title": "Real Betis vs Feyenoord"
+}

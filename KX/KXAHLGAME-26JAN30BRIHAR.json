@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXAHLGAME-26JAN30BRIHAR",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "AHL",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXAHLGAME",
+  "strike_period": "",
+  "sub_title": "BRI at HAR (Jan 30)",
+  "title": "Bridgeport Islanders at Hartford Wolf Pack"
+}

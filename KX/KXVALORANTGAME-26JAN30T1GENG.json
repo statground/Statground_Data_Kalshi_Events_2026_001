@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXVALORANTGAME-26JAN30T1GENG",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Valorant",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXVALORANTGAME",
+  "strike_period": "",
+  "sub_title": "T1 vs. Gen.G Esports (Jan 30)",
+  "title": "VCT Pacific Kickoff 2026: T1 vs. Gen.G Esports"
+}

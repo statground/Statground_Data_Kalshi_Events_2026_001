@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXVALORANTGAME-26JAN27FUTFNC",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Valorant",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXVALORANTGAME",
+  "strike_period": "",
+  "sub_title": "FUT Esports vs. Fnatic (Jan 27)",
+  "title": "VCT EMEA Kickoff 2026: FUT Esports vs. Fnatic"
+}

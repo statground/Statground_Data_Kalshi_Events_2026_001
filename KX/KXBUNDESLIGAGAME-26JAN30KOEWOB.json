@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXBUNDESLIGAGAME-26JAN30KOEWOB",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Bundesliga",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXBUNDESLIGAGAME",
+  "strike_period": "",
+  "sub_title": "KOE vs WOB (Jan 30)",
+  "title": "1. FC Cologne vs Wolfsburg"
+}

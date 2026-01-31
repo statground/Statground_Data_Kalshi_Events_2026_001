@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNCAAMBTOTAL-26JAN30SIENIAG",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "College Basketball (M)",
+    "competition_scope": "Point Total"
+  },
+  "series_ticker": "KXNCAAMBTOTAL",
+  "strike_period": "",
+  "sub_title": "SIE at NIAG (Jan 30)",
+  "title": "Siena at Niagara: Total Points"
+}

@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Crypto",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXDOGE-26JAN2822",
+  "mutually_exclusive": true,
+  "series_ticker": "KXDOGE",
+  "strike_date": "2026-01-29T03:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Jan 28, 2026 at 10pm EST",
+  "title": "Dogecoin price range on Jan 28, 2026 at 10pm EST?"
+}

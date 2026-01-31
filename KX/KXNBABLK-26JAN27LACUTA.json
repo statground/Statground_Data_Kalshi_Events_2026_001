@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNBABLK-26JAN27LACUTA",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Basketball (M)",
+    "competition_scope": "Player Blocks"
+  },
+  "series_ticker": "KXNBABLK",
+  "strike_period": "",
+  "sub_title": "LAC at UTA (Jan 27)",
+  "title": "Los Angeles C at Utah: Blocks"
+}

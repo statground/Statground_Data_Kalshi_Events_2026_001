@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXUCLGOAL-26JAN28BVBINT",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "UCL",
+    "competition_scope": "Goalscorer"
+  },
+  "series_ticker": "KXUCLGOAL",
+  "strike_period": "",
+  "sub_title": "INT at BVB (Jan 28)",
+  "title": "Inter at Dortmund: Anytime Goalscorer"
+}

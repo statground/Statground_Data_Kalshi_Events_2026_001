@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXRANKLISTIGN-26JAN",
+  "mutually_exclusive": true,
+  "series_ticker": "KXRANKLISTIGN",
+  "strike_period": "",
+  "sub_title": "2025",
+  "title": "IGN: The Best Game of 2025?"
+}

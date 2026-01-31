@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNHLTOTAL-26JAN29NSHNJ",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "NHL",
+    "competition_scope": "Point Total"
+  },
+  "series_ticker": "KXNHLTOTAL",
+  "strike_period": "",
+  "sub_title": "NSH at NJ (Jan 29)",
+  "title": "Nashville at New Jersey: Total Points"
+}

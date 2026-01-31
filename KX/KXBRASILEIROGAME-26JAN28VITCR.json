@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXBRASILEIROGAME-26JAN28VITCR",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Brasileiro Serie A",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXBRASILEIROGAME",
+  "strike_period": "",
+  "sub_title": "VIT vs CR (Jan 28)",
+  "title": "Vitoria vs Remo"
+}

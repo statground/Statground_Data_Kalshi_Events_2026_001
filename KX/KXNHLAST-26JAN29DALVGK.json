@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNHLAST-26JAN29DALVGK",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "NHL",
+    "competition_scope": "Player Assists"
+  },
+  "series_ticker": "KXNHLAST",
+  "strike_period": "",
+  "sub_title": "DAL at VGK (Jan 29)",
+  "title": "DAL Stars at VGK Golden Knights: Assists"
+}

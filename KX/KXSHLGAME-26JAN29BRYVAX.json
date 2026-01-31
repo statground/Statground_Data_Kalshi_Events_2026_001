@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXSHLGAME-26JAN29BRYVAX",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "SHL",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXSHLGAME",
+  "strike_period": "",
+  "sub_title": "BRY at VAX (Jan 29)",
+  "title": "Brynas IF at Växjö Lakers"
+}

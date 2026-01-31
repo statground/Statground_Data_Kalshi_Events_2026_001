@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNBAPTS-26JAN27NOPOKC",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Basketball (M)",
+    "competition_scope": "Player Points"
+  },
+  "series_ticker": "KXNBAPTS",
+  "strike_period": "",
+  "sub_title": "NOP at OKC (Jan 27)",
+  "title": "New Orleans at Oklahoma City: Points"
+}

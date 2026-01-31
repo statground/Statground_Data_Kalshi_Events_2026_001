@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXWTAMATCH-26JAN31STESZA",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "WTA Cluj Napoca",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXWTAMATCH",
+  "strike_period": "",
+  "sub_title": "Stefanini vs Szabo (Jan 31)",
+  "title": "Stefanini vs Szabo"
+}

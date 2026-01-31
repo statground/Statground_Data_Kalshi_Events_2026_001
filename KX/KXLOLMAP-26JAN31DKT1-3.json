@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXLOLMAP-26JAN31DKT1-3",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "League of Legends",
+    "competition_scope": "Map 3 Winner"
+  },
+  "series_ticker": "KXLOLMAP",
+  "strike_period": "",
+  "sub_title": "Map 3: DK vs. T1 (Jan 31)",
+  "title": "LCK Cup 2026: Dplus KIA vs. T1 Map 3"
+}

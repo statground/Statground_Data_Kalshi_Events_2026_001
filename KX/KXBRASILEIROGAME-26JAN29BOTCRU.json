@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXBRASILEIROGAME-26JAN29BOTCRU",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Brasileiro Serie A",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXBRASILEIROGAME",
+  "strike_period": "",
+  "sub_title": "BOT vs CRU (Jan 29)",
+  "title": "Botafogo vs Cruzeiro"
+}

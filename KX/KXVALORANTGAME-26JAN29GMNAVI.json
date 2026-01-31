@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXVALORANTGAME-26JAN29GMNAVI",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Valorant",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXVALORANTGAME",
+  "strike_period": "",
+  "sub_title": "Gentle Mates vs. Natus Vincere (Jan 29)",
+  "title": "VCT EMEA Kickoff 2026: Gentle Mates vs. Natus Vincere"
+}

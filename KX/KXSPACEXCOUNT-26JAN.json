@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Companies",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXSPACEXCOUNT-26JAN",
+  "mutually_exclusive": false,
+  "series_ticker": "KXSPACEXCOUNT",
+  "strike_period": "",
+  "sub_title": "In Jan 2026",
+  "title": "How many launches will SpaceX have in Jan 2026?"
+}

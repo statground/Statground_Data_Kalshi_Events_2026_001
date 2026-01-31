@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXUCLGAME-26JAN28SGETOT",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "UCL",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXUCLGAME",
+  "strike_period": "",
+  "sub_title": "SGE vs TOT (Jan 28)",
+  "title": "Frankfurt vs Tottenham"
+}

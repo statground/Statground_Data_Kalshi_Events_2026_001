@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNCAAMBTOTAL-26JAN28TENNUGA",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "College Basketball (M)",
+    "competition_scope": "Point Total"
+  },
+  "series_ticker": "KXNCAAMBTOTAL",
+  "strike_period": "",
+  "sub_title": "TENN at UGA (Jan 28)",
+  "title": "Tennessee at Georgia: Total Points"
+}

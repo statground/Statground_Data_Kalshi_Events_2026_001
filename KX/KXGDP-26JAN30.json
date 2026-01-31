@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Economics",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXGDP-26JAN30",
+  "mutually_exclusive": false,
+  "series_ticker": "KXGDP",
+  "strike_period": "Q4 2025",
+  "sub_title": "In Q4 2025",
+  "title": "US GDP growth in Q4 2025?"
+}

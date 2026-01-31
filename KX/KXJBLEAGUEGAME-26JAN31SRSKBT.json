@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXJBLEAGUEGAME-26JAN31SRSKBT",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Japan B League",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXJBLEAGUEGAME",
+  "strike_period": "",
+  "sub_title": "SRS at KBT (Jan 31)",
+  "title": "Sun Rockers Shibuya at Kawasaki Brave Thunders"
+}

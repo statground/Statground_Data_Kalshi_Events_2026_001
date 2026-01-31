@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXUSDJPYH-26JAN2810",
+  "mutually_exclusive": false,
+  "series_ticker": "KXUSDJPYH",
+  "strike_date": "2026-01-28T15:00:00Z",
+  "strike_period": "",
+  "sub_title": "Jan 28, 2026 at 10am EST",
+  "title": "USD/JPY price on Jan 28, 2026 at 10am EST?"
+}

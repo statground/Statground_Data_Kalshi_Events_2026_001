@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXLOLTOTALMAPS-26JAN28LGDUP",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "League of Legends",
+    "competition_scope": "Total Maps"
+  },
+  "series_ticker": "KXLOLTOTALMAPS",
+  "strike_period": "",
+  "sub_title": "Total Maps: LGD vs. UP (Jan 28)",
+  "title": "LPL 2026: LGD Gaming vs. Ultra Prime Total Maps"
+}

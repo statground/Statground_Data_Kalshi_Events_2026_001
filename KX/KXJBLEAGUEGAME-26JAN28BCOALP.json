@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXJBLEAGUEGAME-26JAN28BCOALP",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Japan B League",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXJBLEAGUEGAME",
+  "strike_period": "",
+  "sub_title": "BCO at ALP (Jan 28)",
+  "title": "Yokohama B-Corsairs at Koshigaya Alphas"
+}

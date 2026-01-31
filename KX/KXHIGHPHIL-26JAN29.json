@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Climate and Weather",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXHIGHPHIL-26JAN29",
+  "mutually_exclusive": true,
+  "series_ticker": "KXHIGHPHIL",
+  "strike_period": "",
+  "sub_title": "On Jan 29, 2026",
+  "title": "Highest temperature in Philadelphia on Jan 29, 2026?"
+}

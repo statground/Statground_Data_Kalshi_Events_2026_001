@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXWTACHALLENGERMATCH-26JAN31PAWMUN",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "WTA 125K Mumbai",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXWTACHALLENGERMATCH",
+  "strike_period": "",
+  "sub_title": "Pawlikowska vs Mundhe (Jan 31)",
+  "title": "Pawlikowska vs Mundhe"
+}

@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNCAAWBGAME-26JAN29UTASUU",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "College Basketball (W)",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXNCAAWBGAME",
+  "strike_period": "",
+  "sub_title": "UTA at SUU (Jan 29)",
+  "title": "UT Arlington at Southern Utah"
+}

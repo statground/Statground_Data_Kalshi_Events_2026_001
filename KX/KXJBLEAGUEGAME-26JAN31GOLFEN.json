@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXJBLEAGUEGAME-26JAN31GOLFEN",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Japan B League",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXJBLEAGUEGAME",
+  "strike_period": "",
+  "sub_title": "GOL at FEN (Jan 31)",
+  "title": "Ryukyu Golden Kings Okinawa at Fighting Eagles Nagoya"
+}

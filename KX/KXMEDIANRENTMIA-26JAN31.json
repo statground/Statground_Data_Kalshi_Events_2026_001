@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Economics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXMEDIANRENTMIA-26JAN31",
+  "mutually_exclusive": true,
+  "series_ticker": "KXMEDIANRENTMIA",
+  "strike_period": "",
+  "sub_title": "2025",
+  "title": "What will Miami's rent growth be in 2025?"
+}

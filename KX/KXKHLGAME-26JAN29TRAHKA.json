@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXKHLGAME-26JAN29TRAHKA",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "KHL",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXKHLGAME",
+  "strike_period": "",
+  "sub_title": "TRA at HKA (Jan 29)",
+  "title": "Traktor Chelyabinsk at HK Avangard Omsk"
+}

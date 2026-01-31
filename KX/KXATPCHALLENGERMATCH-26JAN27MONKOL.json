@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXATPCHALLENGERMATCH-26JAN27MONKOL",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "ATP Challenger Oeiras 2",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXATPCHALLENGERMATCH",
+  "strike_period": "",
+  "sub_title": "Montes-de la Torre vs Kolar (Jan 27)",
+  "title": "Montes-de la Torre vs Kolar"
+}

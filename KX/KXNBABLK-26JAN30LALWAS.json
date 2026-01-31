@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNBABLK-26JAN30LALWAS",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Basketball (M)",
+    "competition_scope": "Player Blocks"
+  },
+  "series_ticker": "KXNBABLK",
+  "strike_period": "",
+  "sub_title": "LAL at WAS (Jan 30)",
+  "title": "Los Angeles L at Washington: Blocks"
+}

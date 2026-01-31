@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Crypto",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXSOLE-26JAN2802",
+  "mutually_exclusive": true,
+  "series_ticker": "KXSOLE",
+  "strike_date": "2026-01-28T07:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Jan 28, 2026 at 2am EST",
+  "title": "SOL price range on Jan 28, 2026 at 2am EST?"
+}

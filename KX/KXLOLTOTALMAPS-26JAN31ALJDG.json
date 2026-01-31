@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXLOLTOTALMAPS-26JAN31ALJDG",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "League of Legends",
+    "competition_scope": "Total Maps"
+  },
+  "series_ticker": "KXLOLTOTALMAPS",
+  "strike_period": "",
+  "sub_title": "Total Maps: AL vs. JDG (Jan 31)",
+  "title": "LPL 2026: Anyone's Legend vs. JD Gaming Total Maps"
+}

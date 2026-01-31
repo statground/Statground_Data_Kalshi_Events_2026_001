@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNHLSPREAD-26JAN30CBJCHI",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "NHL",
+    "competition_scope": "Spread"
+  },
+  "series_ticker": "KXNHLSPREAD",
+  "strike_period": "",
+  "sub_title": "CBJ at CHI (Jan 30)",
+  "title": "Columbus at Chicago: Spread"
+}

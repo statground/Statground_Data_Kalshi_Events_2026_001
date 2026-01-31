@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCBAGAME-26JAN29LIANIN",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Chinese Basketball Association",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXCBAGAME",
+  "strike_period": "",
+  "sub_title": "LIA at NIN (Jan 29)",
+  "title": "Liaoning Flying Leopards at Ningbo Rockets"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXBRAZILJOBS-26JAN",
+  "mutually_exclusive": false,
+  "series_ticker": "KXBRAZILJOBS",
+  "strike_period": "",
+  "sub_title": "Dec 2025",
+  "title": "Brazil net formal jobs in Dec 2025?"
+}

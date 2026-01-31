@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXALEAGUEGAME-26JAN30WPHMEL",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Australia A League",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXALEAGUEGAME",
+  "strike_period": "",
+  "sub_title": "WPH vs MEL (Jan 30)",
+  "title": "Wellington vs Melbourne City"
+}

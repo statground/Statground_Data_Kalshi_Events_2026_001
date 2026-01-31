@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXARGPREMDIVGAME-26JAN27TUCCC",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Argentina Primera Division",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXARGPREMDIVGAME",
+  "strike_period": "",
+  "sub_title": "TUC vs CC (Jan 27)",
+  "title": "Tucuman vs Central Cordoba"
+}

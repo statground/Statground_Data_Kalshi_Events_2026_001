@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXEFLCHAMPIONSHIPGAME-26JAN31PORWBA",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "EFL Championship",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXEFLCHAMPIONSHIPGAME",
+  "strike_period": "",
+  "sub_title": "POR vs WBA (Jan 31)",
+  "title": "Portsmouth vs West Bromwich"
+}

@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXSUPERLIGGAME-26JAN30ANTTRA",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Super Lig",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXSUPERLIGGAME",
+  "strike_period": "",
+  "sub_title": "ANT vs TRA (Jan 30)",
+  "title": "Antalyaspor vs Trabzonspor"
+}

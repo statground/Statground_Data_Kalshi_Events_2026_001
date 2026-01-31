@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXRUGBYFRA14MATCH-26JAN31LOUSRO",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "France Top 14",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXRUGBYFRA14MATCH",
+  "strike_period": "",
+  "sub_title": "LOU at SRO (Jan 31)",
+  "title": "Stade Rochelais vs Lyon OU"
+}

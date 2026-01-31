@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXATPCHALLENGERMATCH-26JAN31VANGUE",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "ATP Challenger Quimper",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXATPCHALLENGERMATCH",
+  "strike_period": "",
+  "sub_title": "Van Assche vs Gueymard Wayenburg (Jan 31)",
+  "title": "Van Assche vs Gueymard Wayenburg"
+}

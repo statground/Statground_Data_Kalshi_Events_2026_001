@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXRANKLISTGOOGLESEARCHSONG-26JAN",
+  "mutually_exclusive": true,
+  "series_ticker": "KXRANKLISTGOOGLESEARCHSONG",
+  "strike_period": "",
+  "sub_title": "Before Jan 2026",
+  "title": "#1 search on Google’s Year in Search 2025 Global – Songs?"
+}

@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXEKSTRAKLASAGAME-26JAN30RADARK",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Ekstraklasa",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXEKSTRAKLASAGAME",
+  "strike_period": "",
+  "sub_title": "RAD vs ARK (Jan 30)",
+  "title": "Radomiak Radom vs Arka Gdynia"
+}

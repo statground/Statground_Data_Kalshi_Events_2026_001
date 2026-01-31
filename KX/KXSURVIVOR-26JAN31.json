@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXSURVIVOR-26JAN31",
+  "mutually_exclusive": true,
+  "series_ticker": "KXSURVIVOR",
+  "strike_period": "",
+  "sub_title": "Survivor Season 49",
+  "title": "Who will win Survivor Season 49?"
+}

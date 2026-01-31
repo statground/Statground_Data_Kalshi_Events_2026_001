@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCOPPAITALIAGAME-26JAN27FIOCOM",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Coppa Italia",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXCOPPAITALIAGAME",
+  "strike_period": "",
+  "sub_title": "FIO vs COM (Jan 27)",
+  "title": "Fiorentina vs Como"
+}

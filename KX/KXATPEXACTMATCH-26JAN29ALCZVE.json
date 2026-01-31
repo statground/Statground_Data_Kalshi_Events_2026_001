@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXATPEXACTMATCH-26JAN29ALCZVE",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Australian Open Men Singles",
+    "competition_scope": "Exact Match Score"
+  },
+  "series_ticker": "KXATPEXACTMATCH",
+  "strike_period": "",
+  "sub_title": "Carlos Alcaraz vs Alexander Zverev (Jan 29)",
+  "title": "Carlos Alcaraz vs Alexander Zverev: Exact Match Score"
+}

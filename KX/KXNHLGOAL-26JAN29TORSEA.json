@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNHLGOAL-26JAN29TORSEA",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "NHL",
+    "competition_scope": "Goalscorer"
+  },
+  "series_ticker": "KXNHLGOAL",
+  "strike_period": "",
+  "sub_title": "TOR at SEA (Jan 29)",
+  "title": "TOR Maple Leafs at SEA Kraken: Anytime Goal"
+}

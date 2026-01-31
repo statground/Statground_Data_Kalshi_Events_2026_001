@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXKHLGAME-26JAN29HCSKUN",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "KHL",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXKHLGAME",
+  "strike_period": "",
+  "sub_title": "HCS at KUN (Jan 29)",
+  "title": "HC Sochi at Kunlun Red Star"
+}

@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXATPTOTALSETS-26JAN29ALCZVE",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Australian Open Men Singles",
+    "competition_scope": "Total Sets"
+  },
+  "series_ticker": "KXATPTOTALSETS",
+  "strike_period": "",
+  "sub_title": "Carlos Alcaraz vs Alexander Zverev (Jan 29)",
+  "title": "Carlos Alcaraz vs Alexander Zverev: Total Sets"
+}
