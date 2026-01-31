@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXKLEAGUEGAME-25NOV08JEJANY",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Korea K League 1",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXKLEAGUEGAME",
+  "strike_period": "",
+  "sub_title": "JEJ vs ANY (Nov 8)",
+  "title": "Jeju SK FC vs FC Anyang"
+}

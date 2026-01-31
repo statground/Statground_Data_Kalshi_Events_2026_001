@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Elections",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNYCTURNOUT-25NOV04",
+  "mutually_exclusive": true,
+  "series_ticker": "KXNYCTURNOUT",
+  "strike_period": "",
+  "sub_title": "On Nov 4, 2025",
+  "title": "What will turnout be in the NYC mayoral election?"
+}

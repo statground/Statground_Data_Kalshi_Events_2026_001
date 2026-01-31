@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXUCLSPREAD-25NOV05OMATA",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "UCL",
+    "competition_scope": "Spread"
+  },
+  "series_ticker": "KXUCLSPREAD",
+  "strike_period": "",
+  "sub_title": "ATA at OM (Nov 5)",
+  "title": "Atalanta at Marseille: Spreads"
+}

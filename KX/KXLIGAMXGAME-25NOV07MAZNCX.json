@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXLIGAMXGAME-25NOV07MAZNCX",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Liga MX",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXLIGAMXGAME",
+  "strike_period": "",
+  "sub_title": "MAZ vs NCX (Nov 7)",
+  "title": "Mazatlan FC vs Club Necaxa"
+}

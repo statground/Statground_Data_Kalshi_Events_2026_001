@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Elections",
+  "collateral_return_type": "",
+  "event_ticker": "KXAPCALLVAGOV-25NOV04",
+  "mutually_exclusive": false,
+  "series_ticker": "KXAPCALLVAGOV",
+  "strike_period": "",
+  "sub_title": "Nov 4, 2025 election",
+  "title": "When will the AP call the Virginia Governor election?"
+}

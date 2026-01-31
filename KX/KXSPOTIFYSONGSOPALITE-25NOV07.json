@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXSPOTIFYSONGSOPALITE-25NOV07",
+  "mutually_exclusive": false,
+  "series_ticker": "KXSPOTIFYSONGSOPALITE",
+  "strike_period": "",
+  "sub_title": "By Nov 7, 2025 at 10:00 AM ET",
+  "title": "Total Spotify streams for Taylor Swift's 'Opalite' by Nov 7, 2025?"
+}

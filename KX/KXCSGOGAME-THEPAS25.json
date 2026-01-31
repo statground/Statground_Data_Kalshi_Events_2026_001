@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCSGOGAME-THEPAS25",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Counter-Strike 2",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXCSGOGAME",
+  "strike_period": "",
+  "sub_title": "BLAST Rivals 2025 Season 2: The MongolZ vs. Passion UA",
+  "title": "BLAST Rivals 2025: The MongolZ vs. Passion UA"
+}

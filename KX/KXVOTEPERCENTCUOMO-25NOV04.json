@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Elections",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXVOTEPERCENTCUOMO-25NOV04",
+  "mutually_exclusive": true,
+  "series_ticker": "KXVOTEPERCENTCUOMO",
+  "strike_period": "",
+  "sub_title": "On Nov 4, 2025",
+  "title": "What % of the vote will Cuomo get in the NYC mayoral election?"
+}

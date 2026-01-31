@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXUCLSPREAD-25NOV05QARCFC",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "UCL",
+    "competition_scope": "Spread"
+  },
+  "series_ticker": "KXUCLSPREAD",
+  "strike_period": "",
+  "sub_title": "CFC at QAR (Nov 5)",
+  "title": "Chelsea at Qarabag: Spreads"
+}

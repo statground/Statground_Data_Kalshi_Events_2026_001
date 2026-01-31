@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCS2MAP-MGLZTS225",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Counter-Strike 2",
+    "competition_scope": "Map"
+  },
+  "series_ticker": "KXCS2MAP",
+  "strike_period": "",
+  "sub_title": "BLAST Rivals 2025: The MongolZ vs. Spirit Map 2 Winner",
+  "title": "BLAST Rivals 2025: The MongolZ vs. Spirit Map 2 Winner"
+}

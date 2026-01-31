@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXFIFAGAME-25NOV13FRAUKR",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "World Cup Qualifiers",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXFIFAGAME",
+  "strike_period": "",
+  "sub_title": "FRA vs UKR (Nov 13)",
+  "title": "France vs Ukraine"
+}

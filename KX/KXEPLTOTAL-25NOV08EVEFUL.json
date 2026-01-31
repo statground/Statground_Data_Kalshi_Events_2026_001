@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXEPLTOTAL-25NOV08EVEFUL",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "EPL",
+    "competition_scope": "Point Total"
+  },
+  "series_ticker": "KXEPLTOTAL",
+  "strike_period": "",
+  "sub_title": "FUL at EVE (Nov 8)",
+  "title": "Fulham at Everton: Totals"
+}

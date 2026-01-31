@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXUECLGAME-25NOV06SAMHAM",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Conference League",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXUECLGAME",
+  "strike_period": "",
+  "sub_title": "SAM vs HAM (Nov 6)",
+  "title": "Samsunspor vs Hamrun Spartans FC"
+}

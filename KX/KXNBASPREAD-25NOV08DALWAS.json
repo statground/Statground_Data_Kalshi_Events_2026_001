@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNBASPREAD-25NOV08DALWAS",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Basketball (M)",
+    "competition_scope": "Spread"
+  },
+  "series_ticker": "KXNBASPREAD",
+  "strike_period": "",
+  "sub_title": "DAL at WAS (Nov 8)",
+  "title": "Dallas at Washington: Spread"
+}

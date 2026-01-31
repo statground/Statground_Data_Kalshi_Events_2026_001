@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNBASPREAD-25NOV07GSWDEN",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Basketball (M)",
+    "competition_scope": "Spread"
+  },
+  "series_ticker": "KXNBASPREAD",
+  "strike_period": "",
+  "sub_title": "GSW at DEN (Nov 7)",
+  "title": "Golden State at Denver: Spread"
+}

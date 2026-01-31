@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXF1RACEPODIUM-SAOPGP25",
+  "mutually_exclusive": false,
+  "series_ticker": "KXF1RACEPODIUM",
+  "strike_period": "",
+  "sub_title": "Sao Paulo Grand Prix",
+  "title": "Sao Paulo Grand Prix Podium Finishers?"
+}

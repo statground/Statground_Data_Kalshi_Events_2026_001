@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCS2MAP-FALPSSNUA125",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Counter-Strike 2",
+    "competition_scope": "Map"
+  },
+  "series_ticker": "KXCS2MAP",
+  "strike_period": "",
+  "sub_title": "BLAST Rivals 2025 Season 2: Team Falcons vs. Passion UA Map 1 Winner",
+  "title": "BLAST Rivals 2025: Team Falcons vs. Passion UA Map 1 Winner"
+}

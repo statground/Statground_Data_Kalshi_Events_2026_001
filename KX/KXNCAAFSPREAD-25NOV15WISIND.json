@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNCAAFSPREAD-25NOV15WISIND",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "College Football",
+    "competition_scope": "Spread"
+  },
+  "series_ticker": "KXNCAAFSPREAD",
+  "strike_period": "",
+  "sub_title": "WIS at IND (Nov 15)",
+  "title": "Wisconsin at Indiana: Spread"
+}

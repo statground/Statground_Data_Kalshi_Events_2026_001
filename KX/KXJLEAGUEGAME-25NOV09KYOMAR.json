@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXJLEAGUEGAME-25NOV09KYOMAR",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Japan J1 League",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXJLEAGUEGAME",
+  "strike_period": "",
+  "sub_title": "KYO vs MAR (Nov 9)",
+  "title": "Kyoto Sanga FC vs Yokohama F Marinos"
+}

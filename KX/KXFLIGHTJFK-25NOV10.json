@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "World",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXFLIGHTJFK-25NOV10",
+  "mutually_exclusive": false,
+  "series_ticker": "KXFLIGHTJFK",
+  "strike_period": "",
+  "sub_title": "On November 10, 2025",
+  "title": "Delays and cancellations at JFK Airport on November 10, 2025?"
+}

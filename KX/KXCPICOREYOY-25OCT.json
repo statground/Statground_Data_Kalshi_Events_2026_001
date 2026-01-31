@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXCPICOREYOY-25OCT",
+  "mutually_exclusive": false,
+  "series_ticker": "KXCPICOREYOY",
+  "strike_period": "October 2025",
+  "sub_title": "Oct 2025",
+  "title": "Core inflation in Oct 2025? (Core CPI YoY)"
+}

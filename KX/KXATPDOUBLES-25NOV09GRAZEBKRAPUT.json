@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXATPDOUBLES-25NOV09GRAZEBKRAPUT",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "ATP World Tour Finals Men Doubles",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXATPDOUBLES",
+  "strike_period": "",
+  "sub_title": "Granollers M / Zeballos H vs Krawietz K / Puetz T",
+  "title": "Granollers M / Zeballos H vs Krawietz K / Puetz T"
+}

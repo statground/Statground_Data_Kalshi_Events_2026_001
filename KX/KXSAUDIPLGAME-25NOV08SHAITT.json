@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXSAUDIPLGAME-25NOV08SHAITT",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Saudi Pro League",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXSAUDIPLGAME",
+  "strike_period": "",
+  "sub_title": "SHA vs ITT (Nov 8)",
+  "title": "Al-Shabab FC (SA) vs Al-Ittifaq FC"
+}

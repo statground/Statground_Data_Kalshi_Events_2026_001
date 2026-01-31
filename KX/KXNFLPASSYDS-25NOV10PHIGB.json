@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNFLPASSYDS-25NOV10PHIGB",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Football",
+    "competition_scope": "Passing Yards"
+  },
+  "series_ticker": "KXNFLPASSYDS",
+  "strike_period": "",
+  "sub_title": "PHI at GB (Nov 10)",
+  "title": "Philadelphia at Green Bay: Passing Yards"
+}

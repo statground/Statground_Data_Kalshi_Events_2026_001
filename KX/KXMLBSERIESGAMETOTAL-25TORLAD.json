@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXMLBSERIESGAMETOTAL-25TORLAD",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Baseball",
+    "competition_scope": "Series"
+  },
+  "series_ticker": "KXMLBSERIESGAMETOTAL",
+  "strike_period": "",
+  "sub_title": "Los Angeles D vs Toronto",
+  "title": "Pro Baseball Championship: Series Total Games Played"
+}

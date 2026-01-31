@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXJLEAGUEGAME-25NOV08KASYOK",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Japan J1 League",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXJLEAGUEGAME",
+  "strike_period": "",
+  "sub_title": "KAS vs YOK (Nov 8)",
+  "title": "Kashima Antlers vs Yokohama FC"
+}

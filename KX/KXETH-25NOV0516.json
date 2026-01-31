@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": true,
+  "category": "Crypto",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXETH-25NOV0516",
+  "mutually_exclusive": true,
+  "series_ticker": "KXETH",
+  "strike_date": "2025-11-05T21:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Nov 5, 2025 at 4pm EST",
+  "title": "Ethereum price range on Nov 5, 2025 at 4pm EST?"
+}

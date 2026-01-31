@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCSGOGAME-TYLPAI25",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Counter-Strike 2",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXCSGOGAME",
+  "strike_period": "",
+  "sub_title": "IEM Chengdu 2025: TYLOO vs. paiN",
+  "title": "IEM Chengdu 2025: TYLOO vs. paiN"
+}

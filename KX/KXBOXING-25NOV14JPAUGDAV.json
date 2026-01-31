@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXBOXING-25NOV14JPAUGDAV",
+  "mutually_exclusive": true,
+  "series_ticker": "KXBOXING",
+  "strike_period": "",
+  "sub_title": "Jake Paul vs. Gervonta Davis (Nov 14)",
+  "title": "Jake Paul vs. Gervonta Davis"
+}

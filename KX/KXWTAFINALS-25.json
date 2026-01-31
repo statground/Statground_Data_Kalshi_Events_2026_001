@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXWTAFINALS-25",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "WTA Finals Women Singles",
+    "competition_scope": "Future"
+  },
+  "series_ticker": "KXWTAFINALS",
+  "strike_period": "",
+  "sub_title": "November, 2025",
+  "title": "WTA Finals Women's Singles"
+}

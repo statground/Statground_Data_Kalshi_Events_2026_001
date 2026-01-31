@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Elections",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXPASUPERIORCOURT-25NOV04",
+  "mutually_exclusive": true,
+  "series_ticker": "KXPASUPERIORCOURT",
+  "strike_period": "",
+  "sub_title": "In 2025",
+  "title": "Which party will win the Pennsylvania Superior Court election?"
+}

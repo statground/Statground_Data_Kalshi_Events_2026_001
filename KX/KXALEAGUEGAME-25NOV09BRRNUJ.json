@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXALEAGUEGAME-25NOV09BRRNUJ",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Australia A League",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXALEAGUEGAME",
+  "strike_period": "",
+  "sub_title": "BRR vs NUJ (Nov 9)",
+  "title": "Brisbane Roar FC vs Newcastle United Jets"
+}

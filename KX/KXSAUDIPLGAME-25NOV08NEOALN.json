@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXSAUDIPLGAME-25NOV08NEOALN",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Saudi Pro League",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXSAUDIPLGAME",
+  "strike_period": "",
+  "sub_title": "NEO vs ALN (Nov 8)",
+  "title": "Neom SC vs Al Nassr Club"
+}

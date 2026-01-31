@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXEREDIVISIEGAME-25NOV07TWETEL",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Eredivisie",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXEREDIVISIEGAME",
+  "strike_period": "",
+  "sub_title": "TWE vs TEL (Nov 7)",
+  "title": "FC Twente Enschede vs SC Telstar"
+}

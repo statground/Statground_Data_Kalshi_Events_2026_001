@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXTOP10BILLBOARDSPOTSTS-25NOV15",
+  "mutually_exclusive": true,
+  "series_ticker": "KXTOP10BILLBOARDSPOTSTS",
+  "strike_period": "",
+  "sub_title": "Nov 15, 2025",
+  "title": "How many spots on the Billboard Hot 100's top 10 will Taylor Swift hold for the week of Nov 15th?"
+}

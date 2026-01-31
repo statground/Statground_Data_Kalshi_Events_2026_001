@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Elections",
+  "collateral_return_type": "",
+  "event_ticker": "KXCHILE1ROUND-25",
+  "mutually_exclusive": false,
+  "series_ticker": "KXCHILE1ROUND",
+  "strike_period": "",
+  "sub_title": "On Nov 16, 2025",
+  "title": "Will a candidate win outright in Chile’s first round?"
+}

@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXFIFAGAME-25NOV14POLNED",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "FIFA World Cup Qualifiers",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXFIFAGAME",
+  "strike_period": "",
+  "sub_title": "POL vs NED (Nov 14)",
+  "title": "Poland vs Netherlands"
+}

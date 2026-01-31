@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXVALPLPHIL-25",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Valorant",
+    "competition_scope": "Future"
+  },
+  "series_ticker": "KXVALPLPHIL",
+  "strike_period": "",
+  "sub_title": "On Nov 16, 2025",
+  "title": "Predator League 2026: Philippines"
+}

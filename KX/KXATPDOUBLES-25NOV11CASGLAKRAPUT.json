@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXATPDOUBLES-25NOV11CASGLAKRAPUT",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "ATP World Tour Finals Men Doubles",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXATPDOUBLES",
+  "strike_period": "",
+  "sub_title": "Cash J / Glasspool L vs Krawietz K / Puetz T",
+  "title": "Cash J / Glasspool L vs Krawietz K / Puetz T"
+}

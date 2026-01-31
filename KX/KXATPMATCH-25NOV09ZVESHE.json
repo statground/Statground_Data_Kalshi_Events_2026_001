@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXATPMATCH-25NOV09ZVESHE",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "ATP World Tour Finals Men Singles",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXATPMATCH",
+  "strike_period": "",
+  "sub_title": "Zverev vs Shelton",
+  "title": "Zverev vs Shelton"
+}

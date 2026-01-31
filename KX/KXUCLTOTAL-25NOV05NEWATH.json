@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXUCLTOTAL-25NOV05NEWATH",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "UCL",
+    "competition_scope": "Point Total"
+  },
+  "series_ticker": "KXUCLTOTAL",
+  "strike_period": "",
+  "sub_title": "ATH at NEW (Nov 5)",
+  "title": "Bilbao at Newcastle: Totals"
+}

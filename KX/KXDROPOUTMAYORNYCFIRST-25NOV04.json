@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Social",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXDROPOUTMAYORNYCFIRST-25NOV04",
+  "mutually_exclusive": true,
+  "series_ticker": "KXDROPOUTMAYORNYCFIRST",
+  "strike_period": "",
+  "sub_title": "Before Nov 4, 2025",
+  "title": "Who will drop out of the NYC Mayoral race first?"
+}

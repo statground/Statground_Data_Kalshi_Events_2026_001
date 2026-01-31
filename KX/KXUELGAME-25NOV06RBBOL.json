@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXUELGAME-25NOV06RBBOL",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Europa League",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXUELGAME",
+  "strike_period": "",
+  "sub_title": "RBB vs OL (Nov 6)",
+  "title": "Real Betis Seville vs Olympique Lyon"
+}

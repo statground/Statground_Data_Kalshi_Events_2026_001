@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXLOLMAP-T1KTR125",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "LoL",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXLOLMAP",
+  "strike_period": "",
+  "sub_title": "2025 T1 vs. KT Rolster: Game 1 Winner",
+  "title": "T1 vs. KT Rolster: Game 1 Winner"
+}

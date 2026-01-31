@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCS2MAP-PSSNUAPAIN125",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Counter-Strike 2",
+    "competition_scope": "Map"
+  },
+  "series_ticker": "KXCS2MAP",
+  "strike_period": "",
+  "sub_title": "BLAST Rivals 2025 Season 2: Passion UA vs. paiN Map 1 Winner",
+  "title": "BLAST Rivals 2025: Passion UA vs. paiN Map 1 Winner"
+}

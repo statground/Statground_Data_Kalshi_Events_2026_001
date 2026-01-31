@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXFIFAGAME-25NOV15BAHIVB",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Intl Friendlies",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXFIFAGAME",
+  "strike_period": "",
+  "sub_title": "BAH vs IVB (Nov 15)",
+  "title": "Bahamas vs Virgin Islands, British"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Elections",
+  "collateral_return_type": "",
+  "event_ticker": "KXELECTCONCEDE-25NOV05",
+  "mutually_exclusive": false,
+  "series_ticker": "KXELECTCONCEDE",
+  "strike_period": "",
+  "sub_title": "Before Nov 5, 2025",
+  "title": "Who will concede on Nov 4, 2025?"
+}

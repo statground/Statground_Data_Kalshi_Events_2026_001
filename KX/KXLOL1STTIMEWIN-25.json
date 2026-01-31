@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXLOL1STTIMEWIN-25",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Esports",
+    "competition_scope": "Futures"
+  },
+  "series_ticker": "KXLOL1STTIMEWIN",
+  "strike_period": "",
+  "sub_title": "On Nov 9, 2025",
+  "title": "Will the LoL Worlds champion be a first time winner?"
+}

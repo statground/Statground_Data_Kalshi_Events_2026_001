@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCSGOMAP-FURIAPAIN25-2",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Counter-Strike 2",
+    "competition_scope": "Map"
+  },
+  "series_ticker": "KXCSGOMAP",
+  "strike_period": "",
+  "sub_title": "Nov 15, 2025 Furia vs paiN: Map 2 Winner",
+  "title": "Furia vs paiN: Map 2 Winner"
+}

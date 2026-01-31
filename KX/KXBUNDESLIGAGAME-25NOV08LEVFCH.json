@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXBUNDESLIGAGAME-25NOV08LEVFCH",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Bundesliga",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXBUNDESLIGAGAME",
+  "strike_period": "",
+  "sub_title": "LEV vs FCH (Nov 8)",
+  "title": "Leverkusen vs Heidenheim"
+}

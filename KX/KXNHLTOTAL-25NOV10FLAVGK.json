@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNHLTOTAL-25NOV10FLAVGK",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "NHL",
+    "competition_scope": "Point Total"
+  },
+  "series_ticker": "KXNHLTOTAL",
+  "strike_period": "",
+  "sub_title": "FLA at VGK (Nov 10)",
+  "title": "Florida vs Vegas: Total Points"
+}

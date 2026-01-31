@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXEPLSPREAD-25NOV08WHUBUR",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "EPL",
+    "competition_scope": "Spread"
+  },
+  "series_ticker": "KXEPLSPREAD",
+  "strike_period": "",
+  "sub_title": "BUR at WHU (Nov 8)",
+  "title": "Burnley at West Ham: Spreads"
+}

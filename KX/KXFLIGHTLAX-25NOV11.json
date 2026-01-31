@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Transportation",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXFLIGHTLAX-25NOV11",
+  "mutually_exclusive": false,
+  "series_ticker": "KXFLIGHTLAX",
+  "strike_period": "",
+  "sub_title": "On November 11, 2025",
+  "title": "Delays and cancellations at LAX Airport on November 11, 2025?"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXF1RACE-SAOPGP25",
+  "mutually_exclusive": true,
+  "series_ticker": "KXF1RACE",
+  "strike_period": "",
+  "sub_title": "Sao Paulo Grand Prix",
+  "title": "Sao Paulo Grand Prix Winner?"
+}

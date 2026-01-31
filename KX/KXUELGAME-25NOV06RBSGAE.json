@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXUELGAME-25NOV06RBSGAE",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Europa League",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXUELGAME",
+  "strike_period": "",
+  "sub_title": "RBS vs GAE (Nov 6)",
+  "title": "FC Salzburg vs Go Ahead Eagles"
+}

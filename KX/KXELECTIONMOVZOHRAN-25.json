@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Elections",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXELECTIONMOVZOHRAN-25",
+  "mutually_exclusive": true,
+  "series_ticker": "KXELECTIONMOVZOHRAN",
+  "strike_period": "",
+  "sub_title": "In 2025",
+  "title": "Margin of victory for Zohran Mamdani in the NYC Mayoral Election?"
+}

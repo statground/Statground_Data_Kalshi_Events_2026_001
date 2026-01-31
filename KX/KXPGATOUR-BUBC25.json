@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXPGATOUR-BUBC25",
+  "mutually_exclusive": true,
+  "series_ticker": "KXPGATOUR",
+  "strike_period": "",
+  "sub_title": "2025 Butterfield Bermuda Championship",
+  "title": "Butterfield Bermuda Championship Winner?"
+}

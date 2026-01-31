@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXJLEAGUEGAME-25NOV08REYNGE",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Japan J1 League",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXJLEAGUEGAME",
+  "strike_period": "",
+  "sub_title": "REY vs NGE (Nov 8)",
+  "title": "Kashiwa Reysol vs Nagoya Grampus"
+}

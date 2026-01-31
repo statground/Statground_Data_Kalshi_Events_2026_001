@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNFLGAME-25NOV09LASF",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Pro Football",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXNFLGAME",
+  "strike_period": "",
+  "sub_title": "LA at SF (Nov 9)",
+  "title": "Los Angeles R at San Francisco"
+}
