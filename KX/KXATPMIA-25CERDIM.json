@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXATPMIA-25CERDIM",
+  "mutually_exclusive": true,
+  "series_ticker": "KXATPMIA",
+  "strike_period": "",
+  "sub_title": "Cerundolo vs Dimitrov",
+  "title": "ATP Miami: Cerundolo or Dimitrov advances?"
+}

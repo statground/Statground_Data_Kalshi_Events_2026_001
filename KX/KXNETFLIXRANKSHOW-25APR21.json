@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNETFLIXRANKSHOW-25APR21",
+  "mutually_exclusive": true,
+  "series_ticker": "KXNETFLIXRANKSHOW",
+  "strike_period": "",
+  "sub_title": "The chart published on Apr 22, 2025",
+  "title": "Top US Netflix show this week?"
+}

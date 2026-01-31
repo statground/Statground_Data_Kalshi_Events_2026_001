@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXWMARMAD-25R4G1",
+  "mutually_exclusive": true,
+  "series_ticker": "KXWMARMAD",
+  "strike_period": "",
+  "sub_title": "Final qualifiers? (Group 1)",
+  "title": "Women's College Basketball Final Qualifiers?"
+}

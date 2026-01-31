@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNHLGAME-25APR22OTTTOR",
+  "mutually_exclusive": true,
+  "series_ticker": "KXNHLGAME",
+  "strike_period": "",
+  "sub_title": "OTT at TOR (Apr 22)",
+  "title": "Ottawa vs Toronto: Game 2 Winner?"
+}

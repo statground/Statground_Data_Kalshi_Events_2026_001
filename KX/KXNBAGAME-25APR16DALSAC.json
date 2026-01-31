@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNBAGAME-25APR16DALSAC",
+  "mutually_exclusive": true,
+  "series_ticker": "KXNBAGAME",
+  "strike_period": "",
+  "sub_title": "DAL at SAC (Apr 16)",
+  "title": "Basketball Play-In: Dallas vs Sacramento"
+}

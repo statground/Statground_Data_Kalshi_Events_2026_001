@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXMARMAD-25R32G5",
+  "mutually_exclusive": true,
+  "series_ticker": "KXMARMAD",
+  "strike_period": "",
+  "sub_title": "Round of 16 qualifiers? (Group 5)",
+  "title": "Men's College Basketball Round of 16 Qualifiers?"
+}

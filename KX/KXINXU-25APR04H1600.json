@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXINXU-25APR04H1600",
+  "mutually_exclusive": false,
+  "series_ticker": "KXINXU",
+  "strike_date": "2025-04-04T20:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Apr 4, 2025 at 4pm EDT",
+  "title": "S&P price on Apr 4, 2025 at 4pm EDT?"
+}

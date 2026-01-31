@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "",
+  "event_ticker": "KXTARIFFSSTEEL-25",
+  "mutually_exclusive": false,
+  "series_ticker": "KXTARIFFSSTEEL",
+  "strike_period": "",
+  "sub_title": "Before Apr 2025",
+  "title": "Will tariffs on steel come into effect before Apr 2025?"
+}

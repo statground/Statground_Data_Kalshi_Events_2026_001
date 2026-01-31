@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXATPMC-25ALTALC",
+  "mutually_exclusive": true,
+  "series_ticker": "KXATPMC",
+  "strike_period": "",
+  "sub_title": "Altmaier vs Alcaraz",
+  "title": "ATP Monte Carlo: Altmaier or Alcaraz advances?"
+}

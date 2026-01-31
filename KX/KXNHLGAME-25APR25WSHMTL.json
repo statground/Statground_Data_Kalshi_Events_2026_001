@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNHLGAME-25APR25WSHMTL",
+  "mutually_exclusive": true,
+  "series_ticker": "KXNHLGAME",
+  "strike_period": "",
+  "sub_title": "WSH at MTL (Apr 25)",
+  "title": "Washington vs Montreal: Game 3 Winner?"
+}

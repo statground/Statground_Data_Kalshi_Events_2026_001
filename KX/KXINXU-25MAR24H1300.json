@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXINXU-25MAR24H1300",
+  "mutually_exclusive": false,
+  "series_ticker": "KXINXU",
+  "strike_date": "2025-03-24T17:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Mar 24, 2025 at 1pm EDT",
+  "title": "S&P price on Mar 24, 2025 at 1pm EDT?"
+}

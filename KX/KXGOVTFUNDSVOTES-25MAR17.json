@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXGOVTFUNDSVOTES-25MAR17",
+  "mutually_exclusive": true,
+  "series_ticker": "KXGOVTFUNDSVOTES",
+  "strike_period": "",
+  "sub_title": "Before March 17",
+  "title": "How many votes will the gov't funding bill receive  in the Senate?"
+}

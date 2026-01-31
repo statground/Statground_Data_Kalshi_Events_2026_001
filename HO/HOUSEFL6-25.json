@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "HOUSEFL6-25",
+  "mutually_exclusive": true,
+  "series_ticker": "HOUSEFL6",
+  "strike_period": "",
+  "sub_title": "In 2025",
+  "title": "Which party will win the special election for FL-6?"
+}

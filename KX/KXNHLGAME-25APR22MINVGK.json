@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNHLGAME-25APR22MINVGK",
+  "mutually_exclusive": true,
+  "series_ticker": "KXNHLGAME",
+  "strike_period": "",
+  "sub_title": "MIN at VGK (Apr 22)",
+  "title": "Minnesota vs Vegas: Game 2 Winner?"
+}

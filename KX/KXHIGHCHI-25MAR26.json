@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXHIGHCHI-25MAR26",
+  "mutually_exclusive": true,
+  "series_ticker": "KXHIGHCHI",
+  "strike_date": "2025-03-27T03:59:00Z",
+  "strike_period": "",
+  "sub_title": "On Mar 26, 2025",
+  "title": "Highest temperature in Chicago on Mar 26, 2025?"
+}

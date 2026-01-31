@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXMARMAD-25F4G4",
+  "mutually_exclusive": true,
+  "series_ticker": "KXMARMAD",
+  "strike_period": "",
+  "sub_title": "San Diego State vs North Carolina?",
+  "title": "San Diego State vs North Carolina"
+}

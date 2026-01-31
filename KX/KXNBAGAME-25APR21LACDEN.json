@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNBAGAME-25APR21LACDEN",
+  "mutually_exclusive": true,
+  "series_ticker": "KXNBAGAME",
+  "strike_period": "",
+  "sub_title": "LAC at DEN (Apr 21)",
+  "title": "Los Angeles C vs Denver: Game 2 Winner?"
+}

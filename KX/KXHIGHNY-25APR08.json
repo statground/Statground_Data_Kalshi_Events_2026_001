@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXHIGHNY-25APR08",
+  "mutually_exclusive": true,
+  "series_ticker": "KXHIGHNY",
+  "strike_date": "2025-04-09T03:59:00Z",
+  "strike_period": "",
+  "sub_title": "On Apr 8, 2025",
+  "title": "Highest temperature in NYC on Apr 8, 2025?"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXELONTWEETS-25APR04",
+  "mutually_exclusive": true,
+  "series_ticker": "KXELONTWEETS",
+  "strike_period": "",
+  "sub_title": "Ending Apr 4, 2025",
+  "title": "How many Elon Musk posts on X the week ending on Apr 4, 2025?"
+}

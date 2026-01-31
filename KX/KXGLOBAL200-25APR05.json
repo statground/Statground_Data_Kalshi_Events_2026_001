@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXGLOBAL200-25APR05",
+  "mutually_exclusive": true,
+  "series_ticker": "KXGLOBAL200",
+  "strike_period": "",
+  "sub_title": "On Apr 5, 2025",
+  "title": "Billboard Global 200 #1 on Apr 5, 2025 chart?"
+}

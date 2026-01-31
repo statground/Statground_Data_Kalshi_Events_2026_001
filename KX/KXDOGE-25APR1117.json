@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Crypto",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXDOGE-25APR1117",
+  "mutually_exclusive": true,
+  "series_ticker": "KXDOGE",
+  "strike_date": "2025-04-11T21:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Apr 11, 2025 at 5pm EDT",
+  "title": "Dogecoin price range on Apr 11, 2025 at 5pm EDT?"
+}

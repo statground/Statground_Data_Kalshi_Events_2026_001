@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXWTAMIA-25OSAPAO",
+  "mutually_exclusive": true,
+  "series_ticker": "KXWTAMIA",
+  "strike_period": "",
+  "sub_title": "Osaka vs Paolini",
+  "title": "WTA Miami: Osaka or Paolini advances?"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNBAGAME-25APR24DENLAC",
+  "mutually_exclusive": true,
+  "series_ticker": "KXNBAGAME",
+  "strike_period": "",
+  "sub_title": "DEN at LAC (Apr 24)",
+  "title": "Denver vs Los Angeles C: Game 3 Winner?"
+}

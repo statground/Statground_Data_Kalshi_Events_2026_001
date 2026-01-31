@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNBAGAME-25APR18MIAATL",
+  "mutually_exclusive": true,
+  "series_ticker": "KXNBAGAME",
+  "strike_period": "",
+  "sub_title": "MIA at ATL (Apr 18)",
+  "title": "Miami vs Atlanta"
+}

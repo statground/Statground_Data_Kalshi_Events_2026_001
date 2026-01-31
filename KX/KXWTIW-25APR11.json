@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXWTIW-25APR11",
+  "mutually_exclusive": true,
+  "series_ticker": "KXWTIW",
+  "strike_date": "2025-04-11T18:30:00Z",
+  "strike_period": "",
+  "sub_title": "On Apr 11, 2025",
+  "title": "WTI oil price on Apr 11, 2025?"
+}

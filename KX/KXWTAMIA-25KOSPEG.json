@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXWTAMIA-25KOSPEG",
+  "mutually_exclusive": true,
+  "series_ticker": "KXWTAMIA",
+  "strike_period": "",
+  "sub_title": "Kostyuk vs Pegula",
+  "title": "WTA Miami: Kostyuk or Pegula advances?"
+}

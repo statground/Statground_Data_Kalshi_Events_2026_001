@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXEURUSDH-25MAR2110",
+  "mutually_exclusive": false,
+  "series_ticker": "KXEURUSDH",
+  "strike_date": "2025-03-21T14:00:00Z",
+  "strike_period": "",
+  "sub_title": "Mar 21, 2025 at 10am EDT",
+  "title": "EUR/USD price range on Mar 21, 2025 at 10am EDT?"
+}

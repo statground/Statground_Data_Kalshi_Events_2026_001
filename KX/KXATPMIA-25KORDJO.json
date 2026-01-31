@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXATPMIA-25KORDJO",
+  "mutually_exclusive": true,
+  "series_ticker": "KXATPMIA",
+  "strike_period": "",
+  "sub_title": "Korda vs Djokovic",
+  "title": "ATP Miami: Korda or Djokovic advances?"
+}

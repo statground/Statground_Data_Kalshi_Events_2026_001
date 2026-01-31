@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXATPMIA-25DEFON",
+  "mutually_exclusive": true,
+  "series_ticker": "KXATPMIA",
+  "strike_period": "",
+  "sub_title": "de Minaur vs Fonseca",
+  "title": "ATP Miami: de Minaur or Fonseca advances?"
+}

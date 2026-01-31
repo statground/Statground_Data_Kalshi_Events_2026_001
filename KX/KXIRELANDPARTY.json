@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXIRELANDPARTY",
+  "mutually_exclusive": true,
+  "series_ticker": "KXIRELANDPARTY",
+  "strike_period": "",
+  "sub_title": "In The 2024 Election",
+  "title": "Which party will win the most seats in the 2024 Irish Election?"
+}

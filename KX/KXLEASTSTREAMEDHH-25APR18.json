@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXLEASTSTREAMEDHH-25APR18",
+  "mutually_exclusive": true,
+  "series_ticker": "KXLEASTSTREAMEDHH",
+  "strike_period": "",
+  "sub_title": "On Apr 18, 2025",
+  "title": "Least streamed song on Honkeytonk Hollywood on Apr 18, 2025?"
+}

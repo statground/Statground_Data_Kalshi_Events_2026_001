@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXAPRPOTUS-25APR11",
+  "mutually_exclusive": true,
+  "series_ticker": "KXAPRPOTUS",
+  "strike_date": "2025-04-11T15:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Apr 11, 2025",
+  "title": "The President's RCP approval rating on Apr 11, 2025?"
+}

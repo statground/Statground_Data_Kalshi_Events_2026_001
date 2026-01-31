@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXATPMIA-25DIMNAK",
+  "mutually_exclusive": true,
+  "series_ticker": "KXATPMIA",
+  "strike_period": "",
+  "sub_title": "Dimitrov vs Nakashima",
+  "title": "ATP Miami: Dimitrov or Nakashima advances?"
+}

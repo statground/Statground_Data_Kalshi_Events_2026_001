@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXSERIEA-25",
+  "mutually_exclusive": true,
+  "series_ticker": "KXSERIEA",
+  "strike_period": "",
+  "sub_title": "On Apr 22, 2025",
+  "title": "Serie A Champion?"
+}

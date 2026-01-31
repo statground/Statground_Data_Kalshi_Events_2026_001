@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXWTAMIA-25RADANI",
+  "mutually_exclusive": true,
+  "series_ticker": "KXWTAMIA",
+  "strike_period": "",
+  "sub_title": "Raducanu vs Anisimova",
+  "title": "WTA Miami: Raducanu or Anisimova advances?"
+}

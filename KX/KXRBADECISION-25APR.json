@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXRBADECISION-25APR",
+  "mutually_exclusive": true,
+  "series_ticker": "KXRBADECISION",
+  "strike_period": "",
+  "sub_title": "On Apr 1, 2025",
+  "title": "RBA decision in Apr 2025?"
+}

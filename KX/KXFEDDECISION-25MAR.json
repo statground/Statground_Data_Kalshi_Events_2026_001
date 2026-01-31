@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXFEDDECISION-25MAR",
+  "mutually_exclusive": true,
+  "series_ticker": "KXFEDDECISION",
+  "strike_date": "2025-03-19T18:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Mar 19, 2025",
+  "title": "Fed decision in Mar 2025?"
+}

@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Crypto",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXSHIBA-25MAR1617",
+  "mutually_exclusive": true,
+  "series_ticker": "KXSHIBA",
+  "strike_date": "2025-03-16T21:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Mar 16, 2025 at 5pm EDT",
+  "title": "Shiba Inu price range  on Mar 16, 2025 at 5pm EDT?"
+}

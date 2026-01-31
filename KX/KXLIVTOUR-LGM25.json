@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXLIVTOUR-LGM25",
+  "mutually_exclusive": true,
+  "series_ticker": "KXLIVTOUR",
+  "strike_period": "",
+  "sub_title": "2025 LIV Golf Miami",
+  "title": "LIV Golf Miami Winner?"
+}

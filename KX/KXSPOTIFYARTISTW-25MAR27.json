@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXSPOTIFYARTISTW-25MAR27",
+  "mutually_exclusive": true,
+  "series_ticker": "KXSPOTIFYARTISTW",
+  "strike_period": "",
+  "sub_title": "On Mar 27, 2025 Chart",
+  "title": "Top Artist on Weekly Top Artists USA on Mar 27, 2025?"
+}

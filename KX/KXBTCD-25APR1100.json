@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Crypto",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXBTCD-25APR1100",
+  "mutually_exclusive": false,
+  "series_ticker": "KXBTCD",
+  "strike_date": "2025-04-11T04:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Apr 11, 2025 at 12am EDT",
+  "title": "Bitcoin price on Apr 11, 2025 at 12am EDT?"
+}

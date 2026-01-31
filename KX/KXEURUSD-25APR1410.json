@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXEURUSD-25APR1410",
+  "mutually_exclusive": true,
+  "series_ticker": "KXEURUSD",
+  "strike_date": "2025-04-14T14:00:00Z",
+  "strike_period": "",
+  "sub_title": "Apr 14, 2025 at 10am EDT",
+  "title": "EUR/USD price range on Apr 14, 2025 at 10am EDT?"
+}

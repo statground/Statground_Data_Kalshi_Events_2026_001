@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXJBEARDOC-2025",
+  "mutually_exclusive": true,
+  "series_ticker": "KXJBEARDOC",
+  "strike_period": "",
+  "sub_title": "In 2025",
+  "title": "2025 James Beard Award for Outstanding Chef?"
+}

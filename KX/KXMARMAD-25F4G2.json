@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXMARMAD-25F4G2",
+  "mutually_exclusive": true,
+  "series_ticker": "KXMARMAD",
+  "strike_period": "",
+  "sub_title": "Texas vs Xavier?",
+  "title": "Texas vs Xavier"
+}

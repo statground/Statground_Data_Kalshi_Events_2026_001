@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXUSDJPYH-25APR2416",
+  "mutually_exclusive": false,
+  "series_ticker": "KXUSDJPYH",
+  "strike_date": "2025-04-24T20:00:00Z",
+  "strike_period": "",
+  "sub_title": "Apr 24, 2025 at 4pm EDT",
+  "title": "USD/JPY price on Apr 24, 2025 at 4pm EDT?"
+}

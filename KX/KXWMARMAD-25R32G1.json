@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXWMARMAD-25R32G1",
+  "mutually_exclusive": true,
+  "series_ticker": "KXWMARMAD",
+  "strike_period": "",
+  "sub_title": "Round of 16 qualifiers? (Group 1)",
+  "title": "Women's College Basketball Round of 16 Qualifiers?"
+}

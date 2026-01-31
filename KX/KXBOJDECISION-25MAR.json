@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXBOJDECISION-25MAR",
+  "mutually_exclusive": true,
+  "series_ticker": "KXBOJDECISION",
+  "strike_period": "",
+  "sub_title": "On Mar 19, 2025",
+  "title": "BOJ decision in Mar 2025?"
+}

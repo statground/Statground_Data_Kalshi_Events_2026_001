@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXPOTUSTWEETS-25MAR28",
+  "mutually_exclusive": true,
+  "series_ticker": "KXPOTUSTWEETS",
+  "strike_period": "",
+  "sub_title": "Ending Mar 28, 2025",
+  "title": "How many POTUS posts on X the week ending Mar 28, 2025?"
+}

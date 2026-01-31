@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXEURUSDH-25APR2411",
+  "mutually_exclusive": false,
+  "series_ticker": "KXEURUSDH",
+  "strike_date": "2025-04-24T15:00:00Z",
+  "strike_period": "",
+  "sub_title": "Apr 24, 2025 at 11am EDT",
+  "title": "EUR/USD price on Apr 24, 2025 at 11am EDT?"
+}

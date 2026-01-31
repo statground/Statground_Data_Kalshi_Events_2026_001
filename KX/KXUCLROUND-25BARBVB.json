@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXUCLROUND-25BARBVB",
+  "mutually_exclusive": true,
+  "series_ticker": "KXUCLROUND",
+  "strike_period": "",
+  "sub_title": "Barcelona vs Dortmund",
+  "title": "Barcelona vs Dortmund"
+}

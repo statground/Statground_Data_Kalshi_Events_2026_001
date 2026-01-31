@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Crypto",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXBTC-25APR0411",
+  "mutually_exclusive": true,
+  "series_ticker": "KXBTC",
+  "strike_date": "2025-04-04T15:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Apr 4, 2025 at 11am EDT",
+  "title": "Bitcoin price range on Apr 4, 2025 at 11am EDT?"
+}

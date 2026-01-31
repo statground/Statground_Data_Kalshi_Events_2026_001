@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXUSDJPYH-25APR1113",
+  "mutually_exclusive": false,
+  "series_ticker": "KXUSDJPYH",
+  "strike_date": "2025-04-11T17:00:00Z",
+  "strike_period": "",
+  "sub_title": "Apr 11, 2025 at 1pm EDT",
+  "title": "USD/JPY price range on Apr 11, 2025 at 1pm EDT?"
+}

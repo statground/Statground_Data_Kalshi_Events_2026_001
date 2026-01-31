@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXUFCTITLE-UFC314VOLLOP",
+  "mutually_exclusive": true,
+  "series_ticker": "KXUFCTITLE",
+  "strike_period": "",
+  "sub_title": "UFC 314 - Volkanovski vs Lopes",
+  "title": "UFC 314: Volkanovski vs Lopes"
+}
