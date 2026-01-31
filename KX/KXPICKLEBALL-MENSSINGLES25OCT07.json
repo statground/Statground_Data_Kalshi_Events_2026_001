@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXPICKLEBALL-MENSSINGLES25OCT07",
+  "mutually_exclusive": true,
+  "series_ticker": "KXPICKLEBALL",
+  "strike_period": "",
+  "sub_title": "On Oct 7, 2025",
+  "title": "PPA Tour Virginia Beach Cup - Men's Singles Winner?"
+}

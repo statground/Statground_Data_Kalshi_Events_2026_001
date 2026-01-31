@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNFLGAME-25SEP28MINPIT",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Pro Football",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXNFLGAME",
+  "strike_period": "",
+  "sub_title": "MIN at PIT (Sep 28)",
+  "title": "Minnesota at Pittsburgh"
+}

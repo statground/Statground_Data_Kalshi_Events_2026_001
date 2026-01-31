@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNFLANYTD-25OCT12ARIIND",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Football",
+    "competition_scope": "Anytime TD"
+  },
+  "series_ticker": "KXNFLANYTD",
+  "strike_period": "",
+  "sub_title": "ARI at IND (Oct 12)",
+  "title": "Arizona at Indianapolis: Anytime Touchdown Scorer"
+}

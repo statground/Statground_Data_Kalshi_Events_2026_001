@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "",
+  "event_ticker": "KXSPOTIFYSONGRELEASELDR-25",
+  "mutually_exclusive": false,
+  "series_ticker": "KXSPOTIFYSONGRELEASELDR",
+  "strike_period": "",
+  "sub_title": "before Oct 1, 2025",
+  "title": "Will Lana Del Rey release a song before October?"
+}

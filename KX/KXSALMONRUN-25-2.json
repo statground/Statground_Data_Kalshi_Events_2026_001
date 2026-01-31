@@ -1,0 +1,14 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXSALMONRUN-25-2",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Pro Baseball"
+  },
+  "series_ticker": "KXSALMONRUN",
+  "strike_period": "",
+  "sub_title": "On Oct 16, 2025",
+  "title": "Winner of Salmon Run during game 4 of the ALCS"
+}

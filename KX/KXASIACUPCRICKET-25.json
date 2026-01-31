@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXASIACUPCRICKET-25",
+  "mutually_exclusive": true,
+  "series_ticker": "KXASIACUPCRICKET",
+  "strike_period": "",
+  "sub_title": "2025 T20 Asia Cup",
+  "title": "T20 Asia Cup Winner?"
+}

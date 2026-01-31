@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXMLSEAST-25",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "MLS",
+    "competition_scope": "Future"
+  },
+  "series_ticker": "KXMLSEAST",
+  "strike_period": "",
+  "sub_title": "On Oct 18, 2025",
+  "title": "MLS Eastern Conference Playoffs winner?"
+}

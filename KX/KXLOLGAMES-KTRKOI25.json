@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXLOLGAMES-KTRKOI25",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "LoL",
+    "competition_scope": "Futures"
+  },
+  "series_ticker": "KXLOLGAMES",
+  "strike_period": "",
+  "sub_title": "2025 LoL: KT Rolster vs. KOI",
+  "title": "LoL: KT Rolster vs. KOI"
+}

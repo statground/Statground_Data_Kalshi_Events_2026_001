@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "",
+  "event_ticker": "KXSHORTPOSITIONACKMAN-25OCT",
+  "mutually_exclusive": false,
+  "series_ticker": "KXSHORTPOSITIONACKMAN",
+  "strike_period": "",
+  "sub_title": "Before Oct 2025",
+  "title": "Will Bill Ackman announce a new short position before Oct 2025?"
+}

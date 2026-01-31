@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXEPLGAME-25OCT18FULARS",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "EPL",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXEPLGAME",
+  "strike_period": "",
+  "sub_title": "FUL vs ARS (Oct 18)",
+  "title": "Fulham vs Arsenal"
+}

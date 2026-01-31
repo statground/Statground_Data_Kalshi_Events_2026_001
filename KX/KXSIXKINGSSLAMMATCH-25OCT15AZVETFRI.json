@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXSIXKINGSSLAMMATCH-25OCT15AZVETFRI",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Six Kings Slam",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXSIXKINGSSLAMMATCH",
+  "strike_period": "",
+  "sub_title": "Alexander Zverev vs Taylor Fritz",
+  "title": "Alexander Zverev vs Taylor Fritz"
+}

@@ -1,0 +1,14 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNASCARRACE-BANOAR25",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "NASCAR"
+  },
+  "series_ticker": "KXNASCARRACE",
+  "strike_period": "",
+  "sub_title": "Bank of America ROVAL 400",
+  "title": "Bank of America ROVAL 400 Winner?"
+}

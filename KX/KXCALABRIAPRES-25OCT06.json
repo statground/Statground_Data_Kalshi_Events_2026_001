@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Elections",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCALABRIAPRES-25OCT06",
+  "mutually_exclusive": true,
+  "series_ticker": "KXCALABRIAPRES",
+  "strike_period": "",
+  "sub_title": "On Oct 6, 2025",
+  "title": "Who will win the 2025 Calabrian presidential election?"
+}

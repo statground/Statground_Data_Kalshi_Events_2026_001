@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXMLBSPREAD-25OCT04NYYTOR",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Baseball",
+    "competition_scope": "Spread"
+  },
+  "series_ticker": "KXMLBSPREAD",
+  "strike_period": "",
+  "sub_title": "NYY at TOR (Oct 4)",
+  "title": "New York Y vs Toronto (Game 1)"
+}

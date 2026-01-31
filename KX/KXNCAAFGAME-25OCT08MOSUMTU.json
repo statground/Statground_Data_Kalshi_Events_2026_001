@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNCAAFGAME-25OCT08MOSUMTU",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "College Football",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXNCAAFGAME",
+  "strike_period": "",
+  "sub_title": "MOSU at MTU (Oct 8)",
+  "title": "Missouri St. at Middle Tennessee"
+}

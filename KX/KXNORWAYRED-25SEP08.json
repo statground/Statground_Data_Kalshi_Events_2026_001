@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Elections",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNORWAYRED-25SEP08",
+  "mutually_exclusive": true,
+  "series_ticker": "KXNORWAYRED",
+  "strike_period": "",
+  "sub_title": "On Sep 8, 2025",
+  "title": "How many seats will the Red Bloc win in the Norwegian parliamentary election?"
+}

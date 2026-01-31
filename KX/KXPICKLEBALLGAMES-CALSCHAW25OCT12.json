@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXPICKLEBALLGAMES-CALSCHAW25OCT12",
+  "mutually_exclusive": true,
+  "series_ticker": "KXPICKLEBALLGAMES",
+  "strike_period": "",
+  "sub_title": "On Oct 12, 2025",
+  "title": "PPA Tour Men's Singles: Christian Alshon vs. Christopher Haworth"
+}

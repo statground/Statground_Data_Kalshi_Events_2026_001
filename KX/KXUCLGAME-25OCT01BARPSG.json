@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXUCLGAME-25OCT01BARPSG",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "UCL",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXUCLGAME",
+  "strike_period": "",
+  "sub_title": "BAR vs PSG (Oct 1)",
+  "title": "Barcelona vs PSG"
+}

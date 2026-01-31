@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXHIGHNY-25OCT02",
+  "mutually_exclusive": true,
+  "series_ticker": "KXHIGHNY",
+  "strike_date": "2025-10-03T03:59:00Z",
+  "strike_period": "",
+  "sub_title": "On Oct 2, 2025",
+  "title": "Highest temperature in NYC on Oct 2, 2025?"
+}

@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNFLRECYDS-25OCT09PHINYG",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Football",
+    "competition_scope": "Receiving Yards"
+  },
+  "series_ticker": "KXNFLRECYDS",
+  "strike_period": "",
+  "sub_title": "PHI at NYG (Oct 9)",
+  "title": "Philadelphia at New York G: Receiving Yards"
+}

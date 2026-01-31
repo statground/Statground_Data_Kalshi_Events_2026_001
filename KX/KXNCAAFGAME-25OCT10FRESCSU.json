@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNCAAFGAME-25OCT10FRESCSU",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "College Football",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXNCAAFGAME",
+  "strike_period": "",
+  "sub_title": "FRES at CSU (Oct 10)",
+  "title": "Fresno St. at Colorado St."
+}

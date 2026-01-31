@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "World",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXUSADEALCOUNT-25OCT01",
+  "mutually_exclusive": false,
+  "series_ticker": "KXUSADEALCOUNT",
+  "strike_period": "",
+  "sub_title": "Before Oct 1, 2025",
+  "title": "How many trade deals will the USA make before October?"
+}

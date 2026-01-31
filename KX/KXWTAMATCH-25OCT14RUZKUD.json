@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXWTAMATCH-25OCT14RUZKUD",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "WTA Ningbo",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXWTAMATCH",
+  "strike_period": "",
+  "sub_title": "Ruzic vs Kudermetova",
+  "title": "Ruzic vs Kudermetova"
+}

@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNCAAFTOTAL-25OCT10FRESCSU",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "College Football",
+    "competition_scope": "Point Total"
+  },
+  "series_ticker": "KXNCAAFTOTAL",
+  "strike_period": "",
+  "sub_title": "FRES at CSU (Oct 10)",
+  "title": "Fresno St. at Colorado St.: Total Points"
+}

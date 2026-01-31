@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXPICKLEBALLGAMES-JSOCACRU25OCT08",
+  "mutually_exclusive": true,
+  "series_ticker": "KXPICKLEBALLGAMES",
+  "strike_period": "",
+  "sub_title": "On Oct 8, 2025",
+  "title": "PPA Tour Men's Singles: Jack Sock vs. Alexander Crum"
+}

@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNHLGAME-25OCT04TORDET",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "NHL",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXNHLGAME",
+  "strike_period": "",
+  "sub_title": "TOR at DET (Oct 4)",
+  "title": "Toronto vs Detroit"
+}

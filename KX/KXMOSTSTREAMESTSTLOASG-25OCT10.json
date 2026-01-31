@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXMOSTSTREAMESTSTLOASG-25OCT10",
+  "mutually_exclusive": true,
+  "series_ticker": "KXMOSTSTREAMESTSTLOASG",
+  "strike_period": "",
+  "sub_title": "By Oct 10, 2025",
+  "title": "Most streamed song on 'The Life of a Showgirl' by Oct 10th?"
+}

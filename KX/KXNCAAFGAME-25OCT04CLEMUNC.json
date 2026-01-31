@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNCAAFGAME-25OCT04CLEMUNC",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "College Football",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXNCAAFGAME",
+  "strike_period": "",
+  "sub_title": "CLEM at UNC (Oct 4)",
+  "title": "Clemson at North Carolina"
+}

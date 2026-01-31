@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": true,
+  "category": "Crypto",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXBTCD-25OCT1512",
+  "mutually_exclusive": false,
+  "series_ticker": "KXBTCD",
+  "strike_date": "2025-10-15T16:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Oct 15, 2025 at 12pm EDT",
+  "title": "Bitcoin price on Oct 15, 2025 at 12pm EDT?"
+}

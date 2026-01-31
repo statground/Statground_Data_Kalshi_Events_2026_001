@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNCAAFTOTAL-25OCT03WKUDEL",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "College Football",
+    "competition_scope": "Point Total"
+  },
+  "series_ticker": "KXNCAAFTOTAL",
+  "strike_period": "",
+  "sub_title": "WKU at DEL (Oct 3)",
+  "title": "Western Kentucky at Delaware: Point Total"
+}

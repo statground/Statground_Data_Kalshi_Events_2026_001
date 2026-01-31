@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNFLTOTAL-25SEP28BALKC",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Football",
+    "competition_scope": "Point Total"
+  },
+  "series_ticker": "KXNFLTOTAL",
+  "strike_period": "",
+  "sub_title": "BAL at KC (Sep 28)",
+  "title": "Baltimore at Kansas City: Point Total"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "",
+  "event_ticker": "KXAVGTARIFF-25",
+  "mutually_exclusive": false,
+  "series_ticker": "KXAVGTARIFF",
+  "strike_period": "",
+  "sub_title": "Before 2025",
+  "title": "What will the average tariff rate be in Q2 2025?"
+}

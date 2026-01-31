@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXLALIGAGAME-25OCT18BARGIR",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "La Liga",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXLALIGAGAME",
+  "strike_period": "",
+  "sub_title": "BAR vs GIR (Oct 18)",
+  "title": "Barcelona vs Girona"
+}

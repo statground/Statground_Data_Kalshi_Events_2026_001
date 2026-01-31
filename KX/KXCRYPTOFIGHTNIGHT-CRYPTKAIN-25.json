@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCRYPTOFIGHTNIGHT-CRYPTKAIN-25",
+  "mutually_exclusive": true,
+  "series_ticker": "KXCRYPTOFIGHTNIGHT",
+  "strike_period": "",
+  "sub_title": "On Oct 2, 2025",
+  "title": "Crypto Fight Night Singapore: Crypto Bitlord vs Kain"
+}

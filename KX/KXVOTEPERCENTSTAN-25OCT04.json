@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Elections",
+  "collateral_return_type": "",
+  "event_ticker": "KXVOTEPERCENTSTAN-25OCT04",
+  "mutually_exclusive": false,
+  "series_ticker": "KXVOTEPERCENTSTAN",
+  "strike_period": "",
+  "sub_title": "On Oct 4, 2025",
+  "title": "Will STAN win 10% or more of the vote in the Czech election?"
+}

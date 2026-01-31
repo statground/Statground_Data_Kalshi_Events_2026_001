@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNFLRECYDS-25OCT13CHIWAS",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Football",
+    "competition_scope": "Receiving Yards"
+  },
+  "series_ticker": "KXNFLRECYDS",
+  "strike_period": "",
+  "sub_title": "CHI at WAS (Oct 13)",
+  "title": "Chicago at Washington: Receiving Yards"
+}

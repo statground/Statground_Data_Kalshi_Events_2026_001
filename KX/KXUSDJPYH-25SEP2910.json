@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXUSDJPYH-25SEP2910",
+  "mutually_exclusive": false,
+  "series_ticker": "KXUSDJPYH",
+  "strike_date": "2025-09-29T14:00:00Z",
+  "strike_period": "",
+  "sub_title": "Sep 29, 2025 at 10am EDT",
+  "title": "USD/JPY price on Sep 29, 2025 at 10am EDT?"
+}

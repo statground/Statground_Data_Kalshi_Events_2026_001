@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNHLGAME-25OCT11ANASJ",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "NHL",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXNHLGAME",
+  "strike_period": "",
+  "sub_title": "ANA at SJ (Oct 11)",
+  "title": "Anaheim vs San Jose"
+}

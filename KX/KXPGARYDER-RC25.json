@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXPGARYDER-RC25",
+  "mutually_exclusive": true,
+  "series_ticker": "KXPGARYDER",
+  "strike_period": "",
+  "sub_title": "2025 Ryder Cup",
+  "title": "Ryder Cup Champion?"
+}

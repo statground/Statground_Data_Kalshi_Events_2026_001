@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXUCLGAME-25OCT01VILJUV",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "UCL",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXUCLGAME",
+  "strike_period": "",
+  "sub_title": "VIL vs JUV (Oct 1)",
+  "title": "Villarreal vs Juventus"
+}

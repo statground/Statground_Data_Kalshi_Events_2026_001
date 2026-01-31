@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXMLBSERIES-25DETCLE",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Pro Baseball",
+    "competition_scope": "Series"
+  },
+  "series_ticker": "KXMLBSERIES",
+  "strike_period": "",
+  "sub_title": "Detroit vs Cleveland",
+  "title": "Detroit vs Cleveland: Series Winner?"
+}

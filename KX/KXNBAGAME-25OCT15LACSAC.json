@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNBAGAME-25OCT15LACSAC",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Pro Basketball (M)",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXNBAGAME",
+  "strike_period": "",
+  "sub_title": "LAC at SAC (Oct 15)",
+  "title": "LA vs Sacramento"
+}

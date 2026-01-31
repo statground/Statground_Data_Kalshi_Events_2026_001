@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXPICKLEBALLGAMES-SLEIGNRANGAR25OCT08",
+  "mutually_exclusive": true,
+  "series_ticker": "KXPICKLEBALLGAMES",
+  "strike_period": "",
+  "sub_title": "On Oct 8, 2025",
+  "title": "PPA Tour Mixed Doubles: Sleeth/Ignatowich vs. Rane/Garnett"
+}

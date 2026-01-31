@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXMLSGAME-25OCT05VANSJ",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "MLS",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXMLSGAME",
+  "strike_period": "",
+  "sub_title": "VAN vs SJ (Oct 5)",
+  "title": "Vancouver vs San Jose"
+}

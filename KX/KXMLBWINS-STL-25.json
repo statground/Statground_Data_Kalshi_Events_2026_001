@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXMLBWINS-STL-25",
+  "mutually_exclusive": false,
+  "series_ticker": "KXMLBWINS-STL",
+  "strike_period": "",
+  "sub_title": "2025 season",
+  "title": "St. Louis wins this season?"
+}

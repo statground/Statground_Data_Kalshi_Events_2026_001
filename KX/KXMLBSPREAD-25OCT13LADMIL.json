@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXMLBSPREAD-25OCT13LADMIL",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Baseball",
+    "competition_scope": "Spread"
+  },
+  "series_ticker": "KXMLBSPREAD",
+  "strike_period": "",
+  "sub_title": "LAD at MIL (Oct 13)",
+  "title": "Los Angeles D vs Milwaukee (Game 1)"
+}

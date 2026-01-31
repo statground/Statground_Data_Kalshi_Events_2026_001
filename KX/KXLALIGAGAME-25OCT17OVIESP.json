@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXLALIGAGAME-25OCT17OVIESP",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "La Liga",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXLALIGAGAME",
+  "strike_period": "",
+  "sub_title": "OVI vs ESP (Oct 17)",
+  "title": "Oviedo vs Espanyol"
+}

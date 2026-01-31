@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXATPMATCH-25OCT06MAJDE",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "ATP Shanghai",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXATPMATCH",
+  "strike_period": "",
+  "sub_title": "Majchrzak vs de Minaur",
+  "title": "Majchrzak vs de Minaur"
+}

@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXLALIGAGAME-25OCT18VILRBB",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "La Liga",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXLALIGAGAME",
+  "strike_period": "",
+  "sub_title": "VIL vs RBB (Oct 18)",
+  "title": "Villarreal vs Real Betis"
+}

@@ -1,0 +1,14 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNASCARRACE-SOUP25",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "NASCAR"
+  },
+  "series_ticker": "KXNASCARRACE",
+  "strike_period": "",
+  "sub_title": "South Point 400",
+  "title": "South Point 400 Winner?"
+}

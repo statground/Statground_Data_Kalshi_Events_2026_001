@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXTOP10BILLBOARDCB-25",
+  "mutually_exclusive": true,
+  "series_ticker": "KXTOP10BILLBOARDCB",
+  "strike_period": "",
+  "sub_title": "Before Oct 4, 2025",
+  "title": "How many spots on the Billboard Hot 100's top 10 will Cardi B hold for the week of Oct 4, 2025?"
+}

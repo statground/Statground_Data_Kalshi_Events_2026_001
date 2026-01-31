@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXMLSWEST-25",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "MLS",
+    "competition_scope": "Future"
+  },
+  "series_ticker": "KXMLSWEST",
+  "strike_period": "",
+  "sub_title": "On Oct 18, 2025",
+  "title": "MLS Western Conference Playoffs winner?"
+}

@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNASDAQ100-25SEP29H1600",
+  "mutually_exclusive": true,
+  "series_ticker": "KXNASDAQ100",
+  "strike_date": "2025-09-29T20:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Sep 29, 2025 at 4pm EDT",
+  "title": "Nasdaq price range on Sep 29, 2025 at 4pm EDT?"
+}

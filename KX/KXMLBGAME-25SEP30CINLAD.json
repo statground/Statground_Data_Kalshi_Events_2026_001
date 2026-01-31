@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXMLBGAME-25SEP30CINLAD",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Pro Baseball",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXMLBGAME",
+  "strike_period": "",
+  "sub_title": "CIN at LAD (Sep 30)",
+  "title": "Cincinnati vs Los Angeles D (Game 1)"
+}

@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXLOLGAMES-SECKTR25",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "LoL",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXLOLGAMES",
+  "strike_period": "",
+  "sub_title": "2025 LoL: Secret Whales vs. KT Rolster",
+  "title": "LoL: Secret Whales vs. KT Rolster"
+}

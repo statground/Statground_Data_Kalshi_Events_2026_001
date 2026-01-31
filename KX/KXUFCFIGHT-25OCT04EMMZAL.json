@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXUFCFIGHT-25OCT04EMMZAL",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "UFC",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXUFCFIGHT",
+  "strike_period": "",
+  "sub_title": "Emmett vs Zalal",
+  "title": "UFC 320: Emmett vs Zalal"
+}

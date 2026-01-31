@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXMLBGAME-25SEP28TEXCLE",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Pro Baseball",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXMLBGAME",
+  "strike_period": "",
+  "sub_title": "TEX at CLE (Sep 28)",
+  "title": "Texas at Cleveland"
+}

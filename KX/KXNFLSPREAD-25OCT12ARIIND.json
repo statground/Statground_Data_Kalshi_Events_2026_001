@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNFLSPREAD-25OCT12ARIIND",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Football",
+    "competition_scope": "Spread"
+  },
+  "series_ticker": "KXNFLSPREAD",
+  "strike_period": "",
+  "sub_title": "ARI at IND (Oct 12)",
+  "title": "Arizona at Indianapolis: Spread"
+}

@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNCAAFGAME-25OCT02SHSUNMSU",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "College Football",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXNCAAFGAME",
+  "strike_period": "",
+  "sub_title": "SHSU at NMSU (Oct 2)",
+  "title": "Sam Houston at New Mexico St."
+}

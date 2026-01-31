@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXMLBWINS-MIL-25",
+  "mutually_exclusive": false,
+  "series_ticker": "KXMLBWINS-MIL",
+  "strike_period": "",
+  "sub_title": "2025 season",
+  "title": "Milwaukee wins this season?"
+}

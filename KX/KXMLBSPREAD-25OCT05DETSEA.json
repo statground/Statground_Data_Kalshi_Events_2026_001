@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXMLBSPREAD-25OCT05DETSEA",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Baseball",
+    "competition_scope": "Spread"
+  },
+  "series_ticker": "KXMLBSPREAD",
+  "strike_period": "",
+  "sub_title": "DET at SEA (Oct 5)",
+  "title": "Detroit vs Seattle (Game 2)"
+}

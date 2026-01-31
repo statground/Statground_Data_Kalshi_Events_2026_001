@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXUFCFIGHT-25OCT04CHISAN",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "UFC",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXUFCFIGHT",
+  "strike_period": "",
+  "sub_title": "Chiasson vs Santos",
+  "title": "UFC 320: Chiasson vs Santos"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXMLBWINS-BAL-25",
+  "mutually_exclusive": false,
+  "series_ticker": "KXMLBWINS-BAL",
+  "strike_period": "",
+  "sub_title": "2025 season",
+  "title": "Baltimore wins this season?"
+}

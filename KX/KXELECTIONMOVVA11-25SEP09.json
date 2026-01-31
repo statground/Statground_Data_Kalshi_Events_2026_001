@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Elections",
+  "collateral_return_type": "",
+  "event_ticker": "KXELECTIONMOVVA11-25SEP09",
+  "mutually_exclusive": false,
+  "series_ticker": "KXELECTIONMOVVA11",
+  "strike_period": "",
+  "sub_title": "On Sep 9, 2025",
+  "title": "Democratic margin of victory in VA-11 special election?"
+}

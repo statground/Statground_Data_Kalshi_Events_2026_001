@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXUFCFIGHT-25OCT04DVASAN",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "UFC",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXUFCFIGHT",
+  "strike_period": "",
+  "sub_title": "Dvalishvili vs Sandhagen",
+  "title": "UFC 320: Dvalishvili vs Sandhagen"
+}

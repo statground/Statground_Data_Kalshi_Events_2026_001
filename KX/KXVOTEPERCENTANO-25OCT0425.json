@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Elections",
+  "collateral_return_type": "",
+  "event_ticker": "KXVOTEPERCENTANO-25OCT0425",
+  "mutually_exclusive": false,
+  "series_ticker": "KXVOTEPERCENTANO",
+  "strike_period": "",
+  "sub_title": "On Oct 4, 2025",
+  "title": "Will ANO win 33% or more of vote in the Czech election?"
+}

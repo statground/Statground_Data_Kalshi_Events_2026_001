@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNFLGAME-25OCT12LABAL",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Pro Football",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXNFLGAME",
+  "strike_period": "",
+  "sub_title": "LA at BAL (Oct 12)",
+  "title": "Los Angeles R at Baltimore"
+}

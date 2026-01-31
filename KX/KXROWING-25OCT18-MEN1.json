@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXROWING-25OCT18-MEN1",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Rowing",
+    "competition_scope": "Race"
+  },
+  "series_ticker": "KXROWING",
+  "strike_period": "",
+  "sub_title": "On Oct 18, 2025",
+  "title": "Charles River Regatta Men's Championship Singles"
+}

@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNFLTOTAL-25SEP28CARNE",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Football",
+    "competition_scope": "Point Total"
+  },
+  "series_ticker": "KXNFLTOTAL",
+  "strike_period": "",
+  "sub_title": "CAR at NE (Sep 28)",
+  "title": "Carolina at New England: Point Total"
+}

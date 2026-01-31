@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXMLBTOTAL-25OCT08MILCHC",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Baseball",
+    "competition_scope": "Point Total"
+  },
+  "series_ticker": "KXMLBTOTAL",
+  "strike_period": "",
+  "sub_title": "MIL at CHC (Oct 8)",
+  "title": "Milwaukee vs Chicago C (Game 3)"
+}

@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXMLBNLEAST-25",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Pro Baseball",
+    "competition_scope": "Divisions"
+  },
+  "series_ticker": "KXMLBNLEAST",
+  "strike_period": "",
+  "sub_title": "2025 NL East Division",
+  "title": "NL East Division Winner?"
+}

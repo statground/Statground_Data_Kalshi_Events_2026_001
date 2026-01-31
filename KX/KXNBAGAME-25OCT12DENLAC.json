@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNBAGAME-25OCT12DENLAC",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Pro Basketball (M)",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXNBAGAME",
+  "strike_period": "",
+  "sub_title": "DEN at LAC (Oct 12)",
+  "title": "Denver vs LA"
+}

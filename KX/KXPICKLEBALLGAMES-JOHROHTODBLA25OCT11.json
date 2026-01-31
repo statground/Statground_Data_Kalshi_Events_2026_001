@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXPICKLEBALLGAMES-JOHROHTODBLA25OCT11",
+  "mutually_exclusive": true,
+  "series_ticker": "KXPICKLEBALLGAMES",
+  "strike_period": "",
+  "sub_title": "On Oct 11, 2025",
+  "title": "PPA Tour Women's Doubles: Johnson/Rohrabacher vs. Todd/Black"
+}

@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXMLBSERIESEXACT-25OCT04TORNYY",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Pro Baseball",
+    "competition_scope": "Series"
+  },
+  "series_ticker": "KXMLBSERIESEXACT",
+  "strike_period": "",
+  "sub_title": "TOR vs NYY Series (Starting Oct 4)",
+  "title": "Toronto vs New York Y Series Exact Result"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXSPOTIFYSONGSTLOASG-25OCT10",
+  "mutually_exclusive": false,
+  "series_ticker": "KXSPOTIFYSONGSTLOASG",
+  "strike_period": "",
+  "sub_title": "By Oct 10, 2025 at 10:00 AM ET",
+  "title": "Total Spotify streams for Taylor Swift's 'The Life of a Showgirl (feat. Sabrina Carpenter)' by Oct 10th?"
+}

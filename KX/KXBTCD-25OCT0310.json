@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": true,
+  "category": "Crypto",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXBTCD-25OCT0310",
+  "mutually_exclusive": false,
+  "series_ticker": "KXBTCD",
+  "strike_date": "2025-10-03T14:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Oct 3, 2025 at 10am EDT",
+  "title": "Bitcoin price on Oct 3, 2025 at 10am EDT?"
+}

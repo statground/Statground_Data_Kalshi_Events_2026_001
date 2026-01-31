@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNCAAFSPREAD-25OCT04UKUGA",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "College Football",
+    "competition_scope": "Spread"
+  },
+  "series_ticker": "KXNCAAFSPREAD",
+  "strike_period": "",
+  "sub_title": "UK at UGA (Oct 4)",
+  "title": "Kentucky at Georgia: Spread"
+}

@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXUFCFIGHT-25OCT04MAGPYF",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "UFC",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXUFCFIGHT",
+  "strike_period": "",
+  "sub_title": "Magomedov vs Pyfer",
+  "title": "UFC 320: Magomedov vs Pyfer"
+}

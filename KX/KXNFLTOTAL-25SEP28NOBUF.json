@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNFLTOTAL-25SEP28NOBUF",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Football",
+    "competition_scope": "Point Total"
+  },
+  "series_ticker": "KXNFLTOTAL",
+  "strike_period": "",
+  "sub_title": "NO at BUF (Sep 28)",
+  "title": "New Orleans at Buffalo: Point Total"
+}

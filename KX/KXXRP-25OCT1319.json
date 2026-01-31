@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Crypto",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXXRP-25OCT1319",
+  "mutually_exclusive": true,
+  "series_ticker": "KXXRP",
+  "strike_date": "2025-10-13T23:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Oct 13, 2025 at 7pm EDT",
+  "title": "Ripple price today at Oct 13, 2025 at 7pm EDT?"
+}

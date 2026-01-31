@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Companies",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXTESLA-25-Q3",
+  "mutually_exclusive": false,
+  "series_ticker": "KXTESLA",
+  "strike_period": "",
+  "sub_title": "In Q3 2025",
+  "title": "Tesla deliveries in Q3 2025?"
+}

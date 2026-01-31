@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNHLGAME-25OCT15CGYUTA",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "NHL",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXNHLGAME",
+  "strike_period": "",
+  "sub_title": "CGY at UTA (Oct 15)",
+  "title": "Calgary vs Utah"
+}

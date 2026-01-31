@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Elections",
+  "collateral_return_type": "",
+  "event_ticker": "KXCZECHTURNOUT-25OCT04",
+  "mutually_exclusive": false,
+  "series_ticker": "KXCZECHTURNOUT",
+  "strike_period": "",
+  "sub_title": "On Oct 4, 2025",
+  "title": "What will voter turnout be in the Czech election?"
+}

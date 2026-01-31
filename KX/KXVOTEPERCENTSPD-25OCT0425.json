@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Elections",
+  "collateral_return_type": "",
+  "event_ticker": "KXVOTEPERCENTSPD-25OCT0425",
+  "mutually_exclusive": false,
+  "series_ticker": "KXVOTEPERCENTSPD",
+  "strike_period": "",
+  "sub_title": "On Oct 4, 2025",
+  "title": "Will the SPD win 14% or more of vote in the Czech election?"
+}

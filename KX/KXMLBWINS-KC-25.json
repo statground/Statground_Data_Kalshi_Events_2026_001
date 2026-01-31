@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXMLBWINS-KC-25",
+  "mutually_exclusive": false,
+  "series_ticker": "KXMLBWINS-KC",
+  "strike_period": "",
+  "sub_title": "2025 season",
+  "title": "Kansas City wins this season?"
+}

@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNFLSPREAD-25SEP28WASATL",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Football",
+    "competition_scope": "Spread"
+  },
+  "series_ticker": "KXNFLSPREAD",
+  "strike_period": "",
+  "sub_title": "WAS at ATL (Sep 28)",
+  "title": "Washington at Atlanta: Spread"
+}

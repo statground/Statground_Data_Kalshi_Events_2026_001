@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXSERIEAGAME-25SEP29PARTOR",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Serie A",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXSERIEAGAME",
+  "strike_period": "",
+  "sub_title": "PAR vs TOR (Sep 29)",
+  "title": "Parma Calcio vs Torino"
+}

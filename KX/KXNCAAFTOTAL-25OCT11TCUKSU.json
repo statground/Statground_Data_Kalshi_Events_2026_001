@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNCAAFTOTAL-25OCT11TCUKSU",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "College Football",
+    "competition_scope": "Point Total"
+  },
+  "series_ticker": "KXNCAAFTOTAL",
+  "strike_period": "",
+  "sub_title": "TCU at KSU (Oct 11)",
+  "title": "TCU at Kansas St.: Total Points"
+}

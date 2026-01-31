@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNHLGAME-25OCT14VGKCGY",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "NHL",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXNHLGAME",
+  "strike_period": "",
+  "sub_title": "VGK at CGY (Oct 14)",
+  "title": "Vegas vs Calgary"
+}

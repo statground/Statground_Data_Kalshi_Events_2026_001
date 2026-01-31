@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXMLBSERIESEXACT-25OCT04PHILAD",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Pro Baseball",
+    "competition_scope": "Series"
+  },
+  "series_ticker": "KXMLBSERIESEXACT",
+  "strike_period": "",
+  "sub_title": "PHI vs LAD Series (Starting Oct 4)",
+  "title": "Philadelphia vs Los Angeles D Series Exact Result"
+}

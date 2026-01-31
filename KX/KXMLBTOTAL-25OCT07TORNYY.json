@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXMLBTOTAL-25OCT07TORNYY",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Baseball",
+    "competition_scope": "Point Total"
+  },
+  "series_ticker": "KXMLBTOTAL",
+  "strike_period": "",
+  "sub_title": "TOR at NYY (Oct 7)",
+  "title": "Toronto vs New York Y (Game 3)"
+}

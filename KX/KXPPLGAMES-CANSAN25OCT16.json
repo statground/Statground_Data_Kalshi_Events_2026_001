@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXPPLGAMES-CANSAN25OCT16",
+  "mutually_exclusive": true,
+  "series_ticker": "KXPPLGAMES",
+  "strike_period": "",
+  "sub_title": "On Oct 16, 2025",
+  "title": "PPL Women's Match: Cancun Waves vs. San Diego Stingrays"
+}
