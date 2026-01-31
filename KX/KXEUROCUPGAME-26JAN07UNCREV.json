@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXEUROCUPGAME-26JAN07UNCREV",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "EuroCup",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXEUROCUPGAME",
+  "strike_period": "",
+  "sub_title": "UNC at REV (Jan 7)",
+  "title": "FC Universitatea Cluj at Reyer Venezia"
+}

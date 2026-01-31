@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXESPSUPERCUPADVANCE-26JAN08ATMRMA",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Spain Super Cup",
+    "competition_scope": "To Advance"
+  },
+  "series_ticker": "KXESPSUPERCUPADVANCE",
+  "strike_period": "",
+  "sub_title": "ATM vs RMA (Jan 8)",
+  "title": "Atletico vs Real Madrid: To Advance"
+}

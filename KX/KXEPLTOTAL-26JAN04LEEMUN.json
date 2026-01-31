@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXEPLTOTAL-26JAN04LEEMUN",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "EPL",
+    "competition_scope": "Point Total"
+  },
+  "series_ticker": "KXEPLTOTAL",
+  "strike_period": "",
+  "sub_title": "MUN at LEE (Jan 4)",
+  "title": "Manchester United at Leeds United: Totals"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXSAGAWARDCASTCOMEDY-26",
+  "mutually_exclusive": true,
+  "series_ticker": "KXSAGAWARDCASTCOMEDY",
+  "strike_period": "",
+  "sub_title": "In 2026",
+  "title": "Actor Award for Outstanding Performance by an Ensemble in a Comedy Series?"
+}

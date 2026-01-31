@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXWPLGAME-26JAN09ROYMUM",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Women's Premier League",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXWPLGAME",
+  "strike_period": "",
+  "sub_title": "MUM vs ROY (Jan 9)",
+  "title": "Mumbai Indians vs Royal Challengers Bangalore"
+}

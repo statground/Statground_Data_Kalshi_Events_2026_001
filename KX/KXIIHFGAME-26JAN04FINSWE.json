@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXIIHFGAME-26JAN04FINSWE",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "IIHF - Junior World Championship",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXIIHFGAME",
+  "strike_period": "",
+  "sub_title": "FIN at SWE (Jan 4)",
+  "title": "Finland U20 vs Sweden U20"
+}

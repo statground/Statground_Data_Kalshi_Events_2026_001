@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNBLGAME-26JAN08ILLASEM",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "NBL Australia",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXNBLGAME",
+  "strike_period": "",
+  "sub_title": "ILLA at SEM (Jan 8)",
+  "title": "Illawarra Hawks at SE Melbourne Phoenix"
+}

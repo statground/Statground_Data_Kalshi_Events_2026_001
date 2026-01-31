@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": true,
+  "category": "Financials",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXINXU-26JAN08H1200",
+  "mutually_exclusive": false,
+  "series_ticker": "KXINXU",
+  "strike_date": "2026-01-08T17:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Jan 8, 2026 at 12pm EST",
+  "title": "S&P price on Jan 8, 2026 at 12pm EST?"
+}

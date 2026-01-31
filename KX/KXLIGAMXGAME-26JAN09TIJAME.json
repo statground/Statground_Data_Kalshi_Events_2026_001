@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXLIGAMXGAME-26JAN09TIJAME",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Liga MX",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXLIGAMXGAME",
+  "strike_period": "",
+  "sub_title": "TIJ vs AME (Jan 9)",
+  "title": "Tijuana de Caliente vs America"
+}

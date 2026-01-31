@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNBASPREAD-26JAN04MILSAC",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Basketball (M)",
+    "competition_scope": "Spread"
+  },
+  "series_ticker": "KXNBASPREAD",
+  "strike_period": "",
+  "sub_title": "MIL at SAC (Jan 4)",
+  "title": "Milwaukee at Sacramento: Spread"
+}

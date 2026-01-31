@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNFLSPREAD-26JAN04KCLV",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Football",
+    "competition_scope": "Spread"
+  },
+  "series_ticker": "KXNFLSPREAD",
+  "strike_period": "",
+  "sub_title": "KC at LV (Jan 4)",
+  "title": "Kansas City at Las Vegas: Spread"
+}

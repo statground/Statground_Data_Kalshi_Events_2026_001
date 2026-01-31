@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXSERIEASPREAD-26JAN06SASJUV",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Serie A",
+    "competition_scope": "Spread"
+  },
+  "series_ticker": "KXSERIEASPREAD",
+  "strike_period": "",
+  "sub_title": "JUV at SAS (Jan 6)",
+  "title": "Juventus at Sassuolo: Spreads"
+}

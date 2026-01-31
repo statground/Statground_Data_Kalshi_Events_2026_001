@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXAFCONADVANCE-26JAN10DZANGR",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Africa Cup of Nations",
+    "competition_scope": "To Advance"
+  },
+  "series_ticker": "KXAFCONADVANCE",
+  "strike_period": "",
+  "sub_title": "DZA vs NGR (Jan 10)",
+  "title": "Algeria vs Nigeria: To Advance"
+}

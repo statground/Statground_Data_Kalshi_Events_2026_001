@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXLALIGATOTAL-26JAN04ALAOVI",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "La Liga",
+    "competition_scope": "Point Total"
+  },
+  "series_ticker": "KXLALIGATOTAL",
+  "strike_period": "",
+  "sub_title": "OVI at ALA (Jan 4)",
+  "title": "Oviedo at Alaves: Totals"
+}

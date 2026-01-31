@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNFLPASSTDS-26JAN04DETCHI",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Football",
+    "competition_scope": "Passing Touchdowns"
+  },
+  "series_ticker": "KXNFLPASSTDS",
+  "strike_period": "",
+  "sub_title": "DET at CHI (Jan 4)",
+  "title": "Detroit at Chicago: Passing Touchdowns Scorer"
+}

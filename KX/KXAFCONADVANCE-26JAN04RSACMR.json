@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXAFCONADVANCE-26JAN04RSACMR",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Africa Cup of Nations",
+    "competition_scope": "To Advance"
+  },
+  "series_ticker": "KXAFCONADVANCE",
+  "strike_period": "",
+  "sub_title": "RSA vs CMR (Jan 4)",
+  "title": "South Africa vs Cameroon: To Advance"
+}

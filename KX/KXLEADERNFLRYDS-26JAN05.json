@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXLEADERNFLRYDS-26JAN05",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Pro Football",
+    "competition_scope": "Awards"
+  },
+  "series_ticker": "KXLEADERNFLRYDS",
+  "strike_period": "",
+  "sub_title": "2025-2026 Regular Season",
+  "title": "Pro Football Receiving Yards Leader"
+}

@@ -1,0 +1,14 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNFLRECYDSRECORD-25",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Football"
+  },
+  "series_ticker": "KXNFLRECYDSRECORD",
+  "strike_period": "",
+  "sub_title": "2025-26 Jaxon Smith-Njigba",
+  "title": "Will Jaxon Smith-Njigba break the Pro Football Regular Season Receiving Yards Record this Season"
+}

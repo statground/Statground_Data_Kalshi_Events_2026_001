@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNFLPREPACK2ML-26JAN04CHIDETDENLACNEMIA",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Football",
+    "competition_scope": "Combo"
+  },
+  "series_ticker": "KXNFLPREPACK2ML",
+  "strike_period": "",
+  "sub_title": "Detroit at Chicago, Los Angeles C at Denver, Miami at New England",
+  "title": "Pro Football 2-leg Combo: Detroit at Chicago, Los Angeles C at Denver, Miami at New England"
+}

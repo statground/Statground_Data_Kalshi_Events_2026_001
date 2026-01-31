@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXESPSUPERCUPGAME-26JAN07BARATH",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Spain Super Cup",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXESPSUPERCUPGAME",
+  "strike_period": "",
+  "sub_title": "BAR vs ATH (Jan 7)",
+  "title": "Barcelona vs Bilbao"
+}

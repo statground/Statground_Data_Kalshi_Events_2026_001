@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Mentions",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXLEAVITTMENTIONDURATION-JAN0826",
+  "mutually_exclusive": false,
+  "series_ticker": "KXLEAVITTMENTIONDURATION",
+  "strike_period": "",
+  "sub_title": "On Jan 7, 2026",
+  "title": "How long will Karoline Leavitt speak for at the WH Press Briefing?"
+}

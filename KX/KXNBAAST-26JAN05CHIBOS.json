@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNBAAST-26JAN05CHIBOS",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Basketball (M)",
+    "competition_scope": "Player Assists"
+  },
+  "series_ticker": "KXNBAAST",
+  "strike_period": "",
+  "sub_title": "CHI at BOS (Jan 5)",
+  "title": "Chicago at Boston: Assists"
+}

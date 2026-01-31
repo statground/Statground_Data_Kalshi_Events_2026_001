@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXIIHFGAME-26JAN05CZESWE",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "IIHF - Junior World Championship",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXIIHFGAME",
+  "strike_period": "",
+  "sub_title": "CZE at SWE (Jan 5)",
+  "title": "Finals: Czechia U20 at Sweden U20"
+}

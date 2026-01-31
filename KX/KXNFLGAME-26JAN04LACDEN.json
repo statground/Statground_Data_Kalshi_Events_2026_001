@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNFLGAME-26JAN04LACDEN",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Pro Football",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXNFLGAME",
+  "strike_period": "",
+  "sub_title": "LAC at DEN (Jan 4)",
+  "title": "Los Angeles C at Denver"
+}

@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXSCOTTISHPREMGAME-26JAN06LIVMIR",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Scottish Premiership",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXSCOTTISHPREMGAME",
+  "strike_period": "",
+  "sub_title": "LIV vs MIR (Jan 6)",
+  "title": "Livingston vs St. Mirren"
+}

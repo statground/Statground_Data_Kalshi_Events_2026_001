@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNBATOTAL-26JAN05ATLTOR",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Basketball (M)",
+    "competition_scope": "Point Total"
+  },
+  "series_ticker": "KXNBATOTAL",
+  "strike_period": "",
+  "sub_title": "ATL at TOR (Jan 5)",
+  "title": "Atlanta at Toronto: Total Points"
+}

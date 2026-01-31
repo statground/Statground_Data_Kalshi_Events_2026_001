@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXKBLGAME-26JAN09PHOANY",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "South Korea KBL",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXKBLGAME",
+  "strike_period": "",
+  "sub_title": "PHO at ANY (Jan 9)",
+  "title": "Mobis Phoebus at Anyang Jungkwanjang Red Boosters"
+}

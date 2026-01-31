@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNBA3D-26JAN09ATLDEN",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Basketball (M)",
+    "competition_scope": "Triple Double"
+  },
+  "series_ticker": "KXNBA3D",
+  "strike_period": "",
+  "sub_title": "ATL at DEN (Jan 9)",
+  "title": "Atlanta at Denver: Triple Doubles"
+}

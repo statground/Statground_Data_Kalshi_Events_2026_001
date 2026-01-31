@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXLIGUE1BTTS-26JAN04OMFCN",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Ligue 1",
+    "competition_scope": "BTTS"
+  },
+  "series_ticker": "KXLIGUE1BTTS",
+  "strike_period": "",
+  "sub_title": "FCN at OM (Jan 4)",
+  "title": "Nantes at Marseille: Both Teams to Score"
+}

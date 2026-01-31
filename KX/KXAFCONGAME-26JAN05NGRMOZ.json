@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXAFCONGAME-26JAN05NGRMOZ",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Africa Cup of Nations",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXAFCONGAME",
+  "strike_period": "",
+  "sub_title": "NGR vs MOZ (Jan 5)",
+  "title": "Nigeria vs Mozambique"
+}

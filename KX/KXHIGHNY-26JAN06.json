@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": true,
+  "category": "Climate and Weather",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXHIGHNY-26JAN06",
+  "mutually_exclusive": true,
+  "series_ticker": "KXHIGHNY",
+  "strike_date": "2026-01-07T04:59:00Z",
+  "strike_period": "",
+  "sub_title": "On Jan 6, 2026",
+  "title": "Highest temperature in NYC on Jan 6, 2026?"
+}

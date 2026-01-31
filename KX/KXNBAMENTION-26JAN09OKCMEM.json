@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Mentions",
+  "collateral_return_type": "",
+  "event_ticker": "KXNBAMENTION-26JAN09OKCMEM",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "the governing league",
+    "competition_scope": "Mentions"
+  },
+  "series_ticker": "KXNBAMENTION",
+  "strike_period": "",
+  "sub_title": "Oklahoma City at Memphis",
+  "title": "What will the announcers say during the Oklahoma City at Memphis professional basketball game?"
+}

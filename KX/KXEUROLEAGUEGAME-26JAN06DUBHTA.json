@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXEUROLEAGUEGAME-26JAN06DUBHTA",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Euroleague",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXEUROLEAGUEGAME",
+  "strike_period": "",
+  "sub_title": "DUB at HTA (Jan 6)",
+  "title": "Dubai Basketball at Hapoel Tel-Aviv"
+}

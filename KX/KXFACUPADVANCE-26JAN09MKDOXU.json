@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXFACUPADVANCE-26JAN09MKDOXU",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "FA Cup",
+    "competition_scope": "To Advance"
+  },
+  "series_ticker": "KXFACUPADVANCE",
+  "strike_period": "",
+  "sub_title": "MKD vs OXU (Jan 9)",
+  "title": "Milton Keynes vs Oxford United: To Advance"
+}

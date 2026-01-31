@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNFLPREPACKSGP-26JAN04INDHOU",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Pro Football",
+    "competition_scope": "Combo"
+  },
+  "series_ticker": "KXNFLPREPACKSGP",
+  "strike_period": "",
+  "sub_title": "Indianapolis at Houston",
+  "title": "Pro Football Combo: Indianapolis at Houston"
+}

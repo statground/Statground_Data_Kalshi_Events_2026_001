@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXKBLGAME-26JAN10GOYSAK",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "South Korea KBL",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXKBLGAME",
+  "strike_period": "",
+  "sub_title": "GOY at SAK (Jan 10)",
+  "title": "Goyang Skygunners at LG Sakers"
+}

@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Crypto",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXXRPD-26JAN0720",
+  "mutually_exclusive": false,
+  "series_ticker": "KXXRPD",
+  "strike_date": "2026-01-08T01:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Jan 7, 2026 at 8pm EST",
+  "title": "Ripple price today at Jan 7, 2026 at 8pm EST?"
+}

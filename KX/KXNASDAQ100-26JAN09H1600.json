@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": true,
+  "category": "Financials",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNASDAQ100-26JAN09H1600",
+  "mutually_exclusive": true,
+  "series_ticker": "KXNASDAQ100",
+  "strike_date": "2026-01-09T21:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Jan 9, 2026 at 4pm EST",
+  "title": "Nasdaq-100 price range on Jan 9, 2026 at 4pm EST?"
+}

@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Crypto",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXXRPD-26JAN1011",
+  "mutually_exclusive": false,
+  "series_ticker": "KXXRPD",
+  "strike_date": "2026-01-10T16:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Jan 10, 2026 at 11am EST",
+  "title": "Ripple price at Jan 10, 2026 at 11am EST?"
+}

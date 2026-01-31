@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXUNITEDCUPMATCH-26JAN06JOIKRE",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "United Cup",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXUNITEDCUPMATCH",
+  "strike_period": "",
+  "sub_title": "Joint vs Krejcikova",
+  "title": "Joint vs Krejcikova: Group D"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXGOVAPPTCOUNT-26JAN01",
+  "mutually_exclusive": true,
+  "series_ticker": "KXGOVAPPTCOUNT",
+  "strike_period": "",
+  "sub_title": "Before Jan 1, 2026",
+  "title": "How many more Fed Governors will Trump appoint before Jan 1, 2026?"
+}

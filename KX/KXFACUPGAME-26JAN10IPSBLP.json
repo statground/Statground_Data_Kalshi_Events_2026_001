@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXFACUPGAME-26JAN10IPSBLP",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "FA Cup",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXFACUPGAME",
+  "strike_period": "",
+  "sub_title": "IPS vs BLP (Jan 10)",
+  "title": "Ipswich vs Blackpool"
+}

@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXFRASUPERCUPGAME-26JAN08PSGOM",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "France Super Cup",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXFRASUPERCUPGAME",
+  "strike_period": "",
+  "sub_title": "PSG vs OM (Jan 8)",
+  "title": "PSG vs Marseille"
+}

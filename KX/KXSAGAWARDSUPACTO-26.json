@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXSAGAWARDSUPACTO-26",
+  "mutually_exclusive": true,
+  "series_ticker": "KXSAGAWARDSUPACTO",
+  "strike_period": "",
+  "sub_title": "In 2026",
+  "title": "Actor Award for Outstanding Performance by a Male Actor in a Supporting Role?"
+}

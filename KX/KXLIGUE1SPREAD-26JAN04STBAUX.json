@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXLIGUE1SPREAD-26JAN04STBAUX",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Ligue 1",
+    "competition_scope": "Spread"
+  },
+  "series_ticker": "KXLIGUE1SPREAD",
+  "strike_period": "",
+  "sub_title": "AUX at STB (Jan 4)",
+  "title": "Auxerre at Stade Brest 29: Spreads"
+}

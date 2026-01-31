@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Mentions",
+  "collateral_return_type": "",
+  "event_ticker": "KXSECPRESSMENTION-26JAN06",
+  "mutually_exclusive": false,
+  "series_ticker": "KXSECPRESSMENTION",
+  "strike_period": "",
+  "sub_title": "Before Dec 1, 2025",
+  "title": "What will Karoline Leavitt say in the next press briefing?"
+}

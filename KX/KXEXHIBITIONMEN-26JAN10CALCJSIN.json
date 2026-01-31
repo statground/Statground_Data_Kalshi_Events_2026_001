@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXEXHIBITIONMEN-26JAN10CALCJSIN",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Alcaraz vs Sinner",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXEXHIBITIONMEN",
+  "strike_period": "",
+  "sub_title": "Carlos Alcaraz vs Jannik Sinner",
+  "title": "Carlos Alcaraz vs Jannik Sinner"
+}

@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXFIBACHAMPLEAGUEGAME-26JAN08CHAPRO",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "FIBA Champions League",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXFIBACHAMPLEAGUEGAME",
+  "strike_period": "",
+  "sub_title": "CHA at PRO (Jan 8)",
+  "title": "Elan Chalon at Promitheas Patras BC"
+}

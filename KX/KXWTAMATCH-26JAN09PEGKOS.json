@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXWTAMATCH-26JAN09PEGKOS",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "WTA Brisbane",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXWTAMATCH",
+  "strike_period": "",
+  "sub_title": "Pegula vs Kostyuk",
+  "title": "Pegula vs Kostyuk"
+}

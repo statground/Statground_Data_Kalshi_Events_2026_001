@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNFLANYTD-26JAN04ARILA",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Football",
+    "competition_scope": "Anytime TD"
+  },
+  "series_ticker": "KXNFLANYTD",
+  "strike_period": "",
+  "sub_title": "ARI at LA (Jan 4)",
+  "title": "Arizona at Los Angeles R: Anytime Touchdown Scorer"
+}

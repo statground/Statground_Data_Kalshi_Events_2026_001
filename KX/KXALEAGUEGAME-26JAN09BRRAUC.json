@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXALEAGUEGAME-26JAN09BRRAUC",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Australia A League",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXALEAGUEGAME",
+  "strike_period": "",
+  "sub_title": "BRR vs AUC (Jan 9)",
+  "title": "Brisbane vs Auckland"
+}

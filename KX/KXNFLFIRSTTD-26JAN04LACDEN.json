@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNFLFIRSTTD-26JAN04LACDEN",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Football",
+    "competition_scope": "1st TD"
+  },
+  "series_ticker": "KXNFLFIRSTTD",
+  "strike_period": "",
+  "sub_title": "LAC at DEN (Jan 4)",
+  "title": "Los Angeles C at Denver: First Touchdown Scorer"
+}

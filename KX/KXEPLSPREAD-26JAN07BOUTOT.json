@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXEPLSPREAD-26JAN07BOUTOT",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "EPL",
+    "competition_scope": "Spread"
+  },
+  "series_ticker": "KXEPLSPREAD",
+  "strike_period": "",
+  "sub_title": "TOT at BOU (Jan 7)",
+  "title": "Tottenham at Bournemouth: Spreads"
+}
