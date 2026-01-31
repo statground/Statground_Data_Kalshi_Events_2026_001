@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXDANCINGWITHTHESTARS-25NOV26",
+  "mutually_exclusive": true,
+  "series_ticker": "KXDANCINGWITHTHESTARS",
+  "strike_period": "",
+  "sub_title": "Dancing with the Stars Season 34",
+  "title": "Who will win Dancing with the Stars Season 34?"
+}

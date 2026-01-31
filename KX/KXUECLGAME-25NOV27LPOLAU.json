@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXUECLGAME-25NOV27LPOLAU",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Conference League",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXUECLGAME",
+  "strike_period": "",
+  "sub_title": "LPO vs LAU (Nov 27)",
+  "title": "KKS Lech Poznan vs Lausanne-Sport"
+}

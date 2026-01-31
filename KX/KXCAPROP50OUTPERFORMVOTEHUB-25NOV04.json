@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Elections",
+  "collateral_return_type": "",
+  "event_ticker": "KXCAPROP50OUTPERFORMVOTEHUB-25NOV04",
+  "mutually_exclusive": false,
+  "series_ticker": "KXCAPROP50OUTPERFORMVOTEHUB",
+  "strike_period": "",
+  "sub_title": "California",
+  "title": "Will Yes on California Prop 50 outperform the polls?"
+}

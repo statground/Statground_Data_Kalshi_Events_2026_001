@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXHIGHCHI-25NOV17",
+  "mutually_exclusive": true,
+  "series_ticker": "KXHIGHCHI",
+  "strike_date": "2025-11-18T04:59:00Z",
+  "strike_period": "",
+  "sub_title": "On Nov 17, 2025",
+  "title": "Highest temperature in Chicago on Nov 17, 2025?"
+}

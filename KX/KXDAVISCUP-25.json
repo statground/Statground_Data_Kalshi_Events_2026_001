@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXDAVISCUP-25",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Davis Cup",
+    "competition_scope": "Future"
+  },
+  "series_ticker": "KXDAVISCUP",
+  "strike_period": "",
+  "sub_title": "2025 Davis Cup",
+  "title": "Davis Cup Winner"
+}

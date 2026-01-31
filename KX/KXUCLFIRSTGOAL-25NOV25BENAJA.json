@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXUCLFIRSTGOAL-25NOV25BENAJA",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "UCL",
+    "competition_scope": "1st Goalscorer"
+  },
+  "series_ticker": "KXUCLFIRSTGOAL",
+  "strike_period": "",
+  "sub_title": "BEN at AJA (Nov 25)",
+  "title": "SL Benfica at Ajax: First Goalscorer"
+}

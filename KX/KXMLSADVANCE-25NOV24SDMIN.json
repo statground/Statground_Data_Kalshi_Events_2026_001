@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXMLSADVANCE-25NOV24SDMIN",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "MLS",
+    "competition_scope": "To Advance"
+  },
+  "series_ticker": "KXMLSADVANCE",
+  "strike_period": "",
+  "sub_title": "SD vs MIN (Nov 24)",
+  "title": "San Diego FC vs Minnesota: To Advance"
+}

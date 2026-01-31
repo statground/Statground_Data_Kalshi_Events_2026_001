@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNFLANYTD-25NOV16BALCLE",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Football",
+    "competition_scope": "Anytime TD"
+  },
+  "series_ticker": "KXNFLANYTD",
+  "strike_period": "",
+  "sub_title": "BAL at CLE (Nov 16)",
+  "title": "Baltimore at Cleveland: Anytime Touchdown Scorer"
+}

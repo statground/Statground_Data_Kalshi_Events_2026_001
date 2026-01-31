@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXEURUSDH-25NOV2613",
+  "mutually_exclusive": false,
+  "series_ticker": "KXEURUSDH",
+  "strike_date": "2025-11-26T18:00:00Z",
+  "strike_period": "",
+  "sub_title": "Nov 26, 2025 at 1pm EST",
+  "title": "EUR/USD price on Nov 26, 2025 at 1pm EST?"
+}

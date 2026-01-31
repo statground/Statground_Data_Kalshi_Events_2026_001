@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNFLREC-25NOV16HOUTEN",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Football",
+    "competition_scope": "Receptions"
+  },
+  "series_ticker": "KXNFLREC",
+  "strike_period": "",
+  "sub_title": "HOU at TEN (Nov 16)",
+  "title": "Houston at Tennessee: Receptions"
+}

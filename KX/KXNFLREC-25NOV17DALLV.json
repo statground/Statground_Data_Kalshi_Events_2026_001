@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNFLREC-25NOV17DALLV",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Football",
+    "competition_scope": "Receptions"
+  },
+  "series_ticker": "KXNFLREC",
+  "strike_period": "",
+  "sub_title": "DAL at LV (Nov 17)",
+  "title": "Dallas at Las Vegas: Receptions"
+}

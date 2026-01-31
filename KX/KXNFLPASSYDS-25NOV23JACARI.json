@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNFLPASSYDS-25NOV23JACARI",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Football",
+    "competition_scope": "Passing Yards"
+  },
+  "series_ticker": "KXNFLPASSYDS",
+  "strike_period": "",
+  "sub_title": "JAC at ARI (Nov 23)",
+  "title": "Jacksonville at Arizona: Passing Yards"
+}

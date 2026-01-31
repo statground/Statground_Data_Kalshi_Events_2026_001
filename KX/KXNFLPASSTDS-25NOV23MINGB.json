@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNFLPASSTDS-25NOV23MINGB",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Football",
+    "competition_scope": "Passing Touchdowns"
+  },
+  "series_ticker": "KXNFLPASSTDS",
+  "strike_period": "",
+  "sub_title": "MIN at GB (Nov 23)",
+  "title": "Minnesota at Green Bay: Passing Touchdowns Scorer"
+}

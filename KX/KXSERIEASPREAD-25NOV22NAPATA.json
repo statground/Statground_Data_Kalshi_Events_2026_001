@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXSERIEASPREAD-25NOV22NAPATA",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Serie A",
+    "competition_scope": "Spread"
+  },
+  "series_ticker": "KXSERIEASPREAD",
+  "strike_period": "",
+  "sub_title": "ATA at NAP (Nov 22)",
+  "title": "Atalanta at Napoli: Spreads"
+}

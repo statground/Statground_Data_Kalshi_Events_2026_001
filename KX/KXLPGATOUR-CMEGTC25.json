@@ -1,0 +1,14 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXLPGATOUR-CMEGTC25",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXLPGATOUR",
+  "strike_period": "",
+  "sub_title": "2025 CME Group Tour Championship",
+  "title": "CME Group Tour Championship Winner?"
+}

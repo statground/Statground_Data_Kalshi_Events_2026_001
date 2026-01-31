@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXATPFINALS-25",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "ATP World Tour Finals Men Singles",
+    "competition_scope": "Future"
+  },
+  "series_ticker": "KXATPFINALS",
+  "strike_period": "",
+  "sub_title": "November, 2025",
+  "title": "ATP Finals Men's Singles"
+}

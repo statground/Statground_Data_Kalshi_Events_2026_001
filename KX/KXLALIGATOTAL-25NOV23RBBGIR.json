@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXLALIGATOTAL-25NOV23RBBGIR",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "La Liga",
+    "competition_scope": "Point Total"
+  },
+  "series_ticker": "KXLALIGATOTAL",
+  "strike_period": "",
+  "sub_title": "GIR at RBB (Nov 23)",
+  "title": "Girona at Real Betis: Totals"
+}

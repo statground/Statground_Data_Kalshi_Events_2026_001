@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXR6-MAJORMUNICH25",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "R6",
+    "competition_scope": "Future"
+  },
+  "series_ticker": "KXR6",
+  "strike_period": "",
+  "sub_title": "Blast R6 Major Munich 2025",
+  "title": "Blast R6 Major Munich 2025 Winner"
+}

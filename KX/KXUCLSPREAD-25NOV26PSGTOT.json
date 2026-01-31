@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXUCLSPREAD-25NOV26PSGTOT",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "UCL",
+    "competition_scope": "Spread"
+  },
+  "series_ticker": "KXUCLSPREAD",
+  "strike_period": "",
+  "sub_title": "TOT at PSG (Nov 26)",
+  "title": "Tottenham at PSG: Spreads"
+}

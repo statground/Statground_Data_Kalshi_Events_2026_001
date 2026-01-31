@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "World",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCBDECISIONKOREA-25NOV26",
+  "mutually_exclusive": true,
+  "series_ticker": "KXCBDECISIONKOREA",
+  "strike_period": "",
+  "sub_title": "Nov 26, 2025 meeting",
+  "title": "What will the Bank of Korea do at the Nov 2025 BOK meeting?"
+}

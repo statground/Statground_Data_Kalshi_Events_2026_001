@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXFIFAGAME-25NOV17NIRLUX",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "FIFA World Cup Qualifiers",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXFIFAGAME",
+  "strike_period": "",
+  "sub_title": "NIR vs LUX (Nov 17)",
+  "title": "Northern Ireland vs Luxembourg"
+}

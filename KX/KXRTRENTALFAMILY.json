@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Entertainment",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXRTRENTALFAMILY",
+  "mutually_exclusive": false,
+  "series_ticker": "KXRTRENTALFAMILY",
+  "strike_period": "",
+  "sub_title": "Nov 24, 2025",
+  "title": "\"Rental Family\" Rotten Tomatoes score?"
+}

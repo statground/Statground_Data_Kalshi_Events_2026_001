@@ -1,0 +1,14 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXDAVISCUPADVANCE-25NOV22ESPGER",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Davis Cup"
+  },
+  "series_ticker": "KXDAVISCUPADVANCE",
+  "strike_period": "",
+  "sub_title": "Spain vs Germany",
+  "title": "Spain vs Germany: To Advance"
+}

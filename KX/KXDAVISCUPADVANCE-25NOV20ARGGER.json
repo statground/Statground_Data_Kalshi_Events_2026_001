@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXDAVISCUPADVANCE-25NOV20ARGGER",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Davis Cup",
+    "competition_scope": "Event"
+  },
+  "series_ticker": "KXDAVISCUPADVANCE",
+  "strike_period": "",
+  "sub_title": "Argentina vs Germany",
+  "title": "Argentina vs Germany: To Advance"
+}

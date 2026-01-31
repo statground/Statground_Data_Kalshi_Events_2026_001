@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNBATOTAL-25NOV23MIAPHI",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Basketball (M)",
+    "competition_scope": "Point Total"
+  },
+  "series_ticker": "KXNBATOTAL",
+  "strike_period": "",
+  "sub_title": "MIA at PHI (Nov 23)",
+  "title": "Miami at Philadelphia: Total Points"
+}

@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNBATOTAL-25NOV26HOUGSW",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Basketball (M)",
+    "competition_scope": "Point Total"
+  },
+  "series_ticker": "KXNBATOTAL",
+  "strike_period": "",
+  "sub_title": "HOU at GSW (Nov 26)",
+  "title": "Houston at Golden State: Total Points"
+}

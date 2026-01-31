@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXGREYCUP-25",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "CFL",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXGREYCUP",
+  "strike_period": "",
+  "sub_title": "On Nov 16, 2025",
+  "title": "Grey Cup Winner"
+}

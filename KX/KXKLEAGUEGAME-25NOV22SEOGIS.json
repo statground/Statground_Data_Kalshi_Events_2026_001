@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXKLEAGUEGAME-25NOV22SEOGIS",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Korea K League 1",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXKLEAGUEGAME",
+  "strike_period": "",
+  "sub_title": "SEO vs GIS (Nov 22)",
+  "title": "Seoul vs Gimcheon Sangmu"
+}

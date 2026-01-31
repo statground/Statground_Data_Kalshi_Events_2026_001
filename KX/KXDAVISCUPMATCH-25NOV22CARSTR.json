@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXDAVISCUPMATCH-25NOV22CARSTR",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Davis Cup",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXDAVISCUPMATCH",
+  "strike_period": "",
+  "sub_title": "Carreno Busta vs Struff",
+  "title": "Carreno Busta vs Struff"
+}

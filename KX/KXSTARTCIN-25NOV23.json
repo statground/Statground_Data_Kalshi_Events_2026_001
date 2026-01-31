@@ -1,0 +1,14 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXSTARTCIN-25NOV23",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Football"
+  },
+  "series_ticker": "KXSTARTCIN",
+  "strike_period": "",
+  "sub_title": "Week 12",
+  "title": "Will Joe Burrow start for Cincinnati in Week 12"
+}

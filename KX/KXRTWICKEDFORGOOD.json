@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Entertainment",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXRTWICKEDFORGOOD",
+  "mutually_exclusive": false,
+  "series_ticker": "KXRTWICKEDFORGOOD",
+  "strike_period": "",
+  "sub_title": "Nov 24, 2025",
+  "title": "\"Wicked: For Good\" Rotten Tomatoes score?"
+}

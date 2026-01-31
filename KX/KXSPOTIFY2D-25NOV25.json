@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXSPOTIFY2D-25NOV25",
+  "mutually_exclusive": true,
+  "series_ticker": "KXSPOTIFY2D",
+  "strike_period": "",
+  "sub_title": "On Nov 25, 2025 Chart",
+  "title": "Runner-up USA Song on Spotify on Nov 25, 2025?"
+}

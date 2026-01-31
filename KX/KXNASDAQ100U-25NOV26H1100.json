@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": true,
+  "category": "Financials",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXNASDAQ100U-25NOV26H1100",
+  "mutually_exclusive": false,
+  "series_ticker": "KXNASDAQ100U",
+  "strike_date": "2025-11-26T16:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Nov 26, 2025 at 11am EST",
+  "title": "Nasdaq-100 price on Nov 26, 2025 at 11am EST?"
+}

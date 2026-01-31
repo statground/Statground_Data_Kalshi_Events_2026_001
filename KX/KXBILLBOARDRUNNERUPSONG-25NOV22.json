@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXBILLBOARDRUNNERUPSONG-25NOV22",
+  "mutually_exclusive": true,
+  "series_ticker": "KXBILLBOARDRUNNERUPSONG",
+  "strike_period": "",
+  "sub_title": "On Nov 22, 2025",
+  "title": "Billboard Hot 100 #2 on Nov 22, 2025 chart?"
+}
