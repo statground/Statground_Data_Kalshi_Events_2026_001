@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXUCLTOTAL-26JAN20SPOPSG",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "UCL",
+    "competition_scope": "Point Total"
+  },
+  "series_ticker": "KXUCLTOTAL",
+  "strike_period": "",
+  "sub_title": "PSG at SPO (Jan 20)",
+  "title": "PSG at Sporting CP: Totals"
+}

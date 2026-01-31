@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXTABLETENNIS-26JAN21MADMKU",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "TT Elite Series Men",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXTABLETENNIS",
+  "strike_period": "",
+  "sub_title": "Mariusz Adamus vs Michal Kumor (Jan 21)",
+  "title": "Mariusz Adamus vs Michal Kumor"
+}

@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXATPEXACTMATCH-26JAN19HURBER",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Australian Open Men Singles",
+    "competition_scope": "Exact Match Score"
+  },
+  "series_ticker": "KXATPEXACTMATCH",
+  "strike_period": "",
+  "sub_title": "Hubert Hurkacz vs Zizou Bergs (Jan 19)",
+  "title": "Hubert Hurkacz vs Zizou Bergs: Exact Match Score"
+}

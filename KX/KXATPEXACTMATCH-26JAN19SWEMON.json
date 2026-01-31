@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXATPEXACTMATCH-26JAN19SWEMON",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Australian Open Men Singles",
+    "competition_scope": "Exact Match Score"
+  },
+  "series_ticker": "KXATPEXACTMATCH",
+  "strike_period": "",
+  "sub_title": "Dane Sweeny vs Gael Monfils (Jan 19)",
+  "title": "Dane Sweeny vs Gael Monfils: Exact Match Score"
+}

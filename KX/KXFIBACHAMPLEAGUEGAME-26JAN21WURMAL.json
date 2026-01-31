@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXFIBACHAMPLEAGUEGAME-26JAN21WURMAL",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "FIBA Champions League",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXFIBACHAMPLEAGUEGAME",
+  "strike_period": "",
+  "sub_title": "WUR at MAL (Jan 21)",
+  "title": "Wurzburg Baskets at CB Malaga"
+}

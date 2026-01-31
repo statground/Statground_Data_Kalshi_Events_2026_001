@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXTABLETENNIS-26JAN19BWIJPR",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "TT Elite Series Men",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXTABLETENNIS",
+  "strike_period": "",
+  "sub_title": "Bartlomiej Wisniewski vs Jacek Przewlocki (Jan 19)",
+  "title": "Bartlomiej Wisniewski vs Jacek Przewlocki"
+}

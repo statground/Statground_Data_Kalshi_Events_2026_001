@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXUCLTOTAL-26JAN20FCCNAP",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "UCL",
+    "competition_scope": "Point Total"
+  },
+  "series_ticker": "KXUCLTOTAL",
+  "strike_period": "",
+  "sub_title": "NAP at FCC (Jan 20)",
+  "title": "Napoli at Copenhagen: Totals"
+}

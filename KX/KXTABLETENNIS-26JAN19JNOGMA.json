@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXTABLETENNIS-26JAN19JNOGMA",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "TT Elite Series Men",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXTABLETENNIS",
+  "strike_period": "",
+  "sub_title": "Jakub Nowak vs Grzegorz Marud (Jan 19)",
+  "title": "Jakub Nowak vs Grzegorz Marud"
+}

@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXATPEXACTMATCH-26JAN22TIEBOR",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Australian Open Men Singles",
+    "competition_scope": "Exact Match Score"
+  },
+  "series_ticker": "KXATPEXACTMATCH",
+  "strike_period": "",
+  "sub_title": "Learner Tien vs Nuno Borges (Jan 22)",
+  "title": "Learner Tien vs Nuno Borges: Exact Match Score"
+}

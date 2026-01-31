@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXATPCHALLENGERMATCH-26JAN20PALDEV",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "ATP Challenger Itajai",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXATPCHALLENGERMATCH",
+  "strike_period": "",
+  "sub_title": "Palosi vs Dellien (Jan 20)",
+  "title": "Palosi vs Dellien"
+}

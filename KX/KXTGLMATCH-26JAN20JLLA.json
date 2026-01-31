@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXTGLMATCH-26JAN20JLLA",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Tomorrow's Golf League (TGL)",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXTGLMATCH",
+  "strike_period": "",
+  "sub_title": "Jupiter Links Golf Club vs Los Angeles Golf Club (Jan 20)",
+  "title": "Jupiter Links Golf Club vs Los Angeles Golf Club"
+}

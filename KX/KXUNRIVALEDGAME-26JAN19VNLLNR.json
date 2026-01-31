@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXUNRIVALEDGAME-26JAN19VNLLNR",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Unrivaled",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXUNRIVALEDGAME",
+  "strike_period": "",
+  "sub_title": "VNL at LNR (Jan 19)",
+  "title": "Vinyl at Lunar Owls"
+}

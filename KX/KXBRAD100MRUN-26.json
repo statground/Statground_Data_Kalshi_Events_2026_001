@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXBRAD100MRUN-26",
+  "mutually_exclusive": true,
+  "series_ticker": "KXBRAD100MRUN",
+  "strike_period": "",
+  "sub_title": "On Jan 21, 2026",
+  "title": "Will Brad Kraut complete NELK's 100 Mile Run Challenge"
+}

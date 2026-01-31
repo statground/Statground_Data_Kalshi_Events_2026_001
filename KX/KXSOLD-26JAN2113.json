@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": true,
+  "category": "Crypto",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXSOLD-26JAN2113",
+  "mutually_exclusive": false,
+  "series_ticker": "KXSOLD",
+  "strike_date": "2026-01-21T18:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Jan 21, 2026 at 1pm EST",
+  "title": "SOL price on Jan 21, 2026 at 1pm EST?"
+}

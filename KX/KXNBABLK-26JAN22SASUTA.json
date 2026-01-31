@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNBABLK-26JAN22SASUTA",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Basketball (M)",
+    "competition_scope": "Player Blocks"
+  },
+  "series_ticker": "KXNBABLK",
+  "strike_period": "",
+  "sub_title": "SAS at UTA (Jan 22)",
+  "title": "San Antonio at Utah: Blocks"
+}

@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Crypto",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXXRP-26JAN2120",
+  "mutually_exclusive": true,
+  "series_ticker": "KXXRP",
+  "strike_date": "2026-01-22T01:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Jan 21, 2026 at 8pm EST",
+  "title": "Ripple price range at Jan 21, 2026 at 8pm EST?"
+}

@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXCS2TOTALMAPS-26JAN21FNCG1",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "CS2",
+    "competition_scope": "Total Maps"
+  },
+  "series_ticker": "KXCS2TOTALMAPS",
+  "strike_period": "",
+  "sub_title": "Total Maps: FNC vs. G1 (Jan 21)",
+  "title": "IEM Rio: Global Closed Qualifier 2026: fnatic vs. GenOne Total Maps"
+}

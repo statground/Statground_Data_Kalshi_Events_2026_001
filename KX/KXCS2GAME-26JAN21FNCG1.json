@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCS2GAME-26JAN21FNCG1",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "CS2",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXCS2GAME",
+  "strike_period": "",
+  "sub_title": "fnatic vs. GenOne (Jan 21)",
+  "title": "IEM Rio: Global Closed Qualifier 2026: fnatic vs. GenOne"
+}

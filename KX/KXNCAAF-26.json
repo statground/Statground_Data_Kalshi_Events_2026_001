@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNCAAF-26",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "College Football Playoffs",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXNCAAF",
+  "strike_period": "",
+  "sub_title": "On Jan 19, 2026",
+  "title": "College Football Championship: Miami vs Indiana"
+}

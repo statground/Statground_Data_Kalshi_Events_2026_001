@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXATPEXACTMATCH-26JAN21KOPFRI",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Australian Open Men Singles",
+    "competition_scope": "Exact Match Score"
+  },
+  "series_ticker": "KXATPEXACTMATCH",
+  "strike_period": "",
+  "sub_title": "Vit Kopriva vs Taylor Fritz (Jan 21)",
+  "title": "Vit Kopriva vs Taylor Fritz: Exact Match Score"
+}

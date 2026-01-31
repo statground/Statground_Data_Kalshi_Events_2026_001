@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXATPSETWINNER-26JAN20BAEDAR-1",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Australian Open Men Singles",
+    "competition_scope": "Set 1 Winner"
+  },
+  "series_ticker": "KXATPSETWINNER",
+  "strike_period": "",
+  "sub_title": "Sebastian Baez vs Luciano Darderi Set 1 (Jan 20)",
+  "title": "Sebastian Baez vs Luciano Darderi: Set 1 Winner"
+}

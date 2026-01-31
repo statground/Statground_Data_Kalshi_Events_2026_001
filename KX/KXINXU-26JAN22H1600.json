@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": true,
+  "category": "Financials",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXINXU-26JAN22H1600",
+  "mutually_exclusive": false,
+  "series_ticker": "KXINXU",
+  "strike_date": "2026-01-22T21:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Jan 22, 2026 at 4pm EST",
+  "title": "S&P price on Jan 22, 2026 at 4pm EST?"
+}

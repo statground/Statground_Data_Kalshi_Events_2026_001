@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXATPCHALLENGERMATCH-26JAN20PURHAR",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "ATP Challenger Soma Bay",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXATPCHALLENGERMATCH",
+  "strike_period": "",
+  "sub_title": "Purtseladze vs Harris (Jan 20)",
+  "title": "Purtseladze vs Harris"
+}

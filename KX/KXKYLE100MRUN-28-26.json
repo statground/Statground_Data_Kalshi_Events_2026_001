@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXKYLE100MRUN-28-26",
+  "mutually_exclusive": true,
+  "series_ticker": "KXKYLE100MRUN",
+  "strike_period": "",
+  "sub_title": "On Jan 21, 2026",
+  "title": "Will Kyle Forgeard complete NELK's 100 Mile Run Challenge in under 28 hours"
+}

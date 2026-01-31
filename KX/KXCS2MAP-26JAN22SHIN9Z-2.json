@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCS2MAP-26JAN22SHIN9Z-2",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "CS2",
+    "competition_scope": "Map 2 Winner"
+  },
+  "series_ticker": "KXCS2MAP",
+  "strike_period": "",
+  "sub_title": "Map 2: SHIN vs. 9z (Jan 22)",
+  "title": "IEM Rio: Americas Closed Qualifier 2026: ShindeN vs. 9z Map 2"
+}

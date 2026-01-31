@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNETFLIXRANKMOVIE-26JAN19",
+  "mutually_exclusive": true,
+  "series_ticker": "KXNETFLIXRANKMOVIE",
+  "strike_period": "",
+  "sub_title": "The chart published on Jan 20, 2026",
+  "title": "Top US Netflix Movie this week?"
+}

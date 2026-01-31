@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXATPTOTALSETS-26JAN19HURBER",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Australian Open Men Singles",
+    "competition_scope": "Total Sets"
+  },
+  "series_ticker": "KXATPTOTALSETS",
+  "strike_period": "",
+  "sub_title": "Hubert Hurkacz vs Zizou Bergs (Jan 19)",
+  "title": "Hubert Hurkacz vs Zizou Bergs: Total Sets"
+}

@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXFIBAECUPGAME-26JAN21CEDREG",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "FIBA Europe Cup",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXFIBAECUPGAME",
+  "strike_period": "",
+  "sub_title": "CED at REG (Jan 21)",
+  "title": "Kk Cedevita Zagreb Junior at Pallacanestro Reggiana"
+}

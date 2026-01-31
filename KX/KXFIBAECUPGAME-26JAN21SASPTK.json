@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXFIBAECUPGAME-26JAN21SASPTK",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "FIBA Europe Cup",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXFIBAECUPGAME",
+  "strike_period": "",
+  "sub_title": "SAS at PTK (Jan 21)",
+  "title": "Dinamo Sassari at Petkim Spor Aliaga"
+}

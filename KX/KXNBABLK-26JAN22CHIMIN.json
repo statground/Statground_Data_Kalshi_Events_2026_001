@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNBABLK-26JAN22CHIMIN",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Basketball (M)",
+    "competition_scope": "Player Blocks"
+  },
+  "series_ticker": "KXNBABLK",
+  "strike_period": "",
+  "sub_title": "CHI at MIN (Jan 22)",
+  "title": "Chicago at Minnesota: Blocks"
+}

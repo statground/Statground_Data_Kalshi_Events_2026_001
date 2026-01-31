@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXATPCHALLENGERMATCH-26JAN22PALGUI",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "ATP Challenger Itajai",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXATPCHALLENGERMATCH",
+  "strike_period": "",
+  "sub_title": "Palosi vs Guillen Meza (Jan 22)",
+  "title": "Palosi vs Guillen Meza"
+}

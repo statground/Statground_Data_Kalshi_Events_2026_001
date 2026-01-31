@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXAHLGAME-26JAN19LEHBRI",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "AHL",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXAHLGAME",
+  "strike_period": "",
+  "sub_title": "LEH at BRI (Jan 19)",
+  "title": "Lehigh Valley Phantoms at Bridgeport Islanders"
+}

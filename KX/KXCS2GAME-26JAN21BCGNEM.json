@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCS2GAME-26JAN21BCGNEM",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "CS2",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXCS2GAME",
+  "strike_period": "",
+  "sub_title": "BC.Game Esports vs. Team Nemesis (Jan 21)",
+  "title": "IEM Rio: Global Closed Qualifier 2026: BC.Game Esports vs. Team Nemesis"
+}

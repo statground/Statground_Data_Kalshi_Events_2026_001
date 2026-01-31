@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXATPSETWINNER-26JAN22CERRUB-3",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Australian Open Men Singles",
+    "competition_scope": "Set 3 Winner"
+  },
+  "series_ticker": "KXATPSETWINNER",
+  "strike_period": "",
+  "sub_title": "Francisco Cerundolo vs Andrey Rublev Set 3 (Jan 22)",
+  "title": "Francisco Cerundolo vs Andrey Rublev: Set 3 Winner"
+}

@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXATPCHALLENGERMATCH-26JAN20GALKOZ",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "ATP Challenger Oeiras 1",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXATPCHALLENGERMATCH",
+  "strike_period": "",
+  "sub_title": "Galarneau vs Kozlov (Jan 20)",
+  "title": "Galarneau vs Kozlov"
+}

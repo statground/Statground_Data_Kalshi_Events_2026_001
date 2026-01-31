@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Economics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCBDECISIONCHINA-26JAN19",
+  "mutually_exclusive": true,
+  "series_ticker": "KXCBDECISIONCHINA",
+  "strike_period": "",
+  "sub_title": "Jan 2026 meeting",
+  "title": "What will the People's Bank of China do at the January 2026 PBOC meeting?"
+}

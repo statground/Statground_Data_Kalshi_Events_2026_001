@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCS2MAP-26JAN22NEMBIGA-1",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "CS2",
+    "competition_scope": "Map 1 Winner"
+  },
+  "series_ticker": "KXCS2MAP",
+  "strike_period": "",
+  "sub_title": "Map 1: NEM vs. BIGA (Jan 22)",
+  "title": "IEM Rio: Global Closed Qualifier 2026: Team Nemesis vs. BIG Academy Map 1"
+}

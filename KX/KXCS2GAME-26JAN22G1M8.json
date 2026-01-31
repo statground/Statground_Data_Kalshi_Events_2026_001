@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCS2GAME-26JAN22G1M8",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "CS2",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXCS2GAME",
+  "strike_period": "",
+  "sub_title": "GenOne vs. Gentle Mates (Jan 22)",
+  "title": "IEM Rio: Global Closed Qualifier 2026: GenOne vs. Gentle Mates"
+}

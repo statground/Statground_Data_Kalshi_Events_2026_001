@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXATPCHALLENGERMATCH-26JAN21KWONBAR",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "ATP Challenger Phan Thiet",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXATPCHALLENGERMATCH",
+  "strike_period": "",
+  "sub_title": "Kwon vs Barsukov (Jan 21)",
+  "title": "Kwon vs Barsukov"
+}

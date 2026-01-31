@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXWTAMATCH-26JAN22SVISHN",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Australian Open Women Singles",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXWTAMATCH",
+  "strike_period": "",
+  "sub_title": "Svitolina vs Shnaider (Jan 22)",
+  "title": "Svitolina vs Shnaider"
+}

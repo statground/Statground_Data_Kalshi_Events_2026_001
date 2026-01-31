@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNETFLIXRANKMOVIEGLOBAL-26JAN19",
+  "mutually_exclusive": true,
+  "series_ticker": "KXNETFLIXRANKMOVIEGLOBAL",
+  "strike_period": "",
+  "sub_title": "The chart published on Jan 20, 2026",
+  "title": "Top Global Netflix Movie this week?"
+}

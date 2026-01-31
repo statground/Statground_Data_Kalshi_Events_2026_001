@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": true,
+  "category": "Climate and Weather",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXLOWTNYC-26JAN19",
+  "mutually_exclusive": true,
+  "series_ticker": "KXLOWTNYC",
+  "strike_date": "2026-01-20T05:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Jan 19, 2026",
+  "title": "Lowest temperature in New York City on Jan 19, 2026?"
+}

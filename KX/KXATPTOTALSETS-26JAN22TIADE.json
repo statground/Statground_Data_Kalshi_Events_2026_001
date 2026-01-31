@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXATPTOTALSETS-26JAN22TIADE",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Australian Open Men Singles",
+    "competition_scope": "Total Sets"
+  },
+  "series_ticker": "KXATPTOTALSETS",
+  "strike_period": "",
+  "sub_title": "Frances Tiafoe vs Alex de Minaur (Jan 22)",
+  "title": "Frances Tiafoe vs Alex de Minaur: Total Sets"
+}

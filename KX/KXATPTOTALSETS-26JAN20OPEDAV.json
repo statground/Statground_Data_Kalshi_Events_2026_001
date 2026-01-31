@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXATPTOTALSETS-26JAN20OPEDAV",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Australian Open Men Singles",
+    "competition_scope": "Total Sets"
+  },
+  "series_ticker": "KXATPTOTALSETS",
+  "strike_period": "",
+  "sub_title": "Reilly Opelka vs Alejandro Davidovich Fokina (Jan 20)",
+  "title": "Reilly Opelka vs Alejandro Davidovich Fokina: Total Sets"
+}

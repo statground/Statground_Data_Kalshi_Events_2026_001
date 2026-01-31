@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": true,
+  "category": "Crypto",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXBTCD-26JAN2220",
+  "mutually_exclusive": false,
+  "series_ticker": "KXBTCD",
+  "strike_date": "2026-01-23T01:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Jan 22, 2026 at 8pm EST",
+  "title": "Bitcoin price on Jan 22, 2026 at 8pm EST?"
+}

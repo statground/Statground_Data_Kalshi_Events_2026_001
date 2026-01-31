@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXINTLFRIENDLYGAME-26JAN22PANMEX",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Intl Friendlies",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXINTLFRIENDLYGAME",
+  "strike_period": "",
+  "sub_title": "PAN vs MEX (Jan 22)",
+  "title": "Panama vs Mexico"
+}

@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXATPCHALLENGERMATCH-26JAN19KOZKUK",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "ATP Challenger Oeiras 1",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXATPCHALLENGERMATCH",
+  "strike_period": "",
+  "sub_title": "Kozlov vs Kukushkin (Jan 19)",
+  "title": "Kozlov vs Kukushkin"
+}
