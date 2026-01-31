@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "",
+  "event_ticker": "TNOTE-22APR18",
+  "mutually_exclusive": false,
+  "series_ticker": "KXTNOTE",
+  "strike_period": "",
+  "sub_title": "On April 18, 2022",
+  "title": "Treasury yield 10Y on April 18, 2022?"
+}

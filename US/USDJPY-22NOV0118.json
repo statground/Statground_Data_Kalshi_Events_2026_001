@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "USDJPY-22NOV0118",
+  "mutually_exclusive": true,
+  "series_ticker": "KXUSDJPY",
+  "strike_period": "",
+  "sub_title": "Nov 1, 2022 at 6pm EDT",
+  "title": "USD/JPY range on Nov 1, 2022 at 6pm EDT?"
+}

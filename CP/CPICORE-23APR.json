@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "",
+  "event_ticker": "CPICORE-23APR",
+  "mutually_exclusive": false,
+  "series_ticker": "KXCPICORE",
+  "strike_period": "April 2023",
+  "sub_title": "Apr 2023",
+  "title": "CPI core, Apr 2023?"
+}

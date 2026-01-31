@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Health",
+  "collateral_return_type": "",
+  "event_ticker": "CASEW-22MAY13",
+  "mutually_exclusive": false,
+  "series_ticker": "KXCASEW",
+  "strike_period": "",
+  "sub_title": "From May 7-13, 2022",
+  "title": "New COVID-19 cases this week from May 7-13, 2022?"
+}

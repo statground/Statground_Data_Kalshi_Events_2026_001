@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Health",
+  "collateral_return_type": "",
+  "event_ticker": "CASE7DNYC-22JAN01",
+  "mutually_exclusive": false,
+  "series_ticker": "KXCASE7DNYC",
+  "strike_period": "",
+  "sub_title": "By Dec 31, 2021",
+  "title": "NYC COVID daily case average by Dec 31, 2021?"
+}

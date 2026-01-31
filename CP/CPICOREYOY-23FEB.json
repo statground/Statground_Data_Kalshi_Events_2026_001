@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "",
+  "event_ticker": "CPICOREYOY-23FEB",
+  "mutually_exclusive": false,
+  "series_ticker": "KXCPICOREYOY",
+  "strike_period": "February 2023",
+  "sub_title": "In Feb 2023",
+  "title": "Core inflation in Feb 2023?"
+}

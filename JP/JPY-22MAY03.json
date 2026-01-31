@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "JPY-22MAY03",
+  "mutually_exclusive": true,
+  "series_ticker": "KXJPY",
+  "strike_period": "",
+  "sub_title": "On May 3, 2022",
+  "title": "U.S. Dollar/Japanese yen exchange rate on May 3, 2022?"
+}

@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Transportation",
+  "collateral_return_type": "",
+  "event_ticker": "TSAW-22DEC25",
+  "mutually_exclusive": false,
+  "series_ticker": "KXTSAW",
+  "strike_date": "2022-12-25T12:00:00Z",
+  "strike_period": "",
+  "sub_title": "Dec 19 to 25, 2022",
+  "title": "TSA check-ins from Dec 19 to 25, 2022?"
+}

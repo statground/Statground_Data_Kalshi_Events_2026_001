@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "GRAMROTY-65",
+  "mutually_exclusive": true,
+  "series_ticker": "KXGRAMROTY",
+  "strike_period": "65th Grammy Awards",
+  "sub_title": "2023",
+  "title": "2023 Grammy for Record of the Year?"
+}

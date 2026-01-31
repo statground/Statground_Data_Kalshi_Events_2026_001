@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "NASDAQ100W-23MAR24",
+  "mutually_exclusive": true,
+  "series_ticker": "KXNASDAQ100",
+  "strike_date": "2023-03-24T20:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Mar 24, 2023",
+  "title": "Nasdaq range on Mar 24, 2023?"
+}

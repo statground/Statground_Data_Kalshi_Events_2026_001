@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "HIGHCHI-22DEC24",
+  "mutually_exclusive": true,
+  "series_ticker": "KXHIGHCHI",
+  "strike_date": "2022-12-25T04:59:00Z",
+  "strike_period": "",
+  "sub_title": "On Dec 24, 2022",
+  "title": "Highest temperature in Chicago on Dec 24, 2022?"
+}

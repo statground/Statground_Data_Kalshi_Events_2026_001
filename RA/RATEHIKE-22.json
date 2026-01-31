@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "RATEHIKE-22",
+  "mutually_exclusive": true,
+  "series_ticker": "KXRATEHIKE",
+  "strike_period": "2022",
+  "sub_title": "In 2022",
+  "title": "Number of Fed rate hikes in 2022?"
+}

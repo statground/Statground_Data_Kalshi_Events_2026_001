@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "",
+  "event_ticker": "538APPROVEMIN-23MAY05",
+  "mutually_exclusive": false,
+  "series_ticker": "KX538APPROVEMIN",
+  "strike_date": "2023-05-06T03:59:00Z",
+  "strike_period": "",
+  "sub_title": "By May 5, 2023",
+  "title": "Biden 538 lowest approval rating by May 5, 2023?"
+}

@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "APRPOTUS-23MAY26",
+  "mutually_exclusive": true,
+  "series_ticker": "KXAPRPOTUS",
+  "strike_date": "2023-05-26T15:00:00Z",
+  "strike_period": "",
+  "sub_title": "On May 26, 2023",
+  "title": "Biden RCP approval rating on May 26, 2023?"
+}

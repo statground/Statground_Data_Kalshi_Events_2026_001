@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "",
+  "event_ticker": "GDP-232022 Q4",
+  "mutually_exclusive": false,
+  "series_ticker": "KXGDP",
+  "strike_period": "2022 Q4",
+  "sub_title": "In Q4 2022",
+  "title": "US GDP growth in Q4 2022?"
+}

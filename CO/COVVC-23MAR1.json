@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Health",
+  "collateral_return_type": "",
+  "event_ticker": "COVVC-23MAR1",
+  "mutually_exclusive": false,
+  "series_ticker": "KXCOVVC",
+  "strike_date": "2023-03-01T12:00:00Z",
+  "strike_period": "",
+  "sub_title": "By Mar 1, 2023",
+  "title": "COVID new variant of concern reported by Mar 1, 2023?"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "",
+  "event_ticker": "EUROIMF-10AUG22",
+  "mutually_exclusive": false,
+  "series_ticker": "KXEUROIMF",
+  "strike_period": "",
+  "sub_title": "On August 10, 2022",
+  "title": "EUR/USD on August 10, 2022?"
+}

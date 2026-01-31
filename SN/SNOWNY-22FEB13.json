@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "",
+  "event_ticker": "SNOWNY-22FEB13",
+  "mutually_exclusive": false,
+  "series_ticker": "KXSNOWNY",
+  "strike_period": "",
+  "sub_title": "On Feb 13, 2022",
+  "title": "Total snow in NYC on Feb 13, 2022?"
+}

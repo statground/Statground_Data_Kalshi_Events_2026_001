@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "PROLLS-23FEB",
+  "mutually_exclusive": true,
+  "series_ticker": "KXPROLLS",
+  "strike_period": "February 2023",
+  "sub_title": "In Feb 2023",
+  "title": "Jobs numbers in Feb 2023?"
+}

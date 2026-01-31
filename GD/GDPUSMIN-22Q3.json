@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "",
+  "event_ticker": "GDPUSMIN-22Q3",
+  "mutually_exclusive": false,
+  "series_ticker": "KXGDPUSMIN",
+  "strike_period": "",
+  "sub_title": "Q1 2022 - Q3 2022",
+  "title": "Negative US GDP growth, Q1 2022 - Q3 2022?"
+}

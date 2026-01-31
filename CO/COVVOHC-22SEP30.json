@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Health",
+  "collateral_return_type": "",
+  "event_ticker": "COVVOHC-22SEP30",
+  "mutually_exclusive": false,
+  "series_ticker": "KXCOVVHC",
+  "strike_period": "",
+  "sub_title": "By Sep 30, 2022",
+  "title": "COVID high consequence variant reported by Sep 30, 2022?"
+}

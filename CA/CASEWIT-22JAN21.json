@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Health",
+  "collateral_return_type": "",
+  "event_ticker": "CASEWIT-22JAN21",
+  "mutually_exclusive": false,
+  "series_ticker": "KXCASEWIT",
+  "strike_period": "",
+  "sub_title": "From Jan 15-21, 2022",
+  "title": "Italy COVID case average from Jan 15-21, 2022?"
+}

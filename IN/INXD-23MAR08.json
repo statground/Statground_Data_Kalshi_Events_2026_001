@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "INXD-23MAR08",
+  "mutually_exclusive": true,
+  "series_ticker": "KXINX",
+  "strike_date": "2023-03-08T21:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Mar 8, 2023",
+  "title": "S&P 500 range on Mar 8, 2023?"
+}

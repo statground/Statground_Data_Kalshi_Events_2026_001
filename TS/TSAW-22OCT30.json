@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Transportation",
+  "collateral_return_type": "",
+  "event_ticker": "TSAW-22OCT30",
+  "mutually_exclusive": false,
+  "series_ticker": "KXTSAW",
+  "strike_period": "",
+  "sub_title": "Oct 24 to 30, 2022",
+  "title": "TSA check-ins from Oct 24 to 30, 2022?"
+}

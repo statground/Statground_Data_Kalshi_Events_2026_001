@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Health",
+  "collateral_return_type": "",
+  "event_ticker": "VAXX-22MAR09",
+  "mutually_exclusive": false,
+  "series_ticker": "KXVAXX",
+  "strike_period": "",
+  "sub_title": "By Mar 9, 2022",
+  "title": "COVID vaccinations by Mar 9, 2022?"
+}

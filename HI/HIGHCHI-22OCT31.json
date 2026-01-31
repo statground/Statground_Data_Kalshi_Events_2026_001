@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "HIGHCHI-22OCT31",
+  "mutually_exclusive": true,
+  "series_ticker": "KXHIGHCHI",
+  "strike_period": "",
+  "sub_title": "On Oct 31, 2022",
+  "title": "Highest temperature in Chicago on Oct 31, 2022?"
+}

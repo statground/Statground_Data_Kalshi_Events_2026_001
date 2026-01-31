@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Health",
+  "collateral_return_type": "",
+  "event_ticker": "CASEWDE-22JAN14",
+  "mutually_exclusive": false,
+  "series_ticker": "KXCASEWDE",
+  "strike_period": "",
+  "sub_title": "From Jan 8-14, 2022",
+  "title": "Germany COVID case average from Jan 8-14, 2022?"
+}

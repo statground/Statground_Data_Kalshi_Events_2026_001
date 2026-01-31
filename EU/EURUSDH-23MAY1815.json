@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "",
+  "event_ticker": "EURUSDH-23MAY1815",
+  "mutually_exclusive": false,
+  "series_ticker": "KXEURUSDH",
+  "strike_date": "2023-05-18T19:00:00Z",
+  "strike_period": "",
+  "sub_title": "May 18, 2023 at 3pm EDT",
+  "title": "EUR/USD over/under on May 18, 2023 at 3pm EDT?"
+}

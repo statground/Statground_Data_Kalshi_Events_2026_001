@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "",
+  "event_ticker": "HIGHCHI-22FEB09",
+  "mutually_exclusive": false,
+  "series_ticker": "KXHIGHCHI",
+  "strike_period": "",
+  "sub_title": "On Feb 9, 2022",
+  "title": "Highest temperature in Chicago on Feb 9, 2022?"
+}

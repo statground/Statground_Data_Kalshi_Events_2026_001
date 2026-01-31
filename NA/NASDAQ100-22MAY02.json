@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "NASDAQ100-22MAY02",
+  "mutually_exclusive": true,
+  "series_ticker": "KXNASDAQ100",
+  "strike_period": "",
+  "sub_title": "On May 2, 2022",
+  "title": "Nasdaq range on May 2, 2022?"
+}

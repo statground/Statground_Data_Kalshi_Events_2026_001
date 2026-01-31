@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "USDJPY-22OCT0318",
+  "mutually_exclusive": true,
+  "series_ticker": "KXUSDJPY",
+  "strike_period": "",
+  "sub_title": "Oct 3, 2022 at 6pm EDT",
+  "title": "USD/JPY range on Oct 3, 2022 at 6pm EDT?"
+}

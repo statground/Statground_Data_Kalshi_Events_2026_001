@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "",
+  "event_ticker": "U3MIN-22",
+  "mutually_exclusive": false,
+  "series_ticker": "KXU3MIN",
+  "strike_period": "2022",
+  "sub_title": "In any month in 2022",
+  "title": "Unemployment keeps falling in any month in 2022?"
+}

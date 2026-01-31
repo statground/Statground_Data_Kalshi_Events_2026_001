@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "TNOTED-23APR11",
+  "mutually_exclusive": true,
+  "series_ticker": "KXTNOTED",
+  "strike_date": "2023-04-11T19:25:00Z",
+  "strike_period": "",
+  "sub_title": "On Apr 11, 2023",
+  "title": "Treasury 10Y yield on Apr 11, 2023?"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Transportation",
+  "collateral_return_type": "",
+  "event_ticker": "PORTLA-21DEC03",
+  "mutually_exclusive": false,
+  "series_ticker": "KXPORTLA",
+  "strike_period": "",
+  "sub_title": "From Nov 27-Dec 3, 2021",
+  "title": "Ships anchored in LA from Nov 27-Dec 3, 2021?"
+}

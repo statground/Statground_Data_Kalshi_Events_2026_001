@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "WTI-22DEC15",
+  "mutually_exclusive": true,
+  "series_ticker": "KXWTI",
+  "strike_period": "",
+  "sub_title": "On Dec 15, 2022",
+  "title": "WTI oil range on Dec 15, 2022?"
+}

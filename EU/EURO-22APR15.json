@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "EURO-22APR15",
+  "mutually_exclusive": true,
+  "series_ticker": "KXEURO",
+  "strike_period": "",
+  "sub_title": "On April 15, 2022",
+  "title": "EURO/USD exchange rate on April 15, 2022?"
+}

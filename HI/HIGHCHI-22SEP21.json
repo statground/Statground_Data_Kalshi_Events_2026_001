@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "HIGHCHI-22SEP21",
+  "mutually_exclusive": true,
+  "series_ticker": "KXHIGHCHI",
+  "strike_period": "",
+  "sub_title": "On September 21, 2022",
+  "title": "Highest temperature in Chicago on September 21, 2022?"
+}

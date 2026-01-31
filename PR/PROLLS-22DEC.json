@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "PROLLS-22DEC",
+  "mutually_exclusive": true,
+  "series_ticker": "KXPROLLS",
+  "strike_period": "December 2022",
+  "sub_title": "In December",
+  "title": "Jobs numbers in December?"
+}

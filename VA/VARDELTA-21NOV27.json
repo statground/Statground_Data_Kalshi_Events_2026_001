@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Health",
+  "collateral_return_type": "",
+  "event_ticker": "VARDELTA-21NOV27",
+  "mutually_exclusive": false,
+  "series_ticker": "KXVARDELTA",
+  "strike_period": "",
+  "sub_title": "From Nov 21-27, 2021",
+  "title": "Delta share from Nov 21-27, 2021?"
+}

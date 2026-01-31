@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "GOLD-22SEP2916",
+  "mutually_exclusive": true,
+  "series_ticker": "KXGOLD",
+  "strike_period": "",
+  "sub_title": "4 PM EDT on Sep 29, 2022 at 4pm EDT",
+  "title": "Price of gold, 4 PM EDT on Sep 29, 2022 at 4pm EDT?"
+}

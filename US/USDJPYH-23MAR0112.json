@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "",
+  "event_ticker": "USDJPYH-23MAR0112",
+  "mutually_exclusive": false,
+  "series_ticker": "KXUSDJPYH",
+  "strike_date": "2023-03-01T17:00:00Z",
+  "strike_period": "",
+  "sub_title": "Mar 1, 2023 at 12pm EST",
+  "title": "USD/JPY daily over/under, Mar 1, 2023 at 12pm EST?"
+}

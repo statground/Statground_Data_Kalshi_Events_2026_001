@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "NASDAQ100D-22NOV03",
+  "mutually_exclusive": true,
+  "series_ticker": "KXNASDAQ100",
+  "strike_period": "",
+  "sub_title": "On Nov 3, 2022",
+  "title": "Nasdaq range on Nov 3, 2022?"
+}

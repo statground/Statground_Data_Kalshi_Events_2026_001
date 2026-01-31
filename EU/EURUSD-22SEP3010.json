@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "EURUSD-22SEP3010",
+  "mutually_exclusive": true,
+  "series_ticker": "KXEURUSD",
+  "strike_period": "",
+  "sub_title": "Sep 30, 2022 at 10am EDT",
+  "title": "EUR/USD range on Sep 30, 2022 at 10am EDT?"
+}

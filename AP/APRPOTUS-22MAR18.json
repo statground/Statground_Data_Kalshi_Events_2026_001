@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "",
+  "event_ticker": "APRPOTUS-22MAR18",
+  "mutually_exclusive": false,
+  "series_ticker": "KXAPRPOTUS",
+  "strike_period": "",
+  "sub_title": "On March 18, 2022",
+  "title": "Biden RCP approval rating on March 18, 2022?"
+}

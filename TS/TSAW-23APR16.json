@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Transportation",
+  "collateral_return_type": "",
+  "event_ticker": "TSAW-23APR16",
+  "mutually_exclusive": false,
+  "series_ticker": "KXTSAW",
+  "strike_period": "Apr 10 to 16, 2023",
+  "sub_title": "Apr 10 to 16, 2023",
+  "title": "TSA check-ins from Apr 10 to 16, 2023?"
+}

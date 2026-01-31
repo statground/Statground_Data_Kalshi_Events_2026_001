@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "NASDAQ100D-22MAY12",
+  "mutually_exclusive": true,
+  "series_ticker": "KXNASDAQ100",
+  "strike_period": "",
+  "sub_title": "On May 12, 2022",
+  "title": "Nasdaq range on May 12, 2022?"
+}

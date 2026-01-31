@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "INXW-22SEP30",
+  "mutually_exclusive": true,
+  "series_ticker": "KXINX",
+  "strike_period": "",
+  "sub_title": "On Sep 30, 2022",
+  "title": "S&P 500 range on Sep 30, 2022?"
+}

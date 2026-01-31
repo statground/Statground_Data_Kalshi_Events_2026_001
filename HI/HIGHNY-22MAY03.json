@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "HIGHNY-22MAY03",
+  "mutually_exclusive": true,
+  "series_ticker": "KXHIGHNY",
+  "strike_period": "",
+  "sub_title": "On May 03, 2022",
+  "title": "Highest temperature in NYC on May 03, 2022?"
+}

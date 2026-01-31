@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "HIGHNY-22OCT20",
+  "mutually_exclusive": true,
+  "series_ticker": "KXHIGHNY",
+  "strike_period": "",
+  "sub_title": "On Oct 20, 2022",
+  "title": "Highest temperature in NYC on Oct 20, 2022?"
+}

@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "538APPROVE-23FEB08",
+  "mutually_exclusive": true,
+  "series_ticker": "KX538APPROVE",
+  "strike_date": "2023-02-09T04:59:00Z",
+  "strike_period": "",
+  "sub_title": "On Feb 8, 2023",
+  "title": "Biden 538 approval rating on Feb 8, 2023?"
+}

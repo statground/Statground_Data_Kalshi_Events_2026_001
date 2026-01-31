@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "WTIW-22NOV04",
+  "mutually_exclusive": true,
+  "series_ticker": "KXWTIW",
+  "strike_period": "",
+  "sub_title": "On Nov 4, 2022",
+  "title": "WTI oil range on Nov 4, 2022?"
+}

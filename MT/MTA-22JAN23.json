@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Transportation",
+  "collateral_return_type": "",
+  "event_ticker": "MTA-22JAN23",
+  "mutually_exclusive": false,
+  "series_ticker": "KXMTA",
+  "strike_period": "",
+  "sub_title": "From Jan 17-23, 2022",
+  "title": "NYC subway riders from Jan 17-23, 2022?"
+}

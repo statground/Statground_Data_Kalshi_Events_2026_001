@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "HIGHCHI-22APR30",
+  "mutually_exclusive": true,
+  "series_ticker": "KXHIGHCHI",
+  "strike_period": "",
+  "sub_title": "On April 30, 2022",
+  "title": "Highest temperature in Chicago on April 30, 2022?"
+}

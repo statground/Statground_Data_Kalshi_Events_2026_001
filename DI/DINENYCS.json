@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "World",
+  "collateral_return_type": "",
+  "event_ticker": "DINENYCS",
+  "mutually_exclusive": false,
+  "series_ticker": "KXDINENYCS",
+  "strike_period": "",
+  "sub_title": "",
+  "title": "NYC indoor dining ban?"
+}

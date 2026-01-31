@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Transportation",
+  "collateral_return_type": "",
+  "event_ticker": "VANRATE-22DEC05",
+  "mutually_exclusive": false,
+  "series_ticker": "KXVANRATE",
+  "strike_period": "",
+  "sub_title": "On the week reporting Dec 5, 2022",
+  "title": "National Freight Rates (Truckstop.com dry van rates) on the week reporting Dec 5, 2022?"
+}

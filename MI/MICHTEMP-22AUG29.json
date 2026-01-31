@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "",
+  "event_ticker": "MICHTEMP-22AUG29",
+  "mutually_exclusive": false,
+  "series_ticker": "KXMICHTEMP",
+  "strike_period": "",
+  "sub_title": "On August 29, 2022",
+  "title": "Lake Michigan surface water temperature on August 29, 2022?"
+}

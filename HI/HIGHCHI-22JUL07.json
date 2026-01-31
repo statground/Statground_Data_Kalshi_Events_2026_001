@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "HIGHCHI-22JUL07",
+  "mutually_exclusive": true,
+  "series_ticker": "KXHIGHCHI",
+  "strike_period": "",
+  "sub_title": "On July 07, 2022",
+  "title": "Highest temperature in Chicago on July 07, 2022?"
+}

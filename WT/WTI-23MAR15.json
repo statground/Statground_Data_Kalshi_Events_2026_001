@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "WTI-23MAR15",
+  "mutually_exclusive": true,
+  "series_ticker": "KXWTI",
+  "strike_date": "2023-03-15T18:30:00Z",
+  "strike_period": "",
+  "sub_title": "On Mar 15, 2023",
+  "title": "WTI oil range on Mar 15, 2023?"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "NASDAQ100D-22AUG11",
+  "mutually_exclusive": true,
+  "series_ticker": "KXNASDAQ100",
+  "strike_period": "",
+  "sub_title": "On August 11, 2022",
+  "title": "Nasdaq range on August 11, 2022?"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "",
+  "event_ticker": "JOBLESS-22FEB19",
+  "mutually_exclusive": false,
+  "series_ticker": "KXJOBLESS",
+  "strike_period": "",
+  "sub_title": "From Feb 13-19, 2022",
+  "title": "Initial jobless claims from Feb 13-19, 2022?"
+}

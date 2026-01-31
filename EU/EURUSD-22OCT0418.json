@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "EURUSD-22OCT0418",
+  "mutually_exclusive": true,
+  "series_ticker": "KXEURUSD",
+  "strike_period": "",
+  "sub_title": "Oct 4, 2022 at 6pm EDT",
+  "title": "EUR/USD range on Oct 4, 2022 at 6pm EDT?"
+}

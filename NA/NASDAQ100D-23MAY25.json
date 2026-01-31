@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "NASDAQ100D-23MAY25",
+  "mutually_exclusive": true,
+  "series_ticker": "KXNASDAQ100",
+  "strike_date": "2023-05-25T20:00:00Z",
+  "strike_period": "",
+  "sub_title": "On May 25, 2023",
+  "title": "Nasdaq range on May 25, 2023?"
+}

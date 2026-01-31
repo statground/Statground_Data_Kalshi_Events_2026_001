@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Health",
+  "collateral_return_type": "",
+  "event_ticker": "COVVC",
+  "mutually_exclusive": false,
+  "series_ticker": "KXCOVVC",
+  "strike_period": "",
+  "sub_title": "By Aug 15, 2022",
+  "title": "COVID new variant of concern reported by Aug 15, 2022?"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "",
+  "event_ticker": "HIGHNY-21DEC02",
+  "mutually_exclusive": false,
+  "series_ticker": "KXHIGHNY",
+  "strike_period": "",
+  "sub_title": "On Dec 2, 2021",
+  "title": "Highest temperature in NYC on Dec 2, 2021?"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Health",
+  "collateral_return_type": "",
+  "event_ticker": "CASE7DCA-22MAY20",
+  "mutually_exclusive": false,
+  "series_ticker": "KXCASE7DCA",
+  "strike_period": "",
+  "sub_title": "By May 20, 2022",
+  "title": "California COVID daily case avg by May 20, 2022?"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "EURUSD-22DEC1210",
+  "mutually_exclusive": true,
+  "series_ticker": "KXEURUSD",
+  "strike_period": "",
+  "sub_title": "Dec 12, 2022 at 10am EST",
+  "title": "EUR/USD range on Dec 12, 2022 at 10am EST?"
+}

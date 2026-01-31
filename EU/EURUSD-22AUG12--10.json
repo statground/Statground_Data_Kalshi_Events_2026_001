@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "EURUSD-22AUG12--10",
+  "mutually_exclusive": true,
+  "series_ticker": "KXEURUSD",
+  "strike_period": "",
+  "sub_title": "10 AM EDT on August 12, 2022",
+  "title": "EUR/USD range on 10 AM EDT on August 12, 2022?"
+}

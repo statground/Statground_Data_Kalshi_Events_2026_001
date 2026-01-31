@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "GRAMSOTY-22.0",
+  "mutually_exclusive": true,
+  "series_ticker": "KXGRAMSOTY",
+  "strike_period": "",
+  "sub_title": "By Feb 7, 2022",
+  "title": "2022 Grammy for Song of the Year?"
+}

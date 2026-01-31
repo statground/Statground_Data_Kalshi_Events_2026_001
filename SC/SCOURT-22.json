@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "SCOURT-22",
+  "mutually_exclusive": true,
+  "series_ticker": "KXSCOURT",
+  "strike_period": "",
+  "sub_title": "",
+  "title": "Next SCOTUS justice?"
+}

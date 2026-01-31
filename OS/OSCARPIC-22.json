@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "OSCARPIC-22",
+  "mutually_exclusive": true,
+  "series_ticker": "KXOSCARPIC",
+  "strike_period": "",
+  "sub_title": "2022",
+  "title": "2022 Oscar for Best Picture?"
+}

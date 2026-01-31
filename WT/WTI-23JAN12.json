@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "WTI-23JAN12",
+  "mutually_exclusive": true,
+  "series_ticker": "KXWTI",
+  "strike_date": "2023-01-12T19:30:00Z",
+  "strike_period": "",
+  "sub_title": "On Jan 12, 2023",
+  "title": "WTI oil range on Jan 12, 2023?"
+}

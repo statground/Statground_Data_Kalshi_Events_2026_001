@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "APRPOTUS-22SEP30",
+  "mutually_exclusive": true,
+  "series_ticker": "KXAPRPOTUS",
+  "strike_period": "",
+  "sub_title": "On Sep 30, 2022",
+  "title": "Biden RCP approval rating on Sep 30, 2022?"
+}

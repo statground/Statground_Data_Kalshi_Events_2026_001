@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "INXD-22JUN28",
+  "mutually_exclusive": true,
+  "series_ticker": "KXINX",
+  "strike_period": "",
+  "sub_title": "On June 28, 2022",
+  "title": "S&P 500 range on June 28, 2022?"
+}

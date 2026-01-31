@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "",
+  "event_ticker": "COVIDBILL-22APR30",
+  "mutually_exclusive": false,
+  "series_ticker": "KXCOVIDBILL",
+  "strike_period": "",
+  "sub_title": "By April 30, 2022",
+  "title": "Major COVID-19 bill by April 30, 2022?"
+}

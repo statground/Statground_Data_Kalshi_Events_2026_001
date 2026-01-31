@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "",
+  "event_ticker": "HIGHNY-22FEB15",
+  "mutually_exclusive": false,
+  "series_ticker": "KXHIGHNY",
+  "strike_period": "",
+  "sub_title": "On Feb 15, 2022",
+  "title": "Highest temperature in NYC on Feb 15, 2022?"
+}

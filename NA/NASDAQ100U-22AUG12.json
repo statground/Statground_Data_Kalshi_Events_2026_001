@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "",
+  "event_ticker": "NASDAQ100U-22AUG12",
+  "mutually_exclusive": false,
+  "series_ticker": "KXNASDAQ100U",
+  "strike_period": "",
+  "sub_title": "On August 12, 2022",
+  "title": "Nasdaq above/below on August 12, 2022?"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "",
+  "event_ticker": "JOBLESS-22MAY07",
+  "mutually_exclusive": false,
+  "series_ticker": "KXJOBLESS",
+  "strike_period": "",
+  "sub_title": "From May 1-7",
+  "title": "Initial jobless claims from May 1-7?"
+}

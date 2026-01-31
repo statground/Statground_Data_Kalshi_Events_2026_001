@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "",
+  "event_ticker": "JOBLESS-22JUN18",
+  "mutually_exclusive": false,
+  "series_ticker": "KXJOBLESS",
+  "strike_period": "",
+  "sub_title": "From Jun 12-18",
+  "title": "Initial jobless claims from Jun 12-18?"
+}

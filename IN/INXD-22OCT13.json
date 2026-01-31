@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "INXD-22OCT13",
+  "mutually_exclusive": true,
+  "series_ticker": "KXINX",
+  "strike_period": "",
+  "sub_title": "On Oct 13, 2022",
+  "title": "S&P 500 range on Oct 13, 2022?"
+}

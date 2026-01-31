@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "",
+  "event_ticker": "FRMMAX-22DEC29",
+  "mutually_exclusive": false,
+  "series_ticker": "KXFRMMAX",
+  "strike_period": "5/16/2022-12/29/2022",
+  "sub_title": "By December 29, 2022",
+  "title": "Mortgage rate high by December 29, 2022?"
+}

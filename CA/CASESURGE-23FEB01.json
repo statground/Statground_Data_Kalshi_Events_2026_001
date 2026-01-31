@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Health",
+  "collateral_return_type": "",
+  "event_ticker": "CASESURGE-23FEB01",
+  "mutually_exclusive": false,
+  "series_ticker": "KXCASESURGE",
+  "strike_period": "",
+  "sub_title": "Before February 1",
+  "title": "New COVID-19 wave before February 1?"
+}

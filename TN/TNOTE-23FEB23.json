@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "TNOTE-23FEB23",
+  "mutually_exclusive": true,
+  "series_ticker": "KXTNOTE",
+  "strike_date": "2023-02-23T20:25:00Z",
+  "strike_period": "",
+  "sub_title": "On Feb 23, 2023",
+  "title": "Treasury yield 10Y on Feb 23, 2023?"
+}

@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "World",
+  "collateral_return_type": "",
+  "event_ticker": "MONKEYPOX-22DDEC31",
+  "mutually_exclusive": false,
+  "series_ticker": "KXMONKEYPOX",
+  "strike_date": "2022-12-31T12:00:00Z",
+  "strike_period": "",
+  "sub_title": "By December 31, 2022",
+  "title": "Monkeypox named pandemic by December 31, 2022?"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "",
+  "event_ticker": "HIGHCHI-22JAN30",
+  "mutually_exclusive": false,
+  "series_ticker": "KXHIGHCHI",
+  "strike_period": "",
+  "sub_title": "On Jan 30, 2022",
+  "title": "Highest temperature in Chicago on Jan 30, 2022?"
+}

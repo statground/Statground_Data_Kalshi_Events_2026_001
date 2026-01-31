@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "",
+  "event_ticker": "NGAS-22JUL18",
+  "mutually_exclusive": false,
+  "series_ticker": "KXNGASW",
+  "strike_period": "",
+  "sub_title": "Between July 12-July 18, 2022",
+  "title": "Natural gas price max and min weekly between July 12-July 18, 2022?"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "",
+  "event_ticker": "GOVSHUT-21MAR12",
+  "mutually_exclusive": false,
+  "series_ticker": "KXGOVSHUT",
+  "strike_period": "",
+  "sub_title": "On Mar 12, 2022",
+  "title": "Government shutdown on Mar 12, 2022?"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Transportation",
+  "collateral_return_type": "",
+  "event_ticker": "DIESEL-22NOV14",
+  "mutually_exclusive": false,
+  "series_ticker": "KXDIESEL",
+  "strike_period": "",
+  "sub_title": "On Nov 14, 2022",
+  "title": "Diesel price this week on Nov 14, 2022?"
+}

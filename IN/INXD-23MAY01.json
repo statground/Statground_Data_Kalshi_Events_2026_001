@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "INXD-23MAY01",
+  "mutually_exclusive": true,
+  "series_ticker": "KXINX",
+  "strike_date": "2023-05-01T20:00:00Z",
+  "strike_period": "",
+  "sub_title": "On May 1, 2023",
+  "title": "S&P 500 range on May 1, 2023?"
+}

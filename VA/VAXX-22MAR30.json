@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "COVID-19",
+  "collateral_return_type": "",
+  "event_ticker": "VAXX-22MAR30",
+  "mutually_exclusive": false,
+  "series_ticker": "KXVAXX",
+  "strike_period": "",
+  "sub_title": "On March 30, 2022",
+  "title": "How many Americans will be vaccinated by March 30, 2022?"
+}

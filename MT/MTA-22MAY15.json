@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Transportation",
+  "collateral_return_type": "",
+  "event_ticker": "MTA-22MAY15",
+  "mutually_exclusive": false,
+  "series_ticker": "KXMTA",
+  "strike_period": "",
+  "sub_title": "From May 9-15, 2022",
+  "title": "NYC subway riders from May 9-15, 2022?"
+}

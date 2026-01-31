@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "PROLLS-22SEP",
+  "mutually_exclusive": true,
+  "series_ticker": "KXPROLLS",
+  "strike_period": "",
+  "sub_title": "In September",
+  "title": "Jobs numbers in September?"
+}

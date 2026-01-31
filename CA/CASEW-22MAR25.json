@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Health",
+  "collateral_return_type": "",
+  "event_ticker": "CASEW-22MAR25",
+  "mutually_exclusive": false,
+  "series_ticker": "KXCASEW",
+  "strike_period": "",
+  "sub_title": "From Mar 19-25",
+  "title": "New COVID-19 cases this week from Mar 19-25?"
+}

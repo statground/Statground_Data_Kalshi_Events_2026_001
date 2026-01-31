@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Health",
+  "collateral_return_type": "",
+  "event_ticker": "CASED-22APR19",
+  "mutually_exclusive": false,
+  "series_ticker": "KXCASED",
+  "strike_period": "",
+  "sub_title": "On April 19, 2022",
+  "title": "COVID daily cases on April 19, 2022?"
+}

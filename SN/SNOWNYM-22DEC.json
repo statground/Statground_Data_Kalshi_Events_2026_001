@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "",
+  "event_ticker": "SNOWNYM-22DEC",
+  "mutually_exclusive": false,
+  "series_ticker": "KXSNOWNYM",
+  "strike_period": "December 2022",
+  "sub_title": "In Dec 2022",
+  "title": "Total snow in NYC in Dec 2022?"
+}

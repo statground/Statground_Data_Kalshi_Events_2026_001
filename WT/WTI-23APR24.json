@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "WTI-23APR24",
+  "mutually_exclusive": true,
+  "series_ticker": "KXWTI",
+  "strike_date": "2023-04-24T18:30:00Z",
+  "strike_period": "",
+  "sub_title": "On Apr 24, 2023",
+  "title": "WTI oil range on Apr 24, 2023?"
+}

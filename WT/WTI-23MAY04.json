@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "WTI-23MAY04",
+  "mutually_exclusive": true,
+  "series_ticker": "KXWTI",
+  "strike_date": "2023-05-04T18:30:00Z",
+  "strike_period": "",
+  "sub_title": "On May 4, 2023",
+  "title": "WTI oil range on May 4, 2023?"
+}

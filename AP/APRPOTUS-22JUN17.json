@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "APRPOTUS-22JUN17",
+  "mutually_exclusive": true,
+  "series_ticker": "KXAPRPOTUS",
+  "strike_period": "",
+  "sub_title": "On June 17, 2022",
+  "title": "Biden RCP approval rating on June 17, 2022?"
+}

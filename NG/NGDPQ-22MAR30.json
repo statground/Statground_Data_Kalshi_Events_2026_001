@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "",
+  "event_ticker": "NGDPQ-22MAR30",
+  "mutually_exclusive": false,
+  "series_ticker": "KXNGDPQ",
+  "strike_period": "",
+  "sub_title": "Q1 2022",
+  "title": "Quarterly NGDP growth, Q1 2022?"
+}

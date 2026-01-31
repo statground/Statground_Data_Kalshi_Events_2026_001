@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Health",
+  "collateral_return_type": "",
+  "event_ticker": "CASE7D-22AUG01",
+  "mutually_exclusive": false,
+  "series_ticker": "KXCASE7D",
+  "strike_period": "",
+  "sub_title": "by August 1, 2022",
+  "title": "New COVID-19 case average by August 1, 2022?"
+}

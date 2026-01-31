@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "",
+  "event_ticker": "CNY-22DEC16",
+  "mutually_exclusive": false,
+  "series_ticker": "KXCNY",
+  "strike_period": "",
+  "sub_title": "On Dec 16, 2022",
+  "title": "USD/RMB exchange rate on Dec 16, 2022?"
+}

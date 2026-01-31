@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "NASDAQ100W-22OCT07",
+  "mutually_exclusive": true,
+  "series_ticker": "KXNASDAQ100",
+  "strike_period": "",
+  "sub_title": "On Oct 7, 2022",
+  "title": "Nasdaq range on Oct 7, 2022?"
+}

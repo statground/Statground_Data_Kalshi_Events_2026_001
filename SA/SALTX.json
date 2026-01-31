@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "",
+  "event_ticker": "SALTX",
+  "mutually_exclusive": false,
+  "series_ticker": "KXSALTX",
+  "strike_period": "",
+  "sub_title": "",
+  "title": "SALT deduction cap raised?"
+}

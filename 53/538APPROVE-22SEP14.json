@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "538APPROVE-22SEP14",
+  "mutually_exclusive": true,
+  "series_ticker": "KX538APPROVE",
+  "strike_period": "",
+  "sub_title": "On September 14, 2022 (lower range)",
+  "title": "Biden 538 approval rating on September 14, 2022 (lower range)?"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "",
+  "event_ticker": "WTAX",
+  "mutually_exclusive": false,
+  "series_ticker": "KXWTAX",
+  "strike_period": "",
+  "sub_title": "",
+  "title": "Wealth tax?"
+}

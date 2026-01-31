@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "NASDAQ100D-22DEC28",
+  "mutually_exclusive": true,
+  "series_ticker": "KXNASDAQ100",
+  "strike_date": "2022-12-28T21:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Dec 28, 2022",
+  "title": "Nasdaq range on Dec 28, 2022?"
+}

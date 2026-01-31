@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "HIGHNY-22SEP24",
+  "mutually_exclusive": true,
+  "series_ticker": "KXHIGHNY",
+  "strike_period": "",
+  "sub_title": "On Sep 24, 2022",
+  "title": "Highest temperature in NYC on Sep 24, 2022?"
+}

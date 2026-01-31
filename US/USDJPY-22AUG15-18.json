@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "USDJPY-22AUG15-18",
+  "mutually_exclusive": true,
+  "series_ticker": "KXUSDJPY",
+  "strike_period": "",
+  "sub_title": "6 PM EDT on August 15, 2022",
+  "title": "USD/JPY range on 6 PM EDT on August 15, 2022?"
+}

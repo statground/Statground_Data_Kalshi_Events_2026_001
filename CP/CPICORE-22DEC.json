@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "",
+  "event_ticker": "CPICORE-22DEC",
+  "mutually_exclusive": false,
+  "series_ticker": "KXCPICORE",
+  "strike_period": "December 2022",
+  "sub_title": "Dec 2022",
+  "title": "CPI core, Dec 2022?"
+}

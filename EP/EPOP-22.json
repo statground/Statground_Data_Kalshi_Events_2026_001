@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "",
+  "event_ticker": "EPOP-22",
+  "mutually_exclusive": false,
+  "series_ticker": "KXEPOP",
+  "strike_period": "December 2022",
+  "sub_title": "In 2022",
+  "title": "Employment-population ratio in 2022?"
+}

@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "EURUSD-23JAN0918",
+  "mutually_exclusive": true,
+  "series_ticker": "KXEURUSD",
+  "strike_date": "2023-01-09T23:00:00Z",
+  "strike_period": "",
+  "sub_title": "Jan 9, 2023 at 6pm EST",
+  "title": "EUR/USD range on Jan 9, 2023 at 6pm EST?"
+}

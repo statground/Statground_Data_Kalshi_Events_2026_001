@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "ACPI-22",
+  "mutually_exclusive": true,
+  "series_ticker": "KXACPI",
+  "strike_period": "2022",
+  "sub_title": "In 2022",
+  "title": "Inflation in 2022?"
+}

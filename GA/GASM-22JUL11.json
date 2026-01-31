@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "",
+  "event_ticker": "GASM-22JUL11",
+  "mutually_exclusive": false,
+  "series_ticker": "KXGAS-MONTH",
+  "strike_period": "",
+  "sub_title": "On Jul 11, 2022",
+  "title": "Gas monthly on Jul 11, 2022?"
+}

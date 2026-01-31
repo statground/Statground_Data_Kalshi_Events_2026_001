@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "",
+  "event_ticker": "GAS-22DEC26",
+  "mutually_exclusive": false,
+  "series_ticker": "KXGAS",
+  "strike_date": "2022-12-26T12:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Dec 26, 2022",
+  "title": "Gas weekly on Dec 26, 2022?"
+}

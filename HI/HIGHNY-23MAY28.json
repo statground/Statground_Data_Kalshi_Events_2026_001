@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "HIGHNY-23MAY28",
+  "mutually_exclusive": true,
+  "series_ticker": "KXHIGHNY",
+  "strike_date": "2023-05-29T03:59:00Z",
+  "strike_period": "",
+  "sub_title": "On May 28, 2023",
+  "title": "Highest temperature in NYC on May 28, 2023?"
+}

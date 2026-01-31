@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "",
+  "event_ticker": "NGAS-22JUL11",
+  "mutually_exclusive": false,
+  "series_ticker": "KXNGAS",
+  "strike_period": "",
+  "sub_title": "Between June 7-July 11, 2022",
+  "title": "Natural gas price max and min monthly between June 7-July 11, 2022?"
+}

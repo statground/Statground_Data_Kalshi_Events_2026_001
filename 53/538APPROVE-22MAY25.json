@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "538APPROVE-22MAY25",
+  "mutually_exclusive": true,
+  "series_ticker": "KX538APPROVE",
+  "strike_period": "",
+  "sub_title": "On May 25, 2022",
+  "title": "Biden 538 approval rating on May 25, 2022?"
+}

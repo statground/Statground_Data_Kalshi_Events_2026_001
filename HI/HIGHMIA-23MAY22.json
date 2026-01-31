@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "HIGHMIA-23MAY22",
+  "mutually_exclusive": true,
+  "series_ticker": "KXHIGHMIA",
+  "strike_date": "2023-05-23T04:29:00Z",
+  "strike_period": "",
+  "sub_title": "On May 22, 2023",
+  "title": "Highest temperature in Miami on May 22, 2023?"
+}

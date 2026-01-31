@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Transportation",
+  "collateral_return_type": "",
+  "event_ticker": "TSAW-23MAY14",
+  "mutually_exclusive": false,
+  "series_ticker": "KXTSAW",
+  "strike_period": "May 8 to 14, 2023",
+  "sub_title": "May 8 to 14, 2023",
+  "title": "TSA check-ins from May 8 to 14, 2023?"
+}

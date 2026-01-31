@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "HIGHCHI-23JAN25",
+  "mutually_exclusive": true,
+  "series_ticker": "KXHIGHCHI",
+  "strike_date": "2023-01-26T04:59:00Z",
+  "strike_period": "",
+  "sub_title": "On Jan 25, 2023",
+  "title": "Highest temperature in Chicago on Jan 25, 2023?"
+}

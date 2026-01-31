@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Health",
+  "collateral_return_type": "",
+  "event_ticker": "CASEM-22FEB01",
+  "mutually_exclusive": false,
+  "series_ticker": "KXCASEM",
+  "strike_period": "",
+  "sub_title": "Before Feb 1, 2022",
+  "title": "COVID daily case max before Feb 1, 2022?"
+}

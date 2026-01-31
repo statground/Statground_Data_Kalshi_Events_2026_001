@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "WTI-22OCT06",
+  "mutually_exclusive": true,
+  "series_ticker": "KXWTI",
+  "strike_period": "",
+  "sub_title": "On Oct 6, 2022",
+  "title": "WTI oil range on Oct 6, 2022?"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "",
+  "event_ticker": "FEDCONF",
+  "mutually_exclusive": false,
+  "series_ticker": "KXFEDCONF",
+  "strike_period": "",
+  "sub_title": "By February 28, 2022",
+  "title": "Powell confirmation by February 28, 2022?"
+}

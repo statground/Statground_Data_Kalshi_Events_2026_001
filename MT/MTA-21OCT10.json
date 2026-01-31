@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Transportation",
+  "collateral_return_type": "",
+  "event_ticker": "MTA-21OCT10",
+  "mutually_exclusive": false,
+  "series_ticker": "KXMTA",
+  "strike_period": "",
+  "sub_title": "From Oct 4-Oct 10, 2021",
+  "title": "NYC subway riders from Oct 4-Oct 10, 2021?"
+}

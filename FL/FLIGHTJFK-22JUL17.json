@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Transportation",
+  "collateral_return_type": "",
+  "event_ticker": "FLIGHTJFK-22JUL17",
+  "mutually_exclusive": false,
+  "series_ticker": "KXFLIGHTJFK",
+  "strike_period": "",
+  "sub_title": "On July 17, 2022",
+  "title": "JFK International Airport total flight delays and cancellations on July 17, 2022?"
+}

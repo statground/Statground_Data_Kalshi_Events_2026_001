@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "INXD-22DEC21",
+  "mutually_exclusive": true,
+  "series_ticker": "KXINX",
+  "strike_date": "2022-12-21T21:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Dec 21, 2022",
+  "title": "S&P 500 range on Dec 21, 2022?"
+}

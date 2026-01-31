@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "",
+  "event_ticker": "APRPOTUS-21DEC23",
+  "mutually_exclusive": false,
+  "series_ticker": "KXAPRPOTUS",
+  "strike_period": "",
+  "sub_title": "On Dec 23, 2021",
+  "title": "Biden RCP approval rating on Dec 23, 2021?"
+}

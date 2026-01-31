@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Health",
+  "collateral_return_type": "",
+  "event_ticker": "VAXX-22JAN03",
+  "mutually_exclusive": false,
+  "series_ticker": "KXVAXX",
+  "strike_period": "",
+  "sub_title": "By Jan 3, 2022",
+  "title": "COVID vaccinations by Jan 3, 2022?"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Health",
+  "collateral_return_type": "",
+  "event_ticker": "CASE7DFL-21DEC31",
+  "mutually_exclusive": false,
+  "series_ticker": "KXCASE7DFL",
+  "strike_period": "",
+  "sub_title": "By Dec 31, 2022",
+  "title": "Florida COVID daily case avg by Dec 31, 2022?"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Transportation",
+  "collateral_return_type": "",
+  "event_ticker": "FLIGHTLAX-22JUL25",
+  "mutually_exclusive": false,
+  "series_ticker": "KXFLIGHTLAX",
+  "strike_period": "",
+  "sub_title": "On July 25, 2022",
+  "title": "Los Angeles International Airport total delays and cancellations on July 25, 2022?"
+}

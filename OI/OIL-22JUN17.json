@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "",
+  "event_ticker": "OIL-22JUN17",
+  "mutually_exclusive": false,
+  "series_ticker": "KXOILW",
+  "strike_period": "",
+  "sub_title": "From Jun 14-17, 2022",
+  "title": "Price of oil weekly from Jun 14-17, 2022?"
+}

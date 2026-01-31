@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Transportation",
+  "collateral_return_type": "",
+  "event_ticker": "FLIGHTORD-22JUL26",
+  "mutually_exclusive": false,
+  "series_ticker": "KXFLIGHTORD",
+  "strike_period": "",
+  "sub_title": "On July 26, 2022",
+  "title": "O'Hare International Airport total delays and cancellations on July 26, 2022?"
+}

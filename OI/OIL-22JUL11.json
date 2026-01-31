@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "",
+  "event_ticker": "OIL-22JUL11",
+  "mutually_exclusive": false,
+  "series_ticker": "KXOIL",
+  "strike_period": "",
+  "sub_title": "From Jun 07-July 11, 2022",
+  "title": "Price of oil monthly from Jun 07-July 11, 2022?"
+}

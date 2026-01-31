@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "",
+  "event_ticker": "RAINNYC-21DEC08",
+  "mutually_exclusive": false,
+  "series_ticker": "KXRAINNYC",
+  "strike_period": "",
+  "sub_title": "On Dec 8, 2021",
+  "title": "NYC rain on Dec 8, 2021?"
+}

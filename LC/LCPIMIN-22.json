@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "",
+  "event_ticker": "LCPIMIN-22",
+  "mutually_exclusive": false,
+  "series_ticker": "KXLCPIMIN",
+  "strike_period": "",
+  "sub_title": "In any month in 2022",
+  "title": "High inflation ends in any month in 2022?"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "",
+  "event_ticker": "FED-22SEP",
+  "mutually_exclusive": false,
+  "series_ticker": "KXFED",
+  "strike_period": "",
+  "sub_title": "In Sep 2022 meeting",
+  "title": "Fed funds rate in Sep 2022 meeting?"
+}

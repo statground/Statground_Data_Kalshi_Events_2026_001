@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "",
+  "event_ticker": "PCECORE-22DEC",
+  "mutually_exclusive": false,
+  "series_ticker": "KXPCECORE",
+  "strike_period": "December 2022",
+  "sub_title": "In Dec 2022",
+  "title": "US Core PCE inflation in Dec 2022?"
+}

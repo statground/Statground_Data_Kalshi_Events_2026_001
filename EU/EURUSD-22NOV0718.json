@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "EURUSD-22NOV0718",
+  "mutually_exclusive": true,
+  "series_ticker": "KXEURUSD",
+  "strike_period": "",
+  "sub_title": "Nov 7, 2022 at 6pm EST",
+  "title": "EUR/USD range on Nov 7, 2022 at 6pm EST?"
+}

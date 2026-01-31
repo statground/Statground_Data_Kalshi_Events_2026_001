@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "",
+  "event_ticker": "USDJPYH-23FEB2811",
+  "mutually_exclusive": false,
+  "series_ticker": "KXUSDJPYH",
+  "strike_date": "2023-02-28T16:00:00Z",
+  "strike_period": "",
+  "sub_title": "Feb 28, 2023 at 11am EST",
+  "title": "USD/JPY daily over/under, Feb 28, 2023 at 11am EST?"
+}

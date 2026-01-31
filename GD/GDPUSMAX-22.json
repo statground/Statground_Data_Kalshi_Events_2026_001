@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "",
+  "event_ticker": "GDPUSMAX-22",
+  "mutually_exclusive": false,
+  "series_ticker": "KXGDPUSMAX",
+  "strike_period": "2022",
+  "sub_title": "In any quarter in 2022",
+  "title": "US GDP peak  in any quarter in 2022?"
+}

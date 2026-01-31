@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "NASDAQ100D-23APR27",
+  "mutually_exclusive": true,
+  "series_ticker": "KXNASDAQ100",
+  "strike_date": "2023-04-27T20:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Apr 27, 2023",
+  "title": "Nasdaq range on Apr 27, 2023?"
+}

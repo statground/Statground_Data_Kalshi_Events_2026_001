@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Transportation",
+  "collateral_return_type": "",
+  "event_ticker": "FLIGHTLAX-22AUG29",
+  "mutually_exclusive": false,
+  "series_ticker": "KXFLIGHTLAX",
+  "strike_period": "",
+  "sub_title": "On August 29, 2022",
+  "title": "Los Angeles International Airport total delays and cancellations on August 29, 2022?"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "WTI-22SEP19",
+  "mutually_exclusive": true,
+  "series_ticker": "KXWTI",
+  "strike_period": "",
+  "sub_title": "On September 19, 2022",
+  "title": "WTI oil range on September 19, 2022?"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "",
+  "event_ticker": "EURUSD-22DEC2916",
+  "mutually_exclusive": false,
+  "series_ticker": "KXEURUSDEOY",
+  "strike_period": "",
+  "sub_title": "At year end",
+  "title": "Euro > Dollar at year end?"
+}

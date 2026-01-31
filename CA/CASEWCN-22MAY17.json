@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Health",
+  "collateral_return_type": "",
+  "event_ticker": "CASEWCN-22MAY17",
+  "mutually_exclusive": false,
+  "series_ticker": "KXCASEWCN",
+  "strike_period": "",
+  "sub_title": "From May 11-17, 2022",
+  "title": "COVID-19 case average in China from May 11-17, 2022?"
+}

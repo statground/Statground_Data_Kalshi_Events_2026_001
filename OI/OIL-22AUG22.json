@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "",
+  "event_ticker": "OIL-22AUG22",
+  "mutually_exclusive": false,
+  "series_ticker": "KXOILW",
+  "strike_period": "",
+  "sub_title": "From Aug 16-22, 2022",
+  "title": "Price of oil weekly from Aug 16-22, 2022?"
+}

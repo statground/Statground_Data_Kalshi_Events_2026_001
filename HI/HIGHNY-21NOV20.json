@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "",
+  "event_ticker": "HIGHNY-21NOV20",
+  "mutually_exclusive": false,
+  "series_ticker": "KXHIGHNY",
+  "strike_period": "",
+  "sub_title": "On Nov 20, 2021",
+  "title": "Highest temperature in NYC on Nov 20, 2021?"
+}

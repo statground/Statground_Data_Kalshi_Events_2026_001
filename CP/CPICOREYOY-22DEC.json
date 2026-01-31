@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "",
+  "event_ticker": "CPICOREYOY-22DEC",
+  "mutually_exclusive": false,
+  "series_ticker": "KXCPICOREYOY",
+  "strike_period": "December 2022",
+  "sub_title": "December 2022",
+  "title": "Core inflation, December 2022?"
+}

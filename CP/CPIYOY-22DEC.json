@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "",
+  "event_ticker": "CPIYOY-22DEC",
+  "mutually_exclusive": false,
+  "series_ticker": "KXCPIYOY",
+  "strike_period": "December 2023",
+  "sub_title": "December 2022",
+  "title": "Inflation, December 2022?"
+}

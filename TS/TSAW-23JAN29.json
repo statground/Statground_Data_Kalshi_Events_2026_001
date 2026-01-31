@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Transportation",
+  "collateral_return_type": "",
+  "event_ticker": "TSAW-23JAN29",
+  "mutually_exclusive": false,
+  "series_ticker": "KXTSAW",
+  "strike_period": "Jan 23 to 29, 2023",
+  "sub_title": "Jan 23 to 29, 2023",
+  "title": "TSA check-ins from Jan 23 to 29, 2023?"
+}

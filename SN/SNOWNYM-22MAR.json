@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "",
+  "event_ticker": "SNOWNYM-22MAR",
+  "mutually_exclusive": false,
+  "series_ticker": "KXSNOWNYM",
+  "strike_period": "",
+  "sub_title": "In Mar 2022",
+  "title": "Total snow in NYC in Mar 2022?"
+}

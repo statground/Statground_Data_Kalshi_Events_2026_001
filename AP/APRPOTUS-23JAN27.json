@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "APRPOTUS-23JAN27",
+  "mutually_exclusive": true,
+  "series_ticker": "KXAPRPOTUS",
+  "strike_date": "2023-01-27T16:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Jan 27, 2023",
+  "title": "Biden RCP approval rating on Jan 27, 2023?"
+}

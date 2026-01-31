@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "APRPOTUS-22DEC16",
+  "mutually_exclusive": true,
+  "series_ticker": "KXAPRPOTUS",
+  "strike_period": "",
+  "sub_title": "On Dec 16, 2022",
+  "title": "Biden RCP approval rating on Dec 16, 2022?"
+}

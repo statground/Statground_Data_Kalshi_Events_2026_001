@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "",
+  "event_ticker": "GAS-23JAN02",
+  "mutually_exclusive": false,
+  "series_ticker": "KXGAS",
+  "strike_period": "2023-01-02T15:00:00.000Z",
+  "sub_title": "On Jan 02, 2023",
+  "title": "Gas weekly on Jan 02, 2023?"
+}

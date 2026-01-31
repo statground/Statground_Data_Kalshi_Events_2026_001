@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "GBP-22MAY02",
+  "mutually_exclusive": true,
+  "series_ticker": "KXGBP",
+  "strike_period": "",
+  "sub_title": "On May 02, 2022",
+  "title": "British Pound/US Dollar exchange rate  on May 02, 2022?"
+}

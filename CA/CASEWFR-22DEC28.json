@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Health",
+  "collateral_return_type": "",
+  "event_ticker": "CASEWFR-22DEC28",
+  "mutually_exclusive": false,
+  "series_ticker": "KXCASEWFR",
+  "strike_period": "",
+  "sub_title": "From Dec 22-28, 2021",
+  "title": "France COVID case average from Dec 22-28, 2021?"
+}

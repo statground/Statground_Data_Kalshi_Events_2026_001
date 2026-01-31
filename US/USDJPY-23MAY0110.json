@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "USDJPY-23MAY0110",
+  "mutually_exclusive": true,
+  "series_ticker": "KXUSDJPY",
+  "strike_date": "2023-05-01T14:00:00Z",
+  "strike_period": "",
+  "sub_title": "May 1, 2023 at 10am EDT",
+  "title": "USD/JPY range on May 1, 2023 at 10am EDT?"
+}

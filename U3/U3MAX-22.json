@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "",
+  "event_ticker": "U3MAX-22",
+  "mutually_exclusive": false,
+  "series_ticker": "KXU3MAX",
+  "strike_period": "2022",
+  "sub_title": "In any month in 2022",
+  "title": "Unemployment spike in any month in 2022?"
+}

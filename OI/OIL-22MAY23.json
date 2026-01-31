@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "",
+  "event_ticker": "OIL-22MAY23",
+  "mutually_exclusive": false,
+  "series_ticker": "KXOIL",
+  "strike_period": "",
+  "sub_title": "From May 17-23, 2022",
+  "title": "Price of oil monthly from May 17-23, 2022?"
+}
