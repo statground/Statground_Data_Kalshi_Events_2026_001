@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNHLFIRSTGOAL-25DEC20CBJANA",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "NHL",
+    "competition_scope": "1st Goalscorer"
+  },
+  "series_ticker": "KXNHLFIRSTGOAL",
+  "strike_period": "",
+  "sub_title": "CBJ at ANA (Dec 20)",
+  "title": "CBJ Blue Jackets at ANA Ducks: First Goal"
+}

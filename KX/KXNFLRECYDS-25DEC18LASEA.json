@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNFLRECYDS-25DEC18LASEA",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Football",
+    "competition_scope": "Receiving Yards"
+  },
+  "series_ticker": "KXNFLRECYDS",
+  "strike_period": "",
+  "sub_title": "LA at SEA (Dec 18)",
+  "title": "Los Angeles R at Seattle: Receiving Yards"
+}

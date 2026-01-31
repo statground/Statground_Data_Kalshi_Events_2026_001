@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNFLPASSTDS-25DEC20PHIWAS",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Football",
+    "competition_scope": "Passing Touchdowns"
+  },
+  "series_ticker": "KXNFLPASSTDS",
+  "strike_period": "",
+  "sub_title": "PHI at WAS (Dec 20)",
+  "title": "Philadelphia at Washington: Passing Touchdowns Scorer"
+}

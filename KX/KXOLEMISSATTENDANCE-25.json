@@ -1,0 +1,14 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXOLEMISSATTENDANCE-25",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "College Football"
+  },
+  "series_ticker": "KXOLEMISSATTENDANCE",
+  "strike_period": "",
+  "sub_title": "Ole Miss",
+  "title": "Will Ole Miss Football Break their Attendance Record (68,138) during the Ole Miss vs Tulane Football Game"
+}

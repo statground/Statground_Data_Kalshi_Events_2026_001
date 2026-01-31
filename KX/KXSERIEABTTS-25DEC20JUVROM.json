@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXSERIEABTTS-25DEC20JUVROM",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Serie A",
+    "competition_scope": "BTTS"
+  },
+  "series_ticker": "KXSERIEABTTS",
+  "strike_period": "",
+  "sub_title": "ROM at JUV (Dec 20)",
+  "title": "Roma at Juventus: Both Teams to Score"
+}

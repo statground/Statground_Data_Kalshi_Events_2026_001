@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXSWISSLEAGUEGAME-25DEC20SIOWIN",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Swiss Super League",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXSWISSLEAGUEGAME",
+  "strike_period": "",
+  "sub_title": "SIO vs WIN (Dec 20)",
+  "title": "Sion vs Winterthur"
+}

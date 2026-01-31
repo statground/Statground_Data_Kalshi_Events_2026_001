@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "",
+  "event_ticker": "KXHOWARDSTERNANNOUNCEMENT-25DEC16",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Basketball",
+    "competition_scope": "Event"
+  },
+  "series_ticker": "KXHOWARDSTERNANNOUNCEMENT",
+  "strike_period": "",
+  "sub_title": "Dec 16, 2025",
+  "title": "Will Howard Stern announce his retirement?"
+}

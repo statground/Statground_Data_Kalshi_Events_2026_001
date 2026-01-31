@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXSUPERLIGGAME-25DEC21GOZSAM",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Super Lig",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXSUPERLIGGAME",
+  "strike_period": "",
+  "sub_title": "GOZ vs SAM (Dec 21)",
+  "title": "Goztepe Izmir vs Samsunspor"
+}

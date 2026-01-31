@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNBLGAME-25DEC20A36ILLA",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "NBL Australia",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXNBLGAME",
+  "strike_period": "",
+  "sub_title": "A36 at ILLA (Dec 20)",
+  "title": "Illawarra Hawks vs Adelaide 36ers"
+}

@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXHNLGAME-25DEC20OSISLA",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Croatia HNL",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXHNLGAME",
+  "strike_period": "",
+  "sub_title": "OSI vs SLA (Dec 20)",
+  "title": "Osijek vs Slaven Belupo"
+}

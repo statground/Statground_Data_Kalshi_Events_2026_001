@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "World",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCBDECISIONCHINA-25DEC22",
+  "mutually_exclusive": true,
+  "series_ticker": "KXCBDECISIONCHINA",
+  "strike_period": "",
+  "sub_title": "Dec 22, 2025 meeting",
+  "title": "What will the People's Bank of China do at the Dec 2025 PBOC meeting?"
+}

@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNFLPREPACKSGP-25DEC21PITDET",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Pro Football",
+    "competition_scope": "Combo"
+  },
+  "series_ticker": "KXNFLPREPACKSGP",
+  "strike_period": "",
+  "sub_title": "Pittsburgh at Detroit",
+  "title": "Pro Football Combo: Pittsburgh at Detroit"
+}

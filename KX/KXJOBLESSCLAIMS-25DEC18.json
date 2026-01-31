@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXJOBLESSCLAIMS-25DEC18",
+  "mutually_exclusive": false,
+  "series_ticker": "KXJOBLESSCLAIMS",
+  "strike_period": "",
+  "sub_title": "For the week ending Dec 13, 2025",
+  "title": "Jobless claims for the week ending Dec 13, 2025?"
+}

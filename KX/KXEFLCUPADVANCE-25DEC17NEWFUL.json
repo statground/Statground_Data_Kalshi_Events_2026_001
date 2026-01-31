@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXEFLCUPADVANCE-25DEC17NEWFUL",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "EFL Cup",
+    "competition_scope": "To Advance"
+  },
+  "series_ticker": "KXEFLCUPADVANCE",
+  "strike_period": "",
+  "sub_title": "NEW vs FUL (Dec 17)",
+  "title": "Newcastle vs Fulham: To Advance"
+}

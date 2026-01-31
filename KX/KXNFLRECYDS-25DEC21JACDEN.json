@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNFLRECYDS-25DEC21JACDEN",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Football",
+    "competition_scope": "Receiving Yards"
+  },
+  "series_ticker": "KXNFLRECYDS",
+  "strike_period": "",
+  "sub_title": "JAC at DEN (Dec 21)",
+  "title": "Jacksonville at Denver: Receiving Yards"
+}

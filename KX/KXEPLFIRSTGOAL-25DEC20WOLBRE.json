@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXEPLFIRSTGOAL-25DEC20WOLBRE",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "EPL",
+    "competition_scope": "1st Goalscorer"
+  },
+  "series_ticker": "KXEPLFIRSTGOAL",
+  "strike_period": "",
+  "sub_title": "BRE at WOL (Dec 20)",
+  "title": "Brentford at Wolverhampton: First Goalscorer"
+}

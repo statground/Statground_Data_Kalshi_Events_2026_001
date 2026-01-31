@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNCAAFPREPACK3ML-25DEC20TXAMMIAOREJMUMISSTULN",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "College Football Playoffs",
+    "competition_scope": "Combo"
+  },
+  "series_ticker": "KXNCAAFPREPACK3ML",
+  "strike_period": "",
+  "sub_title": "Miami (FL) at Texas A&M, James Madison at Oregon, Tulane at Ole Miss",
+  "title": "College Football 3-leg Combo: Miami (FL) at Texas A&M, James Madison at Oregon, Tulane at Ole Miss"
+}

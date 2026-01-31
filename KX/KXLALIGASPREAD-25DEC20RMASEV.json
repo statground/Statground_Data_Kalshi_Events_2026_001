@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXLALIGASPREAD-25DEC20RMASEV",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "La Liga",
+    "competition_scope": "Spread"
+  },
+  "series_ticker": "KXLALIGASPREAD",
+  "strike_period": "",
+  "sub_title": "SEV at RMA (Dec 20)",
+  "title": "Sevilla at Real Madrid: Spreads"
+}

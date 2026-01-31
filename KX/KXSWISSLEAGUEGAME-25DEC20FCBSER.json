@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXSWISSLEAGUEGAME-25DEC20FCBSER",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Swiss Super League",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXSWISSLEAGUEGAME",
+  "strike_period": "",
+  "sub_title": "FCB vs SER (Dec 20)",
+  "title": "Basel vs Servette Geneva"
+}

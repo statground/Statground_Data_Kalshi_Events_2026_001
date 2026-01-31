@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNBA3PT-25DEC20LALLAC",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Basketball (M)",
+    "competition_scope": "Player Threes"
+  },
+  "series_ticker": "KXNBA3PT",
+  "strike_period": "",
+  "sub_title": "LAL at LAC (Dec 20)",
+  "title": "Los Angeles L at Los Angeles C: Three Pointers"
+}

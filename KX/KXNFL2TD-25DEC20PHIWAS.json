@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNFL2TD-25DEC20PHIWAS",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Football",
+    "competition_scope": "2+ TDs"
+  },
+  "series_ticker": "KXNFL2TD",
+  "strike_period": "",
+  "sub_title": "PHI at WAS (Dec 20)",
+  "title": "Philadelphia at Washington: Two or More Touchdowns Scorer"
+}

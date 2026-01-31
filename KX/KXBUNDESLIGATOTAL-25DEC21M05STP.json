@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXBUNDESLIGATOTAL-25DEC21M05STP",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Bundesliga",
+    "competition_scope": "Point Total"
+  },
+  "series_ticker": "KXBUNDESLIGATOTAL",
+  "strike_period": "",
+  "sub_title": "STP at M05 (Dec 21)",
+  "title": "St. Pauli at Mainz: Totals"
+}

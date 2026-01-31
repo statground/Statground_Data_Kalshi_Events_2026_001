@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXLIGAPORTUGALGAME-25DEC19ESTBRA",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Liga Portugal",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXLIGAPORTUGALGAME",
+  "strike_period": "",
+  "sub_title": "EST vs BRA (Dec 19)",
+  "title": "Estoril vs Braga"
+}

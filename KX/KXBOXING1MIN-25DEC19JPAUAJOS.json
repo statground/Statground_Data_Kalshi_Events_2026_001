@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXBOXING1MIN-25DEC19JPAUAJOS",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Boxing",
+    "competition_scope": "Total Rounds"
+  },
+  "series_ticker": "KXBOXING1MIN",
+  "strike_period": "",
+  "sub_title": "Jake Paul vs Anthony Joshua (Dec 19)",
+  "title": "Jake Paul vs. Anthony Joshua: First Minute Finish"
+}

@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXBOXING-25DEC20ATATCDEM",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Boxing",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXBOXING",
+  "strike_period": "",
+  "sub_title": "Andrew Tate vs. Chase DeMoor (Dec 20)",
+  "title": "Andrew Tate vs. Chase DeMoor"
+}

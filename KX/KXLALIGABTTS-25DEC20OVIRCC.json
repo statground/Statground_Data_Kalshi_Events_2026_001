@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXLALIGABTTS-25DEC20OVIRCC",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "La Liga",
+    "competition_scope": "BTTS"
+  },
+  "series_ticker": "KXLALIGABTTS",
+  "strike_period": "",
+  "sub_title": "RCC at OVI (Dec 20)",
+  "title": "Celta Vigo at Oviedo: Both Teams to Score"
+}

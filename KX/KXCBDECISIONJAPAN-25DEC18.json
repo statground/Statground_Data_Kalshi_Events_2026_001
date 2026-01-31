@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "World",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCBDECISIONJAPAN-25DEC18",
+  "mutually_exclusive": true,
+  "series_ticker": "KXCBDECISIONJAPAN",
+  "strike_period": "",
+  "sub_title": "Dec 18, 2025 meeting",
+  "title": "What will the Bank of Japan do at the Dec 2025 BOJ meeting?"
+}

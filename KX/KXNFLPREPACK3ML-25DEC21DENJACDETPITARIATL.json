@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNFLPREPACK3ML-25DEC21DENJACDETPITARIATL",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Pro Football",
+    "competition_scope": "Combo"
+  },
+  "series_ticker": "KXNFLPREPACK3ML",
+  "strike_period": "",
+  "sub_title": "Jacksonville at Denver, Pittsburgh at Detroit, Atlanta at Arizona",
+  "title": "Pro Football 3-leg Combo: Jacksonville at Denver, Pittsburgh at Detroit, Atlanta at Arizona"
+}

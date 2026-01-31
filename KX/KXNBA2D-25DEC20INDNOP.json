@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNBA2D-25DEC20INDNOP",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Basketball (M)",
+    "competition_scope": "Double Double"
+  },
+  "series_ticker": "KXNBA2D",
+  "strike_period": "",
+  "sub_title": "IND at NOP (Dec 20)",
+  "title": "Indiana at New Orleans: Double Doubles"
+}

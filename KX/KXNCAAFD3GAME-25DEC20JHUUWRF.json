@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNCAAFD3GAME-25DEC20JHUUWRF",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "College Football",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXNCAAFD3GAME",
+  "strike_period": "",
+  "sub_title": "JHU at UWRF (Dec 20)",
+  "title": "UW-River Falls vs Johns Hopkins"
+}

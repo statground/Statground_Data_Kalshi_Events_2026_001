@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNFLREC-25DEC21NEBAL",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Football",
+    "competition_scope": "Receptions"
+  },
+  "series_ticker": "KXNFLREC",
+  "strike_period": "",
+  "sub_title": "NE at BAL (Dec 21)",
+  "title": "New England at Baltimore: Receptions"
+}

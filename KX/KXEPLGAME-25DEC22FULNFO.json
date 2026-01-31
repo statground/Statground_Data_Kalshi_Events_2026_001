@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXEPLGAME-25DEC22FULNFO",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "EPL",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXEPLGAME",
+  "strike_period": "",
+  "sub_title": "FUL vs NFO (Dec 22)",
+  "title": "Fulham vs Nottingham"
+}

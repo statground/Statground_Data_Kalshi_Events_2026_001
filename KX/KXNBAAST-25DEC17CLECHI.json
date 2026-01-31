@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNBAAST-25DEC17CLECHI",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Basketball (M)",
+    "competition_scope": "Player Assists"
+  },
+  "series_ticker": "KXNBAAST",
+  "strike_period": "",
+  "sub_title": "CLE at CHI (Dec 17)",
+  "title": "Cleveland at Chicago: Assists"
+}

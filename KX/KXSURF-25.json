@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXSURF-25",
+  "mutually_exclusive": true,
+  "series_ticker": "KXSURF",
+  "strike_period": "",
+  "sub_title": "Florence Pipe Pro 2025 Womens",
+  "title": "Florence Pipe Pro Womens Winner"
+}

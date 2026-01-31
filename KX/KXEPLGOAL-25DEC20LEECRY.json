@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXEPLGOAL-25DEC20LEECRY",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "EPL",
+    "competition_scope": "Goalscorer"
+  },
+  "series_ticker": "KXEPLGOAL",
+  "strike_period": "",
+  "sub_title": "CRY at LEE (Dec 20)",
+  "title": "Crystal Palace at Leeds United: Anytime Goalscorer"
+}

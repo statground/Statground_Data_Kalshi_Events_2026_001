@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCBAGAME-25DEC20BRFSHA",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Chinese Basketball Association",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXCBAGAME",
+  "strike_period": "",
+  "sub_title": "BRF at SHA (Dec 20)",
+  "title": "Shandong Kirin vs Beijing Royal Fighters"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Climate and Weather",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXHIGHLAX-25DEC19",
+  "mutually_exclusive": true,
+  "series_ticker": "KXHIGHLAX",
+  "strike_period": "",
+  "sub_title": "On Dec 19, 2025",
+  "title": "Highest temperature in LA on Dec 19, 2025?"
+}

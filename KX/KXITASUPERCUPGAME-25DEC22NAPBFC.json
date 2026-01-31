@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXITASUPERCUPGAME-25DEC22NAPBFC",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Italian Super Cup",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXITASUPERCUPGAME",
+  "strike_period": "",
+  "sub_title": "NAP vs BFC (Dec 22)",
+  "title": "Napoli vs Bologna"
+}

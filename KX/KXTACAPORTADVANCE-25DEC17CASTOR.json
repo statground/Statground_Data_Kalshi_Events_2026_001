@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXTACAPORTADVANCE-25DEC17CASTOR",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Taca de Portugal",
+    "competition_scope": "To Advance"
+  },
+  "series_ticker": "KXTACAPORTADVANCE",
+  "strike_period": "",
+  "sub_title": "CAS vs TOR (Dec 17)",
+  "title": "Casa Pia vs Torreense: To Advance"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "World",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCBDECISIONMEXICO-25DEC18",
+  "mutually_exclusive": true,
+  "series_ticker": "KXCBDECISIONMEXICO",
+  "strike_period": "",
+  "sub_title": "Dec 18, 2025 meeting",
+  "title": "What will the Bank of Mexico do at the Dec 2025 BdeM meeting?"
+}

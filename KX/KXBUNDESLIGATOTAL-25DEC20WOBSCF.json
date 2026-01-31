@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXBUNDESLIGATOTAL-25DEC20WOBSCF",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Bundesliga",
+    "competition_scope": "Point Total"
+  },
+  "series_ticker": "KXBUNDESLIGATOTAL",
+  "strike_period": "",
+  "sub_title": "SCF at WOB (Dec 20)",
+  "title": "Freiburg at Wolfsburg: Totals"
+}

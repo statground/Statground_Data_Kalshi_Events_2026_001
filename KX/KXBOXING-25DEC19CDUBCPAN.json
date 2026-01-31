@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXBOXING-25DEC19CDUBCPAN",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Boxing",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXBOXING",
+  "strike_period": "",
+  "sub_title": "Caroline Dubois vs. Camilla Panatta (Dec 19)",
+  "title": "Caroline Dubois vs. Camilla Panatta"
+}

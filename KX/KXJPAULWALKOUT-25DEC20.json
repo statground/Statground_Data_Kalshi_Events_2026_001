@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Entertainment",
+  "collateral_return_type": "",
+  "event_ticker": "KXJPAULWALKOUT-25DEC20",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Boxing",
+    "competition_scope": "Walkout Song"
+  },
+  "series_ticker": "KXJPAULWALKOUT",
+  "strike_period": "",
+  "sub_title": "Jake Paul vs. Anthony Joshua",
+  "title": "Jake Paul walkout song at Jake Paul vs. Anthony Joshua"
+}

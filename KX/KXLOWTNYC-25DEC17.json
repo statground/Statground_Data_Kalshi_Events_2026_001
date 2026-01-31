@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXLOWTNYC-25DEC17",
+  "mutually_exclusive": true,
+  "series_ticker": "KXLOWTNYC",
+  "strike_date": "2025-12-18T10:58:17Z",
+  "strike_period": "",
+  "sub_title": "On Dec 17, 2025",
+  "title": "Lowest temperature in New York City on Dec 17, 2025?"
+}

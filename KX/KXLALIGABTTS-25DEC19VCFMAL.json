@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXLALIGABTTS-25DEC19VCFMAL",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "La Liga",
+    "competition_scope": "BTTS"
+  },
+  "series_ticker": "KXLALIGABTTS",
+  "strike_period": "",
+  "sub_title": "MAL at VCF (Dec 19)",
+  "title": "Mallorca at Valencia: Both Teams to Score"
+}

@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXATPNEXTGEN-25",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Next Gen ATP Finals Men Singles",
+    "competition_scope": "Future"
+  },
+  "series_ticker": "KXATPNEXTGEN",
+  "strike_period": "",
+  "sub_title": "2025",
+  "title": "Next Gen ATP Finals Winner"
+}

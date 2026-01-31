@@ -1,0 +1,14 @@
+{
+  "available_on_brokers": false,
+  "category": "Social",
+  "collateral_return_type": "",
+  "event_ticker": "KXPMKICKINGCONTEST-25-7",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "College Football"
+  },
+  "series_ticker": "KXPMKICKINGCONTEST",
+  "strike_period": "",
+  "sub_title": "On Dec 19, 2025",
+  "title": "Will the Participant Successfully Make their First Field Goal Attempt in the Pat McAfee Kicking Contest on Dec 19, 2025"
+}

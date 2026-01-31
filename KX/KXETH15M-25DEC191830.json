@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Crypto",
+  "collateral_return_type": "",
+  "event_ticker": "KXETH15M-25DEC191830",
+  "mutually_exclusive": false,
+  "series_ticker": "KXETH15M",
+  "strike_date": "2025-12-19T23:30:00Z",
+  "strike_period": "",
+  "sub_title": "Dec 19 - 6:15PM EST to 6:30PM EST",
+  "title": "ETH Up or Down - 15 minutes"
+}

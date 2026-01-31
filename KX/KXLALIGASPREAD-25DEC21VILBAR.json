@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXLALIGASPREAD-25DEC21VILBAR",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "La Liga",
+    "competition_scope": "Spread"
+  },
+  "series_ticker": "KXLALIGASPREAD",
+  "strike_period": "",
+  "sub_title": "BAR at VIL (Dec 21)",
+  "title": "Barcelona at Villarreal: Spreads"
+}

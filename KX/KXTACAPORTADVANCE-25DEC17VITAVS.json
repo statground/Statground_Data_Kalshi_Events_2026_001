@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXTACAPORTADVANCE-25DEC17VITAVS",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Taca de Portugal",
+    "competition_scope": "To Advance"
+  },
+  "series_ticker": "KXTACAPORTADVANCE",
+  "strike_period": "",
+  "sub_title": "VIT vs AVS (Dec 17)",
+  "title": "Guimaraes vs AVS Futebol SAD: To Advance"
+}

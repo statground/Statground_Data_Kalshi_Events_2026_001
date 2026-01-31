@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXSERIEATOTAL-25DEC21SASTOR",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Serie A",
+    "competition_scope": "Point Total"
+  },
+  "series_ticker": "KXSERIEATOTAL",
+  "strike_period": "",
+  "sub_title": "TOR at SAS (Dec 21)",
+  "title": "Torino at Sassuolo: Totals"
+}

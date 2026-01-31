@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXDOTA2GAME-25DEC18WINVIK",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Dota 2",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXDOTA2GAME",
+  "strike_period": "",
+  "sub_title": "Win vs. Vikings",
+  "title": "Games of the Future 2025: Win vs. Vikings"
+}

@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXEPLSPREAD-25DEC20WOLBRE",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "EPL",
+    "competition_scope": "Spread"
+  },
+  "series_ticker": "KXEPLSPREAD",
+  "strike_period": "",
+  "sub_title": "BRE at WOL (Dec 20)",
+  "title": "Brentford at Wolverhampton: Spreads"
+}

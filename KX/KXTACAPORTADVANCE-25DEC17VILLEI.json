@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXTACAPORTADVANCE-25DEC17VILLEI",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Taca de Portugal",
+    "competition_scope": "To Advance"
+  },
+  "series_ticker": "KXTACAPORTADVANCE",
+  "strike_period": "",
+  "sub_title": "VIL vs LEI (Dec 17)",
+  "title": "Vila Mea vs Leiria: To Advance"
+}

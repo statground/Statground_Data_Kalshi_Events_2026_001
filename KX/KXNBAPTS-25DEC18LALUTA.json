@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNBAPTS-25DEC18LALUTA",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Basketball (M)",
+    "competition_scope": "Player Points"
+  },
+  "series_ticker": "KXNBAPTS",
+  "strike_period": "",
+  "sub_title": "LAL at UTA (Dec 18)",
+  "title": "Los Angeles L at Utah: Points"
+}

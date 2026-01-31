@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXLOWTPHIL-25DEC16",
+  "mutually_exclusive": true,
+  "series_ticker": "KXLOWTPHIL",
+  "strike_date": "2025-12-17T07:12:49.59963Z",
+  "strike_period": "",
+  "sub_title": "On Dec 16, 2025",
+  "title": "Lowest temperature in Philadelphia on Dec 16, 2025?"
+}

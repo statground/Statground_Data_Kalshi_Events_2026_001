@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNFLSPREAD-25DEC20PHIWAS",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Football",
+    "competition_scope": "Spread"
+  },
+  "series_ticker": "KXNFLSPREAD",
+  "strike_period": "",
+  "sub_title": "PHI at WAS (Dec 20)",
+  "title": "Philadelphia at Washington: Spread"
+}

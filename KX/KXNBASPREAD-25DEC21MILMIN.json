@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNBASPREAD-25DEC21MILMIN",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Basketball (M)",
+    "competition_scope": "Spread"
+  },
+  "series_ticker": "KXNBASPREAD",
+  "strike_period": "",
+  "sub_title": "MIL at MIN (Dec 21)",
+  "title": "Milwaukee at Minnesota: Spread"
+}

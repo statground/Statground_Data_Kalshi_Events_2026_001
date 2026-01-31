@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNFLANYTD-25DEC21ATLARI",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Football",
+    "competition_scope": "Anytime TD"
+  },
+  "series_ticker": "KXNFLANYTD",
+  "strike_period": "",
+  "sub_title": "ATL at ARI (Dec 21)",
+  "title": "Atlanta at Arizona: Anytime Touchdown Scorer"
+}

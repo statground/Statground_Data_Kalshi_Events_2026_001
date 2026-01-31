@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXBUNDESLIGASPREAD-25DEC19BVBBMG",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Bundesliga",
+    "competition_scope": "Spread"
+  },
+  "series_ticker": "KXBUNDESLIGASPREAD",
+  "strike_period": "",
+  "sub_title": "BMG at BVB (Dec 19)",
+  "title": "M´gladbach at Dortmund: Spreads"
+}

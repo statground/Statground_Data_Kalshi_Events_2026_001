@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXSUPERLIGGAME-25DEC20EYUFEN",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Super Lig",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXSUPERLIGGAME",
+  "strike_period": "",
+  "sub_title": "EYU vs FEN (Dec 20)",
+  "title": "Eyupspor vs Fenerbahce"
+}

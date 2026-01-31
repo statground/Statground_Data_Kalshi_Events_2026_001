@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXUSDJPY-25DEC2210",
+  "mutually_exclusive": true,
+  "series_ticker": "KXUSDJPY",
+  "strike_date": "2025-12-22T15:00:00Z",
+  "strike_period": "",
+  "sub_title": "Dec 22, 2025 at 10am EST",
+  "title": "USD/JPY price on Dec 22, 2025 at 10am EST?"
+}

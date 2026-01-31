@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXEPLGAME-25DEC20WOLBRE",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "EPL",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXEPLGAME",
+  "strike_period": "",
+  "sub_title": "WOL vs BRE (Dec 20)",
+  "title": "Wolverhampton vs Brentford"
+}

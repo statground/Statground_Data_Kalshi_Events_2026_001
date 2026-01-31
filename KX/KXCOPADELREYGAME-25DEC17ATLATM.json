@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCOPADELREYGAME-25DEC17ATLATM",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Copa del Rey",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXCOPADELREYGAME",
+  "strike_period": "",
+  "sub_title": "ATL vs ATM (Dec 17)",
+  "title": "Atletico Baleares vs Atletico"
+}

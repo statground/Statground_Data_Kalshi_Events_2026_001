@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXBUNDESLIGABTTS-25DEC20RBLLEV",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Bundesliga",
+    "competition_scope": "BTTS"
+  },
+  "series_ticker": "KXBUNDESLIGABTTS",
+  "strike_period": "",
+  "sub_title": "LEV at RBL (Dec 20)",
+  "title": "Leverkusen at Leipzig: Both Teams to Score"
+}

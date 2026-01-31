@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXEPLBTTS-25DEC20BOUBUR",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "EPL",
+    "competition_scope": "BTTS"
+  },
+  "series_ticker": "KXEPLBTTS",
+  "strike_period": "",
+  "sub_title": "BUR at BOU (Dec 20)",
+  "title": "Burnley at Bournemouth: Both Teams to Score"
+}

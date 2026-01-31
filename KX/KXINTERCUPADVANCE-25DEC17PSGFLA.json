@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXINTERCUPADVANCE-25DEC17PSGFLA",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "FIFA Intercontinental Cup",
+    "competition_scope": "To Advance"
+  },
+  "series_ticker": "KXINTERCUPADVANCE",
+  "strike_period": "",
+  "sub_title": "PSG vs FLA (Dec 17)",
+  "title": "PSG vs. Flamengo: To Advance"
+}

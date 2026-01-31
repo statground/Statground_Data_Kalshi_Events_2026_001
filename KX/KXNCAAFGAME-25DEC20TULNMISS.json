@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNCAAFGAME-25DEC20TULNMISS",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "College Football Playoffs",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXNCAAFGAME",
+  "strike_period": "",
+  "sub_title": "TULN at MISS (Dec 20)",
+  "title": "Tulane at Ole Miss"
+}

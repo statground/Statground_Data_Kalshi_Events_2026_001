@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "World",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCBDECISIONEU-25DEC18",
+  "mutually_exclusive": true,
+  "series_ticker": "KXCBDECISIONEU",
+  "strike_period": "",
+  "sub_title": "Dec 18, 2025 meeting",
+  "title": "What will the European Central Bank do at the Dec 2025 ECB meeting?"
+}

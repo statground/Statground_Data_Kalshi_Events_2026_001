@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXEPLFIRSTGOAL-25DEC21AVLMUN",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "EPL",
+    "competition_scope": "1st Goalscorer"
+  },
+  "series_ticker": "KXEPLFIRSTGOAL",
+  "strike_period": "",
+  "sub_title": "MUN at AVL (Dec 21)",
+  "title": "Manchester United at Aston Villa: First Goalscorer"
+}

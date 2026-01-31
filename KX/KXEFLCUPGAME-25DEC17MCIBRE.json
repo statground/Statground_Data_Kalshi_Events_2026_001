@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXEFLCUPGAME-25DEC17MCIBRE",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "EFL Cup",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXEFLCUPGAME",
+  "strike_period": "",
+  "sub_title": "MCI vs BRE (Dec 17)",
+  "title": "Manchester City vs Brentford"
+}

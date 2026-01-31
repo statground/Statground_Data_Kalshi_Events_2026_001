@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": true,
+  "category": "Climate and Weather",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXHIGHCHI-25DEC19",
+  "mutually_exclusive": true,
+  "series_ticker": "KXHIGHCHI",
+  "strike_date": "2025-12-20T04:59:00Z",
+  "strike_period": "",
+  "sub_title": "On Dec 19, 2025",
+  "title": "Highest temperature in Chicago on Dec 19, 2025?"
+}

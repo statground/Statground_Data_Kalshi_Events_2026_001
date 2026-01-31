@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXEREDIVISIEGAME-25DEC20HERHEE",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Eredivisie",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXEREDIVISIEGAME",
+  "strike_period": "",
+  "sub_title": "HER vs HEE (Dec 20)",
+  "title": "Heracles Almelo vs Heerenveen"
+}

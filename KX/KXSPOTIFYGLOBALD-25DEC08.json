@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXSPOTIFYGLOBALD-25DEC08",
+  "mutually_exclusive": true,
+  "series_ticker": "KXSPOTIFYGLOBALD",
+  "strike_period": "",
+  "sub_title": "On Dec 8, 2025 Chart",
+  "title": "Top Global Song on Spotify on Dec 8, 2025?"
+}
