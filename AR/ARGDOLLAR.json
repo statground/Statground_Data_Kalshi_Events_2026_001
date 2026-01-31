@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "World",
+  "collateral_return_type": "",
+  "event_ticker": "ARGDOLLAR",
+  "mutually_exclusive": false,
+  "series_ticker": "KXARGDOLLAR",
+  "strike_period": "",
+  "sub_title": "Dollarizes",
+  "title": "When will Argentina dollarize its economy?"
+}

@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Crypto",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXETH-24DEC1117",
+  "mutually_exclusive": true,
+  "series_ticker": "KXETH",
+  "strike_date": "2024-12-11T22:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Dec 11, 2024",
+  "title": "Ethereum price range on Dec 11, 2024 at 5pm EST?"
+}

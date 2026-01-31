@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "",
+  "event_ticker": "MINWAGE-24",
+  "mutually_exclusive": false,
+  "series_ticker": "KXMINWAGE",
+  "strike_period": "",
+  "sub_title": "Before 2025",
+  "title": "Federal minimum wage raised in 2024?"
+}

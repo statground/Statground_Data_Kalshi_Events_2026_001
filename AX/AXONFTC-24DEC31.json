@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "",
+  "event_ticker": "AXONFTC-24DEC31",
+  "mutually_exclusive": false,
+  "series_ticker": "KXAXONFTC",
+  "strike_date": "2024-12-31T12:00:00Z",
+  "strike_period": "",
+  "sub_title": "By Dec 31, 2024",
+  "title": "FTC SCOTUS case by Dec 31, 2024?"
+}

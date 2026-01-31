@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Crypto",
+  "collateral_return_type": "",
+  "event_ticker": "KXETHD-25JAN0116",
+  "mutually_exclusive": false,
+  "series_ticker": "KXETHD",
+  "strike_date": "2025-01-01T21:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Jan 1, 2025 at 4pm EST",
+  "title": "Ethereum price on Jan 1, 2025 at 4pm EST?"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCITIESWEATHER-24DEC13(CHI)(DEN)(MIA)(NY)2",
+  "mutually_exclusive": true,
+  "series_ticker": "KXCITIESWEATHER",
+  "strike_period": "",
+  "sub_title": "Chicago, Denver, Miami and New York on Dec 13, 2024",
+  "title": "Highest temperature in Chicago, Denver, Miami and New York on Dec 13, 2024?"
+}

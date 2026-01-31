@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXHIGHAUS-24DEC26",
+  "mutually_exclusive": true,
+  "series_ticker": "KXHIGHAUS",
+  "strike_date": "2024-12-27T05:59:00Z",
+  "strike_period": "",
+  "sub_title": "On Dec 26, 2024",
+  "title": "Highest temperature in Austin on Dec 26, 2024?"
+}

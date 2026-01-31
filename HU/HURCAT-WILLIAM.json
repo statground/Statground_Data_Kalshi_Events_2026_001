@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "",
+  "event_ticker": "HURCAT-WILLIAM",
+  "mutually_exclusive": false,
+  "series_ticker": "KXHURCAT",
+  "strike_period": "",
+  "sub_title": "Hurricane William",
+  "title": "Hurricane William category?"
+}

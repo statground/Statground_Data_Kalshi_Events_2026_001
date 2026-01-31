@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "",
+  "event_ticker": "COSTCOHOTDOG",
+  "mutually_exclusive": false,
+  "series_ticker": "KXCOSTCOHOTDOG",
+  "strike_period": "",
+  "sub_title": "Raises price",
+  "title": "Costco raises hot dog combo price?"
+}

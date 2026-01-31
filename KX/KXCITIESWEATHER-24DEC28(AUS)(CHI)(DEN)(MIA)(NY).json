@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCITIESWEATHER-24DEC28(AUS)(CHI)(DEN)(MIA)(NY)",
+  "mutually_exclusive": true,
+  "series_ticker": "KXCITIESWEATHER",
+  "strike_period": "",
+  "sub_title": "Austin, Chicago, Denver, Miami and New York on Dec 28, 2024",
+  "title": "Highest temperature in Austin, Chicago, Denver, Miami and New York on Dec 28, 2024?"
+}

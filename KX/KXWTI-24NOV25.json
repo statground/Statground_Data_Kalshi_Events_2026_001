@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXWTI-24NOV25",
+  "mutually_exclusive": true,
+  "series_ticker": "KXWTI",
+  "strike_date": "2024-11-25T19:30:00Z",
+  "strike_period": "",
+  "sub_title": "On Nov 25, 2024",
+  "title": "WTI oil price on Nov 25, 2024?"
+}

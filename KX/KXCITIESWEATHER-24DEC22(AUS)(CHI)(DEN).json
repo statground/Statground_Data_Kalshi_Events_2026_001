@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCITIESWEATHER-24DEC22(AUS)(CHI)(DEN)",
+  "mutually_exclusive": true,
+  "series_ticker": "KXCITIESWEATHER",
+  "strike_period": "",
+  "sub_title": "Austin, Chicago and Denver on Dec 22, 2024",
+  "title": "Highest temperature in Austin, Chicago and Denver on Dec 22, 2024?"
+}

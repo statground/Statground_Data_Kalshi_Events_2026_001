@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXGAMEAWARDSBET-2024",
+  "mutually_exclusive": true,
+  "series_ticker": "KXGAMEAWARDSBET",
+  "strike_period": "",
+  "sub_title": "In 2024",
+  "title": "Game Awards for Best Esports Team?"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXTOPPOP",
+  "mutually_exclusive": true,
+  "series_ticker": "KXTOPPOP",
+  "strike_period": "",
+  "sub_title": "In the 21st century",
+  "title": "Who will be the Billboard’s #1 pop star of the century?"
+}

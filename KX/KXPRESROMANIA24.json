@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Elections",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXPRESROMANIA24",
+  "mutually_exclusive": true,
+  "series_ticker": "KXPRESROMANIA24",
+  "strike_period": "",
+  "sub_title": "Next election",
+  "title": "Who will win the Romanian presidential election?"
+}

@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "",
+  "event_ticker": "538APPROVEY-24DEC31",
+  "mutually_exclusive": false,
+  "series_ticker": "KX538APPROVEY",
+  "strike_date": "2025-01-01T04:59:00Z",
+  "strike_period": "",
+  "sub_title": "On Dec 31, 2024",
+  "title": "President's 538 approval rating at the end of the year?"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCITIESWEATHER-24DEC19(DEN)(MIA)(NY)(PHIL)",
+  "mutually_exclusive": true,
+  "series_ticker": "KXCITIESWEATHER",
+  "strike_period": "",
+  "sub_title": "Denver, Miami, New York and Philadelphia on Dec 19, 2024",
+  "title": "Highest temperature in Denver, Miami, New York and Philadelphia on Dec 19, 2024?"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXHIGHDEN-24NOV26",
+  "mutually_exclusive": true,
+  "series_ticker": "KXHIGHDEN",
+  "strike_period": "",
+  "sub_title": "On Nov 26, 2024",
+  "title": "Highest temperature in Denver on Nov 26, 2024?"
+}

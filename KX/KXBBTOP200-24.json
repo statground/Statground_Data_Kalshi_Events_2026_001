@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXBBTOP200-24",
+  "mutually_exclusive": true,
+  "series_ticker": "KXBBTOP200",
+  "strike_period": "",
+  "sub_title": "In 2024",
+  "title": "Billboard Music Award for Top Billboard 200 Artist?"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCITIESWEATHER-24DEC26(DEN)(HOU)(MIA)",
+  "mutually_exclusive": true,
+  "series_ticker": "KXCITIESWEATHER",
+  "strike_period": "",
+  "sub_title": "Denver, Houston and Miami on Dec 26, 2024",
+  "title": "Highest temperature in Denver, Houston and Miami on Dec 26, 2024?"
+}

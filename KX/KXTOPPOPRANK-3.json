@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXTOPPOPRANK-3",
+  "mutually_exclusive": true,
+  "series_ticker": "KXTOPPOPRANK",
+  "strike_period": "",
+  "sub_title": "No. 3",
+  "title": "Who will be the Billboard’s #3 pop star of the century?"
+}

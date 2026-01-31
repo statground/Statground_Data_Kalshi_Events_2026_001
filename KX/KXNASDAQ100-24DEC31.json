@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNASDAQ100-24DEC31",
+  "mutually_exclusive": true,
+  "series_ticker": "KXNASDAQ100",
+  "strike_date": "2024-12-31T21:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Dec 31, 2024",
+  "title": "Nasdaq close price range on Dec 31, 2024?"
+}

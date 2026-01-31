@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "USTESTSREADING-23",
+  "mutually_exclusive": true,
+  "series_ticker": "KXUSTESTSREADING",
+  "strike_period": "",
+  "sub_title": "In 2023",
+  "title": "US test scores in reading in 2023?"
+}

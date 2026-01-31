@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "",
+  "event_ticker": "ECB-24DEC12",
+  "mutually_exclusive": false,
+  "series_ticker": "KXECB",
+  "strike_period": "",
+  "sub_title": "December meeting",
+  "title": "European Central Bank interest rate in December?"
+}

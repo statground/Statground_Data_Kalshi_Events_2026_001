@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "",
+  "event_ticker": "KXEURUSDH-24NOV2017",
+  "mutually_exclusive": false,
+  "series_ticker": "KXEURUSDH",
+  "strike_date": "2024-11-20T22:00:00Z",
+  "strike_period": "",
+  "sub_title": "Nov 20, 2024 at 5pm EST",
+  "title": "EUR/USD price range on Nov 20, 2024 at 5pm EST?"
+}

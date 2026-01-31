@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXTNOTEW-24NOV22",
+  "mutually_exclusive": true,
+  "series_ticker": "KXTNOTEW",
+  "strike_date": "2024-11-22T20:25:00Z",
+  "strike_period": "",
+  "sub_title": "On Nov 22, 2024",
+  "title": "Treasury 10-year yield on Nov 22, 2024?"
+}

@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "",
+  "event_ticker": "KXPRESLEAVESK-25",
+  "mutually_exclusive": false,
+  "series_ticker": "KXPRESLEAVESK",
+  "strike_date": "2025-01-01T15:00:00Z",
+  "strike_period": "",
+  "sub_title": "Leaves office",
+  "title": "Will the South Korean President leave office?"
+}

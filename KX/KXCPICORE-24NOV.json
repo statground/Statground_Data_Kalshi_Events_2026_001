@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "",
+  "event_ticker": "KXCPICORE-24NOV",
+  "mutually_exclusive": false,
+  "series_ticker": "KXCPICORE",
+  "strike_period": "November 2024",
+  "sub_title": "In Nov 2024",
+  "title": "CPI core in Nov 2024?"
+}

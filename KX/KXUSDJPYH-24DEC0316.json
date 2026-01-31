@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "",
+  "event_ticker": "KXUSDJPYH-24DEC0316",
+  "mutually_exclusive": false,
+  "series_ticker": "KXUSDJPYH",
+  "strike_date": "2024-12-03T21:00:00Z",
+  "strike_period": "",
+  "sub_title": "Dec 3, 2024 at 4pm EST",
+  "title": "USD/JPY price range on Dec 3, 2024 at 4pm EST?"
+}

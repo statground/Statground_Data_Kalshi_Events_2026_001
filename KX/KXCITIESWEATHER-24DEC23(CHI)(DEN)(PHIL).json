@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCITIESWEATHER-24DEC23(CHI)(DEN)(PHIL)",
+  "mutually_exclusive": true,
+  "series_ticker": "KXCITIESWEATHER",
+  "strike_period": "",
+  "sub_title": "Chicago, Denver and Philadelphia on Dec 23, 2024",
+  "title": "Highest temperature in Chicago, Denver and Philadelphia on Dec 23, 2024?"
+}

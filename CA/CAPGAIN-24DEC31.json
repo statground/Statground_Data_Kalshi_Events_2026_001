@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "",
+  "event_ticker": "CAPGAIN-24DEC31",
+  "mutually_exclusive": false,
+  "series_ticker": "KXCAPGAIN",
+  "strike_date": "2024-12-31T15:00:00Z",
+  "strike_period": "",
+  "sub_title": "Before 2025",
+  "title": "Capital gains tax increase in 2024?"
+}

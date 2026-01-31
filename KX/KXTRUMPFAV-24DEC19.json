@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXTRUMPFAV-24DEC19",
+  "mutually_exclusive": true,
+  "series_ticker": "KXTRUMPFAV",
+  "strike_date": "2024-12-20T04:59:00Z",
+  "strike_period": "",
+  "sub_title": "On Dec 19, 2024",
+  "title": "Trump's 538 favorability on Dec 19, 2024?"
+}

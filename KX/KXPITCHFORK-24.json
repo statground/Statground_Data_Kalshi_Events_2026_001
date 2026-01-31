@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXPITCHFORK-24",
+  "mutually_exclusive": true,
+  "series_ticker": "KXPITCHFORK",
+  "strike_period": "",
+  "sub_title": "In 2024",
+  "title": "What will be Pitchfork's top album of the year?"
+}

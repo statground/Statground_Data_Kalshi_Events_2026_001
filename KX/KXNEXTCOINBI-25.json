@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Crypto",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNEXTCOINBI-25",
+  "mutually_exclusive": true,
+  "series_ticker": "KXNEXTCOINBI",
+  "strike_period": "",
+  "sub_title": "Before 2025",
+  "title": "What will the next coin added on Binance be?"
+}

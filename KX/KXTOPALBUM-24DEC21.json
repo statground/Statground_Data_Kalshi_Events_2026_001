@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXTOPALBUM-24DEC21",
+  "mutually_exclusive": true,
+  "series_ticker": "KXTOPALBUM",
+  "strike_period": "",
+  "sub_title": "On Dec 21, 2024",
+  "title": "Billboard Top 200 #1 on Dec 21, 2024 chart?"
+}

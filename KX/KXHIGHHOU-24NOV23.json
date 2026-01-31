@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXHIGHHOU-24NOV23",
+  "mutually_exclusive": true,
+  "series_ticker": "KXHIGHHOU",
+  "strike_date": "2024-11-24T05:59:00Z",
+  "strike_period": "",
+  "sub_title": "On Nov 23, 2024",
+  "title": "Highest temperature in Houston on Nov 23, 2024?"
+}

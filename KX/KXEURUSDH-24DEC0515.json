@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "",
+  "event_ticker": "KXEURUSDH-24DEC0515",
+  "mutually_exclusive": false,
+  "series_ticker": "KXEURUSDH",
+  "strike_date": "2024-12-05T20:00:00Z",
+  "strike_period": "",
+  "sub_title": "Dec 5, 2024 at 3pm EST",
+  "title": "EUR/USD price range on Dec 5, 2024 at 3pm EST?"
+}

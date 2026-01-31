@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCITIESWEATHER-24DEC22(MIA)(NY)(PHIL)",
+  "mutually_exclusive": true,
+  "series_ticker": "KXCITIESWEATHER",
+  "strike_period": "",
+  "sub_title": "Miami, New York and Philadelphia on Dec 22, 2024",
+  "title": "Highest temperature in Miami, New York and Philadelphia on Dec 22, 2024?"
+}

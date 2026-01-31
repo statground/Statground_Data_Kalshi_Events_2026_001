@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "",
+  "event_ticker": "SPRMIN-25",
+  "mutually_exclusive": false,
+  "series_ticker": "KXSPRMIN",
+  "strike_period": "",
+  "sub_title": "Before 2025",
+  "title": "Strategic petroleum reserve size by the end of the year?"
+}

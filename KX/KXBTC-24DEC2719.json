@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Crypto",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXBTC-24DEC2719",
+  "mutually_exclusive": true,
+  "series_ticker": "KXBTC",
+  "strike_date": "2024-12-28T00:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Dec 27, 2024 at 7pm EST",
+  "title": "Bitcoin price range on Dec 27, 2024 at 7pm EST?"
+}

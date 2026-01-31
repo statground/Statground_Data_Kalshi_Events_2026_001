@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "RATECUTS-24DEC31",
+  "mutually_exclusive": true,
+  "series_ticker": "KXRATECUTS",
+  "strike_period": "",
+  "sub_title": "In 2024",
+  "title": "Number of rate cuts in 2024?"
+}

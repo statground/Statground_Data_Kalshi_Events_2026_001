@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCPIYOYBANK-24OCT",
+  "mutually_exclusive": true,
+  "series_ticker": "KXCPIYOYBANK",
+  "strike_period": "",
+  "sub_title": "Oct 2024",
+  "title": "Which bank will be right about Oct inflation? (CPI YoY)"
+}

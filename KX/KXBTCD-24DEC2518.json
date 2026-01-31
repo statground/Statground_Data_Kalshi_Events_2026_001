@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Crypto",
+  "collateral_return_type": "",
+  "event_ticker": "KXBTCD-24DEC2518",
+  "mutually_exclusive": false,
+  "series_ticker": "KXBTCD",
+  "strike_date": "2024-12-25T23:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Dec 25, 2024 at 6pm EST",
+  "title": "Bitcoin price on Dec 25, 2024 at 6pm EST?"
+}
