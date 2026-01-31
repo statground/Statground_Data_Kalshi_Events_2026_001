@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXPGATOUR-FSJC25",
+  "mutually_exclusive": true,
+  "series_ticker": "KXPGATOUR",
+  "strike_period": "",
+  "sub_title": "2025 FedEx St. Jude Championship",
+  "title": "FedEx St. Jude Championship Winner?"
+}

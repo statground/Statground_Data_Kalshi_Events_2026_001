@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "",
+  "event_ticker": "KXHURPATHGENERALMAJOR-25",
+  "mutually_exclusive": false,
+  "series_ticker": "KXHURPATHGENERALMAJOR",
+  "strike_period": "",
+  "sub_title": "Before Sep 2025",
+  "title": "Will a major Atlantic Hurricane make landfall before September?"
+}

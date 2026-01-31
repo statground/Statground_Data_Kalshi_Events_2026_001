@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXBUNDESLIGAGAME-25AUG23LEVTSG",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Bundesliga",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXBUNDESLIGAGAME",
+  "strike_period": "",
+  "sub_title": "LEV vs TSG (Aug 23)",
+  "title": "Leverkusen vs Hoffenheim"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXRTWEAPONS",
+  "mutually_exclusive": false,
+  "series_ticker": "KXRTWEAPONS",
+  "strike_period": "",
+  "sub_title": "Aug 11, 2025",
+  "title": "\"Weapons\" Rotten Tomatoes score?"
+}

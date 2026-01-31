@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXHIGHAUS-25AUG30",
+  "mutually_exclusive": true,
+  "series_ticker": "KXHIGHAUS",
+  "strike_date": "2025-08-31T04:59:00Z",
+  "strike_period": "",
+  "sub_title": "On Aug 30, 2025",
+  "title": "Highest temperature in Austin on Aug 30, 2025?"
+}

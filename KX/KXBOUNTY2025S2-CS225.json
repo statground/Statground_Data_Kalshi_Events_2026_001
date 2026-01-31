@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXBOUNTY2025S2-CS225",
+  "mutually_exclusive": true,
+  "series_ticker": "KXBOUNTY2025S2",
+  "strike_period": "",
+  "sub_title": "2025 Bounty 2025 Season 2",
+  "title": "Bounty 2025 Season 2 Winner?"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXARGINFLATIONM-25JUL",
+  "mutually_exclusive": false,
+  "series_ticker": "KXARGINFLATIONM",
+  "strike_period": "",
+  "sub_title": "In Jul 2025",
+  "title": "Argentina inflation in Jul 2025?"
+}

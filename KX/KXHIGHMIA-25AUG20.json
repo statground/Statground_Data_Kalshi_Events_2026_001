@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXHIGHMIA-25AUG20",
+  "mutually_exclusive": true,
+  "series_ticker": "KXHIGHMIA",
+  "strike_date": "2025-08-21T03:59:00Z",
+  "strike_period": "",
+  "sub_title": "On Aug 20, 2025",
+  "title": "Highest temperature in Miami on Aug 20, 2025?"
+}

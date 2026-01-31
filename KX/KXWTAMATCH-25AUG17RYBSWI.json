@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXWTAMATCH-25AUG17RYBSWI",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "WTA Cincinnati",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXWTAMATCH",
+  "strike_period": "",
+  "sub_title": "Rybakina vs Swiatek",
+  "title": "Rybakina vs Swiatek"
+}

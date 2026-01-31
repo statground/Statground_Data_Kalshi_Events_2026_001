@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXCPIYOY-25JUL",
+  "mutually_exclusive": false,
+  "series_ticker": "KXCPIYOY",
+  "strike_period": "",
+  "sub_title": "In Jul 2025",
+  "title": "Inflation in Jul 2025? (CPI YoY)"
+}

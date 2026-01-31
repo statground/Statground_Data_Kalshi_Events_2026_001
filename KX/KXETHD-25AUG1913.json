@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Crypto",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXETHD-25AUG1913",
+  "mutually_exclusive": false,
+  "series_ticker": "KXETHD",
+  "strike_date": "2025-08-19T17:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Aug 19, 2025 at 1pm EDT",
+  "title": "Ethereum price on Aug 19, 2025 at 1pm EDT?"
+}

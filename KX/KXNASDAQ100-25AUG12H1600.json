@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNASDAQ100-25AUG12H1600",
+  "mutually_exclusive": true,
+  "series_ticker": "KXNASDAQ100",
+  "strike_date": "2025-08-12T20:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Aug 12, 2025 at 4pm EDT",
+  "title": "Nasdaq price range on Aug 12, 2025 at 4pm EDT?"
+}

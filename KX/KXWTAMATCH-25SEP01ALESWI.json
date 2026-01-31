@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXWTAMATCH-25SEP01ALESWI",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "US Open Women Singles",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXWTAMATCH",
+  "strike_period": "",
+  "sub_title": "Alexandrova vs Swiatek",
+  "title": "Alexandrova vs Swiatek"
+}

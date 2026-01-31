@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Climate and Weather",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXHIGHPHIL-25AUG12",
+  "mutually_exclusive": true,
+  "series_ticker": "KXHIGHPHIL",
+  "strike_period": "",
+  "sub_title": "On Aug 12, 2025",
+  "title": "Highest temperature in Philadelphia on Aug 12, 2025?"
+}

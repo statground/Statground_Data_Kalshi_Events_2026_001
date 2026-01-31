@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXATPMATCH-25AUG25BAEHAR",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "US Open Men Singles",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXATPMATCH",
+  "strike_period": "",
+  "sub_title": "Baez vs Harris",
+  "title": "Baez vs Harris"
+}

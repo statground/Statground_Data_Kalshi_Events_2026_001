@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXWTAMATCH-25AUG18BONMAR",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "WTA Monterrey",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXWTAMATCH",
+  "strike_period": "",
+  "sub_title": "Bondar vs Maria",
+  "title": "Bondar vs Maria"
+}

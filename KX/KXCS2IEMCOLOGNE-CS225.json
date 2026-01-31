@@ -1,0 +1,14 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCS2IEMCOLOGNE-CS225",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition_scope": "Future"
+  },
+  "series_ticker": "KXCS2IEMCOLOGNE",
+  "strike_period": "",
+  "sub_title": "2025 CS2: IEM Cologne",
+  "title": "CS2: IEM Cologne Winner?"
+}

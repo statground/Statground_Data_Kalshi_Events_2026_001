@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXUSDJPY-25AUG2810",
+  "mutually_exclusive": true,
+  "series_ticker": "KXUSDJPY",
+  "strike_date": "2025-08-28T14:00:00Z",
+  "strike_period": "",
+  "sub_title": "Aug 28, 2025 at 10am EDT",
+  "title": "USD/JPY price on Aug 28, 2025 at 10am EDT?"
+}

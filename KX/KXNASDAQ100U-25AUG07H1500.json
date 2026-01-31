@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXNASDAQ100U-25AUG07H1500",
+  "mutually_exclusive": false,
+  "series_ticker": "KXNASDAQ100U",
+  "strike_date": "2025-08-07T19:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Aug 7, 2025 at 3pm EDT",
+  "title": "Nasdaq price on Aug 7, 2025 at 3pm EDT?"
+}

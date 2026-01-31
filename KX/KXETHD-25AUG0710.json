@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Crypto",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXETHD-25AUG0710",
+  "mutually_exclusive": false,
+  "series_ticker": "KXETHD",
+  "strike_date": "2025-08-07T14:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Aug 7, 2025 at 10am EDT",
+  "title": "Ethereum price on Aug 7, 2025 at 10am EDT?"
+}

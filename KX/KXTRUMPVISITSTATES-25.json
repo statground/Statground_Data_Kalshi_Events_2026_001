@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "World",
+  "collateral_return_type": "",
+  "event_ticker": "KXTRUMPVISITSTATES-25",
+  "mutually_exclusive": false,
+  "series_ticker": "KXTRUMPVISITSTATES",
+  "strike_period": "",
+  "sub_title": "Before 2025",
+  "title": "Which states will Trump visit before Sep 2025?"
+}

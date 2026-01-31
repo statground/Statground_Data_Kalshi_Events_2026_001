@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Economics",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXAAAGASM-25AUG31",
+  "mutually_exclusive": false,
+  "series_ticker": "KXAAAGASM",
+  "strike_date": "2025-08-31T14:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Aug 31, 2025",
+  "title": "Gas prices in the US in Aug 2025?"
+}

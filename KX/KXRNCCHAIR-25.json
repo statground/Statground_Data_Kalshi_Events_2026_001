@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Politics",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXRNCCHAIR-25",
+  "mutually_exclusive": true,
+  "series_ticker": "KXRNCCHAIR",
+  "strike_period": "",
+  "sub_title": "Before Sep 2025",
+  "title": "Who will be the next Chair of the Republican National Committee?"
+}

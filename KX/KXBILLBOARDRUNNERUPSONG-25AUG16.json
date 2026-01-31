@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXBILLBOARDRUNNERUPSONG-25AUG16",
+  "mutually_exclusive": true,
+  "series_ticker": "KXBILLBOARDRUNNERUPSONG",
+  "strike_period": "",
+  "sub_title": "On Aug 16, 2025",
+  "title": "Billboard Hot 100 #2 on Aug 16, 2025 chart?"
+}

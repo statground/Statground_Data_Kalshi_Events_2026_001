@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXWTAMATCH-25AUG13SWICIR",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "WTA Cincinnati",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXWTAMATCH",
+  "strike_period": "",
+  "sub_title": "Swiatek vs Cirstea",
+  "title": "Swiatek vs Cirstea"
+}

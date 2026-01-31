@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXUEFASUPERCUP-25",
+  "mutually_exclusive": true,
+  "series_ticker": "KXUEFASUPERCUP",
+  "strike_period": "",
+  "sub_title": "On Aug 13, 2025",
+  "title": "UEFA Super Cup"
+}

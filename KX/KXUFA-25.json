@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXUFA-25",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Ultimate Frisbee",
+    "competition_scope": "Future"
+  },
+  "series_ticker": "KXUFA",
+  "strike_period": "",
+  "sub_title": "On Aug 23, 2025",
+  "title": "Ultimate Frisbee Championship Winner?"
+}

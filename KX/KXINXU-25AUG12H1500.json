@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXINXU-25AUG12H1500",
+  "mutually_exclusive": false,
+  "series_ticker": "KXINXU",
+  "strike_date": "2025-08-12T19:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Aug 12, 2025 at 3pm EDT",
+  "title": "S&P price on Aug 12, 2025 at 3pm EDT?"
+}

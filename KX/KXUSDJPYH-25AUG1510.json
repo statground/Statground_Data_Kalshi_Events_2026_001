@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXUSDJPYH-25AUG1510",
+  "mutually_exclusive": false,
+  "series_ticker": "KXUSDJPYH",
+  "strike_date": "2025-08-15T14:00:00Z",
+  "strike_period": "",
+  "sub_title": "Aug 15, 2025 at 10am EDT",
+  "title": "USD/JPY price on Aug 15, 2025 at 10am EDT?"
+}

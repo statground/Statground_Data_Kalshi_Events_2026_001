@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Crypto",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXBTC-25AUG1709",
+  "mutually_exclusive": true,
+  "series_ticker": "KXBTC",
+  "strike_date": "2025-08-17T13:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Aug 17, 2025 at 9am EDT",
+  "title": "Bitcoin price range on Aug 17, 2025 at 9am EDT?"
+}

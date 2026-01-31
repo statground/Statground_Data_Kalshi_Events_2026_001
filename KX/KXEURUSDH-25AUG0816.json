@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXEURUSDH-25AUG0816",
+  "mutually_exclusive": false,
+  "series_ticker": "KXEURUSDH",
+  "strike_date": "2025-08-08T20:00:00Z",
+  "strike_period": "",
+  "sub_title": "Aug 8, 2025 at 4pm EDT",
+  "title": "EUR/USD price on Aug 8, 2025 at 4pm EDT?"
+}
