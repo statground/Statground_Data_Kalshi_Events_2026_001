@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXTENNISEXHIBITION-25DEC07RUBRUU",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "UTS London Grand Final",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXTENNISEXHIBITION",
+  "strike_period": "",
+  "sub_title": "Rublev vs Ruud",
+  "title": "Rublev vs Ruud"
+}

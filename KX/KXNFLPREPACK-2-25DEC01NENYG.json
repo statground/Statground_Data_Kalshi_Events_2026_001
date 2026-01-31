@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNFLPREPACK-2-25DEC01NENYG",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Pro Football",
+    "competition_scope": "Combo"
+  },
+  "series_ticker": "KXNFLPREPACK",
+  "strike_period": "",
+  "sub_title": "NYG @ NE Total and ML",
+  "title": "Pro Football Combo: New York G at New England"
+}

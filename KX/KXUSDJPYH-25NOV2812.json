@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Financials",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXUSDJPYH-25NOV2812",
+  "mutually_exclusive": false,
+  "series_ticker": "KXUSDJPYH",
+  "strike_date": "2025-11-28T17:00:00Z",
+  "strike_period": "",
+  "sub_title": "Nov 28, 2025 at 12pm EST",
+  "title": "USD/JPY price on Nov 28, 2025 at 12pm EST?"
+}

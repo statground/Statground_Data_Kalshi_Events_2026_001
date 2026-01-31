@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNFLPREPACK-3-25NOV30SEAMINPITBUFLACLV",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Pro Football",
+    "competition_scope": "Combo"
+  },
+  "series_ticker": "KXNFLPREPACK",
+  "strike_period": "",
+  "sub_title": "3 Winners - MIN @ SEA, BUF @ PIT, LV @ LAC",
+  "title": "Pro Football Combo: 3 Winners"
+}

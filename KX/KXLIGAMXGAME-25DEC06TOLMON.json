@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXLIGAMXGAME-25DEC06TOLMON",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Liga MX",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXLIGAMXGAME",
+  "strike_period": "",
+  "sub_title": "TOL vs MON (Dec 6)",
+  "title": "Toluca vs Monterrey"
+}

@@ -1,0 +1,14 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXCOACHOUTOLEMISS",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "College Football"
+  },
+  "series_ticker": "KXCOACHOUTOLEMISS",
+  "strike_period": "",
+  "sub_title": "Lane Kiffin",
+  "title": "Will Lane Kiffin leave Ole Miss before Nov 28, 2025"
+}

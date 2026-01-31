@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXTENNISEXHIBITION-25DEC06DEMAC",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "UTS London Grand Final",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXTENNISEXHIBITION",
+  "strike_period": "",
+  "sub_title": "de Minaur vs Machac",
+  "title": "de Minaur vs Machac"
+}

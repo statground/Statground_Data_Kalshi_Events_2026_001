@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXOVERWATCH-CHAMPSERIES25",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Overwatch",
+    "competition_scope": "Future"
+  },
+  "series_ticker": "KXOVERWATCH",
+  "strike_period": "",
+  "sub_title": "Overwatch Champions Series 2025 World Finals",
+  "title": "Overwatch Champions Series 2025 World Finals Winner"
+}

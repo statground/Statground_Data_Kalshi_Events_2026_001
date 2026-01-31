@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXMOSTSTREAMEDWICKED-25NOV28",
+  "mutually_exclusive": true,
+  "series_ticker": "KXMOSTSTREAMEDWICKED",
+  "strike_period": "",
+  "sub_title": "On Nov 28, 2025",
+  "title": "Most streamed song on Wicked: For Good - The Soundtrack by Nov 28th?"
+}

@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXSUPERLIGGAME-25NOV29RIZKAY",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Super Lig",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXSUPERLIGGAME",
+  "strike_period": "",
+  "sub_title": "RIZ vs KAY (Nov 29)",
+  "title": "Rizespor vs Kayserispor"
+}

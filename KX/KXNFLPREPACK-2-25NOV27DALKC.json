@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNFLPREPACK-2-25NOV27DALKC",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Football",
+    "competition_scope": "Combo"
+  },
+  "series_ticker": "KXNFLPREPACK",
+  "strike_period": "",
+  "sub_title": "KC @ DAL Total and ML",
+  "title": "Thanksgiving Day Pro Football Combo: Kansas City at Dallas"
+}

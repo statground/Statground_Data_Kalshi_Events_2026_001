@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNCAAFCSGAME-25DEC06PVJKST",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "College Football",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXNCAAFCSGAME",
+  "strike_period": "",
+  "sub_title": "PV at JKST (Dec 6)",
+  "title": "Prairie View A&M at Jackson St."
+}

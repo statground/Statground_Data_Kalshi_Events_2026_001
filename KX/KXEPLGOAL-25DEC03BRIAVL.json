@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXEPLGOAL-25DEC03BRIAVL",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "EPL",
+    "competition_scope": "Goalscorer"
+  },
+  "series_ticker": "KXEPLGOAL",
+  "strike_period": "",
+  "sub_title": "AVL at BRI (Dec 3)",
+  "title": "Aston Villa at Brighton: Anytime Goalscorer"
+}

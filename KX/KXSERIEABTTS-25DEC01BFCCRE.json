@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXSERIEABTTS-25DEC01BFCCRE",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Serie A",
+    "competition_scope": "BTTS"
+  },
+  "series_ticker": "KXSERIEABTTS",
+  "strike_period": "",
+  "sub_title": "CRE at BFC (Dec 1)",
+  "title": "Cremonese at Bologna: Both Teams to Score"
+}

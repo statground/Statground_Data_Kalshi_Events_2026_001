@@ -1,0 +1,14 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXCHOVYMVPWF-25",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition_scope": "Futures"
+  },
+  "series_ticker": "KXCHOVYMVPWF",
+  "strike_period": "",
+  "sub_title": "2025 season",
+  "title": "Will Chovy be the MVP of the League of Legends Worlds Finals?"
+}

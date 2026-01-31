@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Elections",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNYCMAYOR2ND-25",
+  "mutually_exclusive": true,
+  "series_ticker": "KXNYCMAYOR2ND",
+  "strike_period": "",
+  "sub_title": "In 2025",
+  "title": "Second place in NYC Mayoral election?"
+}

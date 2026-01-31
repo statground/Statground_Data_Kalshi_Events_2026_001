@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Climate and Weather",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXRAINLAXM-25NOV",
+  "mutually_exclusive": false,
+  "series_ticker": "KXRAINLAXM",
+  "strike_period": "",
+  "sub_title": "In Nov 2025",
+  "title": "Rain in Los Angeles in Nov 2025?"
+}

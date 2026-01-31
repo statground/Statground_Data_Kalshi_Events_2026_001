@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCSGOGAME-25DEC02M80PSSNUA",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Counter-Strike 2",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXCSGOGAME",
+  "strike_period": "",
+  "sub_title": "M80 vs. Passion UA",
+  "title": "StarLadder Major Budapest 2025: M80 vs. Passion UA"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Elections",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXELECTIONMOVNJGOV-25NOV04",
+  "mutually_exclusive": true,
+  "series_ticker": "KXELECTIONMOVNJGOV",
+  "strike_period": "",
+  "sub_title": "New Jersey Gubernatorial Election",
+  "title": "Margin of victory for Mikie Sherrill in New Jersey Governor election?"
+}

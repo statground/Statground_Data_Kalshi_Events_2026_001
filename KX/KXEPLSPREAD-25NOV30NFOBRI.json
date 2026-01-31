@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXEPLSPREAD-25NOV30NFOBRI",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "EPL",
+    "competition_scope": "Spread"
+  },
+  "series_ticker": "KXEPLSPREAD",
+  "strike_period": "",
+  "sub_title": "BRI at NFO (Nov 30)",
+  "title": "Brighton at Nottingham: Spreads"
+}

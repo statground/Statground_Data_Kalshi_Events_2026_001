@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXVALGCSEOUL-25",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Valorant",
+    "competition_scope": "Future"
+  },
+  "series_ticker": "KXVALGCSEOUL",
+  "strike_period": "",
+  "sub_title": "On Nov 30, 2025",
+  "title": "Game Changers 2025: Championship Seoul"
+}

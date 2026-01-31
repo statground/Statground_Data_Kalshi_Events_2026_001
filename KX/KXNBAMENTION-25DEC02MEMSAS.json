@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Mentions",
+  "collateral_return_type": "",
+  "event_ticker": "KXNBAMENTION-25DEC02MEMSAS",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Basketball (M)",
+    "competition_scope": "Mentions"
+  },
+  "series_ticker": "KXNBAMENTION",
+  "strike_period": "",
+  "sub_title": "Memphis vs San Antonio",
+  "title": "What will the play by play or color commentator(s) say during the Memphis vs San Antonio Professional Basketball Game?"
+}

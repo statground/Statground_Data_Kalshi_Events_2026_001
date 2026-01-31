@@ -1,0 +1,14 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXF1POLEPOSITION-QATGP25",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition_scope": "Driver Specials"
+  },
+  "series_ticker": "KXF1POLEPOSITION",
+  "strike_period": "",
+  "sub_title": "Qatar Grand Prix",
+  "title": "Qatar Grand Prix: Qualify in Pole Position"
+}

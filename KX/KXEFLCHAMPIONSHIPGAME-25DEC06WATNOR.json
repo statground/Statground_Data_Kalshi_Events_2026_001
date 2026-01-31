@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXEFLCHAMPIONSHIPGAME-25DEC06WATNOR",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "EFL Championship",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXEFLCHAMPIONSHIPGAME",
+  "strike_period": "",
+  "sub_title": "WAT vs NOR (Dec 6)",
+  "title": "Watford vs Norwich"
+}

@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXDFBPOKALADVANCE-25DEC03SCFD98",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "DFB Pokal",
+    "competition_scope": "To Advance"
+  },
+  "series_ticker": "KXDFBPOKALADVANCE",
+  "strike_period": "",
+  "sub_title": "SCF vs D98 (Dec 3)",
+  "title": "Freiburg vs Darmstadt: To Advance"
+}

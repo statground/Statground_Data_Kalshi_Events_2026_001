@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXEPLGOAL-25DEC06MCISUN",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "EPL",
+    "competition_scope": "Goalscorer"
+  },
+  "series_ticker": "KXEPLGOAL",
+  "strike_period": "",
+  "sub_title": "SUN at MCI (Dec 6)",
+  "title": "Sunderland at Manchester City: Anytime Goalscorer"
+}

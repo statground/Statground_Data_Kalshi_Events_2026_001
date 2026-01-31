@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNCAAFCSGAME-25DEC06ACSFA",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "College Football",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXNCAAFCSGAME",
+  "strike_period": "",
+  "sub_title": "AC at SFA (Dec 6)",
+  "title": "Abilene Christian at Stephen F. Austin"
+}

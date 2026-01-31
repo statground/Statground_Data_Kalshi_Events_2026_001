@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXLIGUE1GAME-25DEC07FCLOL",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Ligue 1",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXLIGUE1GAME",
+  "strike_period": "",
+  "sub_title": "FCL vs OL (Dec 7)",
+  "title": "Lorient vs Lyon"
+}

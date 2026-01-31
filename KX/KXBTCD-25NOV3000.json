@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": true,
+  "category": "Crypto",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXBTCD-25NOV3000",
+  "mutually_exclusive": false,
+  "series_ticker": "KXBTCD",
+  "strike_date": "2025-11-30T05:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Nov 30, 2025 at 12am EST",
+  "title": "Bitcoin price on Nov 30, 2025 at 12am EST?"
+}

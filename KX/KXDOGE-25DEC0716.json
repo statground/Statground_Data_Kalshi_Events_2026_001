@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Crypto",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXDOGE-25DEC0716",
+  "mutually_exclusive": true,
+  "series_ticker": "KXDOGE",
+  "strike_date": "2025-12-07T21:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Dec 7, 2025 at 4pm EST",
+  "title": "Dogecoin price range on Dec 7, 2025 at 4pm EST?"
+}

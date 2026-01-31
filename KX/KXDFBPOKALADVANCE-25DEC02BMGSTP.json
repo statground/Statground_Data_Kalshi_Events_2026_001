@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXDFBPOKALADVANCE-25DEC02BMGSTP",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "DFB Pokal",
+    "competition_scope": "To Advance"
+  },
+  "series_ticker": "KXDFBPOKALADVANCE",
+  "strike_period": "",
+  "sub_title": "BMG vs STP (Dec 2)",
+  "title": "M´gladbach vs St. Pauli: To Advance"
+}

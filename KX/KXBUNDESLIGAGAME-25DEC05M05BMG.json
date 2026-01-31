@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXBUNDESLIGAGAME-25DEC05M05BMG",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Bundesliga",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXBUNDESLIGAGAME",
+  "strike_period": "",
+  "sub_title": "M05 vs BMG (Dec 5)",
+  "title": "Mainz vs M´gladbach"
+}

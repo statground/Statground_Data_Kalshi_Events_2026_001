@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXLIGUE1SPREAD-25NOV30HACLIL",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Ligue 1",
+    "competition_scope": "Spread"
+  },
+  "series_ticker": "KXLIGUE1SPREAD",
+  "strike_period": "",
+  "sub_title": "LIL at HAC (Nov 30)",
+  "title": "Lille at Le Havre: Spreads"
+}

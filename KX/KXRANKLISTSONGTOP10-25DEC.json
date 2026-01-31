@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Entertainment",
+  "collateral_return_type": "",
+  "event_ticker": "KXRANKLISTSONGTOP10-25DEC",
+  "mutually_exclusive": false,
+  "series_ticker": "KXRANKLISTSONGTOP10",
+  "strike_period": "",
+  "sub_title": "Before Dec 6, 2025",
+  "title": "Which songs will be in the Top 10 on the Billboard Hot 100 chart for the week of December 6th?"
+}

@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXF1RACE-ABUDGP25",
+  "mutually_exclusive": true,
+  "series_ticker": "KXF1RACE",
+  "strike_period": "",
+  "sub_title": "Abu Dhabi Grand Prix 2025",
+  "title": "Abu Dhabi Grand Prix 2025 Winner?"
+}

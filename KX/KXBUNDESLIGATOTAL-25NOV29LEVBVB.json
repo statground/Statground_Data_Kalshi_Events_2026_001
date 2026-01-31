@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXBUNDESLIGATOTAL-25NOV29LEVBVB",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Bundesliga",
+    "competition_scope": "Point Total"
+  },
+  "series_ticker": "KXBUNDESLIGATOTAL",
+  "strike_period": "",
+  "sub_title": "BVB at LEV (Nov 29)",
+  "title": "Dortmund at Leverkusen: Totals"
+}

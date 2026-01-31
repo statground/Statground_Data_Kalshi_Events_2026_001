@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXJLEAGUEGAME-25DEC06NGEAVI",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Japan J1 League",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXJLEAGUEGAME",
+  "strike_period": "",
+  "sub_title": "NGE vs AVI (Dec 6)",
+  "title": "Nagoya vs Avispa"
+}

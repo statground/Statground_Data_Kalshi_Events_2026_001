@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXJLEAGUEGAME-25NOV30VERKAS",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Japan J1 League",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXJLEAGUEGAME",
+  "strike_period": "",
+  "sub_title": "VER vs KAS (Nov 30)",
+  "title": "Tokyo V vs Kashima"
+}

@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXDFBPOKALGAME-25DEC03UNIBMU",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "DFB Pokal",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXDFBPOKALGAME",
+  "strike_period": "",
+  "sub_title": "UNI vs BMU (Dec 3)",
+  "title": "Union Berlin vs Bayern Munich"
+}

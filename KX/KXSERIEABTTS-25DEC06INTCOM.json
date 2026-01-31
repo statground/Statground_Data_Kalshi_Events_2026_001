@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXSERIEABTTS-25DEC06INTCOM",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Serie A",
+    "competition_scope": "BTTS"
+  },
+  "series_ticker": "KXSERIEABTTS",
+  "strike_period": "",
+  "sub_title": "COM at INT (Dec 6)",
+  "title": "Como at Inter: Both Teams to Score"
+}

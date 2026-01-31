@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCOPPAITALIAGAME-25DEC03ATAGEN",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Coppa Italia",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXCOPPAITALIAGAME",
+  "strike_period": "",
+  "sub_title": "ATA vs GEN (Dec 3)",
+  "title": "Atalanta vs Genoa"
+}

@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXBRAWLSTARS-BRAWLSTARSWORLDFINALS25",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Brawl Stars",
+    "competition_scope": "Future"
+  },
+  "series_ticker": "KXBRAWLSTARS",
+  "strike_period": "",
+  "sub_title": "Brawl Stars World Finals 2025",
+  "title": "Brawl Stars World Finals 2025 Winner"
+}

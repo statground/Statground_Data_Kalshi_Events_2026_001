@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCSGOGAME-25NOV29MIBRPSSNUA",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Counter-Strike 2",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXCSGOGAME",
+  "strike_period": "",
+  "sub_title": "MIBR vs. Passion UA",
+  "title": "StarLadder Major Budapest 2025: MIBR vs. Passion UA"
+}

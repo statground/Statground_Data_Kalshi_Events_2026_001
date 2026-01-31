@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXKLEAGUEGAME-25NOV30DAGANY",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Korea K League 1",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXKLEAGUEGAME",
+  "strike_period": "",
+  "sub_title": "DAG vs ANY (Nov 30)",
+  "title": "Daegu vs FC Anyang"
+}

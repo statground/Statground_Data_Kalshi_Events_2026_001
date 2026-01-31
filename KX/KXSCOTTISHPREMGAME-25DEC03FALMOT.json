@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXSCOTTISHPREMGAME-25DEC03FALMOT",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Scottish Premiership",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXSCOTTISHPREMGAME",
+  "strike_period": "",
+  "sub_title": "FAL vs MOT (Dec 3)",
+  "title": "Falkirk vs Motherwell"
+}

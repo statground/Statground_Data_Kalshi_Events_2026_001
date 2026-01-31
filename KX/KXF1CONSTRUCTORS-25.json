@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXF1CONSTRUCTORS-25",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "F1",
+    "competition_scope": "Future"
+  },
+  "series_ticker": "KXF1CONSTRUCTORS",
+  "strike_period": "",
+  "sub_title": "On Dec 7, 2025",
+  "title": "F1 Constructors Champion?"
+}

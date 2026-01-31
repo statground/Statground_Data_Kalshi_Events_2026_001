@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXLIGUE1SPREAD-25NOV29PARAUX",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Ligue 1",
+    "competition_scope": "Spread"
+  },
+  "series_ticker": "KXLIGUE1SPREAD",
+  "strike_period": "",
+  "sub_title": "AUX at PAR (Nov 29)",
+  "title": "Auxerre at Paris: Spreads"
+}

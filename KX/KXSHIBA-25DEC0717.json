@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Crypto",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXSHIBA-25DEC0717",
+  "mutually_exclusive": true,
+  "series_ticker": "KXSHIBA",
+  "strike_date": "2025-12-07T22:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Dec 7, 2025 at 5pm EST",
+  "title": "Shiba Inu price range on Dec 7, 2025 at 5pm EST?"
+}

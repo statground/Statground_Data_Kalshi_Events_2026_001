@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCSGOGAME-25NOV29ASTM80",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Counter-Strike 2",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXCSGOGAME",
+  "strike_period": "",
+  "sub_title": "Astralis vs. M80",
+  "title": "StarLadder Major Budapest 2025: Astralis vs. M80"
+}

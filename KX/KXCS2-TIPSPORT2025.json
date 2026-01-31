@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCS2-TIPSPORT2025",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Counter-Strike 2",
+    "competition_scope": "Future"
+  },
+  "series_ticker": "KXCS2",
+  "strike_period": "",
+  "sub_title": "Tipsport MCR 2025",
+  "title": "Tipsport MCR 2025 Winner"
+}

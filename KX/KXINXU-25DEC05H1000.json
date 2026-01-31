@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": true,
+  "category": "Financials",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXINXU-25DEC05H1000",
+  "mutually_exclusive": false,
+  "series_ticker": "KXINXU",
+  "strike_date": "2025-12-05T15:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Dec 5, 2025 at 10am EST",
+  "title": "S&P price on Dec 5, 2025 at 10am EST?"
+}

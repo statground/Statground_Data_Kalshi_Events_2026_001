@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXTOP10BILLBOARDSPOTSWICKED-25",
+  "mutually_exclusive": true,
+  "series_ticker": "KXTOP10BILLBOARDSPOTSWICKED",
+  "strike_period": "",
+  "sub_title": "Before Dec 6, 2025",
+  "title": "How many spots on the Billboard Hot 100's top 10 will the Wicked For Good: Soundtrack hold for the week of Dec 6th?"
+}

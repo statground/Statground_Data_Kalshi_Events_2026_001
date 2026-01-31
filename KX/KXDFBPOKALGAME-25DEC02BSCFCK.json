@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXDFBPOKALGAME-25DEC02BSCFCK",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "DFB Pokal",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXDFBPOKALGAME",
+  "strike_period": "",
+  "sub_title": "BSC vs FCK (Dec 2)",
+  "title": "Hertha vs Kaiserslautern"
+}

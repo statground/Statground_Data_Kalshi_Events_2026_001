@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": false,
+  "category": "Crypto",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXXRP-25NOV2813",
+  "mutually_exclusive": true,
+  "series_ticker": "KXXRP",
+  "strike_date": "2025-11-28T18:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Nov 28, 2025 at 1pm EST",
+  "title": "Ripple price range today at Nov 28, 2025 at 1pm EST?"
+}

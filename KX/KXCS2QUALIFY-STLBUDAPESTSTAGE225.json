@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXCS2QUALIFY-STLBUDAPESTSTAGE225",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Counter-Strike 2",
+    "competition_scope": "Future"
+  },
+  "series_ticker": "KXCS2QUALIFY",
+  "strike_period": "",
+  "sub_title": "StarLadder Budapest Major 2025 Stage 2",
+  "title": "StarLadder Budapest Major 2025 Stage 2 Qualifier"
+}

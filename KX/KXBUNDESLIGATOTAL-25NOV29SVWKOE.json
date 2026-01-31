@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXBUNDESLIGATOTAL-25NOV29SVWKOE",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Bundesliga",
+    "competition_scope": "Point Total"
+  },
+  "series_ticker": "KXBUNDESLIGATOTAL",
+  "strike_period": "",
+  "sub_title": "KOE at SVW (Nov 29)",
+  "title": "1. FC Cologne at Bremen: Totals"
+}

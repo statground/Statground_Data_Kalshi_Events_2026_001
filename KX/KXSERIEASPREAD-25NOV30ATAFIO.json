@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXSERIEASPREAD-25NOV30ATAFIO",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Serie A",
+    "competition_scope": "Spread"
+  },
+  "series_ticker": "KXSERIEASPREAD",
+  "strike_period": "",
+  "sub_title": "FIO at ATA (Nov 30)",
+  "title": "Fiorentina at Atalanta: Spreads"
+}

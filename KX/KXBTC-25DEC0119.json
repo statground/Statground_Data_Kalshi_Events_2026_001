@@ -1,0 +1,12 @@
+{
+  "available_on_brokers": true,
+  "category": "Crypto",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXBTC-25DEC0119",
+  "mutually_exclusive": true,
+  "series_ticker": "KXBTC",
+  "strike_date": "2025-12-02T00:00:00Z",
+  "strike_period": "",
+  "sub_title": "On Dec 1, 2025 at 7pm EST",
+  "title": "Bitcoin price range on Dec 1, 2025 at 7pm EST?"
+}

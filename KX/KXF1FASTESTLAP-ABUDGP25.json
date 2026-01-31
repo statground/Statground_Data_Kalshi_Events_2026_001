@@ -1,0 +1,14 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXF1FASTESTLAP-ABUDGP25",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition_scope": "Driver Specials"
+  },
+  "series_ticker": "KXF1FASTESTLAP",
+  "strike_period": "",
+  "sub_title": "Abu Dhabi Grand Prix",
+  "title": "Abu Dhabi Grand Prix: Fastest Lap"
+}

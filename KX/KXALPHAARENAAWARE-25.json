@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXALPHAARENAAWARE-25",
+  "mutually_exclusive": true,
+  "series_ticker": "KXALPHAARENAAWARE",
+  "strike_period": "",
+  "sub_title": "On Dec 3, 2025",
+  "title": "Alpha Arena season 1.5 situational awareness winning model?"
+}

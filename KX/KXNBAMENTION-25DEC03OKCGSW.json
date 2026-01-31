@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Mentions",
+  "collateral_return_type": "",
+  "event_ticker": "KXNBAMENTION-25DEC03OKCGSW",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Basketball (M)",
+    "competition_scope": "Mentions"
+  },
+  "series_ticker": "KXNBAMENTION",
+  "strike_period": "",
+  "sub_title": "Oklahoma City vs Golden State",
+  "title": "What will the play by play or color commentator(s) say during the Oklahoma City vs Golden State Professional Basketball Game?"
+}

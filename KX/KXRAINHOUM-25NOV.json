@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Climate and Weather",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXRAINHOUM-25NOV",
+  "mutually_exclusive": false,
+  "series_ticker": "KXRAINHOUM",
+  "strike_period": "",
+  "sub_title": "In Nov 2025",
+  "title": "Rain in Houston in Nov 2025?"
+}

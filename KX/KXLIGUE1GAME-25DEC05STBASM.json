@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXLIGUE1GAME-25DEC05STBASM",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Ligue 1",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXLIGUE1GAME",
+  "strike_period": "",
+  "sub_title": "STB vs ASM (Dec 5)",
+  "title": "Stade Brest 29 vs Monaco"
+}

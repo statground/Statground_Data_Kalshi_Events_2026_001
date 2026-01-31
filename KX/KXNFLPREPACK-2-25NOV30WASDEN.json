@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXNFLPREPACK-2-25NOV30WASDEN",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Pro Football",
+    "competition_scope": "Combo"
+  },
+  "series_ticker": "KXNFLPREPACK",
+  "strike_period": "",
+  "sub_title": "DEN @ WAS Total and ML",
+  "title": "Pro Football Combo: Denver at Washington"
+}

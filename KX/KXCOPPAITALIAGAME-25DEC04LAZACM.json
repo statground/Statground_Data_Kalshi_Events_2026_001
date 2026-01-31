@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCOPPAITALIAGAME-25DEC04LAZACM",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Coppa Italia",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXCOPPAITALIAGAME",
+  "strike_period": "",
+  "sub_title": "LAZ vs ACM (Dec 4)",
+  "title": "Lazio vs Milan"
+}

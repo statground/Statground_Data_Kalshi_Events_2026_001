@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNFLREC-25DEC04DALDET",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Football",
+    "competition_scope": "Receptions"
+  },
+  "series_ticker": "KXNFLREC",
+  "strike_period": "",
+  "sub_title": "DAL at DET (Dec 4)",
+  "title": "Dallas at Detroit: Receptions"
+}

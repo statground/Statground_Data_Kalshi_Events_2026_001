@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Climate and Weather",
+  "collateral_return_type": "DIRECNET",
+  "event_ticker": "KXRAINSFOM-25NOV",
+  "mutually_exclusive": false,
+  "series_ticker": "KXRAINSFOM",
+  "strike_period": "",
+  "sub_title": "In Nov 2025",
+  "title": "Rain in San Francisco in Nov 2025?"
+}

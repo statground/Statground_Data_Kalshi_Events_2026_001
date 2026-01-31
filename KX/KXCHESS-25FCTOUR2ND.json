@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCHESS-25FCTOUR2ND",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Chess",
+    "competition_scope": "Future"
+  },
+  "series_ticker": "KXCHESS",
+  "strike_period": "",
+  "sub_title": "Freestyle Chess Grand Slam Tour 2nd Place",
+  "title": "Freestyle Chess Grand Slam Tour Runner Up"
+}

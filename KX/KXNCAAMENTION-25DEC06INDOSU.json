@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Mentions",
+  "collateral_return_type": "",
+  "event_ticker": "KXNCAAMENTION-25DEC06INDOSU",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "the governing league",
+    "competition_scope": "Mentions"
+  },
+  "series_ticker": "KXNCAAMENTION",
+  "strike_period": "",
+  "sub_title": "On Dec 6, 2025",
+  "title": "What will the announcers say during the Indiana at Ohio St. college football game?"
+}

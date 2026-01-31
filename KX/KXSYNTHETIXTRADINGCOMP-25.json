@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXSYNTHETIXTRADINGCOMP-25",
+  "mutually_exclusive": true,
+  "series_ticker": "KXSYNTHETIXTRADINGCOMP",
+  "strike_period": "",
+  "sub_title": "Starting Oct 20, 2025",
+  "title": "Synthetix Mainnet Trading Competition winner?"
+}

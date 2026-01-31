@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Entertainment",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXBILLBOARDRUNNERUPSONG-25DEC06",
+  "mutually_exclusive": true,
+  "series_ticker": "KXBILLBOARDRUNNERUPSONG",
+  "strike_period": "",
+  "sub_title": "On Dec 6, 2025",
+  "title": "Billboard Hot 100 #2 on Dec 6, 2025 chart?"
+}

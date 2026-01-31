@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXDFBPOKALGAME-25DEC02RBLFCM",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "DFB Pokal",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXDFBPOKALGAME",
+  "strike_period": "",
+  "sub_title": "RBL vs FCM (Dec 2)",
+  "title": "Leipzig vs Magdeburg"
+}

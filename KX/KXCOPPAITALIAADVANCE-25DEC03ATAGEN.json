@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCOPPAITALIAADVANCE-25DEC03ATAGEN",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Coppa Italia",
+    "competition_scope": "To Advance"
+  },
+  "series_ticker": "KXCOPPAITALIAADVANCE",
+  "strike_period": "",
+  "sub_title": "ATA vs GEN (Dec 3)",
+  "title": "Atalanta vs Genoa: To Advance"
+}

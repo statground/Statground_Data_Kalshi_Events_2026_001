@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCRICKETT20IMATCH-25DEC06NIGRWA",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "T20 International",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXCRICKETT20IMATCH",
+  "strike_period": "",
+  "sub_title": "RWA vs NIG (Dec 6)",
+  "title": "Rwanda vs Nigeria"
+}

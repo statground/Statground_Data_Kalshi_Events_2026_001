@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCRICKETT20IMATCH-25DEC07ZAMRWA",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "T20 International",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXCRICKETT20IMATCH",
+  "strike_period": "",
+  "sub_title": "RWA vs ZAM (Dec 7)",
+  "title": "Rwanda vs Zambia"
+}

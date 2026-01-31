@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCRICKETODIMATCH-25DEC06SAIND",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "ODI",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXCRICKETODIMATCH",
+  "strike_period": "",
+  "sub_title": "IND vs SA (Dec 6)",
+  "title": "India vs South Africa"
+}

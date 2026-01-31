@@ -1,0 +1,11 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCRICKETT20IMATCH-25DEC07NIGSIE",
+  "mutually_exclusive": true,
+  "series_ticker": "KXCRICKETT20IMATCH",
+  "strike_period": "",
+  "sub_title": "SIE vs NIG (Dec 7)",
+  "title": "Sierra Leone vs Nigeria"
+}

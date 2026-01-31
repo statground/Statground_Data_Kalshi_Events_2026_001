@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXKLEAGUEGAME-25NOV30GAWPOH",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "Korea K League 1",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXKLEAGUEGAME",
+  "strike_period": "",
+  "sub_title": "GAW vs POH (Nov 30)",
+  "title": "Gangwon vs Pohang Steelers"
+}
