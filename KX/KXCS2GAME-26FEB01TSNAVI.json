@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": true,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXCS2GAME-26FEB01TSNAVI",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "CS2",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXCS2GAME",
+  "strike_period": "",
+  "sub_title": "Spirit vs. Natus Vincere (Feb 1)",
+  "title": "IEM Krakow 2026: Spirit vs. Natus Vincere"
+}

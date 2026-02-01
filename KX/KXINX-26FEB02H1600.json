@@ -1,5 +1,5 @@
 {
-  "available_on_brokers": false,
+  "available_on_brokers": true,
   "category": "Financials",
   "collateral_return_type": "MECNET",
   "event_ticker": "KXINX-26FEB02H1600",

@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "",
+  "event_ticker": "KXNBAREB-26FEB01BKNDET",
+  "mutually_exclusive": false,
+  "product_metadata": {
+    "competition": "Pro Basketball (M)",
+    "competition_scope": "Player Rebounds"
+  },
+  "series_ticker": "KXNBAREB",
+  "strike_period": "",
+  "sub_title": "BKN at DET (Feb 1)",
+  "title": "Brooklyn at Detroit: Rebounds"
+}

@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXATPCHALLENGERMATCH-26FEB01WEILED",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "ATP Challenger Tenerife",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXATPCHALLENGERMATCH",
+  "strike_period": "",
+  "sub_title": "Weightman vs Ledesma Sosa (Feb 1)",
+  "title": "Weightman vs Ledesma Sosa"
+}

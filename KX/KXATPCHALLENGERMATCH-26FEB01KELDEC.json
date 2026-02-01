@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXATPCHALLENGERMATCH-26FEB01KELDEC",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "ATP Challenger Koblenz",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXATPCHALLENGERMATCH",
+  "strike_period": "",
+  "sub_title": "Kelm vs Deckers (Feb 1)",
+  "title": "Kelm vs Deckers"
+}

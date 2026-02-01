@@ -1,0 +1,15 @@
+{
+  "available_on_brokers": false,
+  "category": "Sports",
+  "collateral_return_type": "MECNET",
+  "event_ticker": "KXKHLGAME-26FEB04TORAMU",
+  "mutually_exclusive": true,
+  "product_metadata": {
+    "competition": "KHL",
+    "competition_scope": "Game"
+  },
+  "series_ticker": "KXKHLGAME",
+  "strike_period": "",
+  "sub_title": "TOR at AMU (Feb 4)",
+  "title": "Torpedo Nizhny Novgorod at Amur Khabarovsk"
+}
